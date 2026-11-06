@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar-tcs-racing/en-gb",
+  "path": "jaguar-tcs-racing/en-gb",
+  "timestamp": "2026-11-06T09:10:33.484Z",
+  "title": "Jaguar Formula E Homepage",
+  "template": "brand-landing",
+  "blocks": [
+    "carousel-featured-news",
+    "carousel-featured-news",
+    "social-links",
+    "social-links",
+    "cards-news",
+    "cards-gallery",
+    "cards-gallery"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "variantName": "embed-video",
+  "baseBlock": "embed",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "video"
+  },
+  "contentPattern": "One cell: an optional placeholder image and the video URL as a link (YouTube, Vimeo, a direct .mp4/.webm file, or any embeddable page). With a placeholder the player loads on click; without one it loads when scrolled into view. Renders a 16:9 player at full content width.",
+  "options": [
+    { "class": "light", "label": "Light" }
+  ],
+  "optionNotes": {
+    "light": "No black letterbox behind the player (transparent background)."
+  },
+  "memberVariantIds": ["v_aaba060d4895", "v_ada31ded895e-3"],
+  "usage": "News articles and video pages: an embedded video player within the article column.",
+  "reuseGuidance": "Use for any single embedded video. For video teaser tiles linking to video pages use cards-video.",
+  "prototypeCounterpart": "none (no video in the prototypes)"
+}

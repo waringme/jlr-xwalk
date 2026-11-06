@@ -1,0 +1,26 @@
+/* defender-en-gb-terms-and-conditions — legal-page archetype (Defender, en-gb).
+   Canon (tokens / chrome / modules) is imported by the page; this file adds only the legal body.
+   Values lifted from the live theme stylesheets (main.css @offset, libraries.css L<line>) and
+   checked with measure.mjs (stardust/.work/defender-en-gb-terms-and-conditions/live-measure.txt). */
+
+/* bootstrap 3 .row gutters + clearfix (libraries.css) */
+.view-main .row { margin-left: -18px; margin-right: -18px; }
+.view-main .row::before, .view-main .row::after { content: " "; display: table; }
+.view-main .row::after { clear: both; }
+.news-type { position: relative; }                                   /* main.css @134551 */
+.view-main .col-md-8 { position: relative; min-height: 1px; padding-left: 18px; padding-right: 18px; }
+@media (min-width: 992px) {
+  .view-main .col-md-8 { float: left; width: 66.6666666667%; }        /* libraries.css L3000 */
+  .view-main .col-md-offset-2 { margin-left: 16.6666666667%; }        /* libraries.css L3165 */
+}
+
+/* headings: body h1, body h2 30px (≤991px 22px), line-height 1.2 — main.css @11864 / @11953 */
+.view-main h1, .view-main h2 { font-size: 30px; line-height: 1.2; }
+@media (max-width: 991px) { .view-main h1, .view-main h2 { font-size: 22px; } }
+.view-main h1.page-title { color: #777; }                            /* main.css @132044 */
+
+/* Substitute-font wrap compensation (Neusa substitute ~6 % wider on the URL links; measured with
+   .work/defender-en-gb-terms-and-conditions/ls-sweep.mjs against live per-paragraph line counts,
+   same per-component pattern as defender-en-gb-vehicle-defender-110). -0.3px: 1440 lines 4,5,2,8,6,6
+   = live; 360 one paragraph (p2) stays +1 line — every other value breaks another line (residual). */
+.field--name-body { letter-spacing: -.3px; }

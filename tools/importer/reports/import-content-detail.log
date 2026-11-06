@@ -1,0 +1,265 @@
+[Bulk Import] Starting run with:
+  Import script: /backups/waringme/jlr-xwalk/repo/tools/importer/import-content-detail.bundle.js
+  URLs file:     /backups/waringme/jlr-xwalk/repo/tools/importer/urls-content-detail.txt
+  Output dir:    /backups/waringme/jlr-xwalk/repo/content
+  URL count:     46
+  BD snapshots:  /backups/waringme/jlr-xwalk/repo/tools/importer/bd-snapshots (reused on block before Bright Data)
+
+✅ OpenFeature: resolved playwright-server-url flag (provider: GO Feature Flag, customerHash: 2730f8f1cf3601c55c81f3b4, url: (empty - local Chromium)) [reason: DEFAULT, errorCode: none]
+⚠️ OpenFeature: playwright-server-url evaluation did not confirm a provider value (reason: DEFAULT, errorCode: none); the URL may be an environment default.
+⚠️ No remote Playwright server resolved (provider: GO Feature Flag, customerHash: 2730f8f1cf3601c55c81f3b4); local Chromium requires an installed browser. Browserless deployments need GO_FEATURE_FLAG_ENDPOINT and the playwright-server-url flag.
+  Browser:       Chromium (bundled) [Chrome unavailable: browserType.launch: Chromium distribution 'chrome' is not found at /opt/google/chrome/chrome
+Run "npx playwright install chrome"]
+[1/46] Starting https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[1/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[1/46] ⚠️  Content completeness 76.1% (below 90.0%) — possible dropped content
+[1/46] ✅ Saved content to defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update
+[2/46] Starting https://media.jlr.com/classic/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[2/46] ✓ Content completeness 94.0%
+[2/46] ✅ Saved content to classic/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer
+[3/46] Starting https://media.jlr.com/classic/en-gb/news/2024/08/defender-marks-70-years-its-landmark-humanitarian-charity-partnership-british-red
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[3/46] ✓ Content completeness 91.0%
+[3/46] ✅ Saved content to classic/en-gb/news/2024/08/defender-marks-70-years-its-landmark-humanitarian-charity-partnership-british-red
+[4/46] Starting https://media.jlr.com/classic/en-gb/news/2024/08/introducing-classic-defender-v8-works-bespoke
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[4/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[4/46] ⚠️  Content completeness 84.8% (below 90.0%) — possible dropped content
+[4/46] ✅ Saved content to classic/en-gb/news/2024/08/introducing-classic-defender-v8-works-bespoke
+[5/46] Starting https://media.jlr.com/classic/en-gb/news/2025/01/jaguar-land-rover-classic-appoints-new-director-dominic-elms
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[5/46] ✓ Content completeness 96.6%
+[5/46] ✅ Saved content to classic/en-gb/news/2025/01/jaguar-land-rover-classic-appoints-new-director-dominic-elms
+[6/46] Starting https://media.jlr.com/classic/en-gb/news/2025/05/return-icon-land-rover-classic-launches-classic-defender-v8-soft-top
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[6/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[6/46] ✓ Content completeness 98.4%
+[6/46] ✅ Saved content to classic/en-gb/news/2025/05/return-icon-land-rover-classic-launches-classic-defender-v8-soft-top
+[7/46] Starting https://media.jlr.com/classic/en-gb/news/2025/07/defender-octa-black-tough-luxury-4x4-rock-star
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Unrecognized feature: 'web-share'.
+[7/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Unrecognized feature: 'web-share'.
+[7/46] ⚠️  Content completeness 79.3% (below 90.0%) — possible dropped content
+[7/46] ✅ Saved content to classic/en-gb/news/2025/07/defender-octa-black-tough-luxury-4x4-rock-star
+[8/46] Starting https://media.jlr.com/classic/en-gb/news/2025/12/classic-defender-v8-defender-octa-colours
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[8/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[8/46] ⚠️  Content completeness 70.0% (below 90.0%) — possible dropped content
+[8/46] ✅ Saved content to classic/en-gb/news/2025/12/classic-defender-v8-defender-octa-colours
+[9/46] Starting https://media.jlr.com/classic/en-gb/news/2026/06/colour-changing-classic-defender-v8-family-introduces-new-double-cab-option
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[9/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[9/46] ⚠️  Content completeness 85.1% (below 90.0%) — possible dropped content
+[9/46] ✅ Saved content to classic/en-gb/news/2026/06/colour-changing-classic-defender-v8-family-introduces-new-double-cab-option
+[10/46] Starting https://media.jlr.com/classic/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[10/46] ✓ Content completeness 97.1%
+[10/46] ✅ Saved content to classic/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion
+[11/46] Starting https://media.jlr.com/defender/en-gb/news/2026/07/defender-powers-goodwood-festival-speed-dakar-winning-d7x-r
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[11/46] ✓ Content completeness 96.8%
+[11/46] ✅ Saved content to defender/en-gb/news/2026/07/defender-powers-goodwood-festival-speed-dakar-winning-d7x-r
+[12/46] Starting https://media.jlr.com/defender/en-gb/news/2026/07/range-rover-electric-make-public-debut-goodwood-festival-speed-2026
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[12/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[12/46] ✓ Content completeness 96.0%
+[12/46] ✅ Saved content to defender/en-gb/news/2026/07/range-rover-electric-make-public-debut-goodwood-festival-speed-2026
+[13/46] Starting https://media.jlr.com/defender/en-gb/news/2026/08/defender-octa-launches-jcb-hydromax-land-speed-record-glory
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[13/46] ✓ Content completeness 93.6%
+[13/46] ✅ Saved content to defender/en-gb/news/2026/08/defender-octa-launches-jcb-hydromax-land-speed-record-glory
+[14/46] Starting https://media.jlr.com/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[14/46] ✓ Content completeness 90.9%
+[14/46] ✅ Saved content to defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf
+[15/46] Starting https://media.jlr.com/defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[15/46] ✓ Content completeness 98.1%
+[15/46] ✅ Saved content to defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show
+[16/46] Starting https://media.jlr.com/defender/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[16/46] ✓ Content completeness 97.1%
+[16/46] ✅ Saved content to defender/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion
+[17/46] Starting https://media.jlr.com/defenderrally/en-gb/news/2026/01/defender-rally-make-history-debut-dakar-victory
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[17/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[17/46] ✓ Content completeness 93.0%
+[17/46] ✅ Saved content to defenderrally/en-gb/news/2026/01/defender-rally-make-history-debut-dakar-victory
+[18/46] Starting https://media.jlr.com/defenderrally/en-gb/news/2026/01/defender-ready-debut-dakar-rally-2026-world-rally-raid-championship-begins
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[18/46] ✓ Content completeness 98.8%
+[18/46] ✅ Saved content to defenderrally/en-gb/news/2026/01/defender-ready-debut-dakar-rally-2026-world-rally-raid-championship-begins
+[19/46] Starting https://media.jlr.com/defenderrally/en-gb/news/2026/08/defender-dakar-road-legal-evolution-dakar-rally-winner
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[19/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[19/46] ✓ Content completeness 95.9%
+[19/46] ✅ Saved content to defenderrally/en-gb/news/2026/08/defender-dakar-road-legal-evolution-dakar-rally-winner
+[20/46] Starting https://media.jlr.com/defenderrally/en-gb/news/2026/10/rokas-baciuska-and-oriol-vidal-crowned-2026-fia-rally-raid-stock-drivers-and-co
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[20/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[20/46] ✓ Content completeness 98.7%
+[20/46] ✅ Saved content to defenderrally/en-gb/news/2026/10/rokas-baciuska-and-oriol-vidal-crowned-2026-fia-rally-raid-stock-drivers-and-co
+[21/46] Starting https://media.jlr.com/discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[21/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[21/46] ✓ Content completeness 94.0%
+[21/46] ✅ Saved content to discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer
+[22/46] Starting https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-automotive-top-dog-goodwoof-2025
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[22/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[22/46] ✓ Content completeness 96.8%
+[22/46] ✅ Saved content to discovery/en-gb/news/2025/05/discovery-automotive-top-dog-goodwoof-2025
+[23/46] Starting https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[23/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[23/46] ⚠️  Content completeness 77.6% (below 90.0%) — possible dropped content
+[23/46] ✅ Saved content to discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions
+[24/46] Starting https://media.jlr.com/discovery/en-gb/news/2025/06/discovery-sport-gets-more-dynamic-luxurious-and-individual-new-metropolitan-and
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[24/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[24/46] ✓ Content completeness 91.5%
+[24/46] ✅ Saved content to discovery/en-gb/news/2025/06/discovery-sport-gets-more-dynamic-luxurious-and-individual-new-metropolitan-and
+[25/46] Starting https://media.jlr.com/discovery/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[25/46] ⚠️  Content completeness 51.4% (below 90.0%) — possible dropped content
+[25/46] ✅ Saved content to discovery/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv
+[26/46] Starting https://media.jlr.com/en-gb/news/2025/12/jaguar-celebrates-90th-anniversary
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[26/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[26/46] ✓ Content completeness 98.5%
+[26/46] ✅ Saved content to en-gb/news/2025/12/jaguar-celebrates-90th-anniversary
+[27/46] Starting https://media.jlr.com/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[27/46] ⚠️  Content completeness 51.6% (below 90.0%) — possible dropped content
+[27/46] ✅ Saved content to en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv
+[28/46] Starting https://media.jlr.com/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[28/46] ✓ Content completeness 99.1%
+[28/46] ✅ Saved content to en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show
+[29/46] Starting https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[29/46] ✓ Content completeness 97.2%
+[29/46] ✅ Saved content to en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion
+[30/46] Starting https://media.jlr.com/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Unrecognized feature: 'web-share'.
+[30/46] ✓ Content completeness 99.0%
+[30/46] ✅ Saved content to en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism
+[31/46] Starting https://media.jlr.com/jaguar/en-gb/news/2026/07/championing-originality-jaguar-and-royal-college-art-announce-jaguar-awards-winners
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[31/46] ⚠️  Content completeness 78.9% (below 90.0%) — possible dropped content
+[31/46] ✅ Saved content to jaguar/en-gb/news/2026/07/championing-originality-jaguar-and-royal-college-art-announce-jaguar-awards-winners
+[32/46] Starting https://media.jlr.com/jaguar/en-gb/news/2026/07/jaguar-type-01-prototype-lines-dynamic-uk-premiere-goodwood-festival-speed
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[32/46] ✓ Content completeness 95.4%
+[32/46] ✅ Saved content to jaguar/en-gb/news/2026/07/jaguar-type-01-prototype-lines-dynamic-uk-premiere-goodwood-festival-speed
+[33/46] Starting https://media.jlr.com/jaguar/en-gb/news/2026/10/jaguar-debuts-exclusive-chromatic-moments-programme-british-museum-ball
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[33/46] ⚠️  Content completeness 83.8% (below 90.0%) — possible dropped content
+[33/46] ✅ Saved content to jaguar/en-gb/news/2026/10/jaguar-debuts-exclusive-chromatic-moments-programme-british-museum-ball
+[34/46] Starting https://media.jlr.com/jaguar/en-gb/news/2026/10/jaguar-knightsbridge-permanent-expression-new-era
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[34/46] ✓ Content completeness 97.1%
+[34/46] ✅ Saved content to jaguar/en-gb/news/2026/10/jaguar-knightsbridge-permanent-expression-new-era
+[35/46] Starting https://media.jlr.com/jaguar/en-gb/news/2026/10/jaguar-type-01-new-era-begins
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Unrecognized feature: 'web-share'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[35/46] ✓ Content completeness 97.6%
+[35/46] ✅ Saved content to jaguar/en-gb/news/2026/10/jaguar-type-01-new-era-begins
+[36/46] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-evoque-named-gqs-best-compact-suv
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[36/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[36/46] ✓ Content completeness 96.3%
+[36/46] ✅ Saved content to jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-evoque-named-gqs-best-compact-suv
+[37/46] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[37/46] ⚠️  Content completeness 82.6% (below 90.0%) — possible dropped content
+[37/46] ✅ Saved content to jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power
+[38/46] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/07/jaguar-tcs-racing-are-2024-abb-fia-formula-e-teams-world-champions
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[38/46] ✓ Content completeness 97.9%
+[38/46] ✅ Saved content to jaguar-tcs-racing/en-gb/news/2024/07/jaguar-tcs-racing-are-2024-abb-fia-formula-e-teams-world-champions
+[39/46] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/10/jaguar-tcs-racing-unveil-prototype-jaguar-i-type-7-ahead-202425-abb-fia-formula-e-pre
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[39/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[39/46] ✓ Content completeness 94.1%
+[39/46] ✅ Saved content to jaguar-tcs-racing/en-gb/news/2024/10/jaguar-tcs-racing-unveil-prototype-jaguar-i-type-7-ahead-202425-abb-fia-formula-e-pre
+[40/46] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/10/jamie-chadwick-and-lilou-wadoux-drive-jaguar-tcs-racing-womens-test
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[40/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[40/46] ✓ Content completeness 98.4%
+[40/46] ✅ Saved content to jaguar-tcs-racing/en-gb/news/2024/10/jamie-chadwick-and-lilou-wadoux-drive-jaguar-tcs-racing-womens-test
+[41/46] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/12/jaguar-tcs-racing-launch-all-new-jaguar-i-type-7-sao-paulo-begin-202425-abb-fia
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[41/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[41/46] ✓ Content completeness 98.3%
+[41/46] ✅ Saved content to jaguar-tcs-racing/en-gb/news/2024/12/jaguar-tcs-racing-launch-all-new-jaguar-i-type-7-sao-paulo-begin-202425-abb-fia
+[42/46] Starting https://media.jlr.com/range-rover/en-gb/news/2026/07/introducing-range-rover-sport-electric-pinnacle-sporting-luxury
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[42/46] ✓ Content completeness 96.1%
+[42/46] ✅ Saved content to range-rover/en-gb/news/2026/07/introducing-range-rover-sport-electric-pinnacle-sporting-luxury
+[43/46] Starting https://media.jlr.com/range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[43/46] ⚠️  Content completeness 83.8% (below 90.0%) — possible dropped content
+[43/46] ✅ Saved content to range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt
+[44/46] Starting https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 503 ()
+[Browser Console] Error: <svg> attribute viewBox: Expected number, "\\\"0".
+[Browser Console] Error: <path> attribute d: Expected moveto path command ('M' or 'm'), "\\\"M120.481,27.32…".
+[Browser Console] Error: <path> attribute d: Expected moveto path command ('M' or 'm'), "\\\"M434.079,50.16…".
+[44/46] ✓ Content completeness 94.9%
+[44/46] ✅ Saved content to range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv
+[45/46] Starting https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Unrecognized feature: 'web-share'.
+[45/46] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Unrecognized feature: 'web-share'.
+[45/46] ✓ Content completeness 98.5%
+[45/46] ✅ Saved content to range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism
+[46/46] Starting https://media.jlr.com/range-rover/en-gb/node/29462
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Unrecognized feature: 'web-share'.
+[46/46] ✓ Content completeness 96.1%
+[46/46] ✅ Saved content to range-rover/en-gb/node/29462
+[Bulk Import] Completed. Success: 46/46, Reused: 0, Failures: 0
+[Excel Export] Found 53 report file(s). Compiling to Excel...
+[Excel Export] ✅ Compiled 53 reports to: /backups/waringme/jlr-xwalk/repo/tools/importer/reports/import-content-detail.report.xlsx

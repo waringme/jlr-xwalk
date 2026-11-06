@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/news/2025/05/return-icon-land-rover-classic-launches-classic-defender-v8-soft-top",
+  "path": "classic/en-gb/news/2025/05/return-icon-land-rover-classic-launches-classic-defender-v8-soft-top",
+  "timestamp": "2026-11-06T10:35:05.467Z",
+  "title": "RETURN OF AN ICON: LAND ROVER CLASSIC LAUNCHES CLASSIC DEFENDER V8 SOFT TOP | Classic Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

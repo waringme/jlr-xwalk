@@ -1,0 +1,70 @@
+{
+  "definitions": [
+    {
+      "title": "Cards Press Kit",
+      "id": "cards-press-kit",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards Press Kit",
+              "filter": "cards-press-kit"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Cards Press Kit Card",
+      "id": "cards-press-kit-card",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Cards Press Kit Card",
+              "model": "cards-press-kit-card"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-press-kit-card",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Image",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Image alt text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Title and download links",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "cards-press-kit",
+      "components": [
+        "cards-press-kit-card"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "variantName": "columns-text",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": ""
+  },
+  "contentPattern": {
+    "default": "one cell per contact (cells flow into a 3/2/1 column grid across any number of rows); each cell: name paragraph, role paragraph, phone link (tel:) and email link (mailto:)",
+    "alt": "one row, two cells: cell 1 = section heading (h2), cell 2 = \"See all\" link"
+  },
+  "options": [
+    {
+      "class": "alt",
+      "label": "Alt"
+    }
+  ],
+  "memberVariantIds": [
+    "v_be4db3773f54",
+    "v_af33eb098160"
+  ],
+  "usage": {
+    "context": "Default: contact detail pages (press contacts grid). alt: section heading row with See All link on vehicle / listing pages.",
+    "prototype": "stardust/prototypes/css/defender-en-gb-contact.css (.contact-card); canon/modules.css (.modern-news__row, .modern__header, .modern-news__see-all)",
+    "pagesUsing": [
+      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-06T09:20:59Z"
+  },
+  "reuseGuidance": "Use default for press contact cards (tel:/mailto: links get icons automatically). Use alt for a heading + See All strip above a card rail."
+}

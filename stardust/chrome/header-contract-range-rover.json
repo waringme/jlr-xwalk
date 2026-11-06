@@ -1,0 +1,3088 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://media.jlr.com/range-rover/en-gb",
+ "at": "2026-11-05T16:15:21.782Z",
+ "shots": "stardust/.work/chrome/header-contract-range-rover",
+ "widths": {
+  "390": {
+   "root": "#main-nav",
+   "controls": [
+    {
+     "name": "JLR MEDIA",
+     "key": "jlr media",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navbar1>button",
+     "expanded": "false",
+     "rect": [
+      18,
+      10,
+      128,
+      42
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "JLR MEDIA",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Defender",
+          "href": "https://media.jlr.com/defender/en-gb"
+         },
+         {
+          "text": "Discovery",
+          "href": "https://media.jlr.com/discovery/en-gb"
+         },
+         {
+          "text": "Jaguar",
+          "href": "https://media.jlr.com/jaguar/en-gb"
+         },
+         {
+          "text": "Classic",
+          "href": "https://media.jlr.com/classic/en-gb"
+         },
+         {
+          "text": "Corporate",
+          "href": "https://media.jlr.com/corporate"
+         },
+         {
+          "text": "Terms and Conditions",
+          "href": "https://media.jlr.com/range-rover/en-gb/terms-and-conditions"
+         },
+         {
+          "text": "User Licence",
+          "href": "https://media.jlr.com/range-rover/en-gb/user-licence"
+         },
+         {
+          "text": "COOKIE POLICY",
+          "href": "https://media.jlr.com/range-rover/en-gb/cookies"
+         },
+         {
+          "text": "Privacy Policy",
+          "href": "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy"
+         }
+        ],
+        "headings": [
+         "JLR MEDIA"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Close navigation",
+         "Legal"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         50,
+         390,
+         529
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.fullscreen-nav-trigger"
+        }
+       ],
+       "shot": "390-001-JLR-MEDIA-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "JLR MEDIA",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Defender",
+          "href": "https://media.jlr.com/defender/en-gb"
+         },
+         {
+          "text": "Discovery",
+          "href": "https://media.jlr.com/discovery/en-gb"
+         },
+         {
+          "text": "Jaguar",
+          "href": "https://media.jlr.com/jaguar/en-gb"
+         },
+         {
+          "text": "Classic",
+          "href": "https://media.jlr.com/classic/en-gb"
+         },
+         {
+          "text": "Corporate",
+          "href": "https://media.jlr.com/corporate"
+         },
+         {
+          "text": "Terms and Conditions",
+          "href": "https://media.jlr.com/range-rover/en-gb/terms-and-conditions"
+         },
+         {
+          "text": "User Licence",
+          "href": "https://media.jlr.com/range-rover/en-gb/user-licence"
+         },
+         {
+          "text": "COOKIE POLICY",
+          "href": "https://media.jlr.com/range-rover/en-gb/cookies"
+         },
+         {
+          "text": "Privacy Policy",
+          "href": "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy"
+         },
+         {
+          "text": "Download",
+          "href": "https://media.production.jlrms.com/download_archives/526a849d-6dd8-461e-890b-127ff3c87320/en/range-rover-sport-el.zip?VersionId=dHPkIIUZKuro41Ls.hgktZoID4diAcca"
+         },
+         {
+          "text": "Image",
+          "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+         },
+         {
+          "text": "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+          "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+         },
+         {
+          "text": "Find Out More",
+          "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+         }
+        ],
+        "headings": [
+         "JLR MEDIA",
+         "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM"
+        ],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Close navigation",
+         "Legal",
+         "SHARE"
+        ],
+        "options": 0,
+        "rect": [
+         18,
+         50,
+         354,
+         529
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": 200,
+         "delay": 0,
+         "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+         "target": "button.fullscreen-nav-trigger"
+        }
+       ],
+       "shot": "390-002-JLR-MEDIA-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Close navigation",
+       "key": "close navigation",
+       "role": "toggle",
+       "kind": "drawer",
+       "sel": "#fullscreen-nav-overlay>button",
+       "expanded": null,
+       "rect": [
+        320,
+        50,
+        30,
+        30
+       ],
+       "actions": {
+        "click": {
+         "opened": false,
+         "hides": 15
+        },
+        "key": {
+         "opened": false,
+         "hides": 15
+        }
+       }
+      },
+      {
+       "name": "Legal",
+       "key": "legal",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#fullscreen-nav-overlay>div>div:nth-of-type(1)>nav:nth-of-type(2)>ul>li>button",
+       "expanded": "true",
+       "rect": [
+        40,
+        422,
+        79,
+        22
+       ],
+       "actions": {
+        "click": {
+         "opened": false,
+         "hides": 4
+        },
+        "key": {
+         "opened": true,
+         "hidden": 7,
+         "panel": {
+          "links": [
+           {
+            "text": "Terms and Conditions",
+            "href": "https://media.jlr.com/range-rover/en-gb/terms-and-conditions"
+           },
+           {
+            "text": "User Licence",
+            "href": "https://media.jlr.com/range-rover/en-gb/user-licence"
+           },
+           {
+            "text": "COOKIE POLICY",
+            "href": "https://media.jlr.com/range-rover/en-gb/cookies"
+           },
+           {
+            "text": "Privacy Policy",
+            "href": "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           40,
+           453,
+           310,
+           134
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": true,
+         "motion": [],
+         "shot": "390-003-Legal-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": true,
+        "focusReturn": false,
+        "outside": null
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "EN-GB",
+     "key": "engb",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#block-marketswitcherblock>div>button",
+     "expanded": "false",
+     "rect": [
+      232,
+      10,
+      98,
+      42
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "China (简体中文)",
+          "href": "https://media.jlr.com/range-rover/zh-cn"
+         },
+         {
+          "text": "France (Français)",
+          "href": "https://media.jlr.com/range-rover/fr-fr"
+         },
+         {
+          "text": "Germany (Deutsch)",
+          "href": "https://media.jlr.com/range-rover/de-de"
+         },
+         {
+          "text": "International (English)",
+          "href": "https://media.jlr.com/range-rover/"
+         },
+         {
+          "text": "Italy (Italiano)",
+          "href": "https://media.jlr.com/range-rover/it-it"
+         },
+         {
+          "text": "North America (English)",
+          "href": "https://media.jlr.com/range-rover/en-us"
+         },
+         {
+          "text": "Spain (Español)",
+          "href": "https://media.jlr.com/range-rover/es-es"
+         },
+         {
+          "text": "United Kingdom (English)",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Download",
+          "href": "https://media.production.jlrms.com/download_archives/aa5b7eaf-658d-46b2-917e-e0afde77b297/en/range-rover-electric.zip?VersionId=uzePX4updJdaZfmWlGn8f1F3qjOaIDmI"
+         },
+         {
+          "text": "Image",
+          "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+         },
+         {
+          "text": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV",
+          "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+         },
+         {
+          "text": "Find Out More",
+          "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+         }
+        ],
+        "headings": [
+         "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Scroll for more markets",
+         "SHARE"
+        ],
+        "options": 0,
+        "rect": [
+         18,
+         70,
+         355,
+         352
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.navigation-tools__item"
+        },
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "nav.navigation-tools__language-list"
+        },
+        {
+         "kind": "animation",
+         "prop": "market-switcher-chevron-bounce",
+         "ms": 1600,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.navigation-tools__language-scroll-hint"
+        }
+       ],
+       "shot": "390-004-EN-GB-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "China (简体中文)",
+          "href": "https://media.jlr.com/range-rover/zh-cn"
+         },
+         {
+          "text": "France (Français)",
+          "href": "https://media.jlr.com/range-rover/fr-fr"
+         },
+         {
+          "text": "Germany (Deutsch)",
+          "href": "https://media.jlr.com/range-rover/de-de"
+         },
+         {
+          "text": "International (English)",
+          "href": "https://media.jlr.com/range-rover/"
+         },
+         {
+          "text": "Italy (Italiano)",
+          "href": "https://media.jlr.com/range-rover/it-it"
+         },
+         {
+          "text": "North America (English)",
+          "href": "https://media.jlr.com/range-rover/en-us"
+         },
+         {
+          "text": "Spain (Español)",
+          "href": "https://media.jlr.com/range-rover/es-es"
+         },
+         {
+          "text": "United Kingdom (English)",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Scroll for more markets"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         68,
+         359,
+         282
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "nav.navigation-tools__language-list"
+        },
+        {
+         "kind": "animation",
+         "prop": "market-switcher-chevron-bounce",
+         "ms": 1600,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.navigation-tools__language-scroll-hint"
+        }
+       ],
+       "shot": "390-005-EN-GB-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Scroll for more markets",
+       "key": "scroll for more markets",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#market-switcher-list>button",
+       "expanded": null,
+       "rect": [
+        18,
+        328,
+        355,
+        22
+       ],
+       "actions": {
+        "click": null,
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "0",
+     "key": "0",
+     "role": "link",
+     "kind": "cart",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(1)>div>div>div:nth-of-type(2)>div:nth-of-type(2)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/cart",
+     "expanded": null,
+     "rect": [
+      338,
+      20,
+      34,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "rangerover.com logo",
+     "key": "rangerovercom logo",
+     "role": "link",
+     "kind": "link",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(2)>div>div>a:nth-of-type(1)",
+     "href": "https://media.jlr.com/range-rover/en-gb/",
+     "expanded": null,
+     "rect": [
+      18,
+      93,
+      150,
+      8
+     ],
+     "actions": {}
+    },
+    {
+     "name": "rangerover.com",
+     "key": "rangerovercom",
+     "role": "link",
+     "kind": "link",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(2)>div>div>a:nth-of-type(2)",
+     "href": "https://www.rangerover.com/",
+     "expanded": null,
+     "rect": [
+      255,
+      86,
+      117,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Vehicles",
+     "key": "vehicles",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(1)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/mobile-vehicle-menu",
+     "expanded": null,
+     "rect": [
+      18,
+      120,
+      64,
+      38
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Brand",
+     "key": "brand",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(3)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/node/29462",
+     "expanded": null,
+     "rect": [
+      82,
+      120,
+      55,
+      38
+     ],
+     "actions": {}
+    },
+    {
+     "name": "News",
+     "key": "news",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(4)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/news",
+     "expanded": null,
+     "rect": [
+      137,
+      120,
+      52,
+      38
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Images",
+     "key": "images",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(5)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/image-packs",
+     "expanded": null,
+     "rect": [
+      189,
+      120,
+      63,
+      38
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Video",
+     "key": "video",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(6)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/videos",
+     "expanded": null,
+     "rect": [
+      252,
+      120,
+      54,
+      38
+     ],
+     "actions": {}
+    },
+    {
+     "name": "People",
+     "key": "people",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(7)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/directors",
+     "expanded": null,
+     "rect": [
+      306,
+      120,
+      61,
+      38
+     ],
+     "actions": {}
+    },
+    {
+     "name": "",
+     "key": "",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navbar>button:nth-of-type(2)",
+     "expanded": null,
+     "rect": [
+      299,
+      108,
+      48,
+      62
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 4,
+       "panel": {
+        "links": [
+         {
+          "text": "Press Kits",
+          "href": "https://media.jlr.com/range-rover/en-gb/press-kit"
+         },
+         {
+          "text": "Tech Specs",
+          "href": "https://media.jlr.com/range-rover/en-gb/tech-specs"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         18,
+         108,
+         329,
+         62
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "390-006-toggle-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 4,
+       "panel": {
+        "links": [
+         {
+          "text": "Press Kits",
+          "href": "https://media.jlr.com/range-rover/en-gb/press-kit"
+         },
+         {
+          "text": "Tech Specs",
+          "href": "https://media.jlr.com/range-rover/en-gb/tech-specs"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         18,
+         108,
+         329,
+         62
+        ]
+       },
+       "expanded": null,
+       "focus": "body",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "390-007-toggle-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "",
+       "key": "",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navbar>button:nth-of-type(1)",
+       "expanded": null,
+       "rect": [
+        18,
+        108,
+        48,
+        62
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 3,
+         "panel": {
+          "links": [
+           {
+            "text": "Vehicles",
+            "href": "https://media.jlr.com/range-rover/en-gb/mobile-vehicle-menu"
+           },
+           {
+            "text": "Brand",
+            "href": "https://media.jlr.com/range-rover/en-gb/node/29462"
+           },
+           {
+            "text": "News",
+            "href": "https://media.jlr.com/range-rover/en-gb/news"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           18,
+           108,
+           329,
+           62
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 117,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.bt-nav-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.bt-nav-link"
+          }
+         ],
+         "shot": "390-008-toggle-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 3,
+         "panel": {
+          "links": [
+           {
+            "text": "Vehicles",
+            "href": "https://media.jlr.com/range-rover/en-gb/mobile-vehicle-menu"
+           },
+           {
+            "text": "Brand",
+            "href": "https://media.jlr.com/range-rover/en-gb/node/29462"
+           },
+           {
+            "text": "News",
+            "href": "https://media.jlr.com/range-rover/en-gb/news"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           18,
+           108,
+           329,
+           62
+          ]
+         },
+         "expanded": null,
+         "focus": "body",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.bt-nav-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 167,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.bt-nav-link"
+          }
+         ],
+         "shot": "390-009-toggle-key.png",
+         "tabReachesPanel": false
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": false,
+        "toggle": false
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Search button, press enter to open search field",
+     "key": "search button press enter to open search field",
+     "role": "toggle",
+     "kind": "search",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(3)>div:nth-of-type(2)>div:nth-of-type(1)>button",
+     "expanded": "false",
+     "rect": [
+      348,
+      123,
+      24,
+      33
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "checkbox",
+         "text"
+        ],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         32,
+         120,
+         320,
+         40
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.menu-search-expandable__input"
+        }
+       ],
+       "shot": "390-010-Search-button-press-enter-to-open-search.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "checkbox",
+         "text"
+        ],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         32,
+         120,
+         320,
+         40
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-offset",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.menu-search-expandable__input"
+        }
+       ],
+       "shot": "390-011-Search-button-press-enter-to-open-search.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": true,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Search all brands",
+       "key": "search all brands",
+       "role": "toggle",
+       "kind": "search",
+       "sel": "#search-form>div:nth-of-type(1)>label",
+       "expanded": null,
+       "rect": [
+        32,
+        128,
+        116,
+        20
+       ],
+       "actions": {
+        "click": null,
+        "key": null
+       }
+      },
+      {
+       "name": "search bar",
+       "key": "search bar",
+       "role": "input",
+       "kind": "search",
+       "sel": "#navSearch",
+       "expanded": null,
+       "rect": [
+        156,
+        120,
+        196,
+        40
+       ],
+       "actions": {},
+       "search": {
+        "probe": "skip",
+        "typeahead": {
+         "links": 0,
+         "options": 0
+        },
+        "submit": "https://media.jlr.com/range-rover/en-gb/search?query={q}&bundle=image"
+       }
+      }
+     ]
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 171,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -108,
+     "height": 155,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": 0,
+     "height": 171,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 171,
+     "position": "fixed",
+     "inView": true
+    }
+   ],
+   "states": 11,
+   "truncated": null,
+   "loads": 26
+  },
+  "1440": {
+   "root": "#main-nav",
+   "controls": [
+    {
+     "name": "JLR MEDIA",
+     "key": "jlr media",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navbar1>button",
+     "expanded": "false",
+     "rect": [
+      150,
+      10,
+      128,
+      42
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "JLR MEDIA",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Defender",
+          "href": "https://media.jlr.com/defender/en-gb"
+         },
+         {
+          "text": "Discovery",
+          "href": "https://media.jlr.com/discovery/en-gb"
+         },
+         {
+          "text": "Jaguar",
+          "href": "https://media.jlr.com/jaguar/en-gb"
+         },
+         {
+          "text": "Classic",
+          "href": "https://media.jlr.com/classic/en-gb"
+         },
+         {
+          "text": "Corporate",
+          "href": "https://media.jlr.com/corporate"
+         },
+         {
+          "text": "Terms and Conditions",
+          "href": "https://media.jlr.com/range-rover/en-gb/terms-and-conditions"
+         },
+         {
+          "text": "User Licence",
+          "href": "https://media.jlr.com/range-rover/en-gb/user-licence"
+         },
+         {
+          "text": "COOKIE POLICY",
+          "href": "https://media.jlr.com/range-rover/en-gb/cookies"
+         },
+         {
+          "text": "Privacy Policy",
+          "href": "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy"
+         }
+        ],
+        "headings": [
+         "JLR MEDIA"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Close navigation",
+         "Legal"
+        ],
+        "options": 0,
+        "rect": [
+         96,
+         44,
+         1304,
+         571
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.fullscreen-nav-trigger"
+        }
+       ],
+       "shot": "1440-001-JLR-MEDIA-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "JLR MEDIA",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Defender",
+          "href": "https://media.jlr.com/defender/en-gb"
+         },
+         {
+          "text": "Discovery",
+          "href": "https://media.jlr.com/discovery/en-gb"
+         },
+         {
+          "text": "Jaguar",
+          "href": "https://media.jlr.com/jaguar/en-gb"
+         },
+         {
+          "text": "Classic",
+          "href": "https://media.jlr.com/classic/en-gb"
+         },
+         {
+          "text": "Corporate",
+          "href": "https://media.jlr.com/corporate"
+         },
+         {
+          "text": "Terms and Conditions",
+          "href": "https://media.jlr.com/range-rover/en-gb/terms-and-conditions"
+         },
+         {
+          "text": "User Licence",
+          "href": "https://media.jlr.com/range-rover/en-gb/user-licence"
+         },
+         {
+          "text": "COOKIE POLICY",
+          "href": "https://media.jlr.com/range-rover/en-gb/cookies"
+         },
+         {
+          "text": "Privacy Policy",
+          "href": "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy"
+         }
+        ],
+        "headings": [
+         "JLR MEDIA"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Close navigation",
+         "Legal"
+        ],
+        "options": 0,
+        "rect": [
+         96,
+         44,
+         1304,
+         571
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": 200,
+         "delay": 0,
+         "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+         "target": "button.fullscreen-nav-trigger"
+        }
+       ],
+       "shot": "1440-002-JLR-MEDIA-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Close navigation",
+       "key": "close navigation",
+       "role": "toggle",
+       "kind": "drawer",
+       "sel": "#fullscreen-nav-overlay>button",
+       "expanded": null,
+       "rect": [
+        1370,
+        44,
+        30,
+        30
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 22,
+         "panel": {
+          "links": [
+           {
+            "text": "Download",
+            "href": "https://media.production.jlrms.com/download_archives/aa5b7eaf-658d-46b2-917e-e0afde77b297/en/range-rover-electric.zip?VersionId=uzePX4updJdaZfmWlGn8f1F3qjOaIDmI"
+           },
+           {
+            "text": "Image",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           },
+           {
+            "text": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           },
+           {
+            "text": "Find Out More",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           }
+          ],
+          "headings": [
+           "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV"
+          ],
+          "images": 1,
+          "inputs": [],
+          "buttons": [
+           "SHARE"
+          ],
+          "options": 0,
+          "rect": [
+           150,
+           222,
+           1140,
+           574
+          ]
+         },
+         "expanded": null,
+         "focus": "elsewhere",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 500,
+           "delay": 0,
+           "easing": "linear",
+           "target": "div.container"
+          }
+         ],
+         "shot": "1440-003-Close-navigation-click.png"
+        },
+        "key": {
+         "opened": false,
+         "hides": 15
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": true,
+        "toggle": false
+       },
+       "children": []
+      },
+      {
+       "name": "Legal",
+       "key": "legal",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#fullscreen-nav-overlay>div>div:nth-of-type(1)>nav:nth-of-type(2)>ul>li>button",
+       "expanded": "true",
+       "rect": [
+        96,
+        458,
+        79,
+        22
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 4
+        },
+        "key": {
+         "opened": true,
+         "hidden": 7,
+         "panel": {
+          "links": [
+           {
+            "text": "Terms and Conditions",
+            "href": "https://media.jlr.com/range-rover/en-gb/terms-and-conditions"
+           },
+           {
+            "text": "User Licence",
+            "href": "https://media.jlr.com/range-rover/en-gb/user-licence"
+           },
+           {
+            "text": "COOKIE POLICY",
+            "href": "https://media.jlr.com/range-rover/en-gb/cookies"
+           },
+           {
+            "text": "Privacy Policy",
+            "href": "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy"
+           },
+           {
+            "text": "Download",
+            "href": "https://media.production.jlrms.com/download_archives/aa5b7eaf-658d-46b2-917e-e0afde77b297/en/range-rover-electric.zip?VersionId=uzePX4updJdaZfmWlGn8f1F3qjOaIDmI"
+           },
+           {
+            "text": "Image",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           },
+           {
+            "text": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           },
+           {
+            "text": "Find Out More",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           }
+          ],
+          "headings": [
+           "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV"
+          ],
+          "images": 1,
+          "inputs": [],
+          "buttons": [
+           "SHARE"
+          ],
+          "options": 0,
+          "rect": [
+           112,
+           222,
+           1178,
+           574
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": true,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 500,
+           "delay": 0,
+           "easing": "linear",
+           "target": "div.container"
+          }
+         ],
+         "shot": "1440-004-Legal-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": true,
+        "focusReturn": false,
+        "outside": null
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "United Kingdom (English)",
+     "key": "united kingdom english",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#block-marketswitcherblock>div>button",
+     "expanded": "false",
+     "rect": [
+      716,
+      10,
+      309,
+      42
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "China (简体中文)",
+          "href": "https://media.jlr.com/range-rover/zh-cn"
+         },
+         {
+          "text": "France (Français)",
+          "href": "https://media.jlr.com/range-rover/fr-fr"
+         },
+         {
+          "text": "Germany (Deutsch)",
+          "href": "https://media.jlr.com/range-rover/de-de"
+         },
+         {
+          "text": "International (English)",
+          "href": "https://media.jlr.com/range-rover/"
+         },
+         {
+          "text": "Italy (Italiano)",
+          "href": "https://media.jlr.com/range-rover/it-it"
+         },
+         {
+          "text": "North America (English)",
+          "href": "https://media.jlr.com/range-rover/en-us"
+         },
+         {
+          "text": "Spain (Español)",
+          "href": "https://media.jlr.com/range-rover/es-es"
+         },
+         {
+          "text": "United Kingdom (English)",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Scroll for more markets"
+        ],
+        "options": 0,
+        "rect": [
+         716,
+         68,
+         343,
+         283
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.navigation-tools__item"
+        },
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "div.navigation-tools__switcher"
+        },
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "nav.navigation-tools__language-list"
+        },
+        {
+         "kind": "animation",
+         "prop": "market-switcher-chevron-bounce",
+         "ms": 1600,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.navigation-tools__language-scroll-hint"
+        }
+       ],
+       "shot": "1440-005-United-Kingdom-English--click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "China (简体中文)",
+          "href": "https://media.jlr.com/range-rover/zh-cn"
+         },
+         {
+          "text": "France (Français)",
+          "href": "https://media.jlr.com/range-rover/fr-fr"
+         },
+         {
+          "text": "Germany (Deutsch)",
+          "href": "https://media.jlr.com/range-rover/de-de"
+         },
+         {
+          "text": "International (English)",
+          "href": "https://media.jlr.com/range-rover/"
+         },
+         {
+          "text": "Italy (Italiano)",
+          "href": "https://media.jlr.com/range-rover/it-it"
+         },
+         {
+          "text": "North America (English)",
+          "href": "https://media.jlr.com/range-rover/en-us"
+         },
+         {
+          "text": "Spain (Español)",
+          "href": "https://media.jlr.com/range-rover/es-es"
+         },
+         {
+          "text": "United Kingdom (English)",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Scroll for more markets"
+        ],
+        "options": 0,
+        "rect": [
+         716,
+         68,
+         343,
+         282
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "div.navigation-tools__switcher"
+        },
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "nav.navigation-tools__language-list"
+        },
+        {
+         "kind": "animation",
+         "prop": "market-switcher-chevron-bounce",
+         "ms": 1600,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.navigation-tools__language-scroll-hint"
+        }
+       ],
+       "shot": "1440-006-United-Kingdom-English--key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": true,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Scroll for more markets",
+       "key": "scroll for more markets",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#market-switcher-list>button",
+       "expanded": null,
+       "rect": [
+        718,
+        329,
+        339,
+        22
+       ],
+       "actions": {
+        "hover": {
+         "opened": false,
+         "hides": 7
+        },
+        "click": null,
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "View 0",
+     "key": "view 0",
+     "role": "link",
+     "kind": "cart",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(1)>div>div>div:nth-of-type(2)>div:nth-of-type(2)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/cart",
+     "expanded": null,
+     "rect": [
+      1037,
+      20,
+      85,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Contact Us",
+     "key": "contact us",
+     "role": "link",
+     "kind": "link",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(1)>div>div>div:nth-of-type(2)>div:nth-of-type(3)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/contact",
+     "expanded": null,
+     "rect": [
+      1134,
+      20,
+      156,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "rangerover.com logo",
+     "key": "rangerovercom logo",
+     "role": "link",
+     "kind": "link",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(2)>div>div>a:nth-of-type(1)",
+     "href": "https://media.jlr.com/range-rover/en-gb/",
+     "expanded": null,
+     "rect": [
+      150,
+      97,
+      282,
+      15
+     ],
+     "actions": {}
+    },
+    {
+     "name": "rangerover.com",
+     "key": "rangerovercom",
+     "role": "link",
+     "kind": "link",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(2)>div>div>a:nth-of-type(2)",
+     "href": "https://www.rangerover.com/",
+     "expanded": null,
+     "rect": [
+      1154,
+      92,
+      136,
+      26
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Vehicles",
+     "key": "vehicles",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(2)>a",
+     "expanded": "false",
+     "rect": [
+      150,
+      161,
+      94,
+      50
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Current",
+          "href": "javascript:void(0)"
+         },
+         {
+          "text": "Range Rover GT",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-gt"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover"
+         },
+         {
+          "text": "Range Rover Electric",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-electric"
+         },
+         {
+          "text": "Range Rover Sport",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport"
+         },
+         {
+          "text": "Range Rover Sport Electric",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-electric"
+         },
+         {
+          "text": "RANGE ROVER VELAR",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar"
+         },
+         {
+          "text": "Range Rover Evoque",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque"
+         },
+         {
+          "text": "SV",
+          "href": "javascript:void(0)"
+         },
+         {
+          "text": "Concept",
+          "href": "javascript:void(0)"
+         },
+         {
+          "text": "Past",
+          "href": "javascript:void(0)"
+         }
+        ],
+        "headings": [
+         "Range Rover GT",
+         "Range Rover",
+         "Range Rover Electric",
+         "Range Rover Sport",
+         "Range Rover Sport Electric",
+         "RANGE ROVER VELAR",
+         "Range Rover Evoque"
+        ],
+        "images": 7,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         132,
+         222,
+         1176,
+         678
+        ]
+       },
+       "expanded": "false",
+       "focus": "trigger",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "a.dropdown-toggle"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-offset",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "a.dropdown-toggle"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.dropdown-toggle"
+        },
+        {
+         "kind": "animation",
+         "prop": "fadeIn",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.outer"
+        },
+        {
+         "kind": "animation",
+         "prop": "slideDown",
+         "ms": 500,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.yamm-content"
+        }
+       ],
+       "shot": "1440-007-Vehicles-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Current",
+          "href": "javascript:void(0)"
+         },
+         {
+          "text": "Range Rover GT",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-gt"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover"
+         },
+         {
+          "text": "Range Rover Electric",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-electric"
+         },
+         {
+          "text": "Range Rover Sport",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport"
+         },
+         {
+          "text": "Range Rover Sport Electric",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-electric"
+         },
+         {
+          "text": "RANGE ROVER VELAR",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar"
+         },
+         {
+          "text": "Range Rover Evoque",
+          "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque"
+         },
+         {
+          "text": "SV",
+          "href": "javascript:void(0)"
+         },
+         {
+          "text": "Concept",
+          "href": "javascript:void(0)"
+         },
+         {
+          "text": "Past",
+          "href": "javascript:void(0)"
+         }
+        ],
+        "headings": [
+         "Range Rover GT",
+         "Range Rover",
+         "Range Rover Electric",
+         "Range Rover Sport",
+         "Range Rover Sport Electric",
+         "RANGE ROVER VELAR",
+         "Range Rover Evoque"
+        ],
+        "images": 7,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         132,
+         222,
+         1176,
+         678
+        ]
+       },
+       "expanded": "false",
+       "focus": "trigger",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.dropdown-toggle"
+        },
+        {
+         "kind": "animation",
+         "prop": "fadeIn",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.outer"
+        },
+        {
+         "kind": "animation",
+         "prop": "slideDown",
+         "ms": 500,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.yamm-content"
+        }
+       ],
+       "shot": "1440-008-Vehicles-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Current",
+       "key": "current",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#tab-Current>a",
+       "expanded": null,
+       "rect": [
+        150,
+        242,
+        81,
+        50
+       ],
+       "actions": {
+        "hover": null,
+        "click": null,
+        "key": null
+       }
+      },
+      {
+       "name": "SV",
+       "key": "sv",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#tab-SV>a",
+       "expanded": null,
+       "rect": [
+        235,
+        242,
+        51,
+        50
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 21,
+         "panel": {
+          "links": [
+           {
+            "text": "Range Rover SV",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sv"
+           },
+           {
+            "text": "Range Rover Sport SV",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-sv"
+           }
+          ],
+          "headings": [
+           "Range Rover SV",
+           "Range Rover Sport SV"
+          ],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           150,
+           317,
+           1140,
+           321
+          ]
+         },
+         "expanded": null,
+         "focus": "trigger",
+         "scrollLock": true,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.dropdown-toggle"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-offset",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.dropdown-toggle"
+          },
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-bottom-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-left-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-top-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-width",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-offset",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          }
+         ],
+         "shot": "1440-009-SV-click.png"
+        },
+        "key": null
+       },
+       "close": {
+        "escape": true,
+        "focusReturn": true,
+        "outside": null,
+        "toggle": false
+       },
+       "children": []
+      },
+      {
+       "name": "Concept",
+       "key": "concept",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#tab-Concept>a",
+       "expanded": null,
+       "rect": [
+        290,
+        242,
+        87,
+        50
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 6,
+         "panel": {
+          "links": [
+           {
+            "text": "Range Rover LRX",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-lrx"
+           },
+           {
+            "text": "RANGE_E",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range_e"
+           },
+           {
+            "text": "RANGE STORMER",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-stormer"
+           }
+          ],
+          "headings": [
+           "Range Rover LRX",
+           "RANGE_E",
+           "RANGE STORMER"
+          ],
+          "images": 3,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           150,
+           317,
+           1140,
+           321
+          ]
+         },
+         "expanded": null,
+         "focus": "trigger",
+         "scrollLock": true,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.dropdown-toggle"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-offset",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.dropdown-toggle"
+          },
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-bottom-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-left-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-top-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-width",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-offset",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          }
+         ],
+         "shot": "1440-010-Concept-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Download",
+            "href": "https://media.production.jlrms.com/download_archives/aa5b7eaf-658d-46b2-917e-e0afde77b297/en/range-rover-electric.zip?VersionId=uzePX4updJdaZfmWlGn8f1F3qjOaIDmI"
+           },
+           {
+            "text": "Image",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           },
+           {
+            "text": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           },
+           {
+            "text": "Find Out More",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           }
+          ],
+          "headings": [
+           "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV"
+          ],
+          "images": 1,
+          "inputs": [],
+          "buttons": [
+           "SHARE"
+          ],
+          "options": 0,
+          "rect": [
+           150,
+           222,
+           1140,
+           574
+          ]
+         },
+         "expanded": null,
+         "focus": "trigger",
+         "scrollLock": true,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "outline-offset",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.dropdown-toggle"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-bottom-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-width",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "box-shadow",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-offset",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-width",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          }
+         ],
+         "shot": "1440-011-Concept-key.png",
+         "tabReachesPanel": false
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       },
+       "children": []
+      },
+      {
+       "name": "Past",
+       "key": "past",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#tab-Past>a",
+       "expanded": null,
+       "rect": [
+        381,
+        242,
+        61,
+        50
+       ],
+       "actions": {
+        "hover": {
+         "opened": true,
+         "hidden": 7,
+         "panel": {
+          "links": [
+           {
+            "text": "Download",
+            "href": "https://media.production.jlrms.com/download_archives/aa5b7eaf-658d-46b2-917e-e0afde77b297/en/range-rover-electric.zip?VersionId=uzePX4updJdaZfmWlGn8f1F3qjOaIDmI"
+           },
+           {
+            "text": "Image",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           },
+           {
+            "text": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           },
+           {
+            "text": "Find Out More",
+            "href": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+           }
+          ],
+          "headings": [
+           "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV"
+          ],
+          "images": 1,
+          "inputs": [],
+          "buttons": [
+           "SHARE"
+          ],
+          "options": 0,
+          "rect": [
+           150,
+           222,
+           1140,
+           574
+          ]
+         },
+         "expanded": null,
+         "focus": "elsewhere",
+         "scrollLock": true,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.dropdown-toggle"
+          },
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 17,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.bt-nav-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.bt-nav-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-left-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-width",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-top-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 500,
+           "delay": 0,
+           "easing": "linear",
+           "target": "div.container"
+          }
+         ],
+         "shot": "1440-012-Past-hover.png"
+        },
+        "click": {
+         "opened": true,
+         "hidden": 9,
+         "panel": {
+          "links": [
+           {
+            "text": "Range Rover (2012-2021)",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-(2012-2021)"
+           },
+           {
+            "text": "Range Rover Sport (2013-2022)",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-(2013-2022)"
+           },
+           {
+            "text": "Range Rover Evoque (2010-2018)",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque-(2010-2018)"
+           },
+           {
+            "text": "RANGE ROVER SVAUTOBIOGRAPHY DYNAMIC",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography-dynamic"
+           },
+           {
+            "text": "Range Rover Velar SVAutobiography Dynamic Edition",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition"
+           },
+           {
+            "text": "RANGE ROVER SENTINEL",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sentinel"
+           },
+           {
+            "text": "Range Rover SVAutobiography",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography"
+           },
+           {
+            "text": "RANGE ROVER SPORT SVR",
+            "href": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-svr"
+           }
+          ],
+          "headings": [
+           "Range Rover (2012-2021)",
+           "Range Rover Sport (2013-2022)",
+           "Range Rover Evoque (2010-2018)",
+           "RANGE ROVER SVAUTOBIOGRAPHY DYNAMIC",
+           "Range Rover Velar SVAutobiography Dynamic Edition",
+           "RANGE ROVER SENTINEL",
+           "Range Rover SVAutobiography",
+           "RANGE ROVER SPORT SVR"
+          ],
+          "images": 8,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           150,
+           317,
+           1140,
+           583
+          ]
+         },
+         "expanded": null,
+         "focus": "trigger",
+         "scrollLock": true,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "border-left-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-width",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-top-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-offset",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "background-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.dropdown-toggle"
+          },
+          {
+           "kind": "transition",
+           "prop": "outline-offset",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.dropdown-toggle"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-bottom-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          },
+          {
+           "kind": "transition",
+           "prop": "border-right-color",
+           "ms": 300,
+           "delay": 0,
+           "easing": "linear",
+           "target": "a.mega"
+          }
+         ],
+         "shot": "1440-013-Past-click.png"
+        },
+        "key": null
+       },
+       "close": {
+        "escape": true,
+        "focusReturn": true,
+        "outside": null,
+        "toggle": true
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Brand",
+     "key": "brand",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(3)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/node/29462",
+     "expanded": null,
+     "rect": [
+      244,
+      161,
+      63,
+      50
+     ],
+     "actions": {}
+    },
+    {
+     "name": "News",
+     "key": "news",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(4)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/news",
+     "expanded": null,
+     "rect": [
+      307,
+      161,
+      57,
+      50
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Images",
+     "key": "images",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(5)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/image-packs",
+     "expanded": null,
+     "rect": [
+      364,
+      161,
+      70,
+      50
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Video",
+     "key": "video",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(6)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/videos",
+     "expanded": null,
+     "rect": [
+      434,
+      161,
+      60,
+      50
+     ],
+     "actions": {}
+    },
+    {
+     "name": "People",
+     "key": "people",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(7)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/directors",
+     "expanded": null,
+     "rect": [
+      494,
+      161,
+      68,
+      50
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Press Kits",
+     "key": "press kits",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(8)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/press-kit",
+     "expanded": null,
+     "rect": [
+      562,
+      161,
+      90,
+      50
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Tech Specs",
+     "key": "tech specs",
+     "role": "link",
+     "kind": "link",
+     "sel": "#mobile-hidden-menu>li:nth-of-type(9)>a",
+     "href": "https://media.jlr.com/range-rover/en-gb/tech-specs",
+     "expanded": null,
+     "rect": [
+      652,
+      161,
+      103,
+      50
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Search Range Rover",
+     "key": "search range rover",
+     "role": "toggle",
+     "kind": "search",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(3)>div:nth-of-type(2)>div:nth-of-type(1)>button",
+     "expanded": "false",
+     "rect": [
+      1103,
+      169,
+      187,
+      33
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "checkbox",
+         "text"
+        ],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         790,
+         161,
+         480,
+         50
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "span.menu-search-expandable__label"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.menu-search-expandable__input"
+        }
+       ],
+       "shot": "1440-014-Search-Range-Rover-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "checkbox",
+         "text"
+        ],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         790,
+         161,
+         480,
+         50
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-offset",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "span.menu-search-expandable__label"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.menu-search-expandable__input"
+        }
+       ],
+       "shot": "1440-015-Search-Range-Rover-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": true,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Search all brands",
+       "key": "search all brands",
+       "role": "toggle",
+       "kind": "search",
+       "sel": "#search-form>div:nth-of-type(1)>label",
+       "expanded": null,
+       "rect": [
+        790,
+        175,
+        116,
+        20
+       ],
+       "actions": {
+        "hover": null,
+        "click": null,
+        "key": null
+       }
+      },
+      {
+       "name": "search bar",
+       "key": "search bar",
+       "role": "input",
+       "kind": "search",
+       "sel": "#navSearch",
+       "expanded": null,
+       "rect": [
+        914,
+        161,
+        356,
+        50
+       ],
+       "actions": {},
+       "search": {
+        "probe": "skip",
+        "typeahead": {
+         "links": 4,
+         "options": 0
+        },
+        "submit": "https://media.jlr.com/range-rover/en-gb/search?query={q}&bundle=image"
+       }
+      }
+     ]
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 222,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -149,
+     "height": 206,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": 0,
+     "height": 222,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 222,
+     "position": "fixed",
+     "inView": true
+    }
+   ],
+   "states": 15,
+   "truncated": null,
+   "loads": 53
+  }
+ },
+ "probe": "skip"
+}

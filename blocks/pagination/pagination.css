@@ -1,0 +1,76 @@
+/* pagination — listing pager ("[1] of N >"). Values lifted from
+   stardust/prototypes/css/defender-en-gb-image-packs.css and defender-en-gb-vehicle-defender-110.css
+   (.bottom-pager, .new-grid__pager-items / -input / -text / -btn). */
+
+.pagination nav {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 36px;
+  padding-top: 20px;
+}
+
+.pagination .pagination-items {
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pagination .pagination-item {
+  display: block;
+}
+
+.pagination .pagination-input {
+  display: block;
+  box-sizing: border-box;
+  width: 32px;
+  height: 32px;
+  margin: 0;
+  padding: 1px 2px;
+  border: 1px solid var(--c-ink, #0c121c);
+  border-radius: 0;
+  background: var(--c-white, #fff);
+  color: var(--c-body, #333);
+  font-family: var(--ff-body, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 22.4px;
+  text-align: center;
+}
+
+.pagination .pagination-text {
+  height: 32px;
+  color: var(--c-body, #333);
+  font-family: var(--ff-body, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.pagination .pagination-text small {
+  font-size: 85%;
+}
+
+.pagination .pagination-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 32px;
+  height: 32px;
+  padding: 6px;
+  border: 1px solid transparent;
+  color: var(--c-ink, #0c121c);
+  font-size: 14px;
+  line-height: 20px;
+  transition: color 0.2s ease-in-out;
+}
+
+.pagination .pagination-btn:hover,
+.pagination .pagination-btn:focus {
+  color: var(--c-date-rule, #c4c4c4);
+}
+
+.pagination .pagination-btn svg {
+  width: 14px;
+  height: 14px;
+}

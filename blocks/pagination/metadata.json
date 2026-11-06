@@ -1,0 +1,33 @@
+{
+  "variantName": "pagination",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "button + image"
+  },
+  "contentPattern": {
+    "rows": "one row",
+    "cells": [
+      "text: total number of pages (number); optional Previous / Next links"
+    ]
+  },
+  "options": [],
+  "memberVariantIds": [
+    "v_790b981bdaa9"
+  ],
+  "usage": {
+    "context": "Below/above media listings (image packs, vehicle media grid)",
+    "prototype": "stardust/prototypes/defender-en-gb-image-packs-proposed.html (.new-grid__pager, .bottom-pager)",
+    "pagesUsing": [
+      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+      "/defender/en-gb/vehicle/defender-110"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-11-06T16:40:15Z"
+  },
+  "reuseGuidance": "Use under a paged listing. Renders \"[n] of N\" with prev/next arrows and navigates via ?page=. Without a page count it renders only the authored Previous / Next links."
+}

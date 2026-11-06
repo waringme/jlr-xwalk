@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition",
+  "path": "range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition",
+  "timestamp": "2026-11-06T17:38:35.466Z",
+  "title": "Range Rover",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

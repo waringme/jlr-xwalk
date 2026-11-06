@@ -1,0 +1,75 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb-image-packs-defender-110-namib-orange-360.json",
+  "build": "stardust/replica/motion/defender-en-gb-image-packs-defender-110-namib-orange-360-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 8,
+    "parity": 6,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 2,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "widget",
+      "name": ".drp-slider__btn--next",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .drp-slider__btn--next: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".new-share__trigger",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .new-share__trigger: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "transition",
+      "name": "left",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 600ms",
+      "line": "motion transition left: parity (1 event(s) on live, 1 on build, 600ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "16 event(s) on live, 16 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (16 event(s) on live, 16 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "16 event(s) on live, 16 on build, 300ms",
+      "line": "motion transition margin-top: parity (16 event(s) on live, 16 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 500ms",
+      "line": "motion transition top: parity (2 event(s) on live, 2 on build, 500ms)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 2× on live, 1× on build",
+      "line": "motion class bottom-shadow: parity (added 2× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class shrink: parity (added 1× on live, 1× on build)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "variantName": "cards-press-kit",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "image + heading + link + button",
+    "purpose": "press kit list item: thumbnail, kit title, Download control and favourite star"
+  },
+  "contentPattern": {
+    "structure": "one row per press kit: image | title (heading or paragraph) + one or more download links (several links render as a format menu)",
+    "rows": [
+      {
+        "cells": [
+          "image (picture)",
+          "text (richtext: title + download links)"
+        ]
+      }
+    ]
+  },
+  "options": [],
+  "memberVariantIds": [
+    "v_37070c22440e"
+  ],
+  "usage": {
+    "pagesFound": 8,
+    "description": "image + heading + link + button",
+    "note": "press kit list item (image, title, download, favourite); sits inside the press-kit accordion and could be part of it"
+  },
+  "reuseGuidance": "Use for downloadable document/kit lists. News or gallery tiles belong to cards-news / cards-gallery."
+}

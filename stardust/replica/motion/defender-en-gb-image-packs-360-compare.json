@@ -1,0 +1,145 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb-image-packs-360.json",
+  "build": "stardust/replica/motion/defender-en-gb-image-packs-360-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 18,
+    "parity": 15,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 3,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "widget",
+      "name": ".new-grid__refine-btn",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .new-grid__refine-btn: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".refine-item",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .refine-item: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".new-share__btn",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .new-share__btn: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "transition",
+      "name": "background-color",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 500ms",
+      "line": "motion transition background-color: parity (1 event(s) on live, 1 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "box-shadow",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 500ms",
+      "line": "motion transition box-shadow: parity (1 event(s) on live, 1 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "height",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 600ms",
+      "line": "motion transition height: parity (2 event(s) on live, 2 on build, 600ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "left",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 500ms",
+      "line": "motion transition left: parity (1 event(s) on live, 1 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "24 event(s) on live, 24 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (24 event(s) on live, 24 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "24 event(s) on live, 24 on build, 300ms",
+      "line": "motion transition margin-top: parity (24 event(s) on live, 24 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "3 event(s) on live, 3 on build, 500ms",
+      "line": "motion transition top: parity (3 event(s) on live, 3 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 200ms",
+      "line": "motion transition transform: parity (1 event(s) on live, 1 on build, 200ms)"
+    },
+    {
+      "cls": "class",
+      "name": "active-facet",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class active-facet: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 4× on live, 2× on build",
+      "line": "motion class bottom-shadow: parity (added 4× on live, 2× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "collapse-me--open",
+      "state": "parity",
+      "note": "added 2× on live, 1× on build",
+      "line": "motion class collapse-me--open: parity (added 2× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "collapse-me--trans",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class collapse-me--trans: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "new-grid__content--with-sidebar",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class new-grid__content--with-sidebar: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "new-grid__sidebar-panel--open",
+      "state": "parity",
+      "note": "added 2× on live, 1× on build",
+      "line": "motion class new-grid__sidebar-panel--open: parity (added 2× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 2× on live, 2× on build",
+      "line": "motion class shrink: parity (added 2× on live, 2× on build)"
+    }
+  ]
+}

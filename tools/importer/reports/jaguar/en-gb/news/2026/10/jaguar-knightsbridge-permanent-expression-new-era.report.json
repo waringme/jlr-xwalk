@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar/en-gb/news/2026/10/jaguar-knightsbridge-permanent-expression-new-era",
+  "path": "jaguar/en-gb/news/2026/10/jaguar-knightsbridge-permanent-expression-new-era",
+  "timestamp": "2026-11-06T10:52:54.553Z",
+  "title": "JAGUAR AT KNIGHTSBRIDGE: A PERMANENT EXPRESSION OF A NEW ERA | Jaguar 2024 Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

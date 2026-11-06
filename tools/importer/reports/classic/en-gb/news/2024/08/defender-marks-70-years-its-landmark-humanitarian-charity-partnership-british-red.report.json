@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/news/2024/08/defender-marks-70-years-its-landmark-humanitarian-charity-partnership-british-red",
+  "path": "classic/en-gb/news/2024/08/defender-marks-70-years-its-landmark-humanitarian-charity-partnership-british-red",
+  "timestamp": "2026-11-06T10:32:48.806Z",
+  "title": "DEFENDER MARKS 70 YEARS OF ITS LANDMARK HUMANITARIAN CHARITY PARTNERSHIP WITH BRITISH RED CROSS | Classic Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

@@ -1,0 +1,1719 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://media.jlr.com/en-gb",
+ "at": "2026-11-05T16:08:15.144Z",
+ "shots": "stardust/.work/chrome/header-contract",
+ "widths": {
+  "390": {
+   "root": "#main-nav",
+   "controls": [
+    {
+     "name": "JLR MEDIA",
+     "key": "jlr media",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navbar1>button",
+     "expanded": "false",
+     "rect": [
+      18,
+      10,
+      128,
+      42
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "JLR MEDIA",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Defender",
+          "href": "https://media.jlr.com/defender/en-gb"
+         },
+         {
+          "text": "Discovery",
+          "href": "https://media.jlr.com/discovery/en-gb"
+         },
+         {
+          "text": "Jaguar",
+          "href": "https://media.jlr.com/jaguar/en-gb"
+         },
+         {
+          "text": "Classic",
+          "href": "https://media.jlr.com/classic/en-gb"
+         },
+         {
+          "text": "Corporate",
+          "href": "https://media.jlr.com/corporate"
+         },
+         {
+          "text": "Terms and Conditions",
+          "href": "https://media.jlr.com/en-gb/terms-and-conditions"
+         },
+         {
+          "text": "User Licence",
+          "href": "https://media.jlr.com/en-gb/user-licence"
+         },
+         {
+          "text": "COOKIE POLICY",
+          "href": "https://media.jlr.com/en-gb/cookies"
+         },
+         {
+          "text": "Privacy Policy",
+          "href": "https://media.jlr.com/en-gb/jlr-privacy-policy"
+         }
+        ],
+        "headings": [
+         "JLR MEDIA"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Close navigation",
+         "Legal"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         50,
+         390,
+         529
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.fullscreen-nav-trigger"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 500,
+         "delay": 0,
+         "easing": "ease",
+         "target": "img.explore-brands__img"
+        }
+       ],
+       "shot": "390-001-JLR-MEDIA-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "JLR MEDIA",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Defender",
+          "href": "https://media.jlr.com/defender/en-gb"
+         },
+         {
+          "text": "Discovery",
+          "href": "https://media.jlr.com/discovery/en-gb"
+         },
+         {
+          "text": "Jaguar",
+          "href": "https://media.jlr.com/jaguar/en-gb"
+         },
+         {
+          "text": "Classic",
+          "href": "https://media.jlr.com/classic/en-gb"
+         },
+         {
+          "text": "Corporate",
+          "href": "https://media.jlr.com/corporate"
+         },
+         {
+          "text": "Terms and Conditions",
+          "href": "https://media.jlr.com/en-gb/terms-and-conditions"
+         },
+         {
+          "text": "User Licence",
+          "href": "https://media.jlr.com/en-gb/user-licence"
+         },
+         {
+          "text": "COOKIE POLICY",
+          "href": "https://media.jlr.com/en-gb/cookies"
+         },
+         {
+          "text": "Privacy Policy",
+          "href": "https://media.jlr.com/en-gb/jlr-privacy-policy"
+         }
+        ],
+        "headings": [
+         "JLR MEDIA"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Close navigation",
+         "Legal"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         50,
+         390,
+         529
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": 200,
+         "delay": 0,
+         "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+         "target": "button.fullscreen-nav-trigger"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 417,
+         "delay": 0,
+         "easing": "ease",
+         "target": "img.explore-brands__img"
+        }
+       ],
+       "shot": "390-002-JLR-MEDIA-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Close navigation",
+       "key": "close navigation",
+       "role": "toggle",
+       "kind": "drawer",
+       "sel": "#fullscreen-nav-overlay>button",
+       "expanded": null,
+       "rect": [
+        320,
+        50,
+        30,
+        30
+       ],
+       "actions": {
+        "click": {
+         "opened": false,
+         "hides": 15
+        },
+        "key": {
+         "opened": false,
+         "hides": 15
+        }
+       }
+      },
+      {
+       "name": "Legal",
+       "key": "legal",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#fullscreen-nav-overlay>div>div:nth-of-type(1)>nav:nth-of-type(2)>ul>li>button",
+       "expanded": "true",
+       "rect": [
+        40,
+        422,
+        79,
+        22
+       ],
+       "actions": {
+        "click": {
+         "opened": false,
+         "hides": 4
+        },
+        "key": {
+         "opened": false,
+         "hides": 4
+        }
+       }
+      }
+     ]
+    },
+    {
+     "name": "EN-GB",
+     "key": "engb",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#block-marketswitcherblock>div>button",
+     "expanded": "false",
+     "rect": [
+      234,
+      10,
+      96,
+      42
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "China (简体中文)",
+          "href": "https://media.jlr.com/zh-cn"
+         },
+         {
+          "text": "France (Français)",
+          "href": "https://media.jlr.com/fr-fr"
+         },
+         {
+          "text": "Germany (Deutsch)",
+          "href": "https://media.jlr.com/de-de"
+         },
+         {
+          "text": "International (English)",
+          "href": "https://media.jlr.com/"
+         },
+         {
+          "text": "Italy (Italiano)",
+          "href": "https://media.jlr.com/it-it"
+         },
+         {
+          "text": "North America (English)",
+          "href": "https://media.jlr.com/en-us"
+         },
+         {
+          "text": "Spain (Español)",
+          "href": "https://media.jlr.com/es-es"
+         },
+         {
+          "text": "United Kingdom (English)",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Story JAGUAR JAGUAR CELEBRATES 90TH ANNIVERSARY",
+          "href": "https://media.jlr.com/en-gb/news/2025/12/jaguar-celebrates-90th-anniversary"
+         },
+         {
+          "text": "Story JLR CORPORATE DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show"
+         },
+         {
+          "text": "Story RANGE ROVER RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+         },
+         {
+          "text": "Story DEFENDER DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         },
+         {
+          "text": "Story DISCOVERY DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+          "href": "https://media.jlr.com/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv"
+         },
+         {
+          "text": "Story CLASSIC DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         }
+        ],
+        "headings": [
+         "Stories from across our brands",
+         "JAGUAR CELEBRATES 90TH ANNIVERSARY",
+         "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+         "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+         "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION"
+        ],
+        "images": 6,
+        "inputs": [],
+        "buttons": [
+         "Scroll for more markets"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         70,
+         358,
+         774
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 500,
+         "delay": 0,
+         "easing": "ease",
+         "target": "img.explore-brands__img"
+        },
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.navigation-tools__item"
+        },
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "nav.navigation-tools__language-list"
+        },
+        {
+         "kind": "animation",
+         "prop": "market-switcher-chevron-bounce",
+         "ms": 1600,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.navigation-tools__language-scroll-hint"
+        }
+       ],
+       "shot": "390-003-EN-GB-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "China (简体中文)",
+          "href": "https://media.jlr.com/zh-cn"
+         },
+         {
+          "text": "France (Français)",
+          "href": "https://media.jlr.com/fr-fr"
+         },
+         {
+          "text": "Germany (Deutsch)",
+          "href": "https://media.jlr.com/de-de"
+         },
+         {
+          "text": "International (English)",
+          "href": "https://media.jlr.com/"
+         },
+         {
+          "text": "Italy (Italiano)",
+          "href": "https://media.jlr.com/it-it"
+         },
+         {
+          "text": "North America (English)",
+          "href": "https://media.jlr.com/en-us"
+         },
+         {
+          "text": "Spain (Español)",
+          "href": "https://media.jlr.com/es-es"
+         },
+         {
+          "text": "United Kingdom (English)",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Story JAGUAR JAGUAR CELEBRATES 90TH ANNIVERSARY",
+          "href": "https://media.jlr.com/en-gb/news/2025/12/jaguar-celebrates-90th-anniversary"
+         },
+         {
+          "text": "Story JLR CORPORATE DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show"
+         },
+         {
+          "text": "Story RANGE ROVER RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+         },
+         {
+          "text": "Story DEFENDER DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         },
+         {
+          "text": "Story DISCOVERY DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+          "href": "https://media.jlr.com/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv"
+         },
+         {
+          "text": "Story CLASSIC DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         }
+        ],
+        "headings": [
+         "Stories from across our brands",
+         "JAGUAR CELEBRATES 90TH ANNIVERSARY",
+         "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+         "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+         "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION"
+        ],
+        "images": 6,
+        "inputs": [],
+        "buttons": [
+         "Scroll for more markets"
+        ],
+        "options": 0,
+        "rect": [
+         16,
+         70,
+         358,
+         774
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "nav.navigation-tools__language-list"
+        },
+        {
+         "kind": "animation",
+         "prop": "market-switcher-chevron-bounce",
+         "ms": 1600,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.navigation-tools__language-scroll-hint"
+        }
+       ],
+       "shot": "390-004-EN-GB-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Scroll for more markets",
+       "key": "scroll for more markets",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#market-switcher-list>button",
+       "expanded": null,
+       "rect": [
+        18,
+        329,
+        355,
+        22
+       ],
+       "actions": {
+        "click": null,
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "0",
+     "key": "0",
+     "role": "link",
+     "kind": "cart",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(1)>div>div>div:nth-of-type(2)>div:nth-of-type(2)>a",
+     "href": "https://media.jlr.com/en-gb/cart",
+     "expanded": null,
+     "rect": [
+      338,
+      20,
+      34,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Search button, press enter to open search field",
+     "key": "search button press enter to open search field",
+     "role": "toggle",
+     "kind": "search",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(2)>div>div>div>div>div:nth-of-type(1)>button",
+     "expanded": "false",
+     "rect": [
+      348,
+      86,
+      24,
+      33
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Story JAGUAR JAGUAR CELEBRATES 90TH ANNIVERSARY",
+          "href": "https://media.jlr.com/en-gb/news/2025/12/jaguar-celebrates-90th-anniversary"
+         },
+         {
+          "text": "Story JLR CORPORATE DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show"
+         },
+         {
+          "text": "Story RANGE ROVER RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+         },
+         {
+          "text": "Story DEFENDER DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         },
+         {
+          "text": "Story DISCOVERY DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+          "href": "https://media.jlr.com/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv"
+         },
+         {
+          "text": "Story CLASSIC DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         }
+        ],
+        "headings": [
+         "Stories from across our brands",
+         "JAGUAR CELEBRATES 90TH ANNIVERSARY",
+         "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+         "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+         "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION"
+        ],
+        "images": 6,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         16,
+         83,
+         358,
+         762
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.menu-search-expandable__input"
+        },
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": 500,
+         "delay": 0,
+         "easing": "ease",
+         "target": "img.explore-brands__img"
+        }
+       ],
+       "shot": "390-005-Search-button-press-enter-to-open-search.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Story JAGUAR JAGUAR CELEBRATES 90TH ANNIVERSARY",
+          "href": "https://media.jlr.com/en-gb/news/2025/12/jaguar-celebrates-90th-anniversary"
+         },
+         {
+          "text": "Story JLR CORPORATE DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show"
+         },
+         {
+          "text": "Story RANGE ROVER RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+         },
+         {
+          "text": "Story DEFENDER DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         },
+         {
+          "text": "Story DISCOVERY DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+          "href": "https://media.jlr.com/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv"
+         },
+         {
+          "text": "Story CLASSIC DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         }
+        ],
+        "headings": [
+         "Stories from across our brands",
+         "JAGUAR CELEBRATES 90TH ANNIVERSARY",
+         "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+         "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+         "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION"
+        ],
+        "images": 6,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         16,
+         83,
+         358,
+         762
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-offset",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.menu-search-expandable__input"
+        }
+       ],
+       "shot": "390-006-Search-button-press-enter-to-open-search.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "search bar",
+       "key": "search bar",
+       "role": "input",
+       "kind": "search",
+       "sel": "#navSearch",
+       "expanded": null,
+       "rect": [
+        32,
+        83,
+        320,
+        40
+       ],
+       "actions": {},
+       "search": {
+        "probe": "skip",
+        "typeahead": {
+         "links": 0,
+         "options": 0
+        },
+        "submit": "https://media.jlr.com/en-gb/search?query={q}&bundle=news"
+       }
+      }
+     ]
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 119,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -119,
+     "height": 119,
+     "position": "fixed",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": 0,
+     "height": 119,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 119,
+     "position": "fixed",
+     "inView": true
+    }
+   ],
+   "states": 6,
+   "truncated": null,
+   "loads": 25
+  },
+  "1440": {
+   "root": "#main-nav",
+   "controls": [
+    {
+     "name": "JLR MEDIA",
+     "key": "jlr media",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navbar1>button",
+     "expanded": "false",
+     "rect": [
+      150,
+      10,
+      128,
+      42
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "JLR MEDIA",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Defender",
+          "href": "https://media.jlr.com/defender/en-gb"
+         },
+         {
+          "text": "Discovery",
+          "href": "https://media.jlr.com/discovery/en-gb"
+         },
+         {
+          "text": "Jaguar",
+          "href": "https://media.jlr.com/jaguar/en-gb"
+         },
+         {
+          "text": "Classic",
+          "href": "https://media.jlr.com/classic/en-gb"
+         },
+         {
+          "text": "Corporate",
+          "href": "https://media.jlr.com/corporate"
+         },
+         {
+          "text": "Terms and Conditions",
+          "href": "https://media.jlr.com/en-gb/terms-and-conditions"
+         },
+         {
+          "text": "User Licence",
+          "href": "https://media.jlr.com/en-gb/user-licence"
+         },
+         {
+          "text": "COOKIE POLICY",
+          "href": "https://media.jlr.com/en-gb/cookies"
+         },
+         {
+          "text": "Privacy Policy",
+          "href": "https://media.jlr.com/en-gb/jlr-privacy-policy"
+         }
+        ],
+        "headings": [
+         "JLR MEDIA"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Close navigation",
+         "Legal"
+        ],
+        "options": 0,
+        "rect": [
+         96,
+         44,
+         1304,
+         571
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "button.fullscreen-nav-trigger"
+        }
+       ],
+       "shot": "1440-001-JLR-MEDIA-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "JLR MEDIA",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Range Rover",
+          "href": "https://media.jlr.com/range-rover/en-gb"
+         },
+         {
+          "text": "Defender",
+          "href": "https://media.jlr.com/defender/en-gb"
+         },
+         {
+          "text": "Discovery",
+          "href": "https://media.jlr.com/discovery/en-gb"
+         },
+         {
+          "text": "Jaguar",
+          "href": "https://media.jlr.com/jaguar/en-gb"
+         },
+         {
+          "text": "Classic",
+          "href": "https://media.jlr.com/classic/en-gb"
+         },
+         {
+          "text": "Corporate",
+          "href": "https://media.jlr.com/corporate"
+         },
+         {
+          "text": "Terms and Conditions",
+          "href": "https://media.jlr.com/en-gb/terms-and-conditions"
+         },
+         {
+          "text": "User Licence",
+          "href": "https://media.jlr.com/en-gb/user-licence"
+         },
+         {
+          "text": "COOKIE POLICY",
+          "href": "https://media.jlr.com/en-gb/cookies"
+         },
+         {
+          "text": "Privacy Policy",
+          "href": "https://media.jlr.com/en-gb/jlr-privacy-policy"
+         }
+        ],
+        "headings": [
+         "JLR MEDIA"
+        ],
+        "images": 1,
+        "inputs": [],
+        "buttons": [
+         "Close navigation",
+         "Legal"
+        ],
+        "options": 0,
+        "rect": [
+         96,
+         44,
+         1304,
+         571
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": true,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": 200,
+         "delay": 0,
+         "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+         "target": "button.fullscreen-nav-trigger"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 250,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "img.fullscreen-nav-poster"
+        }
+       ],
+       "shot": "1440-002-JLR-MEDIA-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Close navigation",
+       "key": "close navigation",
+       "role": "toggle",
+       "kind": "drawer",
+       "sel": "#fullscreen-nav-overlay>button",
+       "expanded": null,
+       "rect": [
+        1370,
+        44,
+        30,
+        30
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 18,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://media.jlr.com/corporate"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           1070,
+           295,
+           320,
+           504
+          ]
+         },
+         "expanded": null,
+         "focus": "elsewhere",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-003-Close-navigation-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 18,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://media.jlr.com/corporate"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           1070,
+           295,
+           320,
+           504
+          ]
+         },
+         "expanded": null,
+         "focus": "elsewhere",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 1500,
+           "delay": 0,
+           "easing": "ease-in-out",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": "1440-004-Close-navigation-key.png",
+         "tabReachesPanel": false
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": true,
+        "toggle": true
+       },
+       "children": []
+      },
+      {
+       "name": "Legal",
+       "key": "legal",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#fullscreen-nav-overlay>div>div:nth-of-type(1)>nav:nth-of-type(2)>ul>li>button",
+       "expanded": "true",
+       "rect": [
+        96,
+        458,
+        79,
+        22
+       ],
+       "actions": {
+        "hover": {
+         "opened": true,
+         "hidden": 3,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://media.jlr.com/corporate"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           1070,
+           295,
+           320,
+           504
+          ]
+         },
+         "expanded": "true",
+         "focus": "elsewhere",
+         "scrollLock": true,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": 350,
+           "delay": 0,
+           "easing": "ease-out",
+           "target": "div.tw-absolute"
+          },
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 350,
+           "delay": 0,
+           "easing": "ease-out",
+           "target": "div.tw-absolute"
+          },
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 1500,
+           "delay": 0,
+           "easing": "ease-in-out",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": "1440-005-Legal-hover.png"
+        },
+        "click": {
+         "opened": false,
+         "hides": 4
+        },
+        "key": {
+         "opened": true,
+         "hidden": 7,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://media.jlr.com/corporate"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           1070,
+           295,
+           320,
+           504
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": true,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": 1500,
+           "delay": 0,
+           "easing": "ease-in-out",
+           "target": "div.slick-track"
+          }
+         ],
+         "shot": "1440-006-Legal-key.png",
+         "tabReachesPanel": false
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "leave": false
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "United Kingdom (English)",
+     "key": "united kingdom english",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#block-marketswitcherblock>div>button",
+     "expanded": "false",
+     "rect": [
+      716,
+      10,
+      309,
+      42
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "China (简体中文)",
+          "href": "https://media.jlr.com/zh-cn"
+         },
+         {
+          "text": "France (Français)",
+          "href": "https://media.jlr.com/fr-fr"
+         },
+         {
+          "text": "Germany (Deutsch)",
+          "href": "https://media.jlr.com/de-de"
+         },
+         {
+          "text": "International (English)",
+          "href": "https://media.jlr.com/"
+         },
+         {
+          "text": "Italy (Italiano)",
+          "href": "https://media.jlr.com/it-it"
+         },
+         {
+          "text": "North America (English)",
+          "href": "https://media.jlr.com/en-us"
+         },
+         {
+          "text": "Spain (Español)",
+          "href": "https://media.jlr.com/es-es"
+         },
+         {
+          "text": "United Kingdom (English)",
+          "href": "https://media.jlr.com/en-gb"
+         },
+         {
+          "text": "Story JAGUAR JAGUAR CELEBRATES 90TH ANNIVERSARY",
+          "href": "https://media.jlr.com/en-gb/news/2025/12/jaguar-celebrates-90th-anniversary"
+         },
+         {
+          "text": "Story JLR CORPORATE DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show"
+         },
+         {
+          "text": "Story RANGE ROVER RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+         },
+         {
+          "text": "Story DEFENDER DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         },
+         {
+          "text": "Story DISCOVERY DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+          "href": "https://media.jlr.com/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv"
+         },
+         {
+          "text": "Story CLASSIC DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+          "href": "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion"
+         }
+        ],
+        "headings": [
+         "Stories from across our brands",
+         "JAGUAR CELEBRATES 90TH ANNIVERSARY",
+         "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+         "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION",
+         "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV",
+         "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION"
+        ],
+        "images": 6,
+        "inputs": [],
+        "buttons": [
+         "Scroll for more markets"
+        ],
+        "options": 0,
+        "rect": [
+         148,
+         70,
+         1144,
+         830
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 150,
+         "delay": 0,
+         "easing": "linear",
+         "target": "div.navigation-tools__item"
+        },
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "div.navigation-tools__switcher"
+        },
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "nav.navigation-tools__language-list"
+        },
+        {
+         "kind": "animation",
+         "prop": "market-switcher-chevron-bounce",
+         "ms": 1600,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.navigation-tools__language-scroll-hint"
+        }
+       ],
+       "shot": "1440-007-United-Kingdom-English--click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "China (简体中文)",
+          "href": "https://media.jlr.com/zh-cn"
+         },
+         {
+          "text": "France (Français)",
+          "href": "https://media.jlr.com/fr-fr"
+         },
+         {
+          "text": "Germany (Deutsch)",
+          "href": "https://media.jlr.com/de-de"
+         },
+         {
+          "text": "International (English)",
+          "href": "https://media.jlr.com/"
+         },
+         {
+          "text": "Italy (Italiano)",
+          "href": "https://media.jlr.com/it-it"
+         },
+         {
+          "text": "North America (English)",
+          "href": "https://media.jlr.com/en-us"
+         },
+         {
+          "text": "Spain (Español)",
+          "href": "https://media.jlr.com/es-es"
+         },
+         {
+          "text": "United Kingdom (English)",
+          "href": "https://media.jlr.com/en-gb"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Scroll for more markets"
+        ],
+        "options": 0,
+        "rect": [
+         716,
+         68,
+         343,
+         283
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "background-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "div.navigation-tools__switcher"
+        },
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-in-out",
+         "target": "nav.navigation-tools__language-list"
+        },
+        {
+         "kind": "animation",
+         "prop": "market-switcher-chevron-bounce",
+         "ms": 1600,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.navigation-tools__language-scroll-hint"
+        }
+       ],
+       "shot": "1440-008-United-Kingdom-English--key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": true,
+      "focusReturn": true,
+      "outside": false,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Scroll for more markets",
+       "key": "scroll for more markets",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#market-switcher-list>button",
+       "expanded": null,
+       "rect": [
+        718,
+        329,
+        339,
+        22
+       ],
+       "actions": {
+        "hover": null,
+        "click": null,
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "View 0",
+     "key": "view 0",
+     "role": "link",
+     "kind": "cart",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(1)>div>div>div:nth-of-type(2)>div:nth-of-type(2)>a",
+     "href": "https://media.jlr.com/en-gb/cart",
+     "expanded": null,
+     "rect": [
+      1037,
+      20,
+      85,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Contact Us",
+     "key": "contact us",
+     "role": "link",
+     "kind": "link",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(1)>div>div>div:nth-of-type(2)>div:nth-of-type(3)>a",
+     "href": "https://media.jlr.com/en-gb/contact",
+     "expanded": null,
+     "rect": [
+      1134,
+      20,
+      156,
+      22
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Search All Brands",
+     "key": "search all brands",
+     "role": "toggle",
+     "kind": "search",
+     "sel": "#main-nav>div:nth-of-type(2)>div:nth-of-type(2)>div>div>div>div>div:nth-of-type(1)>button",
+     "expanded": "false",
+     "rect": [
+      1131,
+      92,
+      159,
+      33
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         790,
+         85,
+         480,
+         50
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "span.menu-search-expandable__label"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.menu-search-expandable__input"
+        }
+       ],
+       "shot": "1440-009-Search-All-Brands-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         790,
+         85,
+         480,
+         50
+        ]
+       },
+       "expanded": "true",
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "box-shadow",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-color",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-offset",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "outline-width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "linear",
+         "target": "button.menu-search-expandable__button"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "span.menu-search-expandable__label"
+        },
+        {
+         "kind": "transition",
+         "prop": "width",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease",
+         "target": "div.menu-search-expandable__input"
+        }
+       ],
+       "shot": "1440-010-Search-All-Brands-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": true,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "search bar",
+       "key": "search bar",
+       "role": "input",
+       "kind": "search",
+       "sel": "#navSearch",
+       "expanded": null,
+       "rect": [
+        790,
+        85,
+        480,
+        50
+       ],
+       "actions": {},
+       "search": {
+        "probe": "skip",
+        "typeahead": {
+         "links": 1,
+         "options": 0
+        },
+        "submit": "https://media.jlr.com/en-gb/search?query={q}&bundle=news"
+       }
+      }
+     ]
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 156,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -155,
+     "height": 156,
+     "position": "fixed",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": 0,
+     "height": 156,
+     "position": "fixed",
+     "inView": true
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 156,
+     "position": "fixed",
+     "inView": true
+    }
+   ],
+   "states": 10,
+   "truncated": null,
+   "loads": 35
+  }
+ },
+ "probe": "skip"
+}

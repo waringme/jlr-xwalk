@@ -1,0 +1,28 @@
+{
+  "variantName": "columns-press-image",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "heading + text + image + button + link"
+  },
+  "contentPattern": "Columns block, one row of two cells in either order. Text cell: article paragraphs. Image cell: one image, an optional heading (the asset title; falls back to the image alt) and optional download links (High-Res / Low-Res). At 768px and up the image takes two thirds and the text one third; the image cell shows a title / Download / favourite / share bar on hover or focus.",
+  "options": [],
+  "memberVariantIds": [
+    "v_a729cca26ea7",
+    "v_a6acd685a62e"
+  ],
+  "usage": {
+    "description": "Press releases: a paragraph of article copy beside a downloadable press photo, with the photo left or right.",
+    "pagesUsing": [
+      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-06T09:20:59Z"
+  },
+  "reuseGuidance": "Use for text paired with a downloadable press image. For images without text use media-image; for plain two-column copy use columns-text.",
+  "prototypeCounterpart": "stardust/prototypes css/defender-en-gb-news-*.css (.article-split, .article-split__panel, .article-media, .article-media__bar)"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/news/2025/07/defender-octa-black-tough-luxury-4x4-rock-star",
+  "path": "classic/en-gb/news/2025/07/defender-octa-black-tough-luxury-4x4-rock-star",
+  "timestamp": "2026-11-06T10:36:01.879Z",
+  "title": "DEFENDER OCTA BLACK: THE TOUGH LUXURY 4X4 ROCK STAR | Classic Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination",
+    "table-pricing"
+  ]
+}

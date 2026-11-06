@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-automotive-top-dog-goodwoof-2025",
+  "path": "discovery/en-gb/news/2025/05/discovery-automotive-top-dog-goodwoof-2025",
+  "timestamp": "2026-11-06T10:46:12.244Z",
+  "title": "DISCOVERY IS AUTOMOTIVE TOP DOG AT GOODWOOF 2025 | Discovery Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

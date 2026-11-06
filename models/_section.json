@@ -33,6 +33,18 @@
             {
               "name": "Highlight",
               "value": "highlight"
+            },
+            {
+              "name": "Light Grey",
+              "value": "light-grey"
+            },
+            {
+              "name": "Dark",
+              "value": "dark"
+            },
+            {
+              "name": "Centered",
+              "value": "centered"
             }
           ]
         }
@@ -50,7 +62,30 @@
         "hero",
         "cards",
         "columns",
-        "fragment"
+        "fragment",
+        "accordion-press-kit",
+        "cards-gallery",
+        "cards-news",
+        "cards-people",
+        "cards-press-kit",
+        "cards-vehicle",
+        "cards-video",
+        "carousel-brands",
+        "carousel-featured-news",
+        "columns-newsletter",
+        "columns-press-image",
+        "columns-profile",
+        "columns-text",
+        "columns-vehicle-intro",
+        "embed-video",
+        "image-caption",
+        "media-actions",
+        "media-image",
+        "media-subnav",
+        "pagination",
+        "quote-centered",
+        "social-links",
+        "table-pricing"
       ]
     }
   ]

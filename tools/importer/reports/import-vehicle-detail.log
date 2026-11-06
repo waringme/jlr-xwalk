@@ -1,0 +1,480 @@
+[Bulk Import] Starting run with:
+  Import script: /backups/waringme/jlr-xwalk/repo/tools/importer/import-vehicle-detail.bundle.js
+  URLs file:     /backups/waringme/jlr-xwalk/repo/tools/importer/urls-vehicle-detail.txt
+  Output dir:    /backups/waringme/jlr-xwalk/repo/content
+  URL count:     62
+  BD snapshots:  /backups/waringme/jlr-xwalk/repo/tools/importer/bd-snapshots (reused on block before Bright Data)
+
+✅ OpenFeature: resolved playwright-server-url flag (provider: GO Feature Flag, customerHash: 2730f8f1cf3601c55c81f3b4, url: (empty - local Chromium)) [reason: DEFAULT, errorCode: none]
+⚠️ OpenFeature: playwright-server-url evaluation did not confirm a provider value (reason: DEFAULT, errorCode: none); the URL may be an environment default.
+⚠️ No remote Playwright server resolved (provider: GO Feature Flag, customerHash: 2730f8f1cf3601c55c81f3b4); local Chromium requires an installed browser. Browserless deployments need GO_FEATURE_FLAG_ENDPOINT and the playwright-server-url flag.
+  Browser:       Chromium (bundled) [Chrome unavailable: browserType.launch: Chromium distribution 'chrome' is not found at /opt/google/chrome/chrome
+Run "npx playwright install chrome"]
+[1/62] Starting https://media.jlr.com/defender/en-gb/vehicle/defender-110
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[1/62] ⚠️  Content completeness 83.6% (below 90.0%) — possible dropped content
+[1/62] ✅ Saved content to defender/en-gb/vehicle/defender-110
+[2/62] Starting https://media.jlr.com/classic/en-gb/vehicle/1957-xkss
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] get data url from a base64 image (): InvalidCharacterError: Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded.
+    at HD.getDataUrlFromB64Img (<anonymous>:2:1949056)
+    at <anonymous>:2:1965145
+    at NodeList.forEach (<anonymous>)
+    at c.storageHandler.preProcess (<anonymous>:2:1964919)
+    at c.storageHandler.import (<anonymous>:2:1966145)
+[2/62] ⚠️  Content completeness 32.3% (below 90.0%) — possible dropped content
+[2/62] ✅ Saved content to classic/en-gb/vehicle/1957-xkss
+[3/62] Starting https://media.jlr.com/classic/en-gb/vehicle/2016-xkss
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[3/62] ⚠️  Content completeness 33.3% (below 90.0%) — possible dropped content
+[3/62] ✅ Saved content to classic/en-gb/vehicle/2016-xkss
+[4/62] Starting https://media.jlr.com/classic/en-gb/vehicle/c-type
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[4/62] ⚠️  Content completeness 33.1% (below 90.0%) — possible dropped content
+[4/62] ✅ Saved content to classic/en-gb/vehicle/c-type
+[5/62] Starting https://media.jlr.com/classic/en-gb/vehicle/d-type
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[5/62] ⚠️  Content completeness 35.4% (below 90.0%) — possible dropped content
+[5/62] ✅ Saved content to classic/en-gb/vehicle/d-type
+[6/62] Starting https://media.jlr.com/classic/en-gb/vehicle/discovery-1
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[6/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[6/62] ⚠️  Content completeness 65.2% (below 90.0%) — possible dropped content
+[6/62] ✅ Saved content to classic/en-gb/vehicle/discovery-1
+[7/62] Starting https://media.jlr.com/classic/en-gb/vehicle/discovery-2
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[7/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[7/62] ⚠️  Content completeness 63.4% (below 90.0%) — possible dropped content
+[7/62] ✅ Saved content to classic/en-gb/vehicle/discovery-2
+[8/62] Starting https://media.jlr.com/classic/en-gb/vehicle/discovery-3
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[8/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[8/62] ⚠️  Content completeness 52.5% (below 90.0%) — possible dropped content
+[8/62] ✅ Saved content to classic/en-gb/vehicle/discovery-3
+[9/62] Starting https://media.jlr.com/classic/en-gb/vehicle/e-type
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[9/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/classic/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[9/62] ⚠️  Content completeness 52.1% (below 90.0%) — possible dropped content
+[9/62] ✅ Saved content to classic/en-gb/vehicle/e-type
+[10/62] Starting https://media.jlr.com/classic/en-gb/vehicle/freelander-2
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[10/62] ⚠️  Content completeness 83.3% (below 90.0%) — possible dropped content
+[10/62] ✅ Saved content to classic/en-gb/vehicle/freelander-2
+[11/62] Starting https://media.jlr.com/classic/en-gb/vehicle/freelander
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[11/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[11/62] ⚠️  Content completeness 55.2% (below 90.0%) — possible dropped content
+[11/62] ✅ Saved content to classic/en-gb/vehicle/freelander
+[12/62] Starting https://media.jlr.com/classic/en-gb/vehicle/jaguar-mk-vii
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[12/62] ⚠️  Content completeness 34.2% (below 90.0%) — possible dropped content
+[12/62] ✅ Saved content to classic/en-gb/vehicle/jaguar-mk-vii
+[13/62] Starting https://media.jlr.com/classic/en-gb/vehicle/jaguar-mk-x
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[13/62] ⚠️  Content completeness 34.8% (below 90.0%) — possible dropped content
+[13/62] ✅ Saved content to classic/en-gb/vehicle/jaguar-mk-x
+[14/62] Starting https://media.jlr.com/classic/en-gb/vehicle/mk-ii
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[14/62] ⚠️  Content completeness 33.1% (below 90.0%) — possible dropped content
+[14/62] ✅ Saved content to classic/en-gb/vehicle/mk-ii
+[15/62] Starting https://media.jlr.com/classic/en-gb/vehicle/range-rover-%282001-2012%29
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[15/62] ⚠️  Content completeness 53.0% (below 90.0%) — possible dropped content
+[15/62] ✅ Saved content to classic/en-gb/vehicle/range-rover-2001-2012
+[16/62] Starting https://media.jlr.com/classic/en-gb/vehicle/range-rover-classic
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[16/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[16/62] ⚠️  Content completeness 73.5% (below 90.0%) — possible dropped content
+[16/62] ✅ Saved content to classic/en-gb/vehicle/range-rover-classic
+[17/62] Starting https://media.jlr.com/classic/en-gb/vehicle/range-rover-p38a
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[17/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[17/62] ⚠️  Content completeness 52.8% (below 90.0%) — possible dropped content
+[17/62] ✅ Saved content to classic/en-gb/vehicle/range-rover-p38a
+[18/62] Starting https://media.jlr.com/classic/en-gb/vehicle/range-rover-sport-%282004-2013%29
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[18/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[18/62] ⚠️  Content completeness 71.6% (below 90.0%) — possible dropped content
+[18/62] ✅ Saved content to classic/en-gb/vehicle/range-rover-sport-2004-2013
+[19/62] Starting https://media.jlr.com/classic/en-gb/vehicle/series-i
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[19/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] get data url from a base64 image (): InvalidCharacterError: Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded.
+    at HD.getDataUrlFromB64Img (<anonymous>:2:1949056)
+    at <anonymous>:2:1965145
+    at NodeList.forEach (<anonymous>)
+    at c.storageHandler.preProcess (<anonymous>:2:1964919)
+    at c.storageHandler.import (<anonymous>:2:1966145)
+[19/62] ⚠️  Content completeness 75.1% (below 90.0%) — possible dropped content
+[19/62] ✅ Saved content to classic/en-gb/vehicle/series-i
+[20/62] Starting https://media.jlr.com/classic/en-gb/vehicle/series-ii
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[20/62] ⚠️  Content completeness 64.8% (below 90.0%) — possible dropped content
+[20/62] ✅ Saved content to classic/en-gb/vehicle/series-ii
+[21/62] Starting https://media.jlr.com/classic/en-gb/vehicle/series-iii
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[21/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[21/62] ⚠️  Content completeness 56.1% (below 90.0%) — possible dropped content
+[21/62] ✅ Saved content to classic/en-gb/vehicle/series-iii
+[22/62] Starting https://media.jlr.com/classic/en-gb/vehicle/ss
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[22/62] ⚠️  Content completeness 32.2% (below 90.0%) — possible dropped content
+[22/62] ✅ Saved content to classic/en-gb/vehicle/ss
+[23/62] Starting https://media.jlr.com/classic/en-gb/vehicle/ss100
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[23/62] ⚠️  Content completeness 32.4% (below 90.0%) — possible dropped content
+[23/62] ✅ Saved content to classic/en-gb/vehicle/ss100
+[24/62] Starting https://media.jlr.com/classic/en-gb/vehicle/xj13
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[24/62] ⚠️  Content completeness 32.3% (below 90.0%) — possible dropped content
+[24/62] ✅ Saved content to classic/en-gb/vehicle/xj13
+[25/62] Starting https://media.jlr.com/classic/en-gb/vehicle/xj220
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[25/62] ⚠️  Content completeness 32.4% (below 90.0%) — possible dropped content
+[25/62] ✅ Saved content to classic/en-gb/vehicle/xj220
+[26/62] Starting https://media.jlr.com/classic/en-gb/vehicle/xjr9
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[26/62] ⚠️  Content completeness 32.3% (below 90.0%) — possible dropped content
+[26/62] ✅ Saved content to classic/en-gb/vehicle/xjr9
+[27/62] Starting https://media.jlr.com/classic/en-gb/vehicle/xk140
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[27/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] get data url from a base64 image (): InvalidCharacterError: Failed to execute 'atob' on 'Window': The string to be decoded is not correctly encoded.
+    at HD.getDataUrlFromB64Img (<anonymous>:2:1949056)
+    at <anonymous>:2:1965145
+    at NodeList.forEach (<anonymous>)
+    at c.storageHandler.preProcess (<anonymous>:2:1964919)
+    at c.storageHandler.import (<anonymous>:2:1966145)
+[27/62] ⚠️  Content completeness 32.4% (below 90.0%) — possible dropped content
+[27/62] ✅ Saved content to classic/en-gb/vehicle/xk140
+[28/62] Starting https://media.jlr.com/defender/en-gb/vehicle/defender-130
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[28/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[28/62] ⚠️  Content completeness 81.3% (below 90.0%) — possible dropped content
+[28/62] ✅ Saved content to defender/en-gb/vehicle/defender-130
+[29/62] Starting https://media.jlr.com/defender/en-gb/vehicle/defender-%281990-2016%29
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[29/62] ⚠️  Content completeness 87.7% (below 90.0%) — possible dropped content
+[29/62] ✅ Saved content to defender/en-gb/vehicle/defender-1990-2016
+[30/62] Starting https://media.jlr.com/defender/en-gb/vehicle/defender-90
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[30/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[30/62] ⚠️  Content completeness 83.0% (below 90.0%) — possible dropped content
+[30/62] ✅ Saved content to defender/en-gb/vehicle/defender-90
+[31/62] Starting https://media.jlr.com/defenderrally/en-gb/vehicle/defender-d7x-r
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[Browser Console] jQuery.Deferred exception TypeError: Cannot set properties of undefined (setting 'buttonClass')
+    at HTMLDocument.<anonymous> (https://media.jlr.com/defenderrally/themes/contrib/bootstrap/js/modal.jquery.ui.bridge.js?tnkewj:25:41)
+    at l (https://media.jlr.com/defenderrally/core/assets/vendor/jquery/jquery.min.js?v=4.0.0:2:24813)
+    at c (https://media.jlr.com/defenderrally/core/assets/vendor/jquery/jquery.min.js?v=4.0.0:2:25132) undefined
+[31/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[31/62] ⚠️  Content completeness 85.8% (below 90.0%) — possible dropped content
+[31/62] ✅ Saved content to defenderrally/en-gb/vehicle/defender-d7x-r
+[32/62] Starting https://media.jlr.com/discovery/en-gb/vehicle/discovery-4
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[32/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[32/62] ⚠️  Content completeness 87.4% (below 90.0%) — possible dropped content
+[32/62] ✅ Saved content to discovery/en-gb/vehicle/discovery-4
+[33/62] Starting https://media.jlr.com/discovery/en-gb/vehicle/discovery-sport
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[33/62] ⚠️  Content completeness 85.5% (below 90.0%) — possible dropped content
+[33/62] ✅ Saved content to discovery/en-gb/vehicle/discovery-sport
+[34/62] Starting https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[34/62] ⚠️  Content completeness 87.7% (below 90.0%) — possible dropped content
+[34/62] ✅ Saved content to discovery/en-gb/vehicle/discovery-vision-concept
+[35/62] Starting https://media.jlr.com/discovery/en-gb/vehicle/discovery
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[35/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[35/62] ⚠️  Content completeness 85.0% (below 90.0%) — possible dropped content
+[35/62] ✅ Saved content to discovery/en-gb/vehicle/discovery
+[36/62] Starting https://media.jlr.com/jaguar/en-gb/vehicle/type-01
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 404 ()
+[36/62] ⚠️  Content completeness 58.5% (below 90.0%) — possible dropped content
+[36/62] ✅ Saved content to jaguar/en-gb/vehicle/type-01
+[37/62] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-pace-etrophy
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[37/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[37/62] ⚠️  Content completeness 36.0% (below 90.0%) — possible dropped content
+[37/62] ✅ Saved content to jaguar-tcs-racing/en-gb/vehicle/i-pace-etrophy
+[38/62] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-2
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[38/62] ⚠️  Content completeness 36.0% (below 90.0%) — possible dropped content
+[38/62] ✅ Saved content to jaguar-tcs-racing/en-gb/vehicle/i-type-2
+[39/62] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-3
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[39/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] Failed to load resource: the server responded with a status of 503 ()
+[39/62] ⚠️  Content completeness 35.1% (below 90.0%) — possible dropped content
+[39/62] ✅ Saved content to jaguar-tcs-racing/en-gb/vehicle/i-type-3
+[40/62] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-4
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[40/62] ⚠️  Content completeness 36.0% (below 90.0%) — possible dropped content
+[40/62] ✅ Saved content to jaguar-tcs-racing/en-gb/vehicle/i-type-4
+[41/62] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-5
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[41/62] ⚠️  Content completeness 49.5% (below 90.0%) — possible dropped content
+[41/62] ✅ Saved content to jaguar-tcs-racing/en-gb/vehicle/i-type-5
+[42/62] Starting https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-6
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:273506)
+    at t._render (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/jaguar-tcs-racing/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[42/62] ⚠️  Content completeness 84.3% (below 90.0%) — possible dropped content
+[42/62] ✅ Saved content to jaguar-tcs-racing/en-gb/vehicle/i-type-6
+[43/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range_e
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] jQuery.Deferred exception TypeError: Cannot set properties of undefined (setting 'buttonClass')
+    at HTMLDocument.<anonymous> (https://media.jlr.com/range-rover/themes/contrib/bootstrap/js/modal.jquery.ui.bridge.js?tnkewj:25:41)
+    at l (https://media.jlr.com/range-rover/core/assets/vendor/jquery/jquery.min.js?v=4.0.0:2:24813)
+    at c (https://media.jlr.com/range-rover/core/assets/vendor/jquery/jquery.min.js?v=4.0.0:2:25132) undefined
+[43/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[43/62] ⚠️  Content completeness 85.0% (below 90.0%) — possible dropped content
+[43/62] ✅ Saved content to range-rover/en-gb/vehicle/range-e
+[44/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-%282012-2021%29
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[44/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[44/62] ⚠️  Content completeness 86.6% (below 90.0%) — possible dropped content
+[44/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-2012-2021
+[45/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-electric
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[45/62] ⚠️  Content completeness 53.1% (below 90.0%) — possible dropped content
+[45/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-electric
+[46/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque-%282010-2018%29
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[46/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[46/62] ⚠️  Content completeness 86.5% (below 90.0%) — possible dropped content
+[46/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-evoque-2010-2018
+[47/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[47/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[47/62] ⚠️  Content completeness 86.6% (below 90.0%) — possible dropped content
+[47/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-evoque
+[48/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-gt
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[48/62] ⚠️  Content completeness 54.5% (below 90.0%) — possible dropped content
+[48/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-gt
+[49/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-lrx
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[49/62] ⚠️  Content completeness 46.8% (below 90.0%) — possible dropped content
+[49/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-lrx
+[50/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sentinel
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[50/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[Browser Console] TypeError: Cannot read properties of undefined (reading '0')
+    at i.<anonymous> (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:272299)
+    at t._render (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:44434)
+    at i.r (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78320)
+    at t.get (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26873)
+    at new t (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:26786)
+    at https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78334
+    at er.$mount (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:78552)
+    at er.$mount (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:105889)
+    at init (https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:32172)
+    at https://media.jlr.com/range-rover/themes/custom/jlr_media/js/compiled/vue-main.js?tnkewj:2:66615
+[50/62] ⚠️  Content completeness 63.9% (below 90.0%) — possible dropped content
+[50/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-sentinel
+[51/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-%282013-2022%29
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[51/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[51/62] ⚠️  Content completeness 89.4% (below 90.0%) — possible dropped content
+[51/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-sport-2013-2022
+[52/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-electric
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[52/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[52/62] ⚠️  Content completeness 56.5% (below 90.0%) — possible dropped content
+[52/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-sport-electric
+[53/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-sv
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[53/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[53/62] ⚠️  Content completeness 82.7% (below 90.0%) — possible dropped content
+[53/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-sport-sv
+[54/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-svr
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[54/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[54/62] ⚠️  Content completeness 88.1% (below 90.0%) — possible dropped content
+[54/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-sport-svr
+[55/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[55/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[55/62] ⚠️  Content completeness 83.3% (below 90.0%) — possible dropped content
+[55/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-sport
+[56/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sv
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[56/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[56/62] ⚠️  Content completeness 80.6% (below 90.0%) — possible dropped content
+[56/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-sv
+[57/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography-dynamic
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[57/62] ⚠️  Content completeness 71.5% (below 90.0%) — possible dropped content
+[57/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-svautobiography-dynamic
+[58/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[58/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[58/62] ⚠️  Content completeness 75.7% (below 90.0%) — possible dropped content
+[58/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-svautobiography
+[59/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[59/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[59/62] ⚠️  Content completeness 61.1% (below 90.0%) — possible dropped content
+[59/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition
+[60/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[60/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[60/62] ⚠️  Content completeness 88.0% (below 90.0%) — possible dropped content
+[60/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover-velar
+[61/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-rover
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[61/62] ⚠️  Falling back to domcontentloaded...
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[61/62] ⚠️  Content completeness 86.1% (below 90.0%) — possible dropped content
+[61/62] ✅ Saved content to range-rover/en-gb/vehicle/range-rover
+[62/62] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range-stormer
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[62/62] ⚠️  Content completeness 83.4% (below 90.0%) — possible dropped content
+[62/62] ✅ Saved content to range-rover/en-gb/vehicle/range-stormer
+[Bulk Import] Completed. Success: 62/62, Reused: 0, Failures: 0
+[Excel Export] Found 115 report file(s). Compiling to Excel...
+[Excel Export] ✅ Compiled 115 reports to: /backups/waringme/jlr-xwalk/repo/tools/importer/reports/import-vehicle-detail.report.xlsx

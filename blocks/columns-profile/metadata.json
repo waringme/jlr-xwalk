@@ -1,0 +1,19 @@
+{
+  "variantName": "columns-profile",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "image + heading + text + link"
+  },
+  "contentPattern": "One row, two cells. Cell 1: portrait image only. Cell 2: name heading (h1/h2), role as the next short paragraph or heading, biography paragraphs, and a link-only paragraph for the Download Biography button.",
+  "options": [],
+  "memberVariantIds": [
+    "v_bd4950f37c3e"
+  ],
+  "usage": "Person detail (bio) pages: portrait on a dark radial-gradient panel beside name, role, a scrolling grey biography box and a Download Biography button.",
+  "reuseGuidance": "Use for a single person profile. For lists of people use cards-people."
+}

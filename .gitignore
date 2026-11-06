@@ -11,3 +11,14 @@ helix-importer-ui
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md
+
+# >>> stardust
+.env
+.env.*
+# <<< stardust
+
+# JCR package build output (large, regenerable)
+tools/jcr-package/build/
+tools/jcr-package/.cache/
+tools/jcr-package/dist/
+tools/jcr-package/build.log

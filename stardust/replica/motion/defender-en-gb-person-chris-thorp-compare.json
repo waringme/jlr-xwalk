@@ -1,0 +1,89 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb-person-chris-thorp.json",
+  "build": "stardust/replica/motion/defender-en-gb-person-chris-thorp-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 10,
+    "parity": 9,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 1,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "hover",
+      "name": ".bio-download-wrapper a",
+      "state": "parity",
+      "note": "i.color, self.background, self.color; 300ms",
+      "line": "motion hover .bio-download-wrapper a: parity (i.color, self.background, self.color; 300ms)"
+    },
+    {
+      "cls": "hover",
+      "name": ".bottom-back a",
+      "state": "parity",
+      "note": "self.background, self.color; n/a",
+      "line": "motion hover .bottom-back a: parity (self.background, self.color; n/a)"
+    },
+    {
+      "cls": "hover",
+      "name": ".person-title h1",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .person-title h1: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "entrance",
+      "name": "hvr-icon-push",
+      "state": "parity",
+      "note": "fired on 1 element(s)",
+      "line": "motion entrance hvr-icon-push: parity (fired on 1 element(s))"
+    },
+    {
+      "cls": "transition",
+      "name": "color",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 300ms",
+      "line": "motion transition color: parity (2 event(s) on live, 2 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "32 event(s) on live, 32 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (32 event(s) on live, 32 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "32 event(s) on live, 32 on build, 300ms",
+      "line": "motion transition margin-top: parity (32 event(s) on live, 32 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 500ms",
+      "line": "motion transition top: parity (4 event(s) on live, 4 on build, 500ms)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 4× on live, 5× on build",
+      "line": "motion class bottom-shadow: parity (added 4× on live, 5× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 2× on live, 5× on build",
+      "line": "motion class shrink: parity (added 2× on live, 5× on build)"
+    }
+  ]
+}

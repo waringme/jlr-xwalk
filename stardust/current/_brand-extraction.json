@@ -1,0 +1,3969 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-05T16:29:19.117Z",
+    "readArtifacts": [
+      "stardust/current/_computed-styles.json",
+      "stardust/current/pages/*.json (352)",
+      "stardust/.work/fonts.json",
+      "stardust/.work/analysis.json",
+      "stardust/.work/css/media.jlr.com_themes_custom_jlr_media_css_main.css"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.32.1",
+    "censusFailed": [
+      {
+        "url": "https://media.jlr.com/classic/en-gb/news/2024/08/introducing-classic-defender-v8-works-bespoke",
+        "width": 1440,
+        "error": "page.goto: Timeout 20000ms exceeded."
+      },
+      {
+        "url": "https://media.jlr.com/classic/en-gb/news/2026/06/colour-changing-classic-defender-v8-family-introduces-new-double-cab-option",
+        "width": 1440,
+        "error": "page.goto: Timeout 20000ms exceeded."
+      },
+      {
+        "url": "https://media.jlr.com/discovery/en-gb/image-packs/discovery-tempest-0",
+        "width": 1440,
+        "error": "page.goto: Timeout 20000ms exceeded."
+      },
+      {
+        "url": "https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+        "width": 1440,
+        "error": "page.goto: Timeout 20000ms exceeded."
+      },
+      {
+        "url": "https://media.jlr.com/en-gb/image-packs/discovery-tempest-0",
+        "width": 1440,
+        "error": "page.goto: Timeout 20000ms exceeded."
+      },
+      {
+        "url": "https://media.jlr.com/jaguar/en-gb/news/2026/07/championing-originality-jaguar-and-royal-college-art-announce-jaguar-awards-winners",
+        "width": 1440,
+        "error": "page.goto: Timeout 20000ms exceeded."
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/en-gb/news/2026/07/introducing-range-rover-sport-electric-pinnacle-sporting-luxury",
+        "width": 1440,
+        "error": "page.goto: Timeout 20000ms exceeded."
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/en-gb/node/29462",
+        "width": 1440,
+        "error": "page.goto: Timeout 20000ms exceeded."
+      }
+    ],
+    "notes": [
+      "palette excludes alpha overlays (#00000099, #000000cc, #000000b3, #ffffffbf) and share-button social fills (#0077b5, #0166ff, #1877f2)",
+      "palette capped at 8 of 15 census clusters; dropped: #c4c4c4(1026), #aaaaaa(520), #dedede(433), #777777(322), #b0b7bb(36), #999999(6), #414143(5)",
+      "heroMedium null: the landing carousels (slick) are still images; brand-landing heroes are image carousels, videos only appear inside video packs"
+    ]
+  },
+  "site": {
+    "name": "JLR Media Newsroom",
+    "tagline": "Media Landing Homepage",
+    "originUrl": "https://media.jlr.com/en-gb",
+    "subSites": [
+      "range-rover",
+      "defender",
+      "defenderrally",
+      "discovery",
+      "jaguar",
+      "jaguar-tcs-racing",
+      "classic"
+    ]
+  },
+  "origins": [
+    {
+      "origin": "https://media.jlr.com",
+      "role": "primary",
+      "pagesCaptured": 352,
+      "contributedSignals": []
+    }
+  ],
+  "logo": {
+    "source": "apple-touch-icon",
+    "sourceSelector": "link[rel=\"apple-touch-icon\"] (/themes/custom/jlr_media/favicon/medialanding/apple-touch-icon.png)",
+    "url": "https://media.jlr.com/themes/custom/jlr_media/favicon/medialanding/apple-touch-icon.png?v=2026082001",
+    "localPath": "stardust/current/assets/logo.png",
+    "format": "png",
+    "intrinsicWidth": 180,
+    "intrinsicHeight": 180,
+    "synthesized": false,
+    "synthesizedBasis": null,
+    "perSite": [
+      {
+        "site": "classic-en-gb",
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/classic-logo-dark.svg",
+        "alt": "jaguarlandroverclassic.com logo",
+        "rect": {
+          "x": 150,
+          "y": 92,
+          "w": 93,
+          "h": 27
+        },
+        "localPath": "stardust/current/assets/logos/classic-logo-dark.svg"
+      },
+      {
+        "site": "defender-en-gb",
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/defender-logo-dark.svg",
+        "alt": "Defender logo",
+        "rect": {
+          "x": 150,
+          "y": 98,
+          "w": 145,
+          "h": 14
+        },
+        "localPath": "stardust/current/assets/logos/defender-logo-dark.svg"
+      },
+      {
+        "site": "defenderrally-en-gb",
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/defender-rally-logo-dark.png",
+        "alt": "Defender Rally logo",
+        "rect": {
+          "x": 150,
+          "y": 92,
+          "w": 117,
+          "h": 32
+        },
+        "localPath": "stardust/current/assets/logos/defender-rally-logo-dark.png"
+      },
+      {
+        "site": "discovery-en-gb",
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/discovery-logo-dark.svg",
+        "alt": "Discovery logo",
+        "rect": {
+          "x": 150,
+          "y": 99,
+          "w": 169,
+          "h": 12
+        },
+        "localPath": "stardust/current/assets/logos/discovery-logo-dark.svg"
+      },
+      {
+        "site": "jaguar-en-gb",
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/jaguar-logo-dark.svg",
+        "alt": "jaguar.com logo",
+        "rect": {
+          "x": 150,
+          "y": 85,
+          "w": 146,
+          "h": 18
+        },
+        "localPath": "stardust/current/assets/logos/jaguar-logo-dark.svg"
+      },
+      {
+        "site": "jaguar-tcs-racing-en-gb",
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/jaguar-racing-logo-dark.png",
+        "alt": "Jaguar TCS Racing logo",
+        "rect": {
+          "x": 150,
+          "y": 92,
+          "w": 97,
+          "h": 65
+        },
+        "localPath": "stardust/current/assets/logos/jaguar-racing-logo-dark.png"
+      },
+      {
+        "site": "range-rover-en-gb",
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/range-rover-logo-dark.svg",
+        "alt": "rangerover.com logo",
+        "rect": {
+          "x": 150,
+          "y": 97,
+          "w": 282,
+          "h": 15
+        },
+        "localPath": "stardust/current/assets/logos/range-rover-logo-dark.svg"
+      }
+    ],
+    "variantsCaptured": [
+      "header .brand-heading__logo per brand → assets/logos/*-logo-dark.(svg|png)",
+      "JLR corporate mark (DOM, not rendered on /en-gb) → assets/logos/main-corporate-logo-gray.svg",
+      "newsletter-band marks → assets/logos/jlr-logo-black-2025.svg, landrover-logo.png",
+      "per-site favicons + apple-touch-icons → assets/favicons/",
+      "explore-brands white logos (URLs in pages/en-gb.json#slots)"
+    ],
+    "variantsNotCaptured": [
+      "inverted / monochrome header variants as files beyond the white explore-brands logos",
+      "inline-SVG serialisation (no inline SVG logos on the site)"
+    ],
+    "_provenance": {
+      "notes": "apple-touch-icon via the chain: /en-gb shows no rendered header logo; brand headers render their marks below the 32 px gate (classic-en-gb 93×27, defender-en-gb 145×14, defenderrally-en-gb 117×32, discovery-en-gb 169×12, jaguar-en-gb 146×18, jaguar-tcs-racing-en-gb 97×65, range-rover-en-gb 282×15) — all saved as variants"
+    }
+  },
+  "palette": [
+    {
+      "role": "primary",
+      "alsoRole": "text-primary",
+      "value": "#0c121c",
+      "occurrences": 26514,
+      "bgArea": 15570932,
+      "usedAs": [
+        "text",
+        "background",
+        "border"
+      ],
+      "censusRoles": [
+        "text",
+        "primary",
+        "heading"
+      ],
+      "sources": [
+        "jaguar-en-gb-jlr-privacy-policy",
+        "defender-en-gb-jlr-privacy-policy",
+        "jaguar-tcs-racing-en-gb-jlr-privacy-policy"
+      ],
+      "sourceSelectors": [
+        "body > a (text)",
+        "body > a (text)",
+        "body > a (text)"
+      ]
+    },
+    {
+      "role": "background",
+      "value": "#ffffff",
+      "occurrences": 23711,
+      "bgArea": 2318983959,
+      "usedAs": [
+        "text",
+        "border",
+        "background"
+      ],
+      "censusRoles": [
+        "background"
+      ],
+      "sources": [
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+      ],
+      "sourceSelectors": [
+        "div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a > span:nth-of-type(2) (text)",
+        "div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a > span:nth-of-type(2) (text)",
+        "div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a > span:nth-of-type(2) (text)"
+      ]
+    },
+    {
+      "role": "text-strong",
+      "value": "#000000",
+      "occurrences": 16591,
+      "bgArea": 28253332,
+      "usedAs": [
+        "text",
+        "border",
+        "background"
+      ],
+      "censusRoles": [
+        "accent"
+      ],
+      "sources": [
+        "jaguar-en-gb-videos",
+        "range-rover-en-gb-videos",
+        "discovery-en-gb-videos"
+      ],
+      "sourceSelectors": [
+        "#navbar1 > button > span (text)",
+        "#navbar1 > button > span (text)",
+        "#navbar1 > button > span (text)"
+      ]
+    },
+    {
+      "role": "text-secondary",
+      "value": "#333333",
+      "occurrences": 6623,
+      "bgArea": 0,
+      "usedAs": [
+        "text",
+        "border"
+      ],
+      "censusRoles": [],
+      "sources": [
+        "classic-en-gb-jlr-privacy-policy",
+        "defender-en-gb-jlr-privacy-policy",
+        "defenderrally-en-gb-jlr-privacy-policy"
+      ],
+      "sourceSelectors": [
+        "div > div > div > div > div > div > p:nth-of-type(1) > strong (text)",
+        "div > div > div > div > div > div > p:nth-of-type(1) > strong (text)",
+        "div > div > div > div > div > div > p:nth-of-type(1) > strong (text)"
+      ]
+    },
+    {
+      "role": "border",
+      "value": "#d1d5db",
+      "occurrences": 3144,
+      "bgArea": 0,
+      "usedAs": [
+        "border"
+      ],
+      "censusRoles": [
+        "border"
+      ],
+      "sources": [
+        "classic-en-gb-image-packs",
+        "classic-en-gb-images",
+        "classic-en-gb-videos"
+      ],
+      "sourceSelectors": [
+        "div:nth-of-type(1) > div > div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div:nth-of-type(1) (border)",
+        "#colMain > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) (border)",
+        "#colMain > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) (border)"
+      ]
+    },
+    {
+      "role": "surface",
+      "value": "#e9ecec",
+      "occurrences": 1837,
+      "bgArea": 60823171,
+      "usedAs": [
+        "border",
+        "background"
+      ],
+      "censusRoles": [
+        "secondary"
+      ],
+      "sources": [
+        "classic-en-gb-mobile-vehicle-menu",
+        "range-rover-en-gb-mobile-vehicle-menu",
+        "range-rover-en-gb-tech-specs"
+      ],
+      "sourceSelectors": [
+        "#main-nav > div:nth-of-type(2) > div:nth-of-type(2) (border)",
+        "#main-nav > div:nth-of-type(2) > div:nth-of-type(2) (border)",
+        "div > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > div:nth-of-type(1) (background)"
+      ]
+    },
+    {
+      "role": "text-muted",
+      "value": "#555555",
+      "occurrences": 1727,
+      "bgArea": 0,
+      "usedAs": [
+        "text",
+        "border"
+      ],
+      "censusRoles": [],
+      "sources": [
+        "jaguar-tcs-racing-en-gb-news-2019-02-new-range-rover-velar-svautobiography-dynamic-edition-refined-power",
+        "range-rover-en-gb-news-2026-09-range-rover-electric-new-era-original-luxury-suv",
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv"
+      ],
+      "sourceSelectors": [
+        "div > div:nth-of-type(2) > div > div > div > div > div > p:nth-of-type(1) (text)",
+        "div > div > div > div > ul > li:nth-of-type(1) > p > span:nth-of-type(1) (text)",
+        "div:nth-of-type(3) > div > div:nth-of-type(2) > div > div > div > div > p:nth-of-type(1) (text)"
+      ]
+    },
+    {
+      "role": "surface-dark",
+      "value": "#1e1e1e",
+      "occurrences": 1080,
+      "bgArea": 79030224,
+      "usedAs": [
+        "background",
+        "text"
+      ],
+      "censusRoles": [
+        "surface"
+      ],
+      "sources": [
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+      ],
+      "sourceSelectors": [
+        "div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div (background)",
+        "div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div (background)",
+        "div:nth-of-type(2) > div > div > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div (background)"
+      ]
+    }
+  ],
+  "type": {
+    "headingFamily": {
+      "name": "JLREmeric-Regular",
+      "stack": "JLREmeric-Regular",
+      "sizes": [
+        "30px",
+        "30px",
+        "16px",
+        "16px",
+        "20px",
+        "20px"
+      ],
+      "levels": [
+        {
+          "level": "h1",
+          "fontSize": "30px",
+          "fontWeight": 500,
+          "count": 102,
+          "score": 378.73
+        },
+        {
+          "level": "h2",
+          "fontSize": "30px",
+          "fontWeight": 700,
+          "count": 105,
+          "score": 537.96
+        },
+        {
+          "level": "h3",
+          "fontSize": "16px",
+          "fontWeight": 400,
+          "count": 888,
+          "score": 476.79
+        },
+        {
+          "level": "h4",
+          "fontSize": "16px",
+          "fontWeight": 700,
+          "count": 490,
+          "score": 619.81
+        },
+        {
+          "level": "h5",
+          "fontSize": "20px",
+          "fontWeight": 700,
+          "count": 122,
+          "score": 386.59
+        },
+        {
+          "level": "h6",
+          "fontSize": "20px",
+          "fontWeight": 700,
+          "count": 10,
+          "score": 110.68
+        }
+      ],
+      "census": {
+        "family": "JLREmeric-Regular",
+        "count": 1729,
+        "headings": 838,
+        "text": 254,
+        "buttons": 637
+      },
+      "sourceSelectors": [
+        "h1",
+        "h2",
+        "h3",
+        ".page-title",
+        ".bt-component-heading"
+      ]
+    },
+    "bodyFamily": {
+      "name": "JLREmeric-Regular",
+      "stack": "JLREmeric-Regular",
+      "secondary": {
+        "name": "jlr_emeric_extralight",
+        "stack": "jlr_emeric_extralight",
+        "use": "14px/300 descriptions and labels"
+      },
+      "census": {
+        "family": "JLREmeric-Regular",
+        "count": 1729,
+        "headings": 838,
+        "text": 254,
+        "buttons": 637
+      },
+      "crossPageTextLeader": "NeusaNeu-Regular",
+      "sourceSelectors": [
+        "p",
+        "li",
+        ".bt-card-description"
+      ]
+    },
+    "monoFamily": null,
+    "familiesInUse": [
+      {
+        "family": "HelveticaNowText-Regular",
+        "count": 4713,
+        "headings": 711,
+        "text": 278,
+        "buttons": 3724
+      },
+      {
+        "family": "NeusaNeu-Regular",
+        "count": 2196,
+        "headings": 691,
+        "text": 376,
+        "buttons": 1129
+      },
+      {
+        "family": "JaguarExuberantRegular",
+        "count": 1833,
+        "headings": 510,
+        "text": 308,
+        "buttons": 1015
+      },
+      {
+        "family": "JLREmeric-Regular",
+        "count": 1729,
+        "headings": 838,
+        "text": 254,
+        "buttons": 637
+      },
+      {
+        "family": "AvenirNext-Regular",
+        "count": 1294,
+        "headings": 338,
+        "text": 196,
+        "buttons": 760
+      },
+      {
+        "family": "jlr_emeric_extralight",
+        "count": 720,
+        "headings": 160,
+        "text": 80,
+        "buttons": 480
+      },
+      {
+        "family": "HelveticaNowText-Medium",
+        "count": 641,
+        "headings": 608,
+        "text": 33,
+        "buttons": 0
+      },
+      {
+        "family": "JaguarExuberantBold",
+        "count": 545,
+        "headings": 539,
+        "text": 6,
+        "buttons": 0
+      },
+      {
+        "family": "NeusaNeu-Medium",
+        "count": 527,
+        "headings": 524,
+        "text": 3,
+        "buttons": 0
+      },
+      {
+        "family": "LandRoverWeb-Medium",
+        "count": 362,
+        "headings": 269,
+        "text": 36,
+        "buttons": 57
+      },
+      {
+        "family": "LandRoverWeb-Bold",
+        "count": 252,
+        "headings": 252,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "family": "NeusaNeu-WideBold",
+        "count": 81,
+        "headings": 77,
+        "text": 4,
+        "buttons": 0
+      }
+    ],
+    "sizes": [
+      {
+        "px": 30,
+        "count": 569,
+        "headings": 569,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 28,
+        "count": 394,
+        "headings": 394,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 24,
+        "count": 46,
+        "headings": 46,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 20,
+        "count": 922,
+        "headings": 763,
+        "text": 159,
+        "buttons": 0
+      },
+      {
+        "px": 18,
+        "count": 671,
+        "headings": 202,
+        "text": 449,
+        "buttons": 20
+      },
+      {
+        "px": 17,
+        "count": 79,
+        "headings": 0,
+        "text": 79,
+        "buttons": 0
+      },
+      {
+        "px": 16,
+        "count": 3182,
+        "headings": 2371,
+        "text": 481,
+        "buttons": 330
+      },
+      {
+        "px": 14,
+        "count": 7956,
+        "headings": 1172,
+        "text": 401,
+        "buttons": 6383
+      },
+      {
+        "px": 12,
+        "count": 175,
+        "headings": 0,
+        "text": 5,
+        "buttons": 170
+      },
+      {
+        "px": 10,
+        "count": 899,
+        "headings": 0,
+        "text": 0,
+        "buttons": 899
+      }
+    ],
+    "weights": [
+      {
+        "weight": "400",
+        "count": 11734,
+        "headings": 3077,
+        "text": 1378,
+        "buttons": 7279
+      },
+      {
+        "weight": "500",
+        "count": 1568,
+        "headings": 1409,
+        "text": 102,
+        "buttons": 57
+      },
+      {
+        "weight": "700",
+        "count": 1348,
+        "headings": 868,
+        "text": 14,
+        "buttons": 466
+      },
+      {
+        "weight": "300",
+        "count": 243,
+        "headings": 163,
+        "text": 80,
+        "buttons": 0
+      }
+    ],
+    "scaleRatio": null,
+    "scaleAudit": {
+      "kind": "ad-hoc",
+      "ratios": [
+        1.5,
+        1.25
+      ],
+      "matchedScale": null,
+      "sizesPx": [
+        30,
+        20,
+        16
+      ]
+    },
+    "loadStrategy": "swap",
+    "perBrand": {
+      "classic": {
+        "pages": 68,
+        "headingFamilies": [
+          {
+            "family": "JLREmeric-Regular",
+            "count": 701
+          },
+          {
+            "family": "jlr_emeric_extralight",
+            "count": 156
+          }
+        ],
+        "textFamilies": [
+          {
+            "family": "JLREmeric-Regular",
+            "count": 152
+          },
+          {
+            "family": "jlr_emeric_extralight",
+            "count": 74
+          }
+        ],
+        "buttonFamilies": [
+          {
+            "family": "JLREmeric-Regular",
+            "count": 612
+          },
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 544
+          },
+          {
+            "family": "jlr_emeric_extralight",
+            "count": 402
+          }
+        ],
+        "headingTransform": [
+          [
+            "uppercase",
+            660
+          ],
+          [
+            "none",
+            197
+          ]
+        ],
+        "body": [
+          [
+            "18px/28.8px/400",
+            70
+          ],
+          [
+            "14px/22.4px/300",
+            55
+          ],
+          [
+            "16px/25.6px/400",
+            44
+          ]
+        ],
+        "levels": {
+          "h1": [
+            [
+              "30px | 400 | JLREmeric-Regular | 36px | none | normal",
+              62
+            ],
+            [
+              "20px | 400 | JLREmeric-Regular | 24px | uppercase | 1.43px",
+              36
+            ]
+          ],
+          "h2": [
+            [
+              "30px | 400 | JLREmeric-Regular | 36px | none | normal",
+              48
+            ],
+            [
+              "28px | 400 | JLREmeric-Regular | 33.6px | uppercase | normal",
+              23
+            ]
+          ],
+          "h3": [
+            [
+              "16px | 400 | JLREmeric-Regular | 20.8px | uppercase | 1.41px",
+              116
+            ],
+            [
+              "16px | 300 | JLREmeric-Regular | 20.8px | uppercase | 1.14px",
+              26
+            ]
+          ],
+          "h4": [
+            [
+              "16px | 400 | JLREmeric-Regular | 20.8px | uppercase | 1px",
+              268
+            ],
+            [
+              "14px | 300 | jlr_emeric_extralight | 18.2px | uppercase | 0.71px",
+              52
+            ]
+          ],
+          "h5": [
+            [
+              "14px | 300 | jlr_emeric_extralight | 18.2px | uppercase | 0.71px",
+              60
+            ],
+            [
+              "20px | 400 | JLREmeric-Regular | 26px | none | normal",
+              31
+            ]
+          ]
+        }
+      },
+      "defender": {
+        "pages": 54,
+        "headingFamilies": [
+          {
+            "family": "NeusaNeu-Regular",
+            "count": 559
+          },
+          {
+            "family": "NeusaNeu-Medium",
+            "count": 383
+          }
+        ],
+        "textFamilies": [
+          {
+            "family": "NeusaNeu-Regular",
+            "count": 261
+          },
+          {
+            "family": "NeusaNeu-Medium",
+            "count": 3
+          }
+        ],
+        "buttonFamilies": [
+          {
+            "family": "NeusaNeu-Regular",
+            "count": 817
+          },
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 432
+          }
+        ],
+        "headingTransform": [
+          [
+            "none",
+            636
+          ],
+          [
+            "uppercase",
+            306
+          ]
+        ],
+        "body": [
+          [
+            "16px/25.6px/400",
+            76
+          ],
+          [
+            "14px/22.4px/400",
+            65
+          ],
+          [
+            "18px/28.8px/400",
+            59
+          ]
+        ],
+        "levels": {
+          "h1": [
+            [
+              "20px | 400 | NeusaNeu-Regular | 24px | none | 0.58px",
+              36
+            ],
+            [
+              "30px | 500 | NeusaNeu-Medium | 36px | none | normal",
+              23
+            ]
+          ],
+          "h2": [
+            [
+              "30px | 500 | NeusaNeu-Medium | 36px | none | normal",
+              56
+            ],
+            [
+              "28px | 400 | NeusaNeu-Regular | 33.6px | uppercase | normal",
+              42
+            ]
+          ],
+          "h3": [
+            [
+              "16px | 400 | NeusaNeu-Regular | 20.8px | none | normal",
+              172
+            ],
+            [
+              "20px | 500 | NeusaNeu-Medium | 26px | none | normal",
+              16
+            ]
+          ],
+          "h4": [
+            [
+              "16px | 500 | NeusaNeu-Medium | 20.8px | uppercase | 1px",
+              208
+            ],
+            [
+              "14px | 400 | NeusaNeu-Regular | 18.2px | none | normal",
+              84
+            ]
+          ],
+          "h5": [
+            [
+              "14px | 400 | NeusaNeu-Regular | 18.2px | none | normal",
+              78
+            ],
+            [
+              "20px | 500 | NeusaNeu-Medium | 26px | none | normal",
+              30
+            ]
+          ],
+          "h6": [
+            [
+              "20px | 500 | NeusaNeu-Medium | 26px | none | normal",
+              5
+            ]
+          ]
+        }
+      },
+      "defenderrally": {
+        "pages": 27,
+        "headingFamilies": [
+          {
+            "family": "NeusaNeu-Medium",
+            "count": 141
+          },
+          {
+            "family": "NeusaNeu-Regular",
+            "count": 132
+          },
+          {
+            "family": "NeusaNeu-WideBold",
+            "count": 77
+          }
+        ],
+        "textFamilies": [
+          {
+            "family": "NeusaNeu-Regular",
+            "count": 115
+          },
+          {
+            "family": "NeusaNeu-WideBold",
+            "count": 4
+          }
+        ],
+        "buttonFamilies": [
+          {
+            "family": "NeusaNeu-Regular",
+            "count": 312
+          },
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 216
+          }
+        ],
+        "headingTransform": [
+          [
+            "none",
+            203
+          ],
+          [
+            "uppercase",
+            147
+          ]
+        ],
+        "body": [
+          [
+            "16px/25.6px/400",
+            45
+          ],
+          [
+            "18px/28.8px/400",
+            31
+          ],
+          [
+            "14px/22.4px/400",
+            26
+          ]
+        ],
+        "levels": {
+          "h1": [
+            [
+              "30px | 700 | NeusaNeu-WideBold | 36px | none | normal",
+              10
+            ],
+            [
+              "18px | 700 | NeusaNeu-WideBold | 21.6px | uppercase | 0.58px",
+              9
+            ]
+          ],
+          "h2": [
+            [
+              "30px | 700 | NeusaNeu-WideBold | 36px | none | normal",
+              29
+            ],
+            [
+              "28px | 400 | NeusaNeu-Regular | 33.6px | uppercase | normal",
+              14
+            ]
+          ],
+          "h3": [
+            [
+              "16px | 400 | NeusaNeu-Regular | 20.8px | none | normal",
+              52
+            ],
+            [
+              "28px | 400 | NeusaNeu-Regular | 33.6px | none | normal",
+              5
+            ]
+          ],
+          "h4": [
+            [
+              "16px | 500 | NeusaNeu-Medium | 20.8px | uppercase | 1px",
+              81
+            ],
+            [
+              "14px | 400 | NeusaNeu-Regular | 18.2px | none | normal",
+              23
+            ]
+          ],
+          "h5": [
+            [
+              "20px | 500 | NeusaNeu-Medium | 26px | none | normal",
+              49
+            ],
+            [
+              "14px | 400 | NeusaNeu-Regular | 18.2px | none | normal",
+              23
+            ]
+          ]
+        }
+      },
+      "discovery": {
+        "pages": 47,
+        "headingFamilies": [
+          {
+            "family": "AvenirNext-Regular",
+            "count": 338
+          },
+          {
+            "family": "LandRoverWeb-Medium",
+            "count": 269
+          },
+          {
+            "family": "LandRoverWeb-Bold",
+            "count": 252
+          }
+        ],
+        "textFamilies": [
+          {
+            "family": "AvenirNext-Regular",
+            "count": 196
+          },
+          {
+            "family": "LandRoverWeb-Medium",
+            "count": 36
+          }
+        ],
+        "buttonFamilies": [
+          {
+            "family": "AvenirNext-Regular",
+            "count": 760
+          },
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 376
+          },
+          {
+            "family": "LandRoverWeb-Medium",
+            "count": 57
+          }
+        ],
+        "headingTransform": [
+          [
+            "none",
+            593
+          ],
+          [
+            "uppercase",
+            266
+          ]
+        ],
+        "body": [
+          [
+            "16px/25.6px/400",
+            76
+          ],
+          [
+            "14px/22.4px/400",
+            55
+          ],
+          [
+            "18px/28.8px/400",
+            42
+          ]
+        ],
+        "levels": {
+          "h1": [
+            [
+              "20px | 500 | LandRoverWeb-Medium | 24px | none | 0.58px",
+              54
+            ],
+            [
+              "30px | 500 | LandRoverWeb-Medium | 36px | none | normal",
+              21
+            ]
+          ],
+          "h2": [
+            [
+              "30px | 500 | LandRoverWeb-Medium | 36px | none | normal",
+              46
+            ],
+            [
+              "28px | 400 | AvenirNext-Regular | 33.6px | uppercase | normal",
+              34
+            ]
+          ],
+          "h3": [
+            [
+              "16px | 400 | AvenirNext-Regular | 20.8px | none | normal",
+              88
+            ],
+            [
+              "16px | 500 | LandRoverWeb-Medium | 20.8px | none | normal",
+              74
+            ]
+          ],
+          "h4": [
+            [
+              "16px | 700 | LandRoverWeb-Bold | 20.8px | uppercase | 1px",
+              184
+            ],
+            [
+              "14px | 400 | AvenirNext-Regular | 18.2px | none | normal",
+              64
+            ]
+          ],
+          "h5": [
+            [
+              "14px | 400 | AvenirNext-Regular | 18.2px | none | normal",
+              88
+            ],
+            [
+              "20px | 700 | LandRoverWeb-Bold | 26px | none | normal",
+              23
+            ]
+          ],
+          "h6": [
+            [
+              "20px | 700 | LandRoverWeb-Bold | 26px | none | normal",
+              5
+            ]
+          ]
+        }
+      },
+      "main": {
+        "pages": 13,
+        "headingFamilies": [
+          {
+            "family": "JLREmeric-Regular",
+            "count": 137
+          },
+          {
+            "family": "jlr_emeric_extralight",
+            "count": 4
+          }
+        ],
+        "textFamilies": [
+          {
+            "family": "JLREmeric-Regular",
+            "count": 102
+          },
+          {
+            "family": "jlr_emeric_extralight",
+            "count": 6
+          }
+        ],
+        "buttonFamilies": [
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 104
+          },
+          {
+            "family": "jlr_emeric_extralight",
+            "count": 78
+          },
+          {
+            "family": "JLREmeric-Regular",
+            "count": 25
+          }
+        ],
+        "headingTransform": [
+          [
+            "none",
+            82
+          ],
+          [
+            "uppercase",
+            59
+          ]
+        ],
+        "body": [
+          [
+            "16px/25.6px/400",
+            42
+          ],
+          [
+            "18px/28.8px/400",
+            42
+          ],
+          [
+            "20px/32px/400",
+            7
+          ]
+        ],
+        "levels": {
+          "h1": [
+            [
+              "20px | 400 | JLREmeric-Regular | 26px | none | normal",
+              5
+            ],
+            [
+              "30px | 400 | JLREmeric-Regular | 36px | none | normal",
+              4
+            ]
+          ],
+          "h2": [
+            [
+              "30px | 400 | JLREmeric-Regular | 36px | none | normal",
+              31
+            ],
+            [
+              "30px | 400 | JLREmeric-Regular | 42px | none | normal",
+              6
+            ]
+          ],
+          "h3": [
+            [
+              "16px | 400 | JLREmeric-Regular | 24px | uppercase | 2.4px",
+              12
+            ],
+            [
+              "20px | 400 | JLREmeric-Regular | 26px | none | normal",
+              3
+            ]
+          ],
+          "h4": [
+            [
+              "16px | 400 | JLREmeric-Regular | 20.8px | uppercase | 1px",
+              39
+            ],
+            [
+              "14px | 300 | jlr_emeric_extralight | 18.2px | uppercase | normal",
+              2
+            ]
+          ],
+          "h5": [
+            [
+              "20px | 400 | JLREmeric-Regular | 26px | none | normal",
+              25
+            ],
+            [
+              "14px | 300 | jlr_emeric_extralight | 18.2px | none | normal",
+              2
+            ]
+          ]
+        }
+      },
+      "jaguar": {
+        "pages": 34,
+        "headingFamilies": [
+          {
+            "family": "JaguarExuberantRegular",
+            "count": 316
+          },
+          {
+            "family": "JaguarExuberantBold",
+            "count": 257
+          }
+        ],
+        "textFamilies": [
+          {
+            "family": "JaguarExuberantRegular",
+            "count": 168
+          },
+          {
+            "family": "JaguarExuberantBold",
+            "count": 1
+          }
+        ],
+        "buttonFamilies": [
+          {
+            "family": "JaguarExuberantRegular",
+            "count": 517
+          },
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 272
+          }
+        ],
+        "headingTransform": [
+          [
+            "none",
+            389
+          ],
+          [
+            "uppercase",
+            184
+          ]
+        ],
+        "body": [
+          [
+            "16px/25.6px/400",
+            72
+          ],
+          [
+            "18px/28.8px/400",
+            34
+          ],
+          [
+            "20px/32px/500",
+            17
+          ]
+        ],
+        "levels": {
+          "h1": [
+            [
+              "20px | 400 | JaguarExuberantRegular | 24px | none | 0.58px",
+              36
+            ],
+            [
+              "28px | 400 | JaguarExuberantRegular | 33.6px | none | 0.58px",
+              13
+            ]
+          ],
+          "h2": [
+            [
+              "30px | 700 | JaguarExuberantBold | 36px | none | normal",
+              40
+            ],
+            [
+              "28px | 400 | JaguarExuberantRegular | 33.6px | uppercase | normal",
+              26
+            ]
+          ],
+          "h3": [
+            [
+              "16px | 400 | JaguarExuberantRegular | 20.8px | none | normal",
+              80
+            ],
+            [
+              "20px | 400 | JaguarExuberantRegular | 26px | none | normal",
+              12
+            ]
+          ],
+          "h4": [
+            [
+              "16px | 700 | JaguarExuberantBold | 20.8px | uppercase | 1.5px",
+              132
+            ],
+            [
+              "14px | 400 | JaguarExuberantRegular | 18.2px | uppercase | normal",
+              26
+            ]
+          ],
+          "h5": [
+            [
+              "14px | 400 | JaguarExuberantRegular | 18.2px | none | normal",
+              63
+            ],
+            [
+              "20px | 700 | JaguarExuberantBold | 26px | none | normal",
+              28
+            ]
+          ],
+          "h6": [
+            [
+              "20px | 700 | JaguarExuberantBold | 26px | none | normal",
+              5
+            ]
+          ]
+        }
+      },
+      "jaguar-tcs-racing": {
+        "pages": 37,
+        "headingFamilies": [
+          {
+            "family": "JaguarExuberantBold",
+            "count": 282
+          },
+          {
+            "family": "JaguarExuberantRegular",
+            "count": 194
+          }
+        ],
+        "textFamilies": [
+          {
+            "family": "JaguarExuberantRegular",
+            "count": 140
+          },
+          {
+            "family": "JaguarExuberantBold",
+            "count": 5
+          }
+        ],
+        "buttonFamilies": [
+          {
+            "family": "JaguarExuberantRegular",
+            "count": 498
+          },
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 222
+          }
+        ],
+        "headingTransform": [
+          [
+            "none",
+            302
+          ],
+          [
+            "uppercase",
+            174
+          ]
+        ],
+        "body": [
+          [
+            "16px/25.6px/400",
+            43
+          ],
+          [
+            "18px/28.8px/400",
+            34
+          ],
+          [
+            "20px/32px/400",
+            18
+          ]
+        ],
+        "levels": {
+          "h1": [
+            [
+              "18px | 400 | JaguarExuberantRegular | 21.6px | none | normal",
+              22
+            ],
+            [
+              "30px | 700 | JaguarExuberantBold | 36px | none | normal",
+              13
+            ]
+          ],
+          "h2": [
+            [
+              "30px | 700 | JaguarExuberantBold | 36px | none | normal",
+              34
+            ],
+            [
+              "28px | 400 | JaguarExuberantRegular | 33.6px | uppercase | normal",
+              13
+            ]
+          ],
+          "h3": [
+            [
+              "16px | 400 | JaguarExuberantRegular | 20.8px | none | normal",
+              59
+            ],
+            [
+              "28px | 400 | JaguarExuberantRegular | 33.6px | none | normal",
+              5
+            ]
+          ],
+          "h4": [
+            [
+              "16px | 700 | JaguarExuberantBold | 20.8px | uppercase | 1.5px",
+              148
+            ],
+            [
+              "14px | 400 | JaguarExuberantRegular | 18.2px | uppercase | normal",
+              13
+            ]
+          ],
+          "h5": [
+            [
+              "20px | 700 | JaguarExuberantBold | 26px | none | normal",
+              71
+            ],
+            [
+              "14px | 400 | JaguarExuberantRegular | 18.2px | none | normal",
+              35
+            ]
+          ]
+        }
+      },
+      "range-rover": {
+        "pages": 64,
+        "headingFamilies": [
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 711
+          },
+          {
+            "family": "HelveticaNowText-Medium",
+            "count": 608
+          }
+        ],
+        "textFamilies": [
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 278
+          },
+          {
+            "family": "HelveticaNowText-Medium",
+            "count": 33
+          }
+        ],
+        "buttonFamilies": [
+          {
+            "family": "HelveticaNowText-Regular",
+            "count": 1558
+          }
+        ],
+        "headingTransform": [
+          [
+            "none",
+            985
+          ],
+          [
+            "uppercase",
+            334
+          ]
+        ],
+        "body": [
+          [
+            "14px/22.4px/400",
+            150
+          ],
+          [
+            "16px/25.6px/400",
+            76
+          ],
+          [
+            "18px/28.8px/500",
+            33
+          ]
+        ],
+        "levels": {
+          "h1": [
+            [
+              "18px | 500 | HelveticaNowText-Medium | 21.6px | none | 0.58px",
+              68
+            ],
+            [
+              "30px | 500 | HelveticaNowText-Medium | 36px | none | normal",
+              58
+            ]
+          ],
+          "h2": [
+            [
+              "30px | 500 | HelveticaNowText-Medium | 36px | none | normal",
+              56
+            ],
+            [
+              "28px | 400 | HelveticaNowText-Regular | 33.6px | uppercase | normal",
+              36
+            ]
+          ],
+          "h3": [
+            [
+              "16px | 400 | HelveticaNowText-Regular | 20.8px | none | normal",
+              307
+            ],
+            [
+              "20px | 500 | HelveticaNowText-Medium | 26px | none | normal",
+              21
+            ]
+          ],
+          "h4": [
+            [
+              "16px | 500 | HelveticaNowText-Medium | 20.8px | uppercase | 1px",
+              248
+            ],
+            [
+              "14px | 400 | HelveticaNowText-Regular | 18.2px | none | normal",
+              197
+            ]
+          ],
+          "h5": [
+            [
+              "14px | 400 | HelveticaNowText-Regular | 18.2px | none | normal",
+              104
+            ],
+            [
+              "20px | 500 | HelveticaNowText-Medium | 26px | none | normal",
+              30
+            ]
+          ],
+          "h6": [
+            [
+              "20px | 500 | HelveticaNowText-Medium | 26px | none | normal",
+              5
+            ]
+          ]
+        }
+      }
+    },
+    "perBrandFamilies": {
+      "note": "one main.css serves every sub-site; brand theming switches family by body/site class (main+classic JLR Emeric; range-rover Helvetica Now Text; defender+defenderrally Neusa Neu; discovery Avenir Next + Land Rover Web; jaguar+jaguar-tcs-racing Jaguar Exuberant); HelveticaNowText-Regular is the shared top-bar/market-switcher face on every site",
+      "sourceCssFamilies": [
+        {
+          "stack": "JLREmeric-Regular,sans-serif",
+          "rules": 38
+        },
+        {
+          "stack": "jlr_emeric_extralight,sans-serif",
+          "rules": 29
+        },
+        {
+          "stack": "JaguarExuberantRegular,sans-serif",
+          "rules": 20
+        },
+        {
+          "stack": "AvenirNext-Regular,Helvetica,Arial,sans-serif",
+          "rules": 18
+        },
+        {
+          "stack": "HelveticaNowText-Regular,sans-serif",
+          "rules": 18
+        },
+        {
+          "stack": "HelveticaNowText-Medium,sans-serif",
+          "rules": 18
+        },
+        {
+          "stack": "NeusaNeu-Regular,sans-serif",
+          "rules": 13
+        },
+        {
+          "stack": "JaguarExuberantBold,sans-serif",
+          "rules": 12
+        },
+        {
+          "stack": "ProximaNova-Regular,Helvetica,Arial,sans-serif",
+          "rules": 12
+        },
+        {
+          "stack": "NeusaNeu-Medium,sans-serif",
+          "rules": 11
+        },
+        {
+          "stack": "LandRoverWeb-Medium,sans-serif",
+          "rules": 9
+        },
+        {
+          "stack": "ProximaNova-SemiBold,Helvetica,Arial,sans-serif",
+          "rules": 9
+        },
+        {
+          "stack": "Inter,Helvetica Neue,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+          "rules": 7
+        },
+        {
+          "stack": "NeusaNeu-WideBold,sans-serif",
+          "rules": 4
+        },
+        {
+          "stack": "LandRoverWeb-Bold,sans-serif",
+          "rules": 4
+        },
+        {
+          "stack": "JaguarModernWeb-Bold,sans-serif",
+          "rules": 4
+        }
+      ]
+    },
+    "files": [
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/jlremeric-semibold-webfont.woff2",
+        "family": "jlr_emeric_semibold",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/jlremeric-semibold-webfont.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:jlr_emeric_semibold;font-style:normal;font-weight:400;src:url(../css/fonts/jlremeric-semibold-webfont.eot);src:url(../css/fonts/jlremeric-semibold-webfont.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/jlremeric-semibold-webfont.woff2) format(\"woff2\"),url(../css/fonts/jlremeric-semibold-webfont.woff) format(\"woff\"),url(../css/fonts/jlremeric-semibold-webfont.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/JLREmeric-Regular.ttf",
+        "family": "JLREmeric-Regular",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/JLREmeric-Regular.ttf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:JLREmeric-Regular;font-style:normal;font-weight:400;src:url(../css/fonts/JLREmeric-Regular.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/jlremeric-extralight-webfont.woff2",
+        "family": "jlr_emeric_extralight",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/jlremeric-extralight-webfont.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:jlr_emeric_extralight;font-style:normal;font-weight:400;src:url(../css/fonts/jlremeric-extralight-webfont.eot);src:url(../css/fonts/jlremeric-extralight-webfont.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/jlremeric-extralight-webfont.woff2) format(\"woff2\"),url(../css/fonts/jlremeric-extralight-webfont.woff) format(\"woff\"),url(../css/fonts/jlremeric-extralight-webfont.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/HelveticaNowText-Regular.ttf",
+        "family": "HelveticaNowText-Regular",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/HelveticaNowText-Regular.ttf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:HelveticaNowText-Regular;font-style:normal;font-weight:400;src:url(../css/fonts/HelveticaNowText-Regular.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/HelveticaNowText-Medium.ttf",
+        "family": "HelveticaNowText-Medium",
+        "weight": "500",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/HelveticaNowText-Medium.ttf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:HelveticaNowText-Medium;font-style:normal;font-weight:500;src:url(../css/fonts/HelveticaNowText-Medium.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/HelveticaNowText-Light.ttf",
+        "family": "HelveticaNowText-Light",
+        "weight": "300",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/HelveticaNowText-Light.ttf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:HelveticaNowText-Light;font-style:normal;font-weight:300;src:url(../css/fonts/HelveticaNowText-Light.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/JaguarExuberantW05-Light.woff2",
+        "family": "JaguarExuberantLight",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/JaguarExuberantW05-Light.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:JaguarExuberantLight;font-style:normal;font-weight:400;src:url(../css/fonts/JaguarExuberantW05-Light.woff2) format(\"woff2\"),url(../css/fonts/JaguarExuberantW05-Light.woff) format(\"woff\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/JaguarExuberantW05-Regular.woff2",
+        "family": "JaguarExuberantRegular",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/JaguarExuberantW05-Regular.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:JaguarExuberantRegular;font-style:normal;font-weight:400;src:url(../css/fonts/JaguarExuberantW05-Regular.woff2) format(\"woff2\"),url(../css/fonts/JaguarExuberantW05-Regular.woff) format(\"woff\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/JaguarExuberantW05-Bold.woff2",
+        "family": "JaguarExuberantBold",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/JaguarExuberantW05-Bold.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:JaguarExuberantBold;font-style:normal;font-weight:400;src:url(../css/fonts/JaguarExuberantW05-Bold.woff2) format(\"woff2\"),url(../css/fonts/JaguarExuberantW05-Bold.woff) format(\"woff\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/proximanova-regular-webfont.woff2",
+        "family": "ProximaNova-Regular",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/proximanova-regular-webfont.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:ProximaNova-Regular;font-style:normal;font-weight:400;src:url(../css/fonts/proximanova-regular-webfont.woff2) format(\"woff2\"),url(../css/fonts/proximanova-regular-webfont.woff) format(\"woff\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/proximanova-semibold-webfont.woff2",
+        "family": "ProximaNova-SemiBold",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/proximanova-semibold-webfont.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:ProximaNova-SemiBold;font-style:normal;font-weight:400;src:url(../css/fonts/proximanova-semibold-webfont.woff2) format(\"woff2\"),url(../css/fonts/proximanova-semibold-webfont.woff) format(\"woff\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/proximanova-bold-webfont.woff2",
+        "family": "ProximaNova-Bold",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/proximanova-bold-webfont.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:ProximaNova-Bold;font-style:normal;font-weight:400;src:url(../css/fonts/proximanova-bold-webfont.woff2) format(\"woff2\"),url(../css/fonts/proximanova-bold-webfont.woff) format(\"woff\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/JaguarModernWeb-Bold.woff2",
+        "family": "JaguarModernWeb-Bold",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/JaguarModernWeb-Bold.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:JaguarModernWeb-Bold;font-style:normal;font-weight:400;src:url(../css/fonts/JaguarModernWeb-Bold.woff2) format(\"woff2\"),url(../css/fonts/JaguarModernWeb-Bold.woff) format(\"woff\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/LandRoverWeb-Bold.woff",
+        "family": "LandRoverWeb-Bold",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/LandRoverWeb-Bold.woff",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:LandRoverWeb-Bold;font-style:normal;font-weight:400;src:url(../css/fonts/LandRoverWeb-Bold.eot);src:url(../css/fonts/LandRoverWeb-Bold.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/LandRoverWeb-Bold.woff) format(\"woff\"),url(../css/fonts/LandRoverWeb-Bold.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/LandRoverWeb-Demi.woff",
+        "family": "LandRoverWeb-Demi",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/LandRoverWeb-Demi.woff",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:LandRoverWeb-Demi;font-style:normal;font-weight:400;src:url(../css/fonts/LandRoverWeb-Demi.eot);src:url(../css/fonts/LandRoverWeb-Demi.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/LandRoverWeb-Demi.woff) format(\"woff\"),url(../css/fonts/LandRoverWeb-Demi.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/LandRoverWeb-Medium.woff",
+        "family": "LandRoverWeb-Medium",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/LandRoverWeb-Medium.woff",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:LandRoverWeb-Medium;font-style:normal;font-weight:400;src:url(../css/fonts/LandRoverWeb-Medium.eot);src:url(../css/fonts/LandRoverWeb-Medium.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/LandRoverWeb-Medium.woff) format(\"woff\"),url(../css/fonts/LandRoverWeb-Medium.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/LandRoverWeb-Light.woff",
+        "family": "LandRoverWeb-Light",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/LandRoverWeb-Light.woff",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:LandRoverWeb-Light;font-style:normal;font-weight:400;src:url(../css/fonts/LandRoverWeb-Light.eot);src:url(../css/fonts/LandRoverWeb-Light.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/LandRoverWeb-Light.woff) format(\"woff\"),url(../css/fonts/LandRoverWeb-Light.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/AvenirNextLTPro-Bold.woff2",
+        "family": "AvenirBold",
+        "weight": "700",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/AvenirNextLTPro-Bold.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:AvenirBold;font-style:normal;font-weight:700;src:url(../css/fonts/AvenirNextLTPro-Bold.eot);src:url(../css/fonts/AvenirNextLTPro-Bold.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/AvenirNextLTPro-Bold.woff2) format(\"woff2\"),url(../css/fonts/AvenirNextLTPro-Bold.woff) format(\"woff\"),url(../css/fonts/AvenirNextLTPro-Bold.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/AvenirNextLTPro-Demi.woff2",
+        "family": "AvenirDemi",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/AvenirNextLTPro-Demi.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:AvenirDemi;font-style:normal;font-weight:400;src:url(../css/fonts/AvenirNextLTPro-Demi.eot);src:url(../css/fonts/AvenirNextLTPro-Demi.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/AvenirNextLTPro-Demi.woff2) format(\"woff2\"),url(../css/fonts/AvenirNextLTPro-Demi.woff) format(\"woff\"),url(../css/fonts/AvenirNextLTPro-Demi.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/AvenirNextPaneuropeanRegular_normal_normal.woff2",
+        "family": "AvenirRegular",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/AvenirNextPaneuropeanRegular_normal_normal.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:AvenirRegular;font-style:normal;font-weight:400;src:url(../css/fonts/AvenirNextPaneuropeanRegular_normal_normal.woff2) format(\"woff2\"),url(../css/fonts/AvenirNextPaneuropeanRegular_normal_normal.woff) format(\"woff\"),url(../css/fonts/AvenirNextW1G-Regular.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/AvenirNextPaneuropeanMedium_normal_normal.woff2",
+        "family": "AvenirMedium",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/AvenirNextPaneuropeanMedium_normal_normal.woff2",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:AvenirMedium;font-style:normal;font-weight:400;src:url(../css/fonts/AvenirNextPaneuropeanMedium_normal_normal.woff2) format(\"woff2\"),url(../css/fonts/AvenirNextPaneuropeanMedium_normal_normal.woff) format(\"woff\"),url(../css/fonts/AvenirNextW1G-Medium.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/AvenirNextLTPro-Regular.ttf",
+        "family": "AvenirNext-Regular",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/AvenirNextLTPro-Regular.ttf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:AvenirNext-Regular;font-style:normal;font-weight:400;src:url(../css/fonts/AvenirNextLTPro-Regular.ttf) format(\"truetype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/NeusaNeu-Regular.otf",
+        "family": "NeusaNeu-Regular",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/NeusaNeu-Regular.otf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:NeusaNeu-Regular;font-style:normal;font-weight:400;src:url(../css/fonts/NeusaNeu-Regular.otf) format(\"opentype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/NeusaNeu-Bold.otf",
+        "family": "NeusaNeu-Bold",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/NeusaNeu-Bold.otf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:NeusaNeu-Bold;font-style:normal;font-weight:400;src:url(../css/fonts/NeusaNeu-Bold.otf) format(\"opentype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/NeusaNeu-Medium.otf",
+        "family": "NeusaNeu-Medium",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/NeusaNeu-Medium.otf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:NeusaNeu-Medium;font-style:normal;font-weight:400;src:url(../css/fonts/NeusaNeu-Medium.otf) format(\"opentype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/NeusaNeu-WideBold.otf",
+        "family": "NeusaNeu-WideBold",
+        "weight": "700",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/NeusaNeu-WideBold.otf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:NeusaNeu-WideBold;font-style:normal;font-weight:700;src:url(../css/fonts/NeusaNeu-WideBold.otf) format(\"opentype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/NeusaNeu-Light.otf",
+        "family": "NeusaNeu-Light",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": "swap",
+        "localPath": "stardust/current/assets/fonts/NeusaNeu-Light.otf",
+        "sourceCssRule": "@font-face {font-display:swap;font-family:NeusaNeu-Light;font-style:normal;font-weight:400;src:url(../css/fonts/NeusaNeu-Light.otf) format(\"opentype\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/css/fonts/jlr-media-site-new.woff",
+        "family": "jlr-media-site-new",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": null,
+        "localPath": "stardust/current/assets/fonts/jlr-media-site-new.woff",
+        "sourceCssRule": "@font-face {font-family:jlr-media-site-new;font-style:normal;font-weight:400;src:url(../css/fonts/jlr-media-site-new.eot);src:url(../css/fonts/jlr-media-site-new.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/jlr-media-site-new.woff) format(\"woff\"),url(../css/fonts/jlr-media-site-new.ttf) format(\"truetype\"),url(../css/fonts/jlr-media-site-new.svg#jlr-media-site-new) format(\"svg\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "family": "FontAwesome",
+        "weight": "400",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": null,
+        "localPath": "stardust/current/assets/fonts/fontawesome-webfont.woff2",
+        "sourceCssRule": "@font-face {font-family:FontAwesome;font-style:normal;font-weight:400;src:url(../fonts/fontawesome-webfont.eot?v=4.7.0);src:url(../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format(\"embedded-opentype\"),url(../fonts/fontawesome-webfont.woff2?v=4.7.0) format(\"woff2\"),url(../fonts/fontawesome-webfont.woff?v=4.7.0) format(\"woff\"),url(../fonts/fontawesome-webfont.ttf?v=4.7.0) format(\"truetype\"),url(../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format(\"svg\")}",
+        "licensingFlag": "private"
+      },
+      {
+        "url": "https://media.jlr.com/range-rover/themes/custom/jlr_media/slick/slick/fonts/slick.woff",
+        "family": "slick",
+        "weight": "normal",
+        "style": "normal",
+        "unicodeRange": null,
+        "display": null,
+        "localPath": "stardust/current/assets/fonts/slick.woff",
+        "sourceCssRule": "@font-face {font-family: 'slick'; font-weight: normal; font-style: normal; src: url('./fonts/slick.eot'); src: url('./fonts/slick.eot?#iefix') format('embedded-opentype'), url('./fonts/slick.woff') format('woff'), url('./fonts/slick.ttf') format('truetype'), url('./fonts/slick.svg#slick') format('svg');}",
+        "licensingFlag": "private"
+      }
+    ]
+  },
+  "spacing": {
+    "baseUnit": 5,
+    "scale": [
+      5,
+      6,
+      8,
+      10,
+      12,
+      15,
+      16,
+      18,
+      20,
+      24,
+      30,
+      36,
+      40,
+      60
+    ],
+    "sectionPadding": null,
+    "containerMaxWidth": "1176px",
+    "gridGap": "30px",
+    "source": "stardust/.work/css/…main.css padding/margin/gap px frequency (top: 10px×129, 15px×112, 30px×87, 20px×81, 5px×68, 18px×62, 8px×52, 40px×41, 60px×40, 16px×35); Bootstrap 3 grid (15px gutters, 30px gap); containerMaxWidth filled from cap-probe"
+  },
+  "motifs": {
+    "borderRadius": {
+      "primary": "4px",
+      "areaMode": "4px",
+      "secondary": "100%",
+      "pill": "50%",
+      "primarySources": [
+        "classic-en-gb",
+        "classic-en-gb-image-packs"
+      ],
+      "occurrences": {
+        "4px": 6832,
+        "100%": 344,
+        "50%": 4
+      }
+    },
+    "shadows": [
+      {
+        "value": "rgba(0, 0, 0, 0.1) 0px 2px 6px 0px",
+        "count": 344,
+        "uses": "#main-nav > div:nth-of-type(2) > div:nth-of-type(1) | #main-nav > div:nth-of-type(2) > div:nth-of-type(1)"
+      },
+      {
+        "value": "rgb(228, 232, 232) 0px 1px 0px 0px",
+        "count": 34,
+        "uses": "div > div > section > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div:nth-of-type(1) | div > div > section > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div:nth-of-type(1)"
+      },
+      {
+        "value": "rgb(255, 255, 255) 0px 1px 0px 0px",
+        "count": 14,
+        "uses": "div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(5) > div > div > div | div > div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(13) > div > div > div"
+      }
+    ],
+    "gradients": [
+      {
+        "value": "radial-gradient(rgb(119, 119, 119) 0px, rgb(63, 63, 63) 66%, rgb(63, 63, 63) 100%)",
+        "count": 20,
+        "uses": "#app > div:nth-of-type(3) > div > div > div:nth-of-type(1) | #app > div:nth-of-type(3) > div > div > div:nth-of-type(1)"
+      }
+    ],
+    "patterns": [
+      {
+        "name": "hero-carousel",
+        "evidence": ".hero-component slides on 14 pages (brand landings + listing heroes)"
+      },
+      {
+        "name": "card-grid",
+        "evidence": "news/image/video cards (.news-box) in 3-column grids on 57 pages"
+      },
+      {
+        "name": "filter-sidebar-grid",
+        "evidence": ".new-grid Refine By sidebar + pager on media-listing and vehicle-detail pages (0 pages)"
+      },
+      {
+        "name": "image-pack-grid",
+        "evidence": ".img-pack-block 3-column background-image tiles with download dropdowns on 83 pages"
+      },
+      {
+        "name": "share-download-bar",
+        "evidence": ".new-share AddToAny + download + cart controls on 116 pages"
+      },
+      {
+        "name": "newsletter-band",
+        "evidence": "footer \"SUBSCRIBE TO OUR NEWSLETTER\" band with brand mark on 311 of 352 pages"
+      },
+      {
+        "name": "footer-mega",
+        "evidence": "dark footer with Useful Links / Support / FOLLOW: columns on every page"
+      },
+      {
+        "name": "fullscreen-nav",
+        "evidence": "JLR MEDIA top bar + fullscreen navigation overlay with poster image (.fullscreen-nav-poster) in every header"
+      }
+    ]
+  },
+  "componentStyle": {
+    "buttons": [
+      {
+        "text": "China (简体中文)",
+        "selector": "#market-switcher-list > a:nth-of-type(1)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 10px",
+        "border": "",
+        "fontFamily": "HelveticaNowText-Regular, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "textTransform": "none",
+        "letterSpacing": "0.35px",
+        "boxShadow": "none",
+        "hover": null,
+        "total": 2678,
+        "pages": 344,
+        "example": "https://media.jlr.com/classic/en-gb/contact/china-5"
+      },
+      {
+        "text": "Find us on Facebook",
+        "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > button:nth-of-type(1)",
+        "backgroundColor": "rgb(12, 18, 28)",
+        "color": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "6px 12px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "fontFamily": "jlr_emeric_extralight, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "textTransform": "none",
+        "letterSpacing": "normal",
+        "boxShadow": "none",
+        "hover": {
+          "backgroundColor": "rgb(66, 103, 178)",
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "changed": true
+        },
+        "total": 480,
+        "pages": 80,
+        "example": "https://media.jlr.com/classic/en-gb/contact/china-5"
+      },
+      {
+        "text": "Link to Instagram",
+        "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)",
+        "backgroundColor": "rgb(12, 18, 28)",
+        "color": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "6px 12px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "fontFamily": "NeusaNeu-Regular, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "textTransform": "none",
+        "letterSpacing": "1px",
+        "boxShadow": "none",
+        "hover": {
+          "backgroundColor": "rgb(225, 48, 108)",
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "changed": true
+        },
+        "total": 395,
+        "pages": 79,
+        "example": "https://media.jlr.com/defender/en-gb/contact/china-3"
+      },
+      {
+        "text": "Link to Instagram",
+        "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)",
+        "backgroundColor": "rgb(12, 18, 28)",
+        "color": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "6px 12px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "fontFamily": "HelveticaNowText-Regular, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "textTransform": "none",
+        "letterSpacing": "1px",
+        "boxShadow": "none",
+        "hover": {
+          "backgroundColor": "rgb(225, 48, 108)",
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "changed": true
+        },
+        "total": 315,
+        "pages": 63,
+        "example": "https://media.jlr.com/range-rover/en-gb/contact/china-2"
+      },
+      {
+        "text": "Link to Instagram",
+        "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)",
+        "backgroundColor": "rgb(12, 18, 28)",
+        "color": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "6px 12px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "fontFamily": "AvenirNext-Regular, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "textTransform": "none",
+        "letterSpacing": "1px",
+        "boxShadow": "none",
+        "hover": {
+          "backgroundColor": "rgb(225, 48, 108)",
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "changed": true
+        },
+        "total": 230,
+        "pages": 46,
+        "example": "https://media.jlr.com/discovery/en-gb/contact/china-4"
+      },
+      {
+        "text": "Link to Facebook",
+        "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)",
+        "backgroundColor": "rgb(12, 18, 28)",
+        "color": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "6px 12px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "fontFamily": "JaguarExuberantRegular, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "textTransform": "none",
+        "letterSpacing": "1.5px",
+        "boxShadow": "none",
+        "hover": {
+          "backgroundColor": "rgb(66, 103, 178)",
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "changed": true
+        },
+        "total": 180,
+        "pages": 36,
+        "example": "https://media.jlr.com/jaguar-tcs-racing/en-gb/contact"
+      }
+    ],
+    "hover": [
+      {
+        "kind": "link",
+        "from": {
+          "color": "rgb(0, 0, 0)"
+        },
+        "to": {
+          "color": "rgba(12, 18, 28, 0.8)"
+        },
+        "count": 340,
+        "sources": [
+          {
+            "url": "https://media.jlr.com/",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/china-5",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/france-5",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > a"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(12, 18, 28)"
+        },
+        "to": {
+          "backgroundColor": "rgb(12, 18, 28)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "count": 285,
+        "sources": [
+          {
+            "url": "https://media.jlr.com/classic/en-gb",
+            "selector": "#app > section > div > div > div:nth-of-type(2) > button"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact",
+            "selector": "#app > section > div > div > div:nth-of-type(2) > button"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/china-5",
+            "selector": "#app > section > div > div > div:nth-of-type(2) > button"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/france-5",
+            "selector": "#app > section > div > div > div:nth-of-type(2) > button"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/germany-5",
+            "selector": "#app > section > div > div > div:nth-of-type(2) > button"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "to": {
+          "backgroundColor": "rgb(233, 236, 236)",
+          "color": "rgba(12, 18, 28, 0.8)"
+        },
+        "count": 108,
+        "sources": [
+          {
+            "url": "https://media.jlr.com/classic/en-gb/en/broadcast-videos",
+            "selector": "#app > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(1) > a"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/image-packs",
+            "selector": "#app > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(1) > a"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/images",
+            "selector": "#app > div:nth-of-type(3) > div > div > div > div > div:nth-of-type(1) > a"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/news",
+            "selector": "#app > div:nth-of-type(3) > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > a"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/vehicle/1957-xkss?bundle=news",
+            "selector": "div:nth-of-type(3) > div > div > div:nth-of-type(3) > div > div > div:nth-of-type(1) > a"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgb(12, 18, 28)"
+        },
+        "to": {
+          "backgroundColor": "rgb(225, 48, 108)"
+        },
+        "count": 102,
+        "sources": [
+          {
+            "url": "https://media.jlr.com/defender/en-gb/contact",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)"
+          },
+          {
+            "url": "https://media.jlr.com/defender/en-gb/contact/china-3",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)"
+          },
+          {
+            "url": "https://media.jlr.com/defender/en-gb/contact/france-3",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)"
+          },
+          {
+            "url": "https://media.jlr.com/defender/en-gb/contact/germany-3",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)"
+          },
+          {
+            "url": "https://media.jlr.com/defender/en-gb/contact/italy-3",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > a:nth-of-type(1)"
+          }
+        ]
+      },
+      {
+        "kind": "link",
+        "from": {
+          "color": "rgb(12, 18, 28)"
+        },
+        "to": {
+          "color": "rgba(12, 18, 28, 0.8)"
+        },
+        "count": 95,
+        "sources": [
+          {
+            "url": "https://media.jlr.com/classic/en-gb",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a:nth-of-type(2)"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a:nth-of-type(2)"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/china-5",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a:nth-of-type(2)"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/france-5",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a:nth-of-type(2)"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/germany-5",
+            "selector": "#main-nav > div:nth-of-type(2) > div:nth-of-type(2) > div > div > a:nth-of-type(2)"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgb(12, 18, 28)"
+        },
+        "to": {
+          "backgroundColor": "rgb(66, 103, 178)"
+        },
+        "count": 63,
+        "sources": [
+          {
+            "url": "https://media.jlr.com/",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > button:nth-of-type(1)"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > button:nth-of-type(1)"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/china-5",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > button:nth-of-type(1)"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/france-5",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > button:nth-of-type(1)"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/contact/germany-5",
+            "selector": "footer > div > div > div > div > div:nth-of-type(3) > div > button:nth-of-type(1)"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "borderColor": "rgb(255, 255, 255)"
+        },
+        "to": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "borderColor": "rgba(0, 0, 0, 0)"
+        },
+        "count": 41,
+        "sources": [
+          {
+            "url": "https://media.jlr.com/classic/en-gb/image-packs/classic-defender-v8-works-bespoke-images",
+            "selector": "#dropdownMenu-grid-node-image-pack-1"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/image-packs/defender-26my-octa-black",
+            "selector": "#dropdownMenu-grid-node-image-pack-1"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/image-packs/defender-marks-70-years-its-partnership-british-red-cross",
+            "selector": "#dropdownMenu-grid-node-image-pack-1"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/image-packs/defender-octa-colours",
+            "selector": "#dropdownMenu-grid-node-image-pack-1"
+          },
+          {
+            "url": "https://media.jlr.com/classic/en-gb/image-packs/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+            "selector": "#dropdownMenu-grid-node-image-pack-1"
+          }
+        ]
+      },
+      {
+        "kind": "button",
+        "from": {
+          "backgroundColor": "rgb(12, 18, 28)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "to": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(12, 18, 28)"
+        },
+        "count": 20,
+        "sources": [
+          {
+            "url": "https://media.jlr.com/defender/en-gb/person/chris-thorp",
+            "selector": "div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a"
+          },
+          {
+            "url": "https://media.jlr.com/defender/en-gb/person/dave-williams",
+            "selector": "div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a"
+          },
+          {
+            "url": "https://media.jlr.com/defender/en-gb/person/keith-benjamin",
+            "selector": "div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a"
+          },
+          {
+            "url": "https://media.jlr.com/defender/en-gb/person/nigel-blenkinsop",
+            "selector": "div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a"
+          },
+          {
+            "url": "https://media.jlr.com/defender/en-gb/person/qing-pan",
+            "selector": "div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > a"
+          }
+        ]
+      }
+    ],
+    "dualCTAPattern": null,
+    "cards": {
+      "note": "news cards: image over date + uppercase title + teaser, flat (no radius, no shadow) — see census surfaces on listing pages"
+    },
+    "inputs": {
+      "note": "pager input + refine checkboxes; see census"
+    }
+  },
+  "systemComponents": [
+    {
+      "name": "site-footer",
+      "kind": "footer",
+      "occurrences": 196,
+      "sites": [
+        "defender",
+        "defenderrally",
+        "discovery",
+        "range-rover"
+      ],
+      "headingSequence": [
+        "Useful Links",
+        "Support",
+        "FOLLOW:"
+      ],
+      "ctaLabels": [
+        "landrover.com",
+        "jaguar.com",
+        "jlr.com",
+        "Terms and Conditions",
+        "User Licence",
+        "Cookie Policy",
+        "Privacy Policy"
+      ],
+      "domFingerprintHash": "sha256:b64813db",
+      "exampleSlug": "defender-en-gb-contact-china-3",
+      "exampleSelector": "footer.footer",
+      "examplePages": [
+        "defender-en-gb-contact-china-3",
+        "defender-en-gb-contact-france-3",
+        "defender-en-gb-contact-germany-3",
+        "defender-en-gb-contact-italy-3",
+        "defender-en-gb-contact-north-america-3"
+      ]
+    },
+    {
+      "name": "site-footer",
+      "kind": "footer",
+      "occurrences": 83,
+      "sites": [
+        "classic",
+        "main"
+      ],
+      "headingSequence": [
+        "Useful Links",
+        "Support",
+        "FOLLOW:",
+        "Find us on Facebook",
+        "Find us on X",
+        "Find us on YouTube",
+        "Find us on Instagram",
+        "Find us on TikTok"
+      ],
+      "ctaLabels": [
+        "landrover.com",
+        "jaguar.com",
+        "jlr.com",
+        "Terms and Conditions",
+        "User Licence",
+        "Cookie Policy",
+        "Privacy Policy",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Defender Rally",
+        "Jaguar TCS Racing",
+        "Range Rover",
+        "Defender",
+        "Jaguar JaguarUK",
+        "Jaguar JaguarUKPR",
+        "Defender Rally",
+        "Jaguar TCS Racing",
+        "JLR Corporate",
+        "Range Rover"
+      ],
+      "domFingerprintHash": "sha256:56819060",
+      "exampleSlug": "classic-en-gb-contact-china-5",
+      "exampleSelector": "footer.footer",
+      "examplePages": [
+        "classic-en-gb-contact-china-5",
+        "classic-en-gb-contact-france-5",
+        "classic-en-gb-contact-germany-5",
+        "classic-en-gb-contact-italy-5",
+        "classic-en-gb-contact-north-america-5"
+      ]
+    },
+    {
+      "name": "site-header-classic",
+      "kind": "header",
+      "occurrences": 70,
+      "sites": [
+        "classic"
+      ],
+      "headingSequence": [
+        "JLR MEDIA",
+        "XKSS SVO",
+        "SS",
+        "XKSS",
+        "D-TYPE",
+        "E-TYPE",
+        "Mk II",
+        "Jaguar Mk VII",
+        "Jaguar Mk X",
+        "SS100",
+        "XJ13",
+        "XK140"
+      ],
+      "ctaLabels": [
+        "Accept",
+        "China (简体中文)",
+        "France (Français)",
+        "Germany (Deutsch)",
+        "International (English)",
+        "Italy (Italiano)",
+        "North America (English)",
+        "Spain (Español)",
+        "United Kingdom (English)",
+        "View 0",
+        "Contact Us",
+        "jaguarlandroverclassic.com",
+        "JLR MEDIA",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Jaguar",
+        "Classic",
+        "Corporate",
+        "Terms and Conditions"
+      ],
+      "domFingerprintHash": "sha256:4acfa1b8",
+      "exampleSlug": "classic-en-gb-contact-china-5",
+      "exampleSelector": "nav.navbar",
+      "examplePages": [
+        "classic-en-gb-contact-china-5",
+        "classic-en-gb-contact-france-5",
+        "classic-en-gb-contact-germany-5",
+        "classic-en-gb-contact-italy-5",
+        "classic-en-gb-contact-north-america-5"
+      ]
+    },
+    {
+      "name": "site-header-range-rover",
+      "kind": "header",
+      "occurrences": 66,
+      "sites": [
+        "range-rover"
+      ],
+      "headingSequence": [
+        "JLR MEDIA",
+        "Range Rover GT",
+        "Range Rover",
+        "Range Rover Electric",
+        "Range Rover Sport",
+        "Range Rover Sport Electric",
+        "RANGE ROVER VELAR",
+        "Range Rover Evoque",
+        "Range Rover SV",
+        "Range Rover Sport SV",
+        "Range Rover LRX",
+        "RANGE_E"
+      ],
+      "ctaLabels": [
+        "Accept",
+        "China (简体中文)",
+        "France (Français)",
+        "Germany (Deutsch)",
+        "International (English)",
+        "Italy (Italiano)",
+        "North America (English)",
+        "Spain (Español)",
+        "United Kingdom (English)",
+        "View 0",
+        "Contact Us",
+        "rangerover.com",
+        "JLR MEDIA",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Jaguar",
+        "Classic",
+        "Corporate",
+        "Terms and Conditions"
+      ],
+      "domFingerprintHash": "sha256:a4431053",
+      "exampleSlug": "range-rover-en-gb-contact-china-2",
+      "exampleSelector": "nav.navbar",
+      "examplePages": [
+        "range-rover-en-gb-contact-china-2",
+        "range-rover-en-gb-contact-france-2",
+        "range-rover-en-gb-contact-germany-2",
+        "range-rover-en-gb-contact-italy-2",
+        "range-rover-en-gb-contact-north-america-2"
+      ]
+    },
+    {
+      "name": "site-header-defender",
+      "kind": "header",
+      "occurrences": 54,
+      "sites": [
+        "defender"
+      ],
+      "headingSequence": [
+        "JLR MEDIA",
+        "Defender 90",
+        "Defender 110",
+        "Defender 130",
+        "Defender (1990-2016)",
+        "Regular Content"
+      ],
+      "ctaLabels": [
+        "Accept",
+        "China (简体中文)",
+        "France (Français)",
+        "Germany (Deutsch)",
+        "International (English)",
+        "Italy (Italiano)",
+        "North America (English)",
+        "Spain (Español)",
+        "United Kingdom (English)",
+        "View 0",
+        "Contact Us",
+        "Defender",
+        "JLR MEDIA",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Jaguar",
+        "Classic",
+        "Corporate",
+        "Terms and Conditions"
+      ],
+      "domFingerprintHash": "sha256:34eba174",
+      "exampleSlug": "defender-en-gb-contact-china-3",
+      "exampleSelector": "nav.navbar",
+      "examplePages": [
+        "defender-en-gb-contact-china-3",
+        "defender-en-gb-contact-france-3",
+        "defender-en-gb-contact-germany-3",
+        "defender-en-gb-contact-italy-3",
+        "defender-en-gb-contact-north-america-3"
+      ]
+    },
+    {
+      "name": "site-header-discovery",
+      "kind": "header",
+      "occurrences": 49,
+      "sites": [
+        "discovery"
+      ],
+      "headingSequence": [
+        "JLR MEDIA",
+        "Discovery",
+        "Discovery Sport",
+        "Discovery Vision",
+        "Discovery 4",
+        "Regular Content"
+      ],
+      "ctaLabels": [
+        "Accept",
+        "China (简体中文)",
+        "France (Français)",
+        "Germany (Deutsch)",
+        "International (English)",
+        "Italy (Italiano)",
+        "North America (English)",
+        "Spain (Español)",
+        "United Kingdom (English)",
+        "View 0",
+        "Contact Us",
+        "Discovery",
+        "JLR MEDIA",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Jaguar",
+        "Classic",
+        "Corporate",
+        "Terms and Conditions"
+      ],
+      "domFingerprintHash": "sha256:2fba22c7",
+      "exampleSlug": "discovery-en-gb-contact-china-4",
+      "exampleSelector": "nav.navbar",
+      "examplePages": [
+        "discovery-en-gb-contact-china-4",
+        "discovery-en-gb-contact-france-4",
+        "discovery-en-gb-contact-germany-4",
+        "discovery-en-gb-contact-italy-4",
+        "discovery-en-gb-contact-north-america-4"
+      ]
+    },
+    {
+      "name": "site-header-jaguar-tcs-racing",
+      "kind": "header",
+      "occurrences": 37,
+      "sites": [
+        "jaguar-tcs-racing"
+      ],
+      "headingSequence": [
+        "JLR MEDIA",
+        "I-PACE eTROPHY",
+        "I-TYPE 6",
+        "I-TYPE 5",
+        "I-TYPE 4",
+        "I-TYPE 3",
+        "I-TYPE 2",
+        "Regular Content"
+      ],
+      "ctaLabels": [
+        "Accept",
+        "China (简体中文)",
+        "France (Français)",
+        "Germany (Deutsch)",
+        "International (English)",
+        "Italy (Italiano)",
+        "North America (English)",
+        "Spain (Español)",
+        "United Kingdom (English)",
+        "View 0",
+        "Contact Us",
+        "Jaguar TCS Racing",
+        "JLR MEDIA",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Jaguar",
+        "Classic",
+        "Corporate",
+        "Terms and Conditions"
+      ],
+      "domFingerprintHash": "sha256:85668d82",
+      "exampleSlug": "jaguar-tcs-racing-en-gb-contact",
+      "exampleSelector": "nav.navbar",
+      "examplePages": [
+        "jaguar-tcs-racing-en-gb-contact",
+        "jaguar-tcs-racing-en-gb-cookies",
+        "jaguar-tcs-racing-en-gb-en-broadcast-videos",
+        "jaguar-tcs-racing-en-gb-image-packs-infographics-new-range-rover-velar-svautobiography-dynamic-edition",
+        "jaguar-tcs-racing-en-gb-image-packs-interior-new-range-rover-velar-svautobiography-dynamic-edition"
+      ]
+    },
+    {
+      "name": "site-footer-jaguar-tcs-racing",
+      "kind": "footer",
+      "occurrences": 37,
+      "sites": [
+        "jaguar-tcs-racing"
+      ],
+      "headingSequence": [
+        "Useful Links",
+        "Support",
+        "FOLLOW:"
+      ],
+      "ctaLabels": [
+        "landrover.com",
+        "jaguar.com",
+        "jlr.com",
+        "Terms and Conditions",
+        "User Licence",
+        "Contact Us",
+        "Cookie Policy",
+        "Privacy Policy"
+      ],
+      "domFingerprintHash": "sha256:870d24b1",
+      "exampleSlug": "jaguar-tcs-racing-en-gb-contact",
+      "exampleSelector": "footer.footer",
+      "examplePages": [
+        "jaguar-tcs-racing-en-gb-contact",
+        "jaguar-tcs-racing-en-gb-cookies",
+        "jaguar-tcs-racing-en-gb-en-broadcast-videos",
+        "jaguar-tcs-racing-en-gb-image-packs-infographics-new-range-rover-velar-svautobiography-dynamic-edition",
+        "jaguar-tcs-racing-en-gb-image-packs-interior-new-range-rover-velar-svautobiography-dynamic-edition"
+      ]
+    },
+    {
+      "name": "site-header-jaguar",
+      "kind": "header",
+      "occurrences": 35,
+      "sites": [
+        "jaguar"
+      ],
+      "headingSequence": [
+        "JLR MEDIA",
+        "Type 01",
+        "Regular Content"
+      ],
+      "ctaLabels": [
+        "Accept",
+        "China (简体中文)",
+        "France (Français)",
+        "Germany (Deutsch)",
+        "International (English)",
+        "Italy (Italiano)",
+        "North America (English)",
+        "Spain (Español)",
+        "United Kingdom (English)",
+        "View 0",
+        "Contact Us",
+        "jaguar.com",
+        "JLR MEDIA",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Jaguar",
+        "Classic",
+        "Corporate",
+        "Terms and Conditions"
+      ],
+      "domFingerprintHash": "sha256:c1ddc040",
+      "exampleSlug": "jaguar-en-gb-contact-china-0",
+      "exampleSelector": "nav.navbar",
+      "examplePages": [
+        "jaguar-en-gb-contact-china-0",
+        "jaguar-en-gb-contact-france-0",
+        "jaguar-en-gb-contact-germany-0",
+        "jaguar-en-gb-contact-italy-0",
+        "jaguar-en-gb-contact-north-america-0"
+      ]
+    },
+    {
+      "name": "site-footer-jaguar",
+      "kind": "footer",
+      "occurrences": 35,
+      "sites": [
+        "jaguar"
+      ],
+      "headingSequence": [
+        "Useful Links",
+        "Support",
+        "FOLLOW:",
+        "Find us on X"
+      ],
+      "ctaLabels": [
+        "landrover.com",
+        "jaguar.com",
+        "jlr.com",
+        "Terms and Conditions",
+        "User Licence",
+        "Contact Us",
+        "Cookie Policy",
+        "Privacy Policy",
+        "Jaguar JaguarUK",
+        "Jaguar JaguarUKPR"
+      ],
+      "domFingerprintHash": "sha256:a5f29525",
+      "exampleSlug": "jaguar-en-gb-contact-china-0",
+      "exampleSelector": "footer.footer",
+      "examplePages": [
+        "jaguar-en-gb-contact-china-0",
+        "jaguar-en-gb-contact-france-0",
+        "jaguar-en-gb-contact-germany-0",
+        "jaguar-en-gb-contact-italy-0",
+        "jaguar-en-gb-contact-north-america-0"
+      ]
+    },
+    {
+      "name": "site-header-defenderrally",
+      "kind": "header",
+      "occurrences": 27,
+      "sites": [
+        "defenderrally"
+      ],
+      "headingSequence": [
+        "JLR MEDIA",
+        "Defender D7X-R",
+        "Regular Content"
+      ],
+      "ctaLabels": [
+        "Accept",
+        "China (简体中文)",
+        "France (Français)",
+        "Germany (Deutsch)",
+        "International (English)",
+        "Italy (Italiano)",
+        "North America (English)",
+        "Spain (Español)",
+        "United Kingdom (English)",
+        "View 0",
+        "Contact Us",
+        "Defender Rally",
+        "JLR MEDIA",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Jaguar",
+        "Classic",
+        "Corporate",
+        "Terms and Conditions"
+      ],
+      "domFingerprintHash": "sha256:ad2992c1",
+      "exampleSlug": "defenderrally-en-gb-contact",
+      "exampleSelector": "nav.navbar",
+      "examplePages": [
+        "defenderrally-en-gb-contact",
+        "defenderrally-en-gb-cookies",
+        "defenderrally-en-gb-directors",
+        "defenderrally-en-gb-en-broadcast-videos",
+        "defenderrally-en-gb-image-packs-defender-dakar-road-legal-evolution-dakar-rally-winner"
+      ]
+    },
+    {
+      "name": "site-header-main",
+      "kind": "header",
+      "occurrences": 14,
+      "sites": [
+        "main"
+      ],
+      "headingSequence": [
+        "JLR MEDIA",
+        "Regular Content"
+      ],
+      "ctaLabels": [
+        "Accept",
+        "China (简体中文)",
+        "France (Français)",
+        "Germany (Deutsch)",
+        "International (English)",
+        "Italy (Italiano)",
+        "North America (English)",
+        "Spain (Español)",
+        "United Kingdom (English)",
+        "View 0",
+        "Contact Us",
+        "JLR MEDIA",
+        "Range Rover",
+        "Defender",
+        "Discovery",
+        "Jaguar",
+        "Classic",
+        "Corporate",
+        "Terms and Conditions",
+        "User Licence"
+      ],
+      "domFingerprintHash": "sha256:271c9f00",
+      "exampleSlug": "en-gb-contact",
+      "exampleSelector": "nav.navbar",
+      "examplePages": [
+        "en-gb-contact",
+        "en-gb-cookies",
+        "en-gb-image-packs-discovery-landmark-edition",
+        "en-gb-image-packs-discovery-tempest-0",
+        "en-gb-jlr-privacy-policy"
+      ]
+    },
+    {
+      "name": "bg-26f2066f",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2024-07-10/image/f2f6d170-4aba-4f39-bbb9-4f85f61cf337/Discovery%201.jpeg?VersionId=Yn7_GljgwOnzFe3rHMBut9qqYNs0OIwQ&h=02fb10bd&itok=nH7cSiAo",
+      "examplePages": [
+        "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "classic-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer"
+      ]
+    },
+    {
+      "name": "bg-6daf74b5",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2024-07-10/image/52515171-58e5-4b92-b5a6-1b74a3dc23b1/Discovery%202.jpeg?VersionId=aQO2seNByd3x30kN2Hazpvhx06nRkJNv&h=ffe5da4b&itok=LjTeqLDu",
+      "examplePages": [
+        "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "classic-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer"
+      ]
+    },
+    {
+      "name": "bg-000a649d",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2024-07-10/image/be025e09-6eab-4b24-96ac-9970e67f208c/Discovery%203%20off-road.jpeg?VersionId=7QVyIAcKWZBg2KpwMJZvueZ890A3t1W_&h=fa821a8f&itok=TtqIvxve",
+      "examplePages": [
+        "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "classic-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer"
+      ]
+    },
+    {
+      "name": "bg-1fd42c84",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2024-07-10/image/14939bc6-fb5b-4916-a696-a128cff84dc0/Discovery%203%20towing.jpeg?VersionId=Tm0UrPxpzlvd96VUIU_HPj_nzETReu3X&h=4293fa55&itok=LCo1WUQJ",
+      "examplePages": [
+        "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "classic-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer"
+      ]
+    },
+    {
+      "name": "bg-103774d7",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2024-07-10/image/45eba8e1-4336-45b8-99f5-e5445b1406ba/Discovery%204%20-%20Journey%20of%20Discovery.jpeg?VersionId=k42iXGC7q4yHHhCseuhxVVT5155V1FlZ&h=4293fa55&itok=SgO7H45J",
+      "examplePages": [
+        "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "classic-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer"
+      ]
+    },
+    {
+      "name": "bg-ef318f11",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2024-07-10/image/dd955d70-ce4c-4592-90d8-00f0ddd39324/Discovery%20all%20generations.jpeg?VersionId=Z67a3qR8rFEYlaureK4_L3TQRjJ2vKT9&h=5edb0152&itok=D5DJ-9Eo",
+      "examplePages": [
+        "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "classic-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer"
+      ]
+    },
+    {
+      "name": "bg-58b4d49d",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2024-07-10/image/af22cf5c-a3f1-4d42-bab4-a52a92bea2f4/Discovery%20G4%20Challenge.jpeg?VersionId=1DzVyyPbY2gGXq2R2KmExTngxMBcKkIV&h=5eedbfd3&itok=r21OwATo",
+      "examplePages": [
+        "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "classic-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "discovery-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer"
+      ]
+    },
+    {
+      "name": "bg-fc4d0cc9",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://i.vimeocdn.com/video/default-2308240_960x540",
+      "examplePages": [
+        "defender-en-gb-video-pack-defender-26my-octa-black",
+        "defenderrally-en-gb-video-pack-defender-rally-morocco-testing-b-roll",
+        "discovery-en-gb-video-pack-discovery-gemini-b-roll",
+        "discovery-en-gb-video-pack-discovery-tempest-b-roll"
+      ]
+    },
+    {
+      "name": "bg-5263f296",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=vgiFKaH2uKoqJ7y963x25axbd8.8Sgv8&h=ac5154fe&itok=FotTm5bb",
+      "examplePages": [
+        "discovery-en-gb-image-packs-discovery-landmark-edition",
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-image-packs-discovery-landmark-edition",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv"
+      ]
+    },
+    {
+      "name": "bg-3900a30b",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=IBXX2nH7RXZxMiaQqy4yPMGuWlM0D_rv&h=32975dc6&itok=lnnEI8Ru",
+      "examplePages": [
+        "discovery-en-gb-image-packs-discovery-landmark-edition",
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-image-packs-discovery-landmark-edition",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv"
+      ]
+    },
+    {
+      "name": "bg-6e715eca",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=c0JRZm5L_dVRl4pHYTfXK0wPWy.tVIAr&h=80fb4c59&itok=9ixfmHnG",
+      "examplePages": [
+        "discovery-en-gb-image-packs-discovery-landmark-edition",
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-image-packs-discovery-landmark-edition",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv"
+      ]
+    },
+    {
+      "name": "bg-364ed71b",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=v1YST6KQtckqnP8peX7jT42m3RpEXTqD&h=09ebb01d&itok=KVKaZ1AE",
+      "examplePages": [
+        "discovery-en-gb-image-packs-discovery-landmark-edition",
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-image-packs-discovery-landmark-edition",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv"
+      ]
+    },
+    {
+      "name": "bg-a79dcf04",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=WMst5v1RzuwE4wQcfYb.ULZV26TP4_eT&h=2406deb0&itok=J0VTgOw_",
+      "examplePages": [
+        "discovery-en-gb-image-packs-discovery-landmark-edition",
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-image-packs-discovery-landmark-edition",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv"
+      ]
+    },
+    {
+      "name": "bg-de8811e9",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=QKG7LGNLOdVGAdrtZ9PF4SHnvwlFTObu&h=ca835250&itok=BIi2vQS5",
+      "examplePages": [
+        "discovery-en-gb-image-packs-discovery-landmark-edition",
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-image-packs-discovery-landmark-edition",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv"
+      ]
+    },
+    {
+      "name": "bg-b31d8a52",
+      "kind": "background-motif",
+      "occurrences": 4,
+      "url": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=_gmOFlyLFxNaZ3hz4HBb6.GZimbU6YTh&h=290e5029&itok=M2d34KZ9",
+      "examplePages": [
+        "discovery-en-gb-image-packs-discovery-landmark-edition",
+        "discovery-en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv",
+        "en-gb-image-packs-discovery-landmark-edition",
+        "en-gb-news-2026-07-discovery-creates-new-landmark-seven-seat-family-suv"
+      ]
+    }
+  ],
+  "iconFont": {
+    "family": "jlr-media-site-new",
+    "alsoUsed": [
+      "FontAwesome",
+      "Glyphicons Halflings"
+    ],
+    "localPath": "stardust/current/assets/fonts/jlr-media-site-new.woff",
+    "sourceCss": "@font-face {font-family:jlr-media-site-new;font-style:normal;font-weight:400;src:url(../css/fonts/jlr-media-site-new.eot);src:url(../css/fonts/jlr-media-site-new.eot?#iefix) format(\"embedded-opentype\"),url(../css/fonts/jlr-media-site-new.woff) format(\"woff\"),url(../css/fonts/jlr-media-site-new.ttf) format(\"truetype\"),url(../css/fonts/jlr-media-site-new.svg#jlr-media-site-new) format(\"svg\")}",
+    "glyphCount": 36,
+    "glyphs": [
+      {
+        "class": "fa jlrnew-close hvr-icon-push",
+        "codepoint": "U+E909",
+        "fontFamily": "jlr-media-site-new",
+        "name": "close",
+        "count": 344
+      },
+      {
+        "class": "glyphicon fa-fw jlrnew-phone hvr-icon-push navigation-tools__icon",
+        "codepoint": "U+E91F",
+        "fontFamily": "jlr-media-site-new",
+        "name": "phone",
+        "count": 344
+      },
+      {
+        "class": "glyphicon jlrnew-search",
+        "codepoint": "U+E927",
+        "fontFamily": "jlr-media-site-new",
+        "name": "search",
+        "count": 344
+      },
+      {
+        "class": "glyphicon jlrnew-search fixed angucomplete-dropdown search-nav__searchbar-inner…",
+        "codepoint": "U+E927",
+        "fontFamily": "jlr-media-site-new",
+        "name": "search",
+        "count": 344
+      },
+      {
+        "class": "icon glyphicon glyphicon-refresh ajax-progress ajax-progress-throbber",
+        "codepoint": "U+E031",
+        "fontFamily": "\"Glyphicons Halflings\"",
+        "name": null,
+        "count": 344
+      },
+      {
+        "class": "jlrnew-globe navigation-tools__icon",
+        "codepoint": "U+E914",
+        "fontFamily": "jlr-media-site-new",
+        "name": "globe",
+        "count": 344
+      },
+      {
+        "class": "fa fa-fw fa-lg fa-instagram",
+        "codepoint": "U+F16D",
+        "fontFamily": "FontAwesome",
+        "name": "instagram",
+        "count": 334
+      },
+      {
+        "class": "fa fa-fw fa-lg jlrnew-youtube",
+        "codepoint": "U+E931",
+        "fontFamily": "jlr-media-site-new",
+        "name": "youtube",
+        "count": 331
+      },
+      {
+        "class": "fa fa-fw fa-lg jlrnew-facebook",
+        "codepoint": "U+E90F",
+        "fontFamily": "jlr-media-site-new",
+        "name": "facebook",
+        "count": 301
+      },
+      {
+        "class": "fa fa-fw fa-lg jlrnew-tiktok",
+        "codepoint": "U+E933",
+        "fontFamily": "jlr-media-site-new",
+        "name": "tiktok",
+        "count": 298
+      },
+      {
+        "class": "fa fa-3x jlrnew-up",
+        "codepoint": "U+E92E",
+        "fontFamily": "jlr-media-site-new",
+        "name": "up",
+        "count": 281
+      },
+      {
+        "class": "fa fa-fw fa-lg jlrnew-share",
+        "codepoint": "U+E929",
+        "fontFamily": "jlr-media-site-new",
+        "name": "share",
+        "count": 191
+      },
+      {
+        "class": "fa fa-lg fa-fw jlrnew-download hvr-icon-push",
+        "codepoint": "U+E90B",
+        "fontFamily": "jlr-media-site-new",
+        "name": "download",
+        "count": 159
+      },
+      {
+        "class": "fa fa-fw jlrnew-download hvr-icon-push",
+        "codepoint": "U+E90B",
+        "fontFamily": "jlr-media-site-new",
+        "name": "download",
+        "count": 141
+      },
+      {
+        "class": "fa fa=fw fa-lg jlrnew-mediacart hvr-icon-push",
+        "codepoint": "U+E919",
+        "fontFamily": "jlr-media-site-new",
+        "name": "mediacart",
+        "count": 140
+      },
+      {
+        "class": "fa jlrnew-arrow_left",
+        "codepoint": "U+E905",
+        "fontFamily": "jlr-media-site-new",
+        "name": "arrow",
+        "count": 125
+      },
+      {
+        "class": "fa jlrnew-arrow_right",
+        "codepoint": "U+E906",
+        "fontFamily": "jlr-media-site-new",
+        "name": "arrow",
+        "count": 119
+      },
+      {
+        "class": "fa fa-fw fa-lg jlrnew-linkedin",
+        "codepoint": "U+E918",
+        "fontFamily": "jlr-media-site-new",
+        "name": "linkedin",
+        "count": 116
+      },
+      {
+        "class": "fa fa-lg jlrnew-download pull-right",
+        "codepoint": "U+E90B",
+        "fontFamily": "jlr-media-site-new",
+        "name": "download",
+        "count": 114
+      },
+      {
+        "class": "fa fa-lg jlrnew-mediacart pull-right",
+        "codepoint": "U+E919",
+        "fontFamily": "jlr-media-site-new",
+        "name": "mediacart",
+        "count": 114
+      },
+      {
+        "class": "fa fa-lg jlrnew-share",
+        "codepoint": "U+E929",
+        "fontFamily": "jlr-media-site-new",
+        "name": "share",
+        "count": 114
+      },
+      {
+        "class": "fa fa-fw jlrnew-close",
+        "codepoint": "U+E909",
+        "fontFamily": "jlr-media-site-new",
+        "name": "close",
+        "count": 112
+      },
+      {
+        "class": "fa fa-angle-down",
+        "codepoint": "U+F107",
+        "fontFamily": "FontAwesome",
+        "name": "angle-down",
+        "count": 110
+      },
+      {
+        "class": "fa fa-angle-right pull-right new-grid__sidebar-icon",
+        "codepoint": "U+F105",
+        "fontFamily": "FontAwesome",
+        "name": "angle-right",
+        "count": 110
+      },
+      {
+        "class": "fa fa-fw fa-lg jlrnew-download hvr-icon-push",
+        "codepoint": "U+E90B",
+        "fontFamily": "jlr-media-site-new",
+        "name": "download",
+        "count": 96
+      },
+      {
+        "class": "fa fa-fw jlrnew-arrow_right",
+        "codepoint": "U+E906",
+        "fontFamily": "jlr-media-site-new",
+        "name": "arrow",
+        "count": 34
+      },
+      {
+        "class": "fa fa-fw jlrnew-arrow_left",
+        "codepoint": "U+E905",
+        "fontFamily": "jlr-media-site-new",
+        "name": "arrow",
+        "count": 33
+      },
+      {
+        "class": "contact-person-card__icon fa fa-envelope-o",
+        "codepoint": "U+F003",
+        "fontFamily": "FontAwesome",
+        "name": "envelope-o",
+        "count": 30
+      },
+      {
+        "class": "fa fa-copy hide",
+        "codepoint": "U+F0C5",
+        "fontFamily": "FontAwesome",
+        "name": "copy",
+        "count": 24
+      },
+      {
+        "class": "contact-person-card__icon jlrnew-phone",
+        "codepoint": "U+E91F",
+        "fontFamily": "jlr-media-site-new",
+        "name": "phone",
+        "count": 15
+      },
+      {
+        "class": "fa fa-lg jlrnew-rss",
+        "codepoint": "U+E926",
+        "fontFamily": "jlr-media-site-new",
+        "name": "rss",
+        "count": 7
+      },
+      {
+        "class": "fa fa-angle-right",
+        "codepoint": "U+F105",
+        "fontFamily": "FontAwesome",
+        "name": "angle-right",
+        "count": 6
+      },
+      {
+        "class": "fa fa-copy embed-code-icon",
+        "codepoint": "U+F0C5",
+        "fontFamily": "FontAwesome",
+        "name": "copy",
+        "count": 5
+      },
+      {
+        "class": "fa fa-lg fa-fw fa-angle-right",
+        "codepoint": "U+F105",
+        "fontFamily": "FontAwesome",
+        "name": "angle-right",
+        "count": 4
+      },
+      {
+        "class": "fa fa-fw jlrnew-arrow_left icon",
+        "codepoint": "U+E905",
+        "fontFamily": "jlr-media-site-new",
+        "name": "arrow",
+        "count": 2
+      },
+      {
+        "class": "fa fa-fw jlrnew-arrow_right icon",
+        "codepoint": "U+E906",
+        "fontFamily": "jlr-media-site-new",
+        "name": "arrow",
+        "count": 2
+      }
+    ]
+  },
+  "voice": {
+    "heroHeadline": "Explore our brands",
+    "heroSubcopy": "Stories from across our brands",
+    "heroImage": {
+      "url": "https://media.production.jlrms.com/styles/portrait_mobile_111_172/s3/2026-08-23/image/2411027f-1434-4f5f-a4bd-98e7ec319dba/rangerover-explore.png?VersionId=P6sUq5LIfQ7BvC9jZ8yDnIVybZGcJ_AL&h=5480974c&itok=EUtotXjq",
+      "alt": "Range Rover",
+      "source": "img",
+      "domPath": "section.explore-brands .explore-brands__item img.explore-brands__img",
+      "localPath": null,
+      "rect": null
+    },
+    "heroMedium": null,
+    "primaryCTALabel": null,
+    "ctaSamples": [
+      "Download",
+      "SHARE",
+      "Share",
+      "People",
+      "Contact Us"
+    ],
+    "navItems": [
+      "JLR MEDIA",
+      "Range Rover",
+      "Defender",
+      "Discovery",
+      "Jaguar",
+      "Classic",
+      "Corporate",
+      "Contact Us"
+    ],
+    "brandSubNav": [
+      "Vehicles",
+      "Brand",
+      "News",
+      "Images",
+      "Video",
+      "People",
+      "Press Kits",
+      "Tech Specs"
+    ],
+    "footerHeadings": [
+      "Useful Links",
+      "Support",
+      "FOLLOW:",
+      "SUBSCRIBE TO OUR NEWSLETTER"
+    ],
+    "firstParagraph": "Quieter, more responsive, and with more torque than any Range Rover to date, the first ever Range Rover Electric further enhances Range Rover’s luxury DNA and reductive design",
+    "tone": {
+      "guess": "professional-formal",
+      "evidence": "press-release register: dateline openings (\"Coventry, United Kingdom:\"), third person, uppercase headlines, no second-person address"
+    }
+  },
+  "voiceTable": {
+    "ctaFrequency": [
+      {
+        "label": "Download",
+        "total": 1785,
+        "pageCount": 162,
+        "pages": [
+          "classic-en-gb-image-packs-classic-defender-v8-works-bespoke-images",
+          "classic-en-gb-image-packs-defender-26my-octa-black",
+          "classic-en-gb-image-packs-defender-marks-70-years-its-partnership-british-red-cross",
+          "classic-en-gb-image-packs-defender-octa-colours",
+          "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+          "classic-en-gb-image-packs-images-classic-defender-v8-octa-colours"
+        ]
+      },
+      {
+        "label": "SHARE",
+        "total": 1047,
+        "pageCount": 87,
+        "pages": [
+          "classic-en-gb-image-packs",
+          "classic-en-gb-images",
+          "classic-en-gb-news",
+          "classic-en-gb-vehicle-1957-xkss",
+          "classic-en-gb-vehicle-2016-xkss",
+          "classic-en-gb-vehicle-c-type"
+        ]
+      },
+      {
+        "label": "Share",
+        "total": 608,
+        "pageCount": 64,
+        "pages": [
+          "classic-en-gb-news-2024-07-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+          "classic-en-gb-news-2024-08-defender-marks-70-years-its-landmark-humanitarian-charity-partnership-british-red",
+          "classic-en-gb-news-2024-08-introducing-classic-defender-v8-works-bespoke",
+          "classic-en-gb-news-2025-01-jaguar-land-rover-classic-appoints-new-director-dominic-elms",
+          "classic-en-gb-news-2025-05-return-icon-land-rover-classic-launches-classic-defender-v8-soft-top",
+          "classic-en-gb-news-2025-07-defender-octa-black-tough-luxury-4x4-rock-star"
+        ]
+      },
+      {
+        "label": "People",
+        "total": 441,
+        "pageCount": 338,
+        "pages": [
+          "classic-en-gb-contact-china-5",
+          "classic-en-gb-contact-france-5",
+          "classic-en-gb-contact-germany-5",
+          "classic-en-gb-contact-italy-5",
+          "classic-en-gb-contact-north-america-5",
+          "classic-en-gb-contact-spain-5"
+        ]
+      },
+      {
+        "label": "Contact Us",
+        "total": 420,
+        "pageCount": 352,
+        "pages": [
+          "classic-en-gb-contact-china-5",
+          "classic-en-gb-contact-france-5",
+          "classic-en-gb-contact-germany-5",
+          "classic-en-gb-contact-italy-5",
+          "classic-en-gb-contact-north-america-5",
+          "classic-en-gb-contact-spain-5"
+        ]
+      },
+      {
+        "label": "jaguar.com",
+        "total": 361,
+        "pageCount": 329,
+        "pages": [
+          "classic-en-gb-contact-china-5",
+          "classic-en-gb-contact-france-5",
+          "classic-en-gb-contact-germany-5",
+          "classic-en-gb-contact-italy-5",
+          "classic-en-gb-contact-north-america-5",
+          "classic-en-gb-contact-spain-5"
+        ]
+      },
+      {
+        "label": "Video",
+        "total": 359,
+        "pageCount": 338,
+        "pages": [
+          "classic-en-gb-contact-china-5",
+          "classic-en-gb-contact-france-5",
+          "classic-en-gb-contact-germany-5",
+          "classic-en-gb-contact-italy-5",
+          "classic-en-gb-contact-north-america-5",
+          "classic-en-gb-contact-spain-5"
+        ]
+      },
+      {
+        "label": "Skip to main content",
+        "total": 352,
+        "pageCount": 352,
+        "pages": [
+          "classic-en-gb-contact-china-5",
+          "classic-en-gb-contact-france-5",
+          "classic-en-gb-contact-germany-5",
+          "classic-en-gb-contact-italy-5",
+          "classic-en-gb-contact-north-america-5",
+          "classic-en-gb-contact-spain-5"
+        ]
+      }
+    ],
+    "headingFrequency": [
+      {
+        "text": "Useful Links",
+        "total": 352,
+        "pageCount": 352,
+        "level": 4
+      },
+      {
+        "text": "Support",
+        "total": 352,
+        "pageCount": 352,
+        "level": 4
+      },
+      {
+        "text": "FOLLOW:",
+        "total": 352,
+        "pageCount": 352,
+        "level": 4
+      },
+      {
+        "text": "SUBSCRIBE TO OUR NEWSLETTER",
+        "total": 311,
+        "pageCount": 311,
+        "level": 4
+      },
+      {
+        "text": "Images",
+        "total": 141,
+        "pageCount": 29,
+        "level": 4
+      },
+      {
+        "text": "Notes to Editors",
+        "total": 45,
+        "pageCount": 45,
+        "level": 2
+      },
+      {
+        "text": "Further information",
+        "total": 43,
+        "pageCount": 43,
+        "level": 2
+      },
+      {
+        "text": "Videos",
+        "total": 39,
+        "pageCount": 6,
+        "level": 4
+      },
+      {
+        "text": "07 October 2026",
+        "total": 36,
+        "pageCount": 4,
+        "level": 5
+      },
+      {
+        "text": "Press office",
+        "total": 30,
+        "pageCount": 30,
+        "level": 2
+      },
+      {
+        "text": "1",
+        "total": 30,
+        "pageCount": 11,
+        "level": 2
+      },
+      {
+        "text": "Video",
+        "total": 26,
+        "pageCount": 7,
+        "level": 4
+      },
+      {
+        "text": "30 September 2026",
+        "total": 26,
+        "pageCount": 4,
+        "level": 5
+      },
+      {
+        "text": "Sorry! There were no results matching your query.",
+        "total": 25,
+        "pageCount": 25,
+        "level": 4
+      },
+      {
+        "text": "Images",
+        "total": 22,
+        "pageCount": 22,
+        "level": 5
+      },
+      {
+        "text": "02 September 2026",
+        "total": 22,
+        "pageCount": 4,
+        "level": 5
+      },
+      {
+        "text": "Range Rover Sport Electric",
+        "total": 20,
+        "pageCount": 3,
+        "level": 3
+      },
+      {
+        "text": "Range Rover Sport Electric",
+        "total": 20,
+        "pageCount": 3,
+        "level": 1
+      },
+      {
+        "text": "7",
+        "total": 19,
+        "pageCount": 13,
+        "level": 2
+      },
+      {
+        "text": "0 Result",
+        "total": 17,
+        "pageCount": 17,
+        "level": 1
+      },
+      {
+        "text": "1. Definitions",
+        "total": 16,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "2. Fair Dealing Rights",
+        "total": 16,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "3. Licence Grant",
+        "total": 16,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "4. Restrictions",
+        "total": 16,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "5. Representations, Warranties and Disclaimer",
+        "total": 16,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "6. Limitation on Liability",
+        "total": 16,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "7. Termination",
+        "total": 16,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "8. Miscellaneous",
+        "total": 16,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "2",
+        "total": 16,
+        "pageCount": 7,
+        "level": 2
+      },
+      {
+        "text": "10",
+        "total": 15,
+        "pageCount": 11,
+        "level": 2
+      },
+      {
+        "text": "6",
+        "total": 15,
+        "pageCount": 11,
+        "level": 2
+      },
+      {
+        "text": "5",
+        "total": 15,
+        "pageCount": 10,
+        "level": 2
+      },
+      {
+        "text": "8",
+        "total": 14,
+        "pageCount": 10,
+        "level": 2
+      },
+      {
+        "text": "4",
+        "total": 13,
+        "pageCount": 10,
+        "level": 2
+      },
+      {
+        "text": "Jaguar Type 01",
+        "total": 13,
+        "pageCount": 4,
+        "level": 3
+      },
+      {
+        "text": "3",
+        "total": 12,
+        "pageCount": 8,
+        "level": 2
+      },
+      {
+        "text": "05 December 2024",
+        "total": 12,
+        "pageCount": 4,
+        "level": 5
+      },
+      {
+        "text": "DISCOVERY CELEBRATES 35 YEARS OF INGENIOUS VERSATILITY WITH ‘35TH EDITION’, A NEW ENGINE AND A SUMMER PROGRAMME OF UK EVENTS",
+        "total": 11,
+        "pageCount": 11,
+        "level": 3
+      },
+      {
+        "text": "JLR HONOURS QUEEN ELIZABETH II WITH UNIQUE GOODWOOD REVIVAL PARADE",
+        "total": 11,
+        "pageCount": 11,
+        "level": 3
+      },
+      {
+        "text": "15 May 2025",
+        "total": 11,
+        "pageCount": 4,
+        "level": 5
+      }
+    ],
+    "toneMetrics": {
+      "headingsTotal": 5780,
+      "headingsUppercasePercent": 34,
+      "distinctHeadings": 1305,
+      "distinctCtaLabels": 495
+    }
+  },
+  "crossPromo": {
+    "detected": true,
+    "anchorHeading": "Useful Links",
+    "cluster": [
+      {
+        "text": "Useful Links",
+        "total": 352,
+        "pageCount": 352,
+        "overlap": 352
+      },
+      {
+        "text": "Support",
+        "total": 352,
+        "pageCount": 352,
+        "overlap": 352
+      },
+      {
+        "text": "FOLLOW:",
+        "total": 352,
+        "pageCount": 352,
+        "overlap": 352
+      },
+      {
+        "text": "SUBSCRIBE TO OUR NEWSLETTER",
+        "total": 311,
+        "pageCount": 311,
+        "overlap": 311
+      }
+    ],
+    "pages": [
+      "classic-en-gb-contact-china-5",
+      "classic-en-gb-contact-france-5",
+      "classic-en-gb-contact-germany-5",
+      "classic-en-gb-contact-italy-5",
+      "classic-en-gb-contact-north-america-5",
+      "classic-en-gb-contact-spain-5",
+      "classic-en-gb-contact-united-kingdom-5",
+      "classic-en-gb-contact",
+      "classic-en-gb-cookies",
+      "classic-en-gb-directors",
+      "classic-en-gb-en-broadcast-videos",
+      "classic-en-gb-image-packs-classic-defender-v8-works-bespoke-images",
+      "classic-en-gb-image-packs-defender-26my-octa-black",
+      "classic-en-gb-image-packs-defender-marks-70-years-its-partnership-british-red-cross",
+      "classic-en-gb-image-packs-defender-octa-colours",
+      "classic-en-gb-image-packs-discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+      "classic-en-gb-image-packs-images-classic-defender-v8-octa-colours",
+      "classic-en-gb-image-packs-unique-display-royal-land-rovers-display-goodwood-revival",
+      "classic-en-gb-image-packs",
+      "classic-en-gb-images"
+    ],
+    "pageCount": 352,
+    "totalPages": 352
+  },
+  "embedDominated": [],
+  "register": "brand"
+}

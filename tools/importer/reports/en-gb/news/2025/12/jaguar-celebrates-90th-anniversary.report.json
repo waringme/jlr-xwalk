@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/en-gb/news/2025/12/jaguar-celebrates-90th-anniversary",
+  "path": "en-gb/news/2025/12/jaguar-celebrates-90th-anniversary",
+  "timestamp": "2026-11-06T10:49:37.118Z",
+  "title": "JAGUAR CELEBRATES 90TH ANNIVERSARY | Media Landing Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-press-image",
+    "columns-text",
+    "pagination"
+  ]
+}

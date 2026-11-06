@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/vehicle/e-type",
+  "path": "classic/en-gb/vehicle/e-type",
+  "timestamp": "2026-11-06T17:59:39.463Z",
+  "title": "Classic",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-subnav",
+    "media-subnav",
+    "cards-gallery"
+  ]
+}

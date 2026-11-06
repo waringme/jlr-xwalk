@@ -1,0 +1,1325 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T13:58:36.612Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "defender-en-gb",
+  "url": "https://media.jlr.com/defender/en-gb",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T13:58:36.612Z",
+  "finalUrl": "https://media.jlr.com/defender/en-gb",
+  "title": "Defender",
+  "description": "Defender Homepage",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "DEFENDER REVEALS NEXT-GENERATION MILITARY VEHICLE FOR THE MODERN ERA - INTRODUCING DEFENDER WOLF II"
+    },
+    {
+      "tag": "h2",
+      "text": "Latest News"
+    },
+    {
+      "tag": "h4",
+      "text": "23 September 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY..."
+    },
+    {
+      "tag": "h4",
+      "text": "16 September 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW"
+    },
+    {
+      "tag": "h4",
+      "text": "04 September 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DEFENDER REVEALS NEXT-GENERATION MILITARY VEHICLE FOR THE MODERN ERA -..."
+    },
+    {
+      "tag": "h4",
+      "text": "12 August 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DEFENDER OCTA LAUNCHES JCB HYDROMAX TO LAND SPEED RECORD GLORY"
+    },
+    {
+      "tag": "h2",
+      "text": "Images"
+    },
+    {
+      "tag": "h3",
+      "text": "8"
+    },
+    {
+      "tag": "h3",
+      "text": "Defender Wolf Series II Next Generation Military Mobility Vehicle"
+    },
+    {
+      "tag": "h3",
+      "text": "5"
+    },
+    {
+      "tag": "h3",
+      "text": "DEFENDER OCTA LAUNCHES JCB HYDROMAX TO LAND SPEED RECORD GLORY"
+    },
+    {
+      "tag": "h3",
+      "text": "5"
+    },
+    {
+      "tag": "h3",
+      "text": "DEFENDER 110 - SIX-SEAT LAYOUT"
+    },
+    {
+      "tag": "h2",
+      "text": "Videos"
+    },
+    {
+      "tag": "h3",
+      "text": "1"
+    },
+    {
+      "tag": "h3",
+      "text": "FILM - LAND ROVER AWARDS JUDGES"
+    },
+    {
+      "tag": "h3",
+      "text": "1"
+    },
+    {
+      "tag": "h3",
+      "text": "Defender 26MY OCTA Black"
+    },
+    {
+      "tag": "h3",
+      "text": "5"
+    },
+    {
+      "tag": "h3",
+      "text": "FILMS - DEFENDER AWARDS"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "Defender Rally",
+    "04 September 2026",
+    "Defender’s Classic division has launched a new upgrade progr...",
+    "Defender OCTA demonstrated its performance, capability and c...",
+    "Images",
+    "Defender Wolf Series II is a next‑generation military vehicl...",
+    "Images",
+    "Defender OCTA demonstrated its performance, capability and c...",
+    "Images",
+    "Defender 110 adds six‑seat configuration for increased acces...",
+    "Video",
+    "13 October 2025",
+    "Introducing Defender Awards judges, Dr Moreangels Mzbiah, Ma...",
+    "Video",
+    "04 July 2025",
+    "Defender OCTA Black is an all‑black interpretation of the un...",
+    "Videos",
+    "02 April 2025",
+    "New international Defender Awards initiative will benefit sm...",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/defender/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/defender/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/defender/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/defender/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/defender/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/defender/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/defender/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/defender/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/defender/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/defender/en-gb/contact"
+    },
+    {
+      "label": "Defender",
+      "href": "https://www.landrover.com/defender/defender/index.html"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "News",
+      "href": "/defender/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/defender/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/defender/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/defender/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/defender/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/defender/en-gb/tech-specs"
+    },
+    {
+      "label": "Defender Rally",
+      "href": "https://media.jlr.com/defenderrally/en-gb"
+    },
+    {
+      "label": "Search Defender",
+      "href": null
+    },
+    {
+      "label": "Previous",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/68f6583e-05ca-494a-ade1-1af7327df6b7/en/defender-reveals-nex.zip?VersionId=V5O.XjInoty8zoKRpUQr5GuBZUNl79nC"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf&title=DEFENDER%20REVEALS%20NEXT-GENERATION%20MILITARY%20VEHICLE%20FOR%20THE%20MODERN%20ERA%20-..."
+    },
+    {
+      "label": "Image",
+      "href": "/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf"
+    },
+    {
+      "label": "DEFENDER REVEALS NEXT-GENERATION MILITARY VEHICLE FOR THE MODERN ERA - INTRODUCING DEFENDER WOLF II",
+      "href": "/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf"
+    },
+    {
+      "label": "Find Out More",
+      "href": "/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf"
+    },
+    {
+      "label": "Next",
+      "href": null
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "3",
+      "href": null
+    },
+    {
+      "label": "4",
+      "href": null
+    },
+    {
+      "label": "See All",
+      "href": "/defender/en-gb/news"
+    },
+    {
+      "label": "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY...",
+      "href": "/defender/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion%0A&title=DEFENDER%26%23039%3BS%20CLASSIC%20DIVISION%20LAUNCHES%20NEW%20UPGRADE%20PROGRAMME%2C%20CROWN..."
+    },
+    {
+      "label": "Read more",
+      "href": "/defender/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion\n"
+    },
+    {
+      "label": "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+      "href": "/defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefender-unveils-three-new-wolf-series-ii-variants-defence-show%0A&title=DEFENDER%20UNVEILS%20THREE%20NEW%20WOLF%20SERIES%20II%20VARIANTS%20AT%20DEFENCE%20SHOW"
+    },
+    {
+      "label": "Read more",
+      "href": "/defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show\n"
+    },
+    {
+      "label": "DEFENDER REVEALS NEXT-GENERATION MILITARY VEHICLE FOR THE MODERN ERA -...",
+      "href": "/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf%0A&title=DEFENDER%20REVEALS%20NEXT-GENERATION%20MILITARY%20VEHICLE%20FOR%20THE%20MODERN%20ERA%20-..."
+    },
+    {
+      "label": "Read more",
+      "href": "/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf\n"
+    },
+    {
+      "label": "DEFENDER OCTA LAUNCHES JCB HYDROMAX TO LAND SPEED RECORD GLORY",
+      "href": "/defender/en-gb/news/2026/08/defender-octa-launches-jcb-hydromax-land-speed-record-glory\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F08%2Fdefender-octa-launches-jcb-hydromax-land-speed-record-glory%0A&title=DEFENDER%20OCTA%20LAUNCHES%20JCB%20HYDROMAX%20TO%20LAND%20SPEED%20RECORD%20GLORY%20"
+    },
+    {
+      "label": "Read more",
+      "href": "/defender/en-gb/news/2026/08/defender-octa-launches-jcb-hydromax-land-speed-record-glory\n"
+    },
+    {
+      "label": "See All",
+      "href": "/defender/en-gb/image-packs"
+    },
+    {
+      "label": "8 Images",
+      "href": "/defender/en-gb/image-packs/defender-wolf-series-ii-next-generation-military-mobility-vehicle\n"
+    },
+    {
+      "label": "04 September 2026",
+      "href": "/defender/en-gb/image-packs/defender-wolf-series-ii-next-generation-military-mobility-vehicle\n"
+    },
+    {
+      "label": "Defender Wolf Series II Next Generation Military Mobility Vehicle",
+      "href": "/defender/en-gb/image-packs/defender-wolf-series-ii-next-generation-military-mobility-vehicle\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdefender%2Fen-gb%2Fhome-content&title=Share"
+    },
+    {
+      "label": "5 Images",
+      "href": "/defender/en-gb/image-packs/defender-octa-launches-jcb-hydromax-land-speed-record-glory\n"
+    },
+    {
+      "label": "12 August 2026",
+      "href": "/defender/en-gb/image-packs/defender-octa-launches-jcb-hydromax-land-speed-record-glory\n"
+    },
+    {
+      "label": "DEFENDER OCTA LAUNCHES JCB HYDROMAX TO LAND SPEED RECORD GLORY",
+      "href": "/defender/en-gb/image-packs/defender-octa-launches-jcb-hydromax-land-speed-record-glory\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdefender%2Fen-gb%2Fhome-content&title=Share"
+    },
+    {
+      "label": "5 Images",
+      "href": "/defender/en-gb/image-packs/defender-110-six-seat-layout\n"
+    },
+    {
+      "label": "08 July 2026",
+      "href": "/defender/en-gb/image-packs/defender-110-six-seat-layout\n"
+    },
+    {
+      "label": "DEFENDER 110 - SIX-SEAT LAYOUT",
+      "href": "/defender/en-gb/image-packs/defender-110-six-seat-layout\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdefender%2Fen-gb%2Fhome-content&title=Share"
+    },
+    {
+      "label": "See All",
+      "href": "/defender/en-gb/video-packs"
+    },
+    {
+      "label": "1 Video",
+      "href": "/defender/en-gb/video-pack/film-land-rover-awards-judges\n"
+    },
+    {
+      "label": "13 October 2025",
+      "href": "/defender/en-gb/video-pack/film-land-rover-awards-judges\n"
+    },
+    {
+      "label": "FILM - LAND ROVER AWARDS JUDGES",
+      "href": "/defender/en-gb/video-pack/film-land-rover-awards-judges\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fvideo-pack%2Ffilm-land-rover-awards-judges%0A&title=FILM%20-%20LAND%20ROVER%20AWARDS%20JUDGES"
+    },
+    {
+      "label": "1 Video",
+      "href": "/defender/en-gb/video-pack/defender-26my-octa-black\n"
+    },
+    {
+      "label": "04 July 2025",
+      "href": "/defender/en-gb/video-pack/defender-26my-octa-black\n"
+    },
+    {
+      "label": "Defender 26MY OCTA Black",
+      "href": "/defender/en-gb/video-pack/defender-26my-octa-black\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fvideo-pack%2Fdefender-26my-octa-black%0A&title=Defender%2026MY%20OCTA%20Black"
+    },
+    {
+      "label": "5 Videos",
+      "href": "/defender/en-gb/video-pack/films-defender-awards\n"
+    },
+    {
+      "label": "02 April 2025",
+      "href": "/defender/en-gb/video-pack/films-defender-awards\n"
+    },
+    {
+      "label": "FILMS - DEFENDER AWARDS",
+      "href": "/defender/en-gb/video-pack/films-defender-awards\n"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fvideo-pack%2Ffilms-defender-awards%0A&title=FILMS%20-%20DEFENDER%20AWARDS%20"
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/defender/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/defender/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/defender/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/defender/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/defender/en-gb#main-content",
+    "https://media.jlr.com/defender/zh-cn",
+    "https://media.jlr.com/defender/fr-fr",
+    "https://media.jlr.com/defender/de-de",
+    "https://media.jlr.com/defender/",
+    "https://media.jlr.com/defender/it-it",
+    "https://media.jlr.com/defender/en-us",
+    "https://media.jlr.com/defender/es-es",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/defender/en-gb/cart",
+    "https://media.jlr.com/defender/en-gb/contact",
+    "https://media.jlr.com/defender/en-gb/",
+    "https://www.landrover.com/defender/defender/index.html",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/defender/en-gb/terms-and-conditions",
+    "https://media.jlr.com/defender/en-gb/user-licence",
+    "https://media.jlr.com/defender/en-gb/cookies",
+    "https://media.jlr.com/defender/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/defender/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/defender/en-gb/news",
+    "https://media.jlr.com/defender/en-gb/image-packs",
+    "https://media.jlr.com/defender/en-gb/videos",
+    "https://media.jlr.com/defender/en-gb/directors",
+    "https://media.jlr.com/defender/en-gb/press-kit",
+    "https://media.jlr.com/defender/en-gb/tech-specs",
+    "https://media.jlr.com/defenderrally/en-gb",
+    "javascript:void(0)",
+    "https://media.jlr.com/defender/en-gb/vehicle/defender-90",
+    "https://media.jlr.com/defender/en-gb/vehicle/defender-110",
+    "https://media.jlr.com/defender/en-gb/vehicle/defender-130",
+    "https://media.jlr.com/defender/en-gb/vehicle/defender-(1990-2016)",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.production.jlrms.com/download_archives/c27e0ec3-6e29-45ef-950c-47785c42dd18/en/defender-unveils-thr.zip?VersionId=L1ko.T9P5g4jzuQTE4xIOlH4wK0OZYEr",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefender-unveils-three-new-wolf-series-ii-variants-defence-show&title=DEFENDER%20UNVEILS%20THREE%20NEW%20WOLF%20SERIES%20II%20VARIANTS%20AT%20DEFENCE%20SHOW",
+    "https://media.jlr.com/defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show",
+    "https://media.production.jlrms.com/download_archives/68f6583e-05ca-494a-ade1-1af7327df6b7/en/defender-reveals-nex.zip?VersionId=V5O.XjInoty8zoKRpUQr5GuBZUNl79nC",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf&title=DEFENDER%20REVEALS%20NEXT-GENERATION%20MILITARY%20VEHICLE%20FOR%20THE%20MODERN%20ERA%20-...",
+    "https://media.jlr.com/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf",
+    "https://media.production.jlrms.com/download_archives/90343bd8-4a68-4df6-a971-125a8410d03c/en/defender-octa-launch.zip?VersionId=roqusOWdCIQX5kd2eCIpZmwTI9k3xBZY",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F08%2Fdefender-octa-launches-jcb-hydromax-land-speed-record-glory&title=DEFENDER%20OCTA%20LAUNCHES%20JCB%20HYDROMAX%20TO%20LAND%20SPEED%20RECORD%20GLORY%20",
+    "https://media.jlr.com/defender/en-gb/news/2026/08/defender-octa-launches-jcb-hydromax-land-speed-record-glory",
+    "https://media.production.jlrms.com/download_archives/e5e48ee1-ce03-4f46-b403-7ea8563e4ff8/en/tough-luxury-new-def.zip?VersionId=kD.l.LCK.ViBa9EudtzLphJn9K6TirUM",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F07%2Ftough-luxury-new-defender-vertex-leads-design-and-accessory-update&title=TOUGH%20LUXURY%3A%20NEW%20DEFENDER%20VERTEX%20LEADS%20DESIGN%20AND%20ACCESSORY%20UPDATE",
+    "https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+    "https://media.jlr.com/corporate/en-gb/feed/news/defender",
+    "https://www.instagram.com/defender/",
+    "https://www.tiktok.com/@defender",
+    "https://www.youtube.com/@defender",
+    "https://www.facebook.com/Defender",
+    "https://x.com/defender",
+    "https://media.jlr.com/defender/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion%0A&title=DEFENDER%26%23039%3BS%20CLASSIC%20DIVISION%20LAUNCHES%20NEW%20UPGRADE%20PROGRAMME%2C%20CROWN...",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefender-unveils-three-new-wolf-series-ii-variants-defence-show%0A&title=DEFENDER%20UNVEILS%20THREE%20NEW%20WOLF%20SERIES%20II%20VARIANTS%20AT%20DEFENCE%20SHOW",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F09%2Fdefender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf%0A&title=DEFENDER%20REVEALS%20NEXT-GENERATION%20MILITARY%20VEHICLE%20FOR%20THE%20MODERN%20ERA%20-...",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F08%2Fdefender-octa-launches-jcb-hydromax-land-speed-record-glory%0A&title=DEFENDER%20OCTA%20LAUNCHES%20JCB%20HYDROMAX%20TO%20LAND%20SPEED%20RECORD%20GLORY%20",
+    "https://media.jlr.com/defender/en-gb/image-packs/defender-wolf-series-ii-next-generation-military-mobility-vehicle",
+    "https://media.production.jlrms.com/download_archives/01338c90-c082-4847-aacc-d9fa43da943a/en/defender-wolf-series.zip?VersionId=JJdNYBUbvtgl62FrPdcx9SsiJ0URF9B6",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdefender%2Fen-gb%2Fhome-content&title=Share",
+    "https://media.jlr.com/defender/en-gb/image-packs/defender-octa-launches-jcb-hydromax-land-speed-record-glory",
+    "https://media.production.jlrms.com/download_archives/202b9787-b53c-4670-875b-afd92589767a/en/defender-octa-launch.zip?VersionId=cig7Nztx3d.qY6exw3tqohRQgR1XqeC8",
+    "https://media.jlr.com/defender/en-gb/image-packs/defender-110-six-seat-layout",
+    "https://media.production.jlrms.com/download_archives/bd8acbc5-041a-4bed-9af5-19c841e9da18/en/defender-110-six-sea.zip?VersionId=Loxi6v6UHGp3brP1sQdEMb49RQs56Ep0",
+    "https://media.jlr.com/defender/en-gb/video-packs",
+    "https://media.jlr.com/defender/en-gb/video-pack/film-land-rover-awards-judges",
+    "https://media.production.jlrms.com/download_archives/3cb0af50-5717-47fe-867a-05978b5b5506/en/film-land-rover-awar.zip?VersionId=aw8In6hS.XAXqnON7cDp9hZH0weiQoDr",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fvideo-pack%2Ffilm-land-rover-awards-judges%0A&title=FILM%20-%20LAND%20ROVER%20AWARDS%20JUDGES",
+    "https://media.jlr.com/defender/en-gb/video-pack/defender-26my-octa-black",
+    "https://media.production.jlrms.com/download_archives/ab48d17d-2458-4b13-bd99-7890a699339c/en/defender-26my-octa-b.zip?VersionId=6N6Xq928q97M.Vyi86uiaeXaG8TftAFy",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fvideo-pack%2Fdefender-26my-octa-black%0A&title=Defender%2026MY%20OCTA%20Black",
+    "https://media.jlr.com/defender/en-gb/video-pack/films-defender-awards",
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fvideo-pack%2Ffilms-defender-awards%0A&title=FILMS%20-%20DEFENDER%20AWARDS%20",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://media.jlr.com/defender/en-gb#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/defender/en-gb#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/defender-logo-dark.svg",
+        "alt": "Defender logo",
+        "w": 145,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2024-05-21/image/b8e72087-b964-47c6-b049-7bfab89b89f9/Defender_90_Thumb.jpg?VersionId=fuowEhMWPb0taZqEwRTuD.ofj9XGwbQ2&h=1e9af1ba&itok=vvfU01Op",
+        "alt": "Defender 90",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2024-05-21/image/dcd137ec-4e1a-431a-83ce-dab0942e9038/LR_DEF_110_Thumb.jpg?VersionId=11F0klOEnknfyatcu_Spu6CtMEHn3n8W&h=1e9af1ba&itok=wpkk6OQO",
+        "alt": "Defender 110",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2024-05-21/image/588d7fad-8210-4a27-b919-3b176737080d/LR_DEF_130_Thumbnail.jpg?VersionId=jvXOxuHFS3fVpz5_R010igjYn8VrcPfS&h=1e9af1ba&itok=aZ0BuRI6",
+        "alt": "Defender 130",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Defender.jpg?VersionId=alNCsrRCNi8_KHoqGU9cqEYCc7hobgbc&h=05abcc49&itok=cdLnKik_",
+        "alt": "Defender (1990-2016)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-09-15/image/b4ae5ed3-81ec-4b36-ac82-05fa262ea385/JLR_Defender_WOlf_SeriesII_Trials_Utility__02.jpg?VersionId=G13OP9G80W8ICDA8YqqjI5vtZJoPp9EJ&h=c90cddf7&itok=uRKBaCyy",
+        "alt": "Defender Wolf Series II Utility Military Vehicle",
+        "w": 1200,
+        "h": 450
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-09-04/image/741bc14d-509b-4a28-b665-41cacf7af6b4/DefenderWolfSeriesII_FenEnd-31.jpg?VersionId=ZOsKraI1ORxnKrKDArDoF2CoW8LqrVGh&h=668863b4&itok=SVmwMbPb",
+        "alt": "Defender Wolf Series II: Next-Generation Military Mobility Vehicle",
+        "w": 1200,
+        "h": 450
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-08-11/image/2e3786cf-c043-4447-bede-1bf20ee965da/DEF_OCTA_JCB_LSR_110826_05.jpg?VersionId=GE8xNCgBO9ZnhRmSDbAXettskv180mPu&h=ea6c1f8f&itok=AurO9Jg4",
+        "alt": "DEF_OCTA_JCB_LSR_110826_05",
+        "w": 1200,
+        "h": 450
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-07-06/image/ba72f4c5-6dce-43d7-999b-fa6475253cd8/DEF_VERTEX_90_27MY_PATAGONIA_WRAP_08072025_01.jpg?VersionId=7W5qTYjh7EwW0nRB4C.YvtP.jdGh0cm8&h=2f0936b0&itok=-QZbKFAc",
+        "alt": "DEFENDER VERTEX 90 - PATAGONIA WHITE WRAP",
+        "w": 1200,
+        "h": 451
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-23/image/471edf99-48d4-4220-9064-970810459543/New%20chassis%20side%20NOSE%20TO%20NOSE.jpg?VersionId=K2KaOFhQiJsJ0.ZU6vxJvtXHvUYgbfoK&h=5df47983&itok=UnyaY67l",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-15/image/b4ae5ed3-81ec-4b36-ac82-05fa262ea385/JLR_Defender_WOlf_SeriesII_Trials_Utility__02.jpg?VersionId=hFgJjSNIJyzMGmMMq_0QouXFT5HXhCY9&h=72ede344&itok=HKtjjxLm",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-04/image/741bc14d-509b-4a28-b665-41cacf7af6b4/DefenderWolfSeriesII_FenEnd-31.jpg?VersionId=AK6oBRLB8EZ6L15gtXzHQbfWrjeKKKUV&h=ae69d876&itok=7cRpVsrw",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-08-11/image/2e3786cf-c043-4447-bede-1bf20ee965da/DEF_OCTA_JCB_LSR_110826_05.jpg?VersionId=couwCprf68thMBKsRZb2khxLjyOn_Jxf&h=a1c8b75c&itok=twN7-XB7",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-09-04/image/efb7709b-e491-41f1-99e9-786ac3d06ddc/DefenderWolfSeriesII_FenEnd-7.jpg?VersionId=9Whh1pJWef00P0su10D4uKK.JlOtICiA&h=18655773&itok=gLOaO1m_",
+        "alt": "Defender Wolf Series II: Next-Generation Military Mobility Vehicle",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-08-12/image/392479ad-43ec-46b2-994d-39143d93237c/DEF_OCTA_JCB_LSR_110826_01%20%281%29.jpg?VersionId=Z1xOnAiZJSrbFh0V6lsxV4Pj7CcZf0Hr&h=a7e1376a&itok=3ByCYMBO",
+        "alt": "DEF_OCTA_JCB_LSR_110826_01 ",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-07-08/image/52c4263c-0d69-4b37-99d5-21922717f236/DEF_SIX_SEAT_27MY_08072026.jpg?VersionId=UsqAPoTKmEUcoNReWBgEM7Bx1mqN8H.w&h=18869a15&itok=YvSsBKEq",
+        "alt": "DEFENDER 110 - SIX-SEAT LAYOUT",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2069436328-3831a5f70c0f088ba3f4fc320e396025e63e7e48d01131b435c1457282ac2440-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2033455718-b478050823954a3ac798299f02386aacea61f273d6478170e45584779a9c61eb-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/1999697550-0ee829ece677a26caa0788e2da0da9d76bb54d6fea55e5fb1d3f793e6c47e151-d_960x540?&r=pad",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 29,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "× SUBSCRIBE TO OUR NEWSLETTER Name * Email * Contact me by fax only I agree to be emailed * Subscribe"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "206px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 24,
+    "mainTextLen": 5286,
+    "realImageCount": 29,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/defender/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/defender/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c5f909c1c4d20",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_fv",
+          "_p",
+          "_s",
+          "_ss",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/playlist/av/457cff63/avf/f815f573/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 484,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/playlist/av/457cff63/avf/f815f573/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MC04MDQ/avf/f815f573-b37c-40b9-b443-e6f73383ccd8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9ODY2Nzk5Ny0xNzU2ODYyMQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 8900625,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9ODY2Nzk5Ny0xNzU2ODYyMQ/avf/f815f573-b37c-40b9-b443-e6f73383ccd8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/6WyShUHm",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/6WyShUHm",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890706~acl=%2F{uuid}%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/{uuid}/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 74176,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890706~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106%2F%2A~hmac=f87d053f32dca34743ee0edcbec16e697d4b57405f4bbddd07a5a86edc8430b0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b911531b59fa1dd2f6be4fb748464f19a8c8313e1793887106/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 4
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 3
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1943,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 15,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/defender-en-gb.png",
+  "renderedHtml": "pages/defender-en-gb.html",
+  "type": "brand-landing",
+  "typeFamily": "landing",
+  "typeBasis": "body.path-frontpage",
+  "site": "defender",
+  "slots": {
+    "hero-carousel": [
+      {
+        "title": "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+        "date": "16 September 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-09-15/image/b4ae5ed3-81ec-4b36-ac82-05fa262ea385/JLR_Defender_WOlf_SeriesII_Trials_Utility__02.jpg?VersionId=G13OP9G80W8ICDA8YqqjI5vtZJoPp9EJ&h=c90cddf7&itok=uRKBaCyy",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/c27e0ec3-6e29-45ef-950c-47785c42dd18/en/defender-unveils-thr.zip?VersionId=L1ko.T9P5g4jzuQTE4xIOlH4wK0OZYEr"
+      },
+      {
+        "title": "DEFENDER REVEALS NEXT-GENERATION MILITARY VEHICLE FOR THE MODERN ERA - INTRODUCING DEFENDER WOLF II",
+        "date": "04 September 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-09-04/image/741bc14d-509b-4a28-b665-41cacf7af6b4/DefenderWolfSeriesII_FenEnd-31.jpg?VersionId=ZOsKraI1ORxnKrKDArDoF2CoW8LqrVGh&h=668863b4&itok=SVmwMbPb",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/68f6583e-05ca-494a-ade1-1af7327df6b7/en/defender-reveals-nex.zip?VersionId=V5O.XjInoty8zoKRpUQr5GuBZUNl79nC"
+      },
+      {
+        "title": "DEFENDER OCTA LAUNCHES JCB HYDROMAX TO LAND SPEED RECORD GLORY",
+        "date": "12 August 2026",
+        "text": "Defender OCTA demonstrated its performance, capability and composure as it helped the hydrogen‑powered JCB Hydromax set a new land speed record.",
+        "image": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-08-11/image/2e3786cf-c043-4447-bede-1bf20ee965da/DEF_OCTA_JCB_LSR_110826_05.jpg?VersionId=GE8xNCgBO9ZnhRmSDbAXettskv180mPu&h=ea6c1f8f&itok=AurO9Jg4",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/90343bd8-4a68-4df6-a971-125a8410d03c/en/defender-octa-launch.zip?VersionId=roqusOWdCIQX5kd2eCIpZmwTI9k3xBZY"
+      },
+      {
+        "title": "TOUGH LUXURY: NEW DEFENDER VERTEX LEADS DESIGN AND ACCESSORY UPDATE",
+        "date": "08 July 2026",
+        "text": "New Defender Vertex 90 with Patagonia White Matte Wrap",
+        "image": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-07-06/image/ba72f4c5-6dce-43d7-999b-fa6475253cd8/DEF_VERTEX_90_27MY_PATAGONIA_WRAP_08072025_01.jpg?VersionId=7W5qTYjh7EwW0nRB4C.YvtP.jdGh0cm8&h=2f0936b0&itok=-QZbKFAc",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/e5e48ee1-ce03-4f46-b403-7ea8563e4ff8/en/tough-luxury-new-def.zip?VersionId=kD.l.LCK.ViBa9EudtzLphJn9K6TirUM"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Latest News",
+        "seeAll": "/defender/en-gb/news",
+        "cards": [
+          {
+            "title": "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY...",
+            "date": "23 September 2026",
+            "text": "Defender’s Classic division has launched a new upgrade progr...",
+            "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-23/image/471edf99-48d4-4220-9064-970810459543/New%20chassis%20side%20NOSE%20TO%20NOSE.jpg?VersionId=K2KaOFhQiJsJ0.ZU6vxJvtXHvUYgbfoK&h=5df47983&itok=UnyaY67l",
+            "href": "/defender/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion\n",
+            "download": null
+          },
+          {
+            "title": "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW",
+            "date": "16 September 2026",
+            "text": null,
+            "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-15/image/b4ae5ed3-81ec-4b36-ac82-05fa262ea385/JLR_Defender_WOlf_SeriesII_Trials_Utility__02.jpg?VersionId=hFgJjSNIJyzMGmMMq_0QouXFT5HXhCY9&h=72ede344&itok=HKtjjxLm",
+            "href": "/defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show\n",
+            "download": "https://media.production.jlrms.com/download_archives/c27e0ec3-6e29-45ef-950c-47785c42dd18/en/defender-unveils-thr.zip?VersionId=L1ko.T9P5g4jzuQTE4xIOlH4wK0OZYEr"
+          },
+          {
+            "title": "DEFENDER REVEALS NEXT-GENERATION MILITARY VEHICLE FOR THE MODERN ERA -...",
+            "date": "04 September 2026",
+            "text": null,
+            "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-04/image/741bc14d-509b-4a28-b665-41cacf7af6b4/DefenderWolfSeriesII_FenEnd-31.jpg?VersionId=AK6oBRLB8EZ6L15gtXzHQbfWrjeKKKUV&h=ae69d876&itok=7cRpVsrw",
+            "href": "/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf\n",
+            "download": "https://media.production.jlrms.com/download_archives/68f6583e-05ca-494a-ade1-1af7327df6b7/en/defender-reveals-nex.zip?VersionId=V5O.XjInoty8zoKRpUQr5GuBZUNl79nC"
+          },
+          {
+            "title": "DEFENDER OCTA LAUNCHES JCB HYDROMAX TO LAND SPEED RECORD GLORY",
+            "date": "12 August 2026",
+            "text": "Defender OCTA demonstrated its performance, capability and c...",
+            "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-08-11/image/2e3786cf-c043-4447-bede-1bf20ee965da/DEF_OCTA_JCB_LSR_110826_05.jpg?VersionId=couwCprf68thMBKsRZb2khxLjyOn_Jxf&h=a1c8b75c&itok=twN7-XB7",
+            "href": "/defender/en-gb/news/2026/08/defender-octa-launches-jcb-hydromax-land-speed-record-glory\n",
+            "download": "https://media.production.jlrms.com/download_archives/90343bd8-4a68-4df6-a971-125a8410d03c/en/defender-octa-launch.zip?VersionId=roqusOWdCIQX5kd2eCIpZmwTI9k3xBZY"
+          }
+        ]
+      },
+      {
+        "heading": "Images",
+        "seeAll": "/defender/en-gb/image-packs",
+        "cards": [
+          {
+            "title": "Defender Wolf Series II Next Generation Military Mobility Vehicle",
+            "date": "04 September 2026",
+            "text": "Defender Wolf Series II is a next‑generation military vehicl...",
+            "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-09-04/image/efb7709b-e491-41f1-99e9-786ac3d06ddc/DefenderWolfSeriesII_FenEnd-7.jpg?VersionId=9Whh1pJWef00P0su10D4uKK.JlOtICiA&h=18655773&itok=gLOaO1m_",
+            "href": "/defender/en-gb/image-packs/defender-wolf-series-ii-next-generation-military-mobility-vehicle\n",
+            "download": "https://media.production.jlrms.com/download_archives/01338c90-c082-4847-aacc-d9fa43da943a/en/defender-wolf-series.zip?VersionId=JJdNYBUbvtgl62FrPdcx9SsiJ0URF9B6"
+          },
+          {
+            "title": "DEFENDER OCTA LAUNCHES JCB HYDROMAX TO LAND SPEED RECORD GLORY",
+            "date": "12 August 2026",
+            "text": "Defender OCTA demonstrated its performance, capability and c...",
+            "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-08-12/image/392479ad-43ec-46b2-994d-39143d93237c/DEF_OCTA_JCB_LSR_110826_01%20%281%29.jpg?VersionId=Z1xOnAiZJSrbFh0V6lsxV4Pj7CcZf0Hr&h=a7e1376a&itok=3ByCYMBO",
+            "href": "/defender/en-gb/image-packs/defender-octa-launches-jcb-hydromax-land-speed-record-glory\n",
+            "download": "https://media.production.jlrms.com/download_archives/202b9787-b53c-4670-875b-afd92589767a/en/defender-octa-launch.zip?VersionId=cig7Nztx3d.qY6exw3tqohRQgR1XqeC8"
+          },
+          {
+            "title": "DEFENDER 110 - SIX-SEAT LAYOUT",
+            "date": "08 July 2026",
+            "text": "Defender 110 adds six‑seat configuration for increased acces...",
+            "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-07-08/image/52c4263c-0d69-4b37-99d5-21922717f236/DEF_SIX_SEAT_27MY_08072026.jpg?VersionId=UsqAPoTKmEUcoNReWBgEM7Bx1mqN8H.w&h=18869a15&itok=YvSsBKEq",
+            "href": "/defender/en-gb/image-packs/defender-110-six-seat-layout\n",
+            "download": "https://media.production.jlrms.com/download_archives/bd8acbc5-041a-4bed-9af5-19c841e9da18/en/defender-110-six-sea.zip?VersionId=Loxi6v6UHGp3brP1sQdEMb49RQs56Ep0"
+          }
+        ]
+      },
+      {
+        "heading": "Videos",
+        "seeAll": "/defender/en-gb/video-packs",
+        "cards": [
+          {
+            "title": "FILM - LAND ROVER AWARDS JUDGES",
+            "date": "13 October 2025",
+            "text": "Introducing Defender Awards judges, Dr Moreangels Mzbiah, Ma...",
+            "image": "https://i.vimeocdn.com/video/2069436328-3831a5f70c0f088ba3f4fc320e396025e63e7e48d01131b435c1457282ac2440-d_960x540?&r=pad&region=us",
+            "href": "/defender/en-gb/video-pack/film-land-rover-awards-judges\n",
+            "download": "https://media.production.jlrms.com/download_archives/3cb0af50-5717-47fe-867a-05978b5b5506/en/film-land-rover-awar.zip?VersionId=aw8In6hS.XAXqnON7cDp9hZH0weiQoDr"
+          },
+          {
+            "title": "Defender 26MY OCTA Black",
+            "date": "04 July 2025",
+            "text": "Defender OCTA Black is an all‑black interpretation of the un...",
+            "image": "https://i.vimeocdn.com/video/2033455718-b478050823954a3ac798299f02386aacea61f273d6478170e45584779a9c61eb-d_960x540?&r=pad&region=us",
+            "href": "/defender/en-gb/video-pack/defender-26my-octa-black\n",
+            "download": "https://media.production.jlrms.com/download_archives/ab48d17d-2458-4b13-bd99-7890a699339c/en/defender-26my-octa-b.zip?VersionId=6N6Xq928q97M.Vyi86uiaeXaG8TftAFy"
+          },
+          {
+            "title": "FILMS - DEFENDER AWARDS",
+            "date": "02 April 2025",
+            "text": "New international Defender Awards initiative will benefit sm...",
+            "image": "https://i.vimeocdn.com/video/1999697550-0ee829ece677a26caa0788e2da0da9d76bb54d6fea55e5fb1d3f793e6c47e151-d_960x540?&r=pad",
+            "href": "/defender/en-gb/video-pack/films-defender-awards\n",
+            "download": null
+          }
+        ]
+      }
+    ]
+  },
+  "typeVariant": "news-images-videos"
+}

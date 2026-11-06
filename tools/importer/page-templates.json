@@ -1,0 +1,779 @@
+{
+  "metadata": {
+    "projectType": "xwalk"
+  },
+  "templates": [
+    {
+      "name": "brand-landing",
+      "description": "Brand sub-site home: featured-news hero carousel with action rail, social row, Latest News card grid, Images and Videos pack-card rows",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb",
+        "https://media.jlr.com/classic/en-gb",
+        "https://media.jlr.com/defenderrally/en-gb",
+        "https://media.jlr.com/discovery/en-gb",
+        "https://media.jlr.com/jaguar/en-gb",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb",
+        "https://media.jlr.com/range-rover/en-gb"
+      ],
+      "blocks": [
+        {
+          "name": "carousel-featured-news",
+          "instances": [
+            ".slider-home-page",
+            ".view-home-page-slider"
+          ]
+        },
+        {
+          "name": "social-links",
+          "instances": [
+            ".follow-component.social-bar__home",
+            ".social-bar__home"
+          ]
+        },
+        {
+          "name": "cards-news",
+          "instances": [
+            ".view-display-id-latest_news"
+          ]
+        },
+        {
+          "name": "cards-gallery",
+          "instances": [
+            ".view-display-id-latest_image_packs",
+            ".view-display-id-latest_video_packs"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Featured news carousel",
+          "selector": [
+            ".home-page > .container.stagger-init",
+            ".container.stagger-init"
+          ],
+          "style": null,
+          "blocks": [
+            "carousel-featured-news"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Social follow strip",
+          "selector": [
+            ".home-page > .wrapper-background:has(.social-bar__home)",
+            ".home-page > div[class=\"wrapper-background\"]"
+          ],
+          "style": null,
+          "blocks": [
+            "social-links"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-3",
+          "name": "Latest News",
+          "selector": [
+            ".home-page > .wrapper-background.modern-news.modern__wrapper-top",
+            ".wrapper-background.modern-news:has(.view-display-id-latest_news)"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-news"
+          ],
+          "defaultContent": [
+            ".modern-news.modern__wrapper-top .modern-news__link-wrap > h2",
+            ".modern-news.modern__wrapper-top .modern-news__see-all"
+          ]
+        },
+        {
+          "id": "section-4",
+          "name": "Images",
+          "selector": [
+            ".home-page > .wrapper-background.modern-lightgrey.modern-news",
+            ".wrapper-background.modern-news:has(.view-display-id-latest_image_packs)"
+          ],
+          "style": "light-grey",
+          "blocks": [
+            "cards-gallery"
+          ],
+          "defaultContent": [
+            ".modern-lightgrey.modern-news .modern-news__link-wrap > h2",
+            ".modern-lightgrey.modern-news .modern-news__see-all"
+          ]
+        },
+        {
+          "id": "section-5",
+          "name": "Videos",
+          "selector": [
+            ".home-page > .wrapper-background.white.modern-news:not(.modern__wrapper-top)",
+            ".wrapper-background.modern-news:has(.view-display-id-latest_video_packs)"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-gallery"
+          ],
+          "defaultContent": [
+            ".wrapper-background.white.modern-news:not(.modern__wrapper-top) .modern-news__link-wrap > h2",
+            ".wrapper-background.white.modern-news:not(.modern__wrapper-top) .modern-news__see-all"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "content-detail",
+      "description": "News article: title/date, hero press image with action toolbar, info box, long body with media figures, footnotes table, related image packs, previous/next",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "https://media.jlr.com/classic/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "https://media.jlr.com/classic/en-gb/news/2024/08/defender-marks-70-years-its-landmark-humanitarian-charity-partnership-british-red",
+        "https://media.jlr.com/classic/en-gb/news/2024/08/introducing-classic-defender-v8-works-bespoke",
+        "https://media.jlr.com/classic/en-gb/news/2025/01/jaguar-land-rover-classic-appoints-new-director-dominic-elms",
+        "https://media.jlr.com/classic/en-gb/news/2025/05/return-icon-land-rover-classic-launches-classic-defender-v8-soft-top",
+        "https://media.jlr.com/classic/en-gb/news/2025/07/defender-octa-black-tough-luxury-4x4-rock-star",
+        "https://media.jlr.com/classic/en-gb/news/2025/12/classic-defender-v8-defender-octa-colours",
+        "https://media.jlr.com/classic/en-gb/news/2026/06/colour-changing-classic-defender-v8-family-introduces-new-double-cab-option",
+        "https://media.jlr.com/classic/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion",
+        "https://media.jlr.com/defender/en-gb/news/2026/07/defender-powers-goodwood-festival-speed-dakar-winning-d7x-r",
+        "https://media.jlr.com/defender/en-gb/news/2026/07/range-rover-electric-make-public-debut-goodwood-festival-speed-2026",
+        "https://media.jlr.com/defender/en-gb/news/2026/08/defender-octa-launches-jcb-hydromax-land-speed-record-glory",
+        "https://media.jlr.com/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf",
+        "https://media.jlr.com/defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show",
+        "https://media.jlr.com/defender/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion",
+        "https://media.jlr.com/defenderrally/en-gb/news/2026/01/defender-rally-make-history-debut-dakar-victory",
+        "https://media.jlr.com/defenderrally/en-gb/news/2026/01/defender-ready-debut-dakar-rally-2026-world-rally-raid-championship-begins",
+        "https://media.jlr.com/defenderrally/en-gb/news/2026/08/defender-dakar-road-legal-evolution-dakar-rally-winner",
+        "https://media.jlr.com/defenderrally/en-gb/news/2026/10/rokas-baciuska-and-oriol-vidal-crowned-2026-fia-rally-raid-stock-drivers-and-co",
+        "https://media.jlr.com/discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-automotive-top-dog-goodwoof-2025",
+        "https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+        "https://media.jlr.com/discovery/en-gb/news/2025/06/discovery-sport-gets-more-dynamic-luxurious-and-individual-new-metropolitan-and",
+        "https://media.jlr.com/discovery/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+        "https://media.jlr.com/en-gb/news/2025/12/jaguar-celebrates-90th-anniversary",
+        "https://media.jlr.com/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+        "https://media.jlr.com/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show",
+        "https://media.jlr.com/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion",
+        "https://media.jlr.com/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism",
+        "https://media.jlr.com/jaguar/en-gb/news/2026/07/championing-originality-jaguar-and-royal-college-art-announce-jaguar-awards-winners",
+        "https://media.jlr.com/jaguar/en-gb/news/2026/07/jaguar-type-01-prototype-lines-dynamic-uk-premiere-goodwood-festival-speed",
+        "https://media.jlr.com/jaguar/en-gb/news/2026/10/jaguar-debuts-exclusive-chromatic-moments-programme-british-museum-ball",
+        "https://media.jlr.com/jaguar/en-gb/news/2026/10/jaguar-knightsbridge-permanent-expression-new-era",
+        "https://media.jlr.com/jaguar/en-gb/news/2026/10/jaguar-type-01-new-era-begins",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-evoque-named-gqs-best-compact-suv",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/07/jaguar-tcs-racing-are-2024-abb-fia-formula-e-teams-world-champions",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/10/jaguar-tcs-racing-unveil-prototype-jaguar-i-type-7-ahead-202425-abb-fia-formula-e-pre",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/10/jamie-chadwick-and-lilou-wadoux-drive-jaguar-tcs-racing-womens-test",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/12/jaguar-tcs-racing-launch-all-new-jaguar-i-type-7-sao-paulo-begin-202425-abb-fia",
+        "https://media.jlr.com/range-rover/en-gb/news/2026/07/introducing-range-rover-sport-electric-pinnacle-sporting-luxury",
+        "https://media.jlr.com/range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt",
+        "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv",
+        "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism",
+        "https://media.jlr.com/range-rover/en-gb/node/29462"
+      ],
+      "blocks": [
+        {
+          "name": "media-image",
+          "instances": [
+            ".page-news > .container.news-type .image-holder:has(.field--name-field-hero-image)",
+            ".page-news .field--item > .container.full-image-video",
+            ".page-news .field--item > .container.three-flush",
+            ".page-news .field--item > .container.hero-image-strip",
+            ".page-news .field--item > .container:has(> .image-gallery-comp)",
+            ".page-feature-page > .container.campaign-page-type .image-holder:has(.field--name-field-hero-image)",
+            ".page-feature-page .field--item > .container.full-image-video",
+            ".page-feature-page .field--item > .container.three-flush",
+            ".page-feature-page .field--item > .container.hero-image-strip"
+          ]
+        },
+        {
+          "name": "media-actions",
+          "instances": [
+            ".page-news .info-box .download-group"
+          ]
+        },
+        {
+          "name": "quote-centered",
+          "instances": [
+            ".page-news .field--item > .container.blockquote-template",
+            ".page-feature-page .field--item > .container.blockquote-template"
+          ]
+        },
+        {
+          "name": "columns-press-image",
+          "instances": [
+            ".page-news .field--item > .container:has(> .row.lightback)",
+            ".page-news .field--item > .container:not(.hero-image-strip):not(.full-image-video):has(> .row.text-image > .col-md-6)",
+            ".page-news .field--item > .container.image-with-inset-text",
+            ".page-feature-page .field--item > .container:has(> .row.lightback)",
+            ".page-feature-page .field--item > .container:not(.hero-image-strip):not(.full-image-video):has(> .row.text-image > .col-md-6)"
+          ]
+        },
+        {
+          "name": "columns-text",
+          "instances": [
+            ".page-news > .wrapper.keyline"
+          ]
+        },
+        {
+          "name": "cards-gallery",
+          "instances": [
+            ".related-content-packs section.jlr-tabs__block-wrapper"
+          ]
+        },
+        {
+          "name": "pagination",
+          "instances": [
+            ".wrapper.strip .pager-btn-group"
+          ]
+        },
+        {
+          "name": "table-pricing",
+          "instances": [
+            ".page-news .field--item > .container.wysiwyg table",
+            ".page-feature-page .field--item .container.wysiwyg table"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero image and article info",
+          "selector": [
+            ".page-news > .container.news-type:has(.image-holder)",
+            ".page-news > .container.news-type",
+            ".page-feature-page > .container.campaign-page-type"
+          ],
+          "style": "centered",
+          "blocks": [
+            "media-image",
+            "media-actions"
+          ],
+          "defaultContent": [
+            ".page-news .info-box .title-holder",
+            ".page-news .info-box .upper-title-description"
+          ]
+        },
+        {
+          "id": "section-2",
+          "name": "Article body: highlights, quote, Defender Vertex",
+          "selector": [
+            ".page-news > .content",
+            ".page-news .field--name-field-content",
+            ".page-feature-page > .content.feature-page-content"
+          ],
+          "style": null,
+          "blocks": [
+            "quote-centered",
+            "columns-press-image",
+            "table-pricing",
+            "media-image"
+          ],
+          "defaultContent": [
+            ".page-news .field--item > .container.wysiwyg",
+            ".page-news .field--item > .subheading-template"
+          ]
+        },
+        {
+          "id": "section-3",
+          "name": "Callout: Extended Exterior Pack",
+          "selector": [
+            ".page-news .field--name-field-content > .field--item:has(> .title-block-template)"
+          ],
+          "style": "light-grey, centered",
+          "blocks": [],
+          "defaultContent": [
+            ".page-news .field--item > .title-block-template"
+          ]
+        },
+        {
+          "id": "section-4",
+          "name": "Article body: Trophy Edition, OCTA, colours, six-seat, accessories, connectivity",
+          "selector": [
+            ".page-news .field--name-field-content > .field--item:has(> .title-block-template) ~ .field--item:not(:has(> .title-block-template)):not(:has(> .background-wrapper))",
+            ".page-news .field--name-field-content > .field--item:has(> .title-block-template) + .field--item"
+          ],
+          "style": null,
+          "blocks": [
+            "columns-press-image",
+            "media-image",
+            "table-pricing"
+          ],
+          "defaultContent": [
+            ".page-news .field--item > .container.wysiwyg",
+            ".page-news .field--item > .subheading-template"
+          ]
+        },
+        {
+          "id": "section-5",
+          "name": "Callout: Hey Land Rover",
+          "selector": [
+            ".page-news .field--name-field-content > .field--item:has(> .title-block-template) ~ .field--item:has(> .title-block-template)"
+          ],
+          "style": "light-grey, centered",
+          "blocks": [],
+          "defaultContent": [
+            ".page-news .field--item > .title-block-template"
+          ]
+        },
+        {
+          "id": "section-6",
+          "name": "Article body: Technology Pack and updated powertrains",
+          "selector": [
+            ".page-news .field--name-field-content > .field--item:has(> .title-block-template) ~ .field--item:has(> .title-block-template) ~ .field--item:not(:has(> .title-block-template)):not(:has(> .background-wrapper))",
+            ".page-news .field--name-field-content > .field--item:has(> .title-block-template) ~ .field--item:has(> .title-block-template) + .field--item"
+          ],
+          "style": null,
+          "blocks": [
+            "columns-press-image",
+            "table-pricing",
+            "media-image"
+          ],
+          "defaultContent": [
+            ".page-news .field--item > .container.wysiwyg",
+            ".page-news .field--item > .subheading-template"
+          ]
+        },
+        {
+          "id": "section-7",
+          "name": "Further information and Notes to Editors",
+          "selector": [
+            ".page-news > .wrapper.keyline",
+            ".wrapper.keyline"
+          ],
+          "style": null,
+          "blocks": [
+            "columns-text"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-8",
+          "name": "Related image packs",
+          "selector": [
+            ".region-content > .wrapper-background.related-content-packs",
+            ".wrapper-background.related-content-packs"
+          ],
+          "style": "dark, centered",
+          "blocks": [
+            "cards-gallery"
+          ],
+          "defaultContent": [
+            ".related-content-packs .jlr-tabs__list"
+          ]
+        },
+        {
+          "id": "section-9",
+          "name": "Previous / Next article pager",
+          "selector": [
+            ".region-content > .wrapper.strip:has(.pager-btn-group)",
+            ".wrapper.strip.rr-lightcoolgrey"
+          ],
+          "style": null,
+          "blocks": [
+            "pagination"
+          ],
+          "defaultContent": []
+        }
+      ]
+    },
+    {
+      "name": "vehicle-detail",
+      "description": "Vehicle page: vehicle hero with thumbnails over a filterable media archive (content-type tabs, Refine By sidebar, media cards, pager)",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb/vehicle/defender-110",
+        "https://media.jlr.com/classic/en-gb/vehicle/1957-xkss",
+        "https://media.jlr.com/classic/en-gb/vehicle/2016-xkss",
+        "https://media.jlr.com/classic/en-gb/vehicle/c-type",
+        "https://media.jlr.com/classic/en-gb/vehicle/d-type",
+        "https://media.jlr.com/classic/en-gb/vehicle/discovery-1",
+        "https://media.jlr.com/classic/en-gb/vehicle/discovery-2",
+        "https://media.jlr.com/classic/en-gb/vehicle/discovery-3",
+        "https://media.jlr.com/classic/en-gb/vehicle/e-type",
+        "https://media.jlr.com/classic/en-gb/vehicle/freelander-2",
+        "https://media.jlr.com/classic/en-gb/vehicle/freelander",
+        "https://media.jlr.com/classic/en-gb/vehicle/jaguar-mk-vii",
+        "https://media.jlr.com/classic/en-gb/vehicle/jaguar-mk-x",
+        "https://media.jlr.com/classic/en-gb/vehicle/mk-ii",
+        "https://media.jlr.com/classic/en-gb/vehicle/range-rover-%282001-2012%29",
+        "https://media.jlr.com/classic/en-gb/vehicle/range-rover-classic",
+        "https://media.jlr.com/classic/en-gb/vehicle/range-rover-p38a",
+        "https://media.jlr.com/classic/en-gb/vehicle/range-rover-sport-%282004-2013%29",
+        "https://media.jlr.com/classic/en-gb/vehicle/series-i",
+        "https://media.jlr.com/classic/en-gb/vehicle/series-ii",
+        "https://media.jlr.com/classic/en-gb/vehicle/series-iii",
+        "https://media.jlr.com/classic/en-gb/vehicle/ss",
+        "https://media.jlr.com/classic/en-gb/vehicle/ss100",
+        "https://media.jlr.com/classic/en-gb/vehicle/xj13",
+        "https://media.jlr.com/classic/en-gb/vehicle/xj220",
+        "https://media.jlr.com/classic/en-gb/vehicle/xjr9",
+        "https://media.jlr.com/classic/en-gb/vehicle/xk140",
+        "https://media.jlr.com/defender/en-gb/vehicle/defender-130",
+        "https://media.jlr.com/defender/en-gb/vehicle/defender-%281990-2016%29",
+        "https://media.jlr.com/defender/en-gb/vehicle/defender-90",
+        "https://media.jlr.com/defenderrally/en-gb/vehicle/defender-d7x-r",
+        "https://media.jlr.com/discovery/en-gb/vehicle/discovery-4",
+        "https://media.jlr.com/discovery/en-gb/vehicle/discovery-sport",
+        "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept",
+        "https://media.jlr.com/discovery/en-gb/vehicle/discovery",
+        "https://media.jlr.com/jaguar/en-gb/vehicle/type-01",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-pace-etrophy",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-2",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-3",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-4",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-5",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-6",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range_e",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-%282012-2021%29",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-electric",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque-%282010-2018%29",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-gt",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-lrx",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sentinel",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-%282013-2022%29",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-electric",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-sv",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-svr",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sv",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography-dynamic",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover",
+        "https://media.jlr.com/range-rover/en-gb/vehicle/range-stormer"
+      ],
+      "blocks": [
+        {
+          "name": "media-image",
+          "instances": [
+            ".region-content > .vehicle-page > .container.vehicle .vehicle-hero .image-top",
+            ".vehicle-page > .container.vehicle .image-top"
+          ]
+        },
+        {
+          "name": "columns-vehicle-intro",
+          "instances": [
+            ".region-content > .vehicle-page > .container.vehicle .vehicle-hero .caption-holder",
+            ".vehicle-page > .container.vehicle .vehicle-name.caption-holder"
+          ]
+        },
+        {
+          "name": "media-subnav",
+          "instances": [
+            ".vehicle-page .wrapper-search-nav ul.nav-search",
+            ".search-menu ul.nav-search"
+          ]
+        },
+        {
+          "name": "cards-news",
+          "instances": [
+            ".nav-search-bg #my-tab-content .card-grid:has(> .news-box)",
+            "#my-tab-content .card-grid:has(.modern-news__panel)"
+          ]
+        },
+        {
+          "name": "cards-gallery",
+          "instances": [
+            "#my-tab-content .card-grid:has(> .gallery-item)"
+          ]
+        },
+        {
+          "name": "pagination",
+          "instances": [
+            ".nav-search-bg #colMain .bottom-pager .new-grid__pager",
+            "#colMain .search-pager.new-grid__pager"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Vehicle hero with thumbnails",
+          "selector": [
+            ".region-content > .vehicle-page > .container.vehicle",
+            ".vehicle-page > .container.vehicle"
+          ],
+          "style": null,
+          "blocks": [
+            "media-image",
+            "columns-vehicle-intro"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Results count and content-type tabs",
+          "selector": [
+            ".region-content > .vehicle-page > div:has(> .wrapper-search-nav)",
+            ".vehicle-page > div:not(.vehicle-page):not(.container):has(.nav-search)"
+          ],
+          "style": null,
+          "blocks": [
+            "media-subnav"
+          ],
+          "defaultContent": [
+            ".vehicle-page > div:has(> .wrapper-search-nav) > .container.search-page:not(.search-menu) h1"
+          ]
+        },
+        {
+          "id": "section-3",
+          "name": "Media archive grid and pager",
+          "selector": [
+            ".region-content > .vehicle-page > .vehicle-page",
+            ".vehicle-page:has(> .wrapper.strip.nav-search-bg)"
+          ],
+          "style": "light-grey",
+          "blocks": [
+            "cards-news",
+            "cards-gallery",
+            "pagination"
+          ],
+          "defaultContent": []
+        }
+      ],
+      "notes": [
+        "media-subnav (content-type tabs): live tabs link to '#' (client-side). Interim coordinator decision: author each tab as a link (label + count, e.g. 'News (19)') to the SAME brand's listing page for that type, brand = first path segment of the vehicle URL: News -> the vehicle page itself (so it renders active); Images -> /<brand>/en-gb/images; Image Packs -> /<brand>/en-gb/image-packs; Video/Videos -> /<brand>/en-gb/videos; Video Packs -> /<brand>/en-gb/video-packs; other tabs (Press Kit, Tech Specs, ...) -> the closest brand listing (/<brand>/en-gb/press-kit, /<brand>/en-gb/tech-specs) else the vehicle page. Revisit with the listings feature.",
+        "Tab count varies 1-7 across the 62 pages; keep every tab present in ul.nav-search, in source order.",
+        "Not content: header, footer, newsletter band (section.newsletter-band), div.container.footer__racing, #addtoany share overlays, Refine By button / #taxonomies / #colPush facet sidebar, geo/market dialog (.ui-dialog, #drupal-modal), per-card favourite/share buttons.",
+        "Section 2 H1 '<n> Results' is default content authored as H2 (page H1 is the model name in columns-vehicle-intro).",
+        "8 of 62 pages (e.g. classic/d-type, jaguar-tcs-racing/i-pace-etrophy) have no .image-top/.caption-holder in visual trees; media-image/columns-vehicle-intro simply do not match there. cards-news selectors require .news-box items; if a page's active tab is not News the grid stays unmapped (flag in import validation).",
+        "Import: when the first/active tab is not News (e.g. classic/e-type, discovery/discovery-vision-concept: Images) the grid holds .gallery-item tiles; mapped to cards-gallery (default option) via #my-tab-content .card-grid:has(> .gallery-item). Vehicles with no media ('0 Result', empty ul.nav-search) emit no media-subnav block."
+      ]
+    },
+    {
+      "name": "media-listing",
+      "description": "Media listing: Refine By filter, centred title, Images/Image Packs toggle, pagination around a 3-column pack-card grid with count badges",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb/image-packs",
+        "https://media.jlr.com/classic/en-gb/en/broadcast-videos",
+        "https://media.jlr.com/classic/en-gb/image-packs",
+        "https://media.jlr.com/classic/en-gb/images",
+        "https://media.jlr.com/classic/en-gb/news",
+        "https://media.jlr.com/classic/en-gb/video-packs",
+        "https://media.jlr.com/classic/en-gb/videos",
+        "https://media.jlr.com/defender/en-gb/en/broadcast-videos",
+        "https://media.jlr.com/defender/en-gb/images",
+        "https://media.jlr.com/defender/en-gb/news",
+        "https://media.jlr.com/defender/en-gb/video-packs",
+        "https://media.jlr.com/defender/en-gb/videos",
+        "https://media.jlr.com/defenderrally/en-gb/en/broadcast-videos",
+        "https://media.jlr.com/defenderrally/en-gb/image-packs",
+        "https://media.jlr.com/defenderrally/en-gb/images",
+        "https://media.jlr.com/defenderrally/en-gb/news",
+        "https://media.jlr.com/defenderrally/en-gb/video-packs",
+        "https://media.jlr.com/defenderrally/en-gb/videos",
+        "https://media.jlr.com/discovery/en-gb/en/broadcast-videos",
+        "https://media.jlr.com/discovery/en-gb/image-packs",
+        "https://media.jlr.com/discovery/en-gb/images",
+        "https://media.jlr.com/discovery/en-gb/news",
+        "https://media.jlr.com/discovery/en-gb/video-packs",
+        "https://media.jlr.com/discovery/en-gb/videos",
+        "https://media.jlr.com/jaguar/en-gb/en/broadcast-videos",
+        "https://media.jlr.com/jaguar/en-gb/image-packs",
+        "https://media.jlr.com/jaguar/en-gb/images",
+        "https://media.jlr.com/jaguar/en-gb/news",
+        "https://media.jlr.com/jaguar/en-gb/video-packs",
+        "https://media.jlr.com/jaguar/en-gb/videos",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/en/broadcast-videos",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/images",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/news",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/video-packs",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/videos",
+        "https://media.jlr.com/range-rover/en-gb/en/broadcast-videos",
+        "https://media.jlr.com/range-rover/en-gb/image-packs",
+        "https://media.jlr.com/range-rover/en-gb/images",
+        "https://media.jlr.com/range-rover/en-gb/news",
+        "https://media.jlr.com/range-rover/en-gb/video-packs",
+        "https://media.jlr.com/range-rover/en-gb/videos"
+      ],
+      "blocks": []
+    },
+    {
+      "name": "media-pack-detail",
+      "description": "Image or video pack: centred pack title over a 3-column grid of press images with download/share bars and an image viewer",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-110-namib-orange",
+        "https://media.jlr.com/classic/en-gb/image-packs/classic-defender-v8-works-bespoke-images",
+        "https://media.jlr.com/classic/en-gb/image-packs/defender-26my-octa-black",
+        "https://media.jlr.com/classic/en-gb/image-packs/defender-marks-70-years-its-partnership-british-red-cross",
+        "https://media.jlr.com/classic/en-gb/image-packs/defender-octa-colours",
+        "https://media.jlr.com/classic/en-gb/image-packs/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "https://media.jlr.com/classic/en-gb/image-packs/images-classic-defender-v8-octa-colours",
+        "https://media.jlr.com/classic/en-gb/image-packs/unique-display-royal-land-rovers-display-goodwood-revival",
+        "https://media.jlr.com/classic/en-gb/video-pack/87-year-old-dorothys-emotional-land-rover-reunion",
+        "https://media.jlr.com/classic/en-gb/video-pack/defender-marks-70-years-its-partnership-british-red-cross",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-110-six-seat-layout",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-adventure-ready-accessories",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-octa-launches-jcb-hydromax-land-speed-record-glory",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-octa-woolstone-green",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-trophy-edition-santorini-black",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-vertex-110-borasco-grey",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-vertex-130-santorini-black",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-vertex-90-patagonia-white-matte-wrap",
+        "https://media.jlr.com/defender/en-gb/image-packs/defender-wolf-series-ii-next-generation-military-mobility-vehicle",
+        "https://media.jlr.com/defender/en-gb/video-pack/defender-26my-octa-black",
+        "https://media.jlr.com/defender/en-gb/video-pack/film-land-rover-awards-judges",
+        "https://media.jlr.com/defender/en-gb/video-pack/films-defender-awards",
+        "https://media.jlr.com/defenderrally/en-gb/image-packs/defender-dakar-road-legal-evolution-dakar-rally-winner",
+        "https://media.jlr.com/defenderrally/en-gb/image-packs/defender-rally-make-history-debut-dakar-victory",
+        "https://media.jlr.com/defenderrally/en-gb/image-packs/defenders-explore-and-define-dakar-rally-route",
+        "https://media.jlr.com/defenderrally/en-gb/video-pack/defender-dakar-d7x-r-revealed-all-new-competition-livery-ahead-january-2026-dakar-rally",
+        "https://media.jlr.com/defenderrally/en-gb/video-pack/defender-rally-morocco-testing-b-roll",
+        "https://media.jlr.com/discovery/en-gb/image-packs/discovery-accessory-packs-images",
+        "https://media.jlr.com/discovery/en-gb/image-packs/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "https://media.jlr.com/discovery/en-gb/image-packs/discovery-gemini-images",
+        "https://media.jlr.com/discovery/en-gb/image-packs/discovery-landmark-edition",
+        "https://media.jlr.com/discovery/en-gb/image-packs/discovery-sport-landmark-images",
+        "https://media.jlr.com/discovery/en-gb/image-packs/discovery-sport-metropolitan-images",
+        "https://media.jlr.com/discovery/en-gb/image-packs/discovery-tempest-0",
+        "https://media.jlr.com/discovery/en-gb/image-packs/discovery-tempest-images",
+        "https://media.jlr.com/discovery/en-gb/video-pack/discovery-gemini-b-roll",
+        "https://media.jlr.com/discovery/en-gb/video-pack/discovery-tempest-b-roll",
+        "https://media.jlr.com/discovery/en-gb/video-pack/film-and-b-roll-discovery-sport-24my",
+        "https://media.jlr.com/en-gb/image-packs/discovery-landmark-edition",
+        "https://media.jlr.com/en-gb/image-packs/discovery-tempest-0",
+        "https://media.jlr.com/jaguar/en-gb/image-packs/jaguar-awards-winners-and-artworks",
+        "https://media.jlr.com/jaguar/en-gb/image-packs/jaguar-type-01-chromatic-moments",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs/infographics-new-range-rover-velar-svautobiography-dynamic-edition",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs/interior-new-range-rover-velar-svautobiography-dynamic-edition",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs/jaguar-tcs-racing-drivers",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs/jaguar-tcs-racing-launch-all-new-jaguar-i-type-7-sao-paulo-begin-202425-abb-fia-formula",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs/jaguar-tcs-racing-unveil-prototype-jaguar-i-type-7-ahead-202425-abb-fia-formula-e-pre",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs/jamie-chadwick-and-lilou-wadoux-drive-jaguar-tcs-racing-womens-test",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs/location-new-range-rover-velar-svautobiography-dynamic-edition",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/image-packs/studio-new-range-rover-velar-svautobiography-dynamic-edition",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/video-pack/jaguar-tcs-racing-launch-all-new-jaguar-i-type-7-sao-paulo-begin-202425-abb-fia-formula",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/video-pack/jaguar-tcs-racing-reveal-i-type-6-most-advanced-all-electric-jaguar-race-car-ever",
+        "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-electric-solihull-images",
+        "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-electric-technical-stills",
+        "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-gt-preview-image-pack",
+        "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-sport-electric-petrolix-blue",
+        "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-sport-electric-zadar-grey-details",
+        "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-sport-electric-zadar-grey-exterior",
+        "https://media.jlr.com/range-rover/en-gb/video-pack/range-rover-electric-short-films",
+        "https://media.jlr.com/range-rover/en-gb/video-pack/range-rover-sport-electric-peak-peak-challenge",
+        "https://media.jlr.com/range-rover/en-gb/video-pack/range-rover-sport-electric-technical-animations"
+      ],
+      "blocks": []
+    },
+    {
+      "name": "grid-overview",
+      "description": "Overview grid (directors, plc, press kits, tech specs): grey band with heading and intro over a grid of people or press-kit cards",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb/directors",
+        "https://media.jlr.com/classic/en-gb/directors",
+        "https://media.jlr.com/classic/en-gb/plc",
+        "https://media.jlr.com/classic/en-gb/press-kit",
+        "https://media.jlr.com/classic/en-gb/tech-specs",
+        "https://media.jlr.com/defender/en-gb/plc",
+        "https://media.jlr.com/defender/en-gb/press-kit",
+        "https://media.jlr.com/defender/en-gb/tech-specs",
+        "https://media.jlr.com/defenderrally/en-gb/directors",
+        "https://media.jlr.com/defenderrally/en-gb/plc",
+        "https://media.jlr.com/defenderrally/en-gb/press-kit",
+        "https://media.jlr.com/defenderrally/en-gb/tech-specs",
+        "https://media.jlr.com/discovery/en-gb/directors",
+        "https://media.jlr.com/discovery/en-gb/plc",
+        "https://media.jlr.com/discovery/en-gb/press-kit",
+        "https://media.jlr.com/discovery/en-gb/tech-specs",
+        "https://media.jlr.com/jaguar/en-gb/directors",
+        "https://media.jlr.com/jaguar/en-gb/plc",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/press-kit",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/tech-specs",
+        "https://media.jlr.com/range-rover/en-gb/directors",
+        "https://media.jlr.com/range-rover/en-gb/plc",
+        "https://media.jlr.com/range-rover/en-gb/press-kit",
+        "https://media.jlr.com/range-rover/en-gb/tech-specs"
+      ],
+      "blocks": []
+    },
+    {
+      "name": "contact-listing",
+      "description": "Press contacts listing: hero image and a grid of regional contact cards",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb/contact",
+        "https://media.jlr.com/classic/en-gb/contact",
+        "https://media.jlr.com/defenderrally/en-gb/contact",
+        "https://media.jlr.com/discovery/en-gb/contact",
+        "https://media.jlr.com/en-gb/contact",
+        "https://media.jlr.com/jaguar/en-gb/contact",
+        "https://media.jlr.com/jaguar-tcs-racing/en-gb/contact",
+        "https://media.jlr.com/range-rover/en-gb/contact"
+      ],
+      "blocks": []
+    },
+    {
+      "name": "contact-detail",
+      "description": "Press contacts for one country: heading with contact detail panel",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb/contact/china-3",
+        "https://media.jlr.com/classic/en-gb/contact/china-5",
+        "https://media.jlr.com/classic/en-gb/contact/france-5",
+        "https://media.jlr.com/classic/en-gb/contact/germany-5",
+        "https://media.jlr.com/classic/en-gb/contact/italy-5",
+        "https://media.jlr.com/classic/en-gb/contact/north-america-5",
+        "https://media.jlr.com/classic/en-gb/contact/spain-5",
+        "https://media.jlr.com/classic/en-gb/contact/united-kingdom-5",
+        "https://media.jlr.com/defender/en-gb/contact/france-3",
+        "https://media.jlr.com/defender/en-gb/contact/germany-3",
+        "https://media.jlr.com/defender/en-gb/contact/italy-3",
+        "https://media.jlr.com/defender/en-gb/contact/north-america-3",
+        "https://media.jlr.com/defender/en-gb/contact/spain-3",
+        "https://media.jlr.com/defender/en-gb/contact/united-kingdom-3",
+        "https://media.jlr.com/discovery/en-gb/contact/china-4",
+        "https://media.jlr.com/discovery/en-gb/contact/france-4",
+        "https://media.jlr.com/discovery/en-gb/contact/germany-4",
+        "https://media.jlr.com/discovery/en-gb/contact/italy-4",
+        "https://media.jlr.com/discovery/en-gb/contact/north-america-4",
+        "https://media.jlr.com/discovery/en-gb/contact/spain-4",
+        "https://media.jlr.com/discovery/en-gb/contact/united-kingdom-4",
+        "https://media.jlr.com/jaguar/en-gb/contact/china-0",
+        "https://media.jlr.com/jaguar/en-gb/contact/france-0",
+        "https://media.jlr.com/jaguar/en-gb/contact/germany-0",
+        "https://media.jlr.com/jaguar/en-gb/contact/italy-0",
+        "https://media.jlr.com/jaguar/en-gb/contact/north-america-0",
+        "https://media.jlr.com/jaguar/en-gb/contact/spain-0",
+        "https://media.jlr.com/jaguar/en-gb/contact/united-kingdom-0",
+        "https://media.jlr.com/range-rover/en-gb/contact/china-2",
+        "https://media.jlr.com/range-rover/en-gb/contact/france-2",
+        "https://media.jlr.com/range-rover/en-gb/contact/germany-2",
+        "https://media.jlr.com/range-rover/en-gb/contact/italy-2",
+        "https://media.jlr.com/range-rover/en-gb/contact/north-america-2",
+        "https://media.jlr.com/range-rover/en-gb/contact/spain-2",
+        "https://media.jlr.com/range-rover/en-gb/contact/united-kingdom-2"
+      ],
+      "blocks": []
+    },
+    {
+      "name": "person-detail",
+      "description": "Person biography: portrait, name and title, biography text, Download Biography and Back buttons",
+      "urls": [
+        "https://media.jlr.com/defender/en-gb/person/chris-thorp",
+        "https://media.jlr.com/defender/en-gb/person/dave-williams",
+        "https://media.jlr.com/defender/en-gb/person/keith-benjamin",
+        "https://media.jlr.com/defender/en-gb/person/nigel-blenkinsop",
+        "https://media.jlr.com/defender/en-gb/person/qing-pan",
+        "https://media.jlr.com/discovery/en-gb/person/chris-thorp",
+        "https://media.jlr.com/discovery/en-gb/person/dave-williams",
+        "https://media.jlr.com/discovery/en-gb/person/keith-benjamin",
+        "https://media.jlr.com/discovery/en-gb/person/nigel-blenkinsop",
+        "https://media.jlr.com/discovery/en-gb/person/qing-pan",
+        "https://media.jlr.com/jaguar/en-gb/person/chris-thorp",
+        "https://media.jlr.com/jaguar/en-gb/person/dave-williams",
+        "https://media.jlr.com/jaguar/en-gb/person/keith-benjamin",
+        "https://media.jlr.com/jaguar/en-gb/person/nigel-blenkinsop",
+        "https://media.jlr.com/jaguar/en-gb/person/qing-pan",
+        "https://media.jlr.com/range-rover/en-gb/person/chris-thorp",
+        "https://media.jlr.com/range-rover/en-gb/person/dave-williams",
+        "https://media.jlr.com/range-rover/en-gb/person/keith-benjamin",
+        "https://media.jlr.com/range-rover/en-gb/person/nigel-blenkinsop",
+        "https://media.jlr.com/range-rover/en-gb/person/qing-pan"
+      ],
+      "blocks": []
+    }
+  ]
+}

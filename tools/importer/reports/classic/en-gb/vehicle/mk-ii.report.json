@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/vehicle/mk-ii",
+  "path": "classic/en-gb/vehicle/mk-ii",
+  "timestamp": "2026-11-06T17:47:06.636Z",
+  "title": "Classic",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav"
+  ]
+}

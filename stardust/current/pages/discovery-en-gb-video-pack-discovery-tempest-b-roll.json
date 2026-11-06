@@ -1,0 +1,807 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:08:55.040Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "discovery-en-gb-video-pack-discovery-tempest-b-roll",
+  "url": "https://media.jlr.com/discovery/en-gb/video-pack/discovery-tempest-b-roll",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:08:55.040Z",
+  "finalUrl": "https://media.jlr.com/discovery/en-gb/video-pack/discovery-tempest-b-roll",
+  "title": "DISCOVERY TEMPEST B-ROLL | Discovery Media Newsroom",
+  "description": "Discovery has strengthened its family appeal by introducing a pair of new editions: Tempest and Gemini.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "DISCOVERY TEMPEST B-ROLL"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/discovery/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/discovery/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/discovery/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/discovery/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/discovery/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/discovery/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/discovery/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/discovery/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/discovery/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/discovery/en-gb/contact"
+    },
+    {
+      "label": "Discovery",
+      "href": "https://www.landrover.com/discovery/index.html"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "News",
+      "href": "/discovery/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/discovery/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/discovery/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/discovery/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/discovery/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/discovery/en-gb/tech-specs"
+    },
+    {
+      "label": "Search Discovery",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/ff24142b-3d18-47d2-900a-a76cf4162101/en/discovery-tempest-b-.zip?VersionId=BQfp0aDRx573ASKgYKLOcQM.6BxCdwiw"
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/discovery/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/discovery/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/discovery/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/discovery/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/discovery/en-gb/video-pack/discovery-tempest-b-roll#main-content",
+    "https://media.jlr.com/discovery/zh-cn",
+    "https://media.jlr.com/discovery/fr-fr",
+    "https://media.jlr.com/discovery/de-de",
+    "https://media.jlr.com/discovery/",
+    "https://media.jlr.com/discovery/it-it",
+    "https://media.jlr.com/discovery/en-us",
+    "https://media.jlr.com/discovery/es-es",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/discovery/en-gb/cart",
+    "https://media.jlr.com/discovery/en-gb/contact",
+    "https://media.jlr.com/discovery/en-gb/",
+    "https://www.landrover.com/discovery/index.html",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/discovery/en-gb/terms-and-conditions",
+    "https://media.jlr.com/discovery/en-gb/user-licence",
+    "https://media.jlr.com/discovery/en-gb/cookies",
+    "https://media.jlr.com/discovery/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/discovery/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/discovery/en-gb/news",
+    "https://media.jlr.com/discovery/en-gb/image-packs",
+    "https://media.jlr.com/discovery/en-gb/videos",
+    "https://media.jlr.com/discovery/en-gb/directors",
+    "https://media.jlr.com/discovery/en-gb/press-kit",
+    "https://media.jlr.com/discovery/en-gb/tech-specs",
+    "javascript:void(0)",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-sport",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-4",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.production.jlrms.com/download_archives/ff24142b-3d18-47d2-900a-a76cf4162101/en/discovery-tempest-b-.zip?VersionId=BQfp0aDRx573ASKgYKLOcQM.6BxCdwiw",
+    "https://media.production.jlrms.com/2025-05-14/video/5e02de50-e5bc-4d9f-9ea4-80937ce81b04/L46226GL_303104584_EXTERIOR_BROLL_TEMPEST_82_HD_H264.mp4?VersionId=rEIFPp8X9BIfdijKJsckobVdFwuD09n4",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-05-14%2Fvideo%2F5e02de50-e5bc-4d9f-9ea4-80937ce81b04%2FL46226GL_303104584_EXTERIOR_BROLL_TEMPEST_82_HD_H264.mp4%3FVersionId%3DrEIFPp8X9BIfdijKJsckobVdFwuD09n4&title=DISCOVERY%20TEMPEST%20B-ROLL",
+    "https://media.production.jlrms.com/2025-05-14/video/1648473b-0d94-4652-af36-8ec666e336d0/L46226GL_303104584_INTERIOR_BROLL_TEMPEST_36_4K_H264.mp4?VersionId=cYGiVf4H.i4esnZCK7vl1dknC04yx7Lz",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-05-14%2Fvideo%2F1648473b-0d94-4652-af36-8ec666e336d0%2FL46226GL_303104584_INTERIOR_BROLL_TEMPEST_36_4K_H264.mp4%3FVersionId%3DcYGiVf4H.i4esnZCK7vl1dknC04yx7Lz&title=DISCOVERY%20TEMPEST%20B-ROLL",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/landroverdiscovery/",
+    "https://www.youtube.com/@landroverdiscovery",
+    "https://www.facebook.com/LandRoverDiscovery",
+    "https://x.com/LandRover",
+    "https://uk.linkedin.com/showcase/landroverdiscovery/",
+    "https://media.jlr.com/discovery/en-gb/video-pack/discovery-tempest-b-roll#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/discovery/en-gb/video-pack/discovery-tempest-b-roll#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/discovery-logo-dark.svg",
+        "alt": "Discovery logo",
+        "w": 169,
+        "h": 12
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2020-11/New_Discovery_V2.jpg?VersionId=xt2t01p_xpBfNOZ4qO9fi5_h7NpUoHZv&h=05abcc49&itok=uZOp4DoD",
+        "alt": "Discovery",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-06/Discovery-Sport-Thumb.jpg?VersionId=fHBZTomC7l2hICRXfj_VVdLufP.GyYpP&h=05abcc49&itok=19RyO1r9",
+        "alt": "Discovery Sport",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery%20Vision%20Concept.jpg?VersionId=LxyHR6mdtC237_ogFOkOn48fnBhJqfjC&h=05abcc49&itok=iOBZ781U",
+        "alt": "Discovery Vision Concept",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery.jpg?VersionId=idE85EC4N8qlgBPndqMPIj8k3mMu5Gf1&h=05abcc49&itok=0smOB2cA",
+        "alt": "Discovery 4",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 15,
+    "cssBackgrounds": [
+      "https://i.vimeocdn.com/video/default-2308240_960x540"
+    ],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "Video: DISCOVERY TEMPEST B-ROLL Embed Code Download Share Video: DISCOVERY TEMPEST B-ROLL Embed Code Download Share",
+      "× SUBSCRIBE TO OUR NEWSLETTER Name * Email * Contact me by fax only I agree to be emailed * Subscribe"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "206px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 5,
+    "mainTextLen": 3255,
+    "realImageCount": 15,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/discovery/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/discovery/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 5,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c6ea63fd7e056",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3Dcb41872bc6d734b0a5ffcf29c30d2487a03dc5a11793887724%2F%2A~hmac=19852d05a09f3792215c763b8f17f622b5ce0737727e8e3af8a432ccd29733fe/{uuid}/psid=cb41872bc6d734b0a5ffcf29c30d2487a03dc5a11793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 561,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F2bc1b35d-d87e-47ef-bee0-b33039c604cb%2Fpsid%3Dcb41872bc6d734b0a5ffcf29c30d2487a03dc5a11793887724%2F%2A~hmac=19852d05a09f3792215c763b8f17f622b5ce0737727e8e3af8a432ccd29733fe/2bc1b35d-d87e-47ef-bee0-b33039c604cb/psid=cb41872bc6d734b0a5ffcf29c30d2487a03dc5a11793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D1c5ef5b5c8bb3d1507de6d9b8158a572d1d9139b1793887724%2F%2A~hmac=b17c8cd19b069db0ea9629457a54ac3fe0eb5d804aebdf682ec630f0384c0f16/{uuid}/psid=1c5ef5b5c8bb3d1507de6d9b8158a572d1d9139b1793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 561,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F2bc1b35d-d87e-47ef-bee0-b33039c604cb%2Fpsid%3D1c5ef5b5c8bb3d1507de6d9b8158a572d1d9139b1793887724%2F%2A~hmac=b17c8cd19b069db0ea9629457a54ac3fe0eb5d804aebdf682ec630f0384c0f16/2bc1b35d-d87e-47ef-bee0-b33039c604cb/psid=1c5ef5b5c8bb3d1507de6d9b8158a572d1d9139b1793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/{uuid}/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3Dbc7e4d96cf67ffbf2920576cf93b3853fdc6d02d1793887724%2F%2A~hmac=9e9872a17a1a02bef7d59186ab5d39d9fb9c9b6015da9960d7ffd9b8da4bb345/{uuid}/psid=bc7e4d96cf67ffbf2920576cf93b3853fdc6d02d1793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 695,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F6a59fda6-08da-4019-8985-0ccd238f4c6d%2Fpsid%3Dbc7e4d96cf67ffbf2920576cf93b3853fdc6d02d1793887724%2F%2A~hmac=9e9872a17a1a02bef7d59186ab5d39d9fb9c9b6015da9960d7ffd9b8da4bb345/6a59fda6-08da-4019-8985-0ccd238f4c6d/psid=bc7e4d96cf67ffbf2920576cf93b3853fdc6d02d1793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D0db0c3482d92e6363efd18f5a6941e0102846d041793887724%2F%2A~hmac=8f025dcdc65944ee4e2d55e916852aa4cba0644736d53105d21f71febb3ae2bc/{uuid}/psid=0db0c3482d92e6363efd18f5a6941e0102846d041793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 695,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F6a59fda6-08da-4019-8985-0ccd238f4c6d%2Fpsid%3D0db0c3482d92e6363efd18f5a6941e0102846d041793887724%2F%2A~hmac=8f025dcdc65944ee4e2d55e916852aa4cba0644736d53105d21f71febb3ae2bc/6a59fda6-08da-4019-8985-0ccd238f4c6d/psid=0db0c3482d92e6363efd18f5a6941e0102846d041793887724/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/{uuid}/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/{uuid}/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/SrJF7nlR",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/SrJF7nlR",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/{uuid}/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/{uuid}/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/{uuid}/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/{uuid}/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891324~acl=%2F{uuid}%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/{uuid}/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891324~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D04a113645257ce1db1cd076ce7ef7c0ed94932461793887724%2F%2A~hmac=46fa5b85934691da6602aaef7cd8531f0deeec9ba6cb5f2df3bc2982bfb77285/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=04a113645257ce1db1cd076ce7ef7c0ed94932461793887724/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 28
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 10
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1925,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1",
+      "https://player.vimeo.com/video/1084301647?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1084301758?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1084301647?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1084301758?badge=0&autopause=0&player_id=0&app_id=138872"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 15,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/discovery-en-gb-video-pack-discovery-tempest-b-roll.png",
+  "renderedHtml": "pages/discovery-en-gb-video-pack-discovery-tempest-b-roll.html",
+  "type": "media-pack-detail",
+  "typeFamily": "listing",
+  "typeBasis": "body.page-node-type-video-pack",
+  "typeVariant": "video-pack",
+  "site": "discovery",
+  "slots": {
+    "pack-title": "DISCOVERY TEMPEST B-ROLL",
+    "count": null,
+    "count-label": null,
+    "items": [
+      {
+        "image": "https://i.vimeocdn.com/video/default-2308240_960x540",
+        "title": "Video: DISCOVERY TEMPEST B-ROLL",
+        "downloads": []
+      },
+      {
+        "image": "https://i.vimeocdn.com/video/default-2308240_960x540",
+        "title": "Video: DISCOVERY TEMPEST B-ROLL",
+        "downloads": []
+      }
+    ],
+    "videoIds": [
+      "https://player.vimeo.com/video/1084301647?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1084301758?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1084301647?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1084301758?badge=0&autopause=0&player_id=0&app_id=138872"
+    ],
+    "pack-downloads": [
+      "https://media.production.jlrms.com/download_archives/ff24142b-3d18-47d2-900a-a76cf4162101/en/discovery-tempest-b-.zip?VersionId=BQfp0aDRx573ASKgYKLOcQM.6BxCdwiw"
+    ]
+  }
+}

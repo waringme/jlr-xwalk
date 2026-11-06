@@ -1,0 +1,194 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb-image-packs.json",
+  "build": "stardust/replica/motion/defender-en-gb-image-packs-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 3,
+  "counts": {
+    "behaviors": 25,
+    "parity": 16,
+    "missing": 3,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 6,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "widget",
+      "name": ".new-grid__refine-btn",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .new-grid__refine-btn: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".refine-item",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .refine-item: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".gallery-contents.gallery-trigger",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .gallery-contents.gallery-trigger: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".new-share__btn",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .new-share__btn: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "hover",
+      "name": ".gallery-contents",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .gallery-contents: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".new-grid__pager-btn",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .new-grid__pager-btn: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "entrance",
+      "name": "hvr-icon-push",
+      "state": "missing",
+      "note": "fired on 1 element(s) on live",
+      "line": "motion entrance hvr-icon-push: MISSING on build (fired on 1 element(s) on live)"
+    },
+    {
+      "cls": "entrance",
+      "name": "load8",
+      "state": "missing",
+      "note": "fired on 1 element(s) on live",
+      "line": "motion entrance load8: MISSING on build (fired on 1 element(s) on live)"
+    },
+    {
+      "cls": "transition",
+      "name": "height",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 600ms",
+      "line": "motion transition height: parity (1 event(s) on live, 1 on build, 600ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "32 event(s) on live, 24 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (32 event(s) on live, 24 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "32 event(s) on live, 24 on build, 300ms",
+      "line": "motion transition margin-top: parity (32 event(s) on live, 24 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "opacity",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 500ms",
+      "line": "motion transition opacity: parity (1 event(s) on live, 1 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "2 event(s) on live, 3 on build, 500ms",
+      "line": "motion transition top: parity (2 event(s) on live, 3 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 200ms",
+      "line": "motion transition transform: parity (1 event(s) on live, 1 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "width",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 500ms",
+      "line": "motion transition width: parity (2 event(s) on live, 2 on build, 500ms)"
+    },
+    {
+      "cls": "class",
+      "name": "active",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class active: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "active-facet",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class active-facet: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 4× on live, 1× on build",
+      "line": "motion class bottom-shadow: parity (added 4× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "cart-btn--active",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class cart-btn--active: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "collapse-me--open",
+      "state": "parity",
+      "note": "added 2× on live, 1× on build",
+      "line": "motion class collapse-me--open: parity (added 2× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "collapse-me--trans",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class collapse-me--trans: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "lazy-loaded",
+      "state": "missing",
+      "note": "trigger class added 8× on live, never on build",
+      "line": "motion class lazy-loaded: MISSING on build (trigger class added 8× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "new-grid__content--with-sidebar",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class new-grid__content--with-sidebar: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "new-grid__sidebar-panel--open",
+      "state": "parity",
+      "note": "added 2× on live, 1× on build",
+      "line": "motion class new-grid__sidebar-panel--open: parity (added 2× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 2× on live, 1× on build",
+      "line": "motion class shrink: parity (added 2× on live, 1× on build)"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "live": "defender-en-gb-contact.json",
+  "build": "defender-en-gb-contact-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 14,
+    "parity": 13,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 1,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "hover",
+      "name": ".contact-card",
+      "state": "parity",
+      "note": "self.boxShadow, span.transform; 200ms",
+      "line": "motion hover .contact-card: parity (self.boxShadow, span.transform; 200ms)"
+    },
+    {
+      "cls": "hover",
+      "name": ".contact-card__arrow",
+      "state": "parity",
+      "note": "self.transform; 200ms",
+      "line": "motion hover .contact-card__arrow: parity (self.transform; 200ms)"
+    },
+    {
+      "cls": "hover",
+      "name": ".contact-regions__heading",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .contact-regions__heading: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-bottom-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 200ms",
+      "line": "motion transition border-bottom-color: parity (4 event(s) on live, 4 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-left-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 200ms",
+      "line": "motion transition border-left-color: parity (4 event(s) on live, 4 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-right-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 200ms",
+      "line": "motion transition border-right-color: parity (4 event(s) on live, 4 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-top-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 200ms",
+      "line": "motion transition border-top-color: parity (4 event(s) on live, 4 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "box-shadow",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 200ms",
+      "line": "motion transition box-shadow: parity (4 event(s) on live, 4 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "32 event(s) on live, 40 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (32 event(s) on live, 40 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "32 event(s) on live, 40 on build, 300ms",
+      "line": "motion transition margin-top: parity (32 event(s) on live, 40 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "4 event(s) on live, 5 on build, 500ms",
+      "line": "motion transition top: parity (4 event(s) on live, 5 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 200ms",
+      "line": "motion transition transform: parity (4 event(s) on live, 4 on build, 200ms)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 4× on live, 6× on build",
+      "line": "motion class bottom-shadow: parity (added 4× on live, 6× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 2× on live, 6× on build",
+      "line": "motion class shrink: parity (added 2× on live, 6× on build)"
+    }
+  ]
+}

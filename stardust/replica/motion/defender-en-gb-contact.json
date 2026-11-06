@@ -1,0 +1,738 @@
+{
+  "url": "https://media.jlr.com/defender/en-gb/contact",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [
+    {
+      "sel": ".contact-card",
+      "changed": [
+        "self.boxShadow",
+        "span.contact-card__arrow.transform"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "box-shadow 0.2s, border-color 0.2s"
+        },
+        "subs": [
+          {
+            "el": "h3.contact-card__title.bt-contact-card-name",
+            "transform": "none",
+            "color": "rgb(12, 18, 28)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "span.contact-card__arrow",
+            "transform": "none",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "transform 0.2s"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "rgba(0, 0, 0, 0.08) 0px 4px 12px 0px",
+          "opacity": "1",
+          "transition": "box-shadow 0.2s, border-color 0.2s"
+        },
+        "subs": [
+          {
+            "el": "h3.contact-card__title.bt-contact-card-name",
+            "transform": "none",
+            "color": "rgb(12, 18, 28)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "span.contact-card__arrow",
+            "transform": "matrix(1, 0, 0, 1, 2, -2)",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "transform 0.2s"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".contact-card__arrow",
+      "changed": [
+        "self.transform"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "transform 0.2s"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "matrix(1, 0, 0, 1, 2, -2)",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "transform 0.2s"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".contact-regions__heading",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 800,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 846,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 489,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 489,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 489,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 489,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 489,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 489,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "box-shadow",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 489,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "li.contact-card-wrapper > a.contact-card > div.contact-card__content > p.contact-card__description.bt-contact-body > span.contact-card__arrow",
+        "y": 489,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "box-shadow",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "li.contact-card-wrapper > a.contact-card > div.contact-card__content > p.contact-card__description.bt-contact-body > span.contact-card__arrow",
+        "y": 504,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "box-shadow",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 504,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "li.contact-card-wrapper > a.contact-card > div.contact-card__content > p.contact-card__description.bt-contact-body > span.contact-card__arrow",
+        "y": 504,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 353,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 353,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 353,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 353,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 353,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "box-shadow",
+        "el": "div.container > section.contact-regions > ul.contact-regions__grid > li.contact-card-wrapper > a.contact-card",
+        "y": 353,
+        "dur": "0.2s, 0.2s"
+      },
+      {
+        "prop": "transform",
+        "el": "li.contact-card-wrapper > a.contact-card > div.contact-card__content > p.contact-card__description.bt-contact-body > span.contact-card__arrow",
+        "y": 353,
+        "dur": "0.2s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 400
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 400
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 489
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 489
+      }
+    ]
+  }
+}

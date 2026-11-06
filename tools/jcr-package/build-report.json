@@ -1,0 +1,289 @@
+{
+  "builtAt": "2026-11-06T18:10:07.370Z",
+  "package": "tools/jcr-package/dist/jlr-xwalk-content-1.0.0.zip",
+  "pages": {
+    "imported": 115,
+    "converted": 115,
+    "errors": []
+  },
+  "structuralParents": [
+    "/content/jlr-xwalk/classic",
+    "/content/jlr-xwalk/classic/en-gb/news",
+    "/content/jlr-xwalk/classic/en-gb/news/2024",
+    "/content/jlr-xwalk/classic/en-gb/news/2024/07",
+    "/content/jlr-xwalk/classic/en-gb/news/2024/08",
+    "/content/jlr-xwalk/classic/en-gb/news/2025",
+    "/content/jlr-xwalk/classic/en-gb/news/2025/01",
+    "/content/jlr-xwalk/classic/en-gb/news/2025/05",
+    "/content/jlr-xwalk/classic/en-gb/news/2025/07",
+    "/content/jlr-xwalk/classic/en-gb/news/2025/12",
+    "/content/jlr-xwalk/classic/en-gb/news/2026",
+    "/content/jlr-xwalk/classic/en-gb/news/2026/06",
+    "/content/jlr-xwalk/classic/en-gb/news/2026/09",
+    "/content/jlr-xwalk/classic/en-gb/vehicle",
+    "/content/jlr-xwalk/defender",
+    "/content/jlr-xwalk/defender/en-gb/news",
+    "/content/jlr-xwalk/defender/en-gb/news/2026",
+    "/content/jlr-xwalk/defender/en-gb/news/2026/07",
+    "/content/jlr-xwalk/defender/en-gb/news/2026/08",
+    "/content/jlr-xwalk/defender/en-gb/news/2026/09",
+    "/content/jlr-xwalk/defender/en-gb/vehicle",
+    "/content/jlr-xwalk/defenderrally",
+    "/content/jlr-xwalk/defenderrally/en-gb/news",
+    "/content/jlr-xwalk/defenderrally/en-gb/news/2026",
+    "/content/jlr-xwalk/defenderrally/en-gb/news/2026/01",
+    "/content/jlr-xwalk/defenderrally/en-gb/news/2026/08",
+    "/content/jlr-xwalk/defenderrally/en-gb/news/2026/10",
+    "/content/jlr-xwalk/defenderrally/en-gb/vehicle",
+    "/content/jlr-xwalk/discovery",
+    "/content/jlr-xwalk/discovery/en-gb/news",
+    "/content/jlr-xwalk/discovery/en-gb/news/2024",
+    "/content/jlr-xwalk/discovery/en-gb/news/2024/07",
+    "/content/jlr-xwalk/discovery/en-gb/news/2025",
+    "/content/jlr-xwalk/discovery/en-gb/news/2025/05",
+    "/content/jlr-xwalk/discovery/en-gb/news/2025/06",
+    "/content/jlr-xwalk/discovery/en-gb/news/2026",
+    "/content/jlr-xwalk/discovery/en-gb/news/2026/07",
+    "/content/jlr-xwalk/discovery/en-gb/vehicle",
+    "/content/jlr-xwalk/en-gb",
+    "/content/jlr-xwalk/en-gb/news",
+    "/content/jlr-xwalk/en-gb/news/2025",
+    "/content/jlr-xwalk/en-gb/news/2025/12",
+    "/content/jlr-xwalk/en-gb/news/2026",
+    "/content/jlr-xwalk/en-gb/news/2026/07",
+    "/content/jlr-xwalk/en-gb/news/2026/09",
+    "/content/jlr-xwalk/jaguar",
+    "/content/jlr-xwalk/jaguar-tcs-racing",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb/news",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb/news/2019",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb/news/2019/02",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb/news/2024",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb/news/2024/07",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb/news/2024/10",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb/news/2024/12",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb/vehicle",
+    "/content/jlr-xwalk/jaguar/en-gb/news",
+    "/content/jlr-xwalk/jaguar/en-gb/news/2026",
+    "/content/jlr-xwalk/jaguar/en-gb/news/2026/07",
+    "/content/jlr-xwalk/jaguar/en-gb/news/2026/10",
+    "/content/jlr-xwalk/jaguar/en-gb/vehicle",
+    "/content/jlr-xwalk/range-rover",
+    "/content/jlr-xwalk/range-rover/en-gb/news",
+    "/content/jlr-xwalk/range-rover/en-gb/news/2026",
+    "/content/jlr-xwalk/range-rover/en-gb/news/2026/07",
+    "/content/jlr-xwalk/range-rover/en-gb/news/2026/09",
+    "/content/jlr-xwalk/range-rover/en-gb/node",
+    "/content/jlr-xwalk/range-rover/en-gb/vehicle"
+  ],
+  "assets": {
+    "referenced": 720,
+    "packaged": 720,
+    "failed": [],
+    "blobImages": [
+      {
+        "page": "classic/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "src": "blob:https://media.jlr.com/779f7747-4c13-4beb-9198-f1b39da58b08"
+      },
+      {
+        "page": "classic/en-gb/news/2024/08/defender-marks-70-years-its-landmark-humanitarian-charity-partnership-british-red",
+        "src": "blob:https://media.jlr.com/5bcafe7d-8a0f-4e20-8355-73d5d3d297ae"
+      },
+      {
+        "page": "classic/en-gb/news/2024/08/introducing-classic-defender-v8-works-bespoke",
+        "src": "blob:https://media.jlr.com/f3c2b074-52ac-448c-824e-6dafe0af9c37"
+      },
+      {
+        "page": "classic/en-gb/news/2025/07/defender-octa-black-tough-luxury-4x4-rock-star",
+        "src": "blob:https://media.jlr.com/05ed755a-2018-4fd2-bfd8-d6aeed7bd469"
+      },
+      {
+        "page": "classic/en-gb/news/2025/07/defender-octa-black-tough-luxury-4x4-rock-star",
+        "src": "blob:https://media.jlr.com/d3dd2f5e-f97b-4097-be17-dcf2a99d3ab2"
+      },
+      {
+        "page": "classic/en-gb/news/2025/12/classic-defender-v8-defender-octa-colours",
+        "src": "blob:https://media.jlr.com/cfcd58bc-2347-4a13-b60d-bdedd28a7ce7"
+      },
+      {
+        "page": "classic/en-gb/news/2025/12/classic-defender-v8-defender-octa-colours",
+        "src": "blob:https://media.jlr.com/66d2b34d-0629-4926-a802-d0379ff54863"
+      },
+      {
+        "page": "classic/en-gb/news/2026/06/colour-changing-classic-defender-v8-family-introduces-new-double-cab-option",
+        "src": "blob:https://media.jlr.com/1a85f01e-afb7-42a3-a1dc-9f988e2bf647"
+      },
+      {
+        "page": "classic/en-gb/vehicle/freelander-2",
+        "src": "blob:https://media.jlr.com/633e3756-ff6b-431a-a686-50124a97afce"
+      },
+      {
+        "page": "classic/en-gb/vehicle/range-rover-sport-2004-2013",
+        "src": "blob:https://media.jlr.com/9af73515-2c05-48a2-96e7-6b3b0c08ec59"
+      },
+      {
+        "page": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "src": "blob:https://media.jlr.com/94e5eb10-3619-4d20-bc0a-35969e2dc167"
+      },
+      {
+        "page": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "src": "blob:https://media.jlr.com/f9a591db-aa8c-42e8-8c80-a2af2222e990"
+      },
+      {
+        "page": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "src": "blob:https://media.jlr.com/605f1916-46ce-4489-8d5b-ab68fe496901"
+      },
+      {
+        "page": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "src": "blob:https://media.jlr.com/2ef2bd33-a6e9-4a03-8681-fe4bc1df457f"
+      },
+      {
+        "page": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "src": "blob:https://media.jlr.com/f0db2c0c-b605-4a82-bd9e-a7bc4f084e29"
+      },
+      {
+        "page": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "src": "blob:https://media.jlr.com/b43f0530-e459-4488-9433-318b2640e5c7"
+      },
+      {
+        "page": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "src": "blob:https://media.jlr.com/b40fb389-72e0-430c-a5b8-4065505df111"
+      },
+      {
+        "page": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+        "src": "blob:https://media.jlr.com/e038be63-6b4e-416e-ae9d-313ee23f9434"
+      },
+      {
+        "page": "defender/en-gb/news/2026/08/defender-octa-launches-jcb-hydromax-land-speed-record-glory",
+        "src": "blob:https://media.jlr.com/d7b7b64e-370b-41dd-af43-d9874cc0ed13"
+      },
+      {
+        "page": "defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf",
+        "src": "blob:https://media.jlr.com/e2a59b46-79af-4adc-b2dd-290342abc6f6"
+      },
+      {
+        "page": "defenderrally/en-gb/news/2026/01/defender-rally-make-history-debut-dakar-victory",
+        "src": "blob:https://media.jlr.com/9eb1133c-2401-4a37-b791-e996bb29564d"
+      },
+      {
+        "page": "defenderrally/en-gb/news/2026/08/defender-dakar-road-legal-evolution-dakar-rally-winner",
+        "src": "blob:https://media.jlr.com/fbcd9a2f-14c8-40e6-87d2-f6b59d02fe47"
+      },
+      {
+        "page": "discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "src": "blob:https://media.jlr.com/4393a0a3-19ee-4eed-9df0-14818daf59a5"
+      },
+      {
+        "page": "discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+        "src": "blob:https://media.jlr.com/ddbfa89e-16e4-41f5-b657-a9c335371bd4"
+      },
+      {
+        "page": "discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+        "src": "blob:https://media.jlr.com/5d2434ae-dad7-4cce-841d-e8f54d109aea"
+      },
+      {
+        "page": "discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+        "src": "blob:https://media.jlr.com/111d22bd-dedd-48b4-8694-286aa4b2e993"
+      },
+      {
+        "page": "discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+        "src": "blob:https://media.jlr.com/3a005625-717b-46f8-a0f6-ecb84e6c5c64"
+      },
+      {
+        "page": "discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+        "src": "blob:https://media.jlr.com/2f37ed93-684e-4016-a388-12da0cb804cf"
+      },
+      {
+        "page": "discovery/en-gb/news/2025/06/discovery-sport-gets-more-dynamic-luxurious-and-individual-new-metropolitan-and",
+        "src": "blob:https://media.jlr.com/a05e13c3-ccee-4c1d-9cf0-2c69938f3c20"
+      },
+      {
+        "page": "discovery/en-gb/news/2025/06/discovery-sport-gets-more-dynamic-luxurious-and-individual-new-metropolitan-and",
+        "src": "blob:https://media.jlr.com/4be75f05-dadb-4369-8bd5-c120481defac"
+      },
+      {
+        "page": "discovery/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+        "src": "blob:https://media.jlr.com/871aa4c7-96f9-4e7b-9459-5fd45c13a001"
+      },
+      {
+        "page": "discovery/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+        "src": "blob:https://media.jlr.com/cba8a226-4a6c-4ba9-827b-b2286cb8f99f"
+      },
+      {
+        "page": "en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+        "src": "blob:https://media.jlr.com/6210e376-74ce-4c91-bca8-53f25ea3cc51"
+      },
+      {
+        "page": "en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+        "src": "blob:https://media.jlr.com/c0d8b048-5c73-4888-864d-ba7ea87c52d1"
+      },
+      {
+        "page": "jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power",
+        "src": "blob:https://media.jlr.com/5d40a1d4-f8a9-451a-87ca-3747805a48f5"
+      },
+      {
+        "page": "jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power",
+        "src": "blob:https://media.jlr.com/dcedb935-9687-4b88-8e60-c772744c0dfd"
+      },
+      {
+        "page": "jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power",
+        "src": "blob:https://media.jlr.com/eee86228-23ce-4ab3-8f2b-4fcafe0b7c29"
+      },
+      {
+        "page": "jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power",
+        "src": "blob:https://media.jlr.com/97652529-4d06-4beb-a302-16b4f16c111c"
+      },
+      {
+        "page": "jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power",
+        "src": "blob:https://media.jlr.com/878f2e74-ed0a-479f-b800-64b88ffa6ce0"
+      },
+      {
+        "page": "jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-velar-svautobiography-dynamic-edition-refined-power",
+        "src": "blob:https://media.jlr.com/6e810a75-043f-4328-a53e-94086de94c29"
+      },
+      {
+        "page": "jaguar-tcs-racing/en-gb/news/2024/10/jaguar-tcs-racing-unveil-prototype-jaguar-i-type-7-ahead-202425-abb-fia-formula-e-pre",
+        "src": "blob:https://media.jlr.com/2debb680-4fc6-44f9-8cac-9bc08922ee38"
+      },
+      {
+        "page": "jaguar/en-gb/news/2026/07/championing-originality-jaguar-and-royal-college-art-announce-jaguar-awards-winners",
+        "src": "blob:https://media.jlr.com/53af9e79-8bdb-4bed-8735-0505a1c1771d"
+      },
+      {
+        "page": "jaguar/en-gb/news/2026/10/jaguar-debuts-exclusive-chromatic-moments-programme-british-museum-ball",
+        "src": "blob:https://media.jlr.com/542664a5-0725-433e-a150-aa51e7cfe375"
+      },
+      {
+        "page": "jaguar/en-gb/news/2026/10/jaguar-type-01-new-era-begins",
+        "src": "blob:https://media.jlr.com/83d38212-b6aa-45ed-af9e-faee0f238922"
+      },
+      {
+        "page": "range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt",
+        "src": "blob:https://media.jlr.com/bcd66e06-48b7-4612-aaca-e372601453ba"
+      },
+      {
+        "page": "range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv",
+        "src": "blob:https://media.jlr.com/c510ec74-9ce0-4324-8a73-1bd604f5153e"
+      },
+      {
+        "page": "range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv",
+        "src": "blob:https://media.jlr.com/31e0feba-ba11-4327-95bd-556f32fa264c"
+      },
+      {
+        "page": "range-rover/en-gb/vehicle/range-rover-2012-2021",
+        "src": "blob:https://media.jlr.com/79e7026d-b03f-421d-9608-6ee25ac060a3"
+      },
+      {
+        "page": "range-rover/en-gb/vehicle/range-rover-2012-2021",
+        "src": "blob:https://media.jlr.com/ca35a8a7-d84a-474a-a692-2b1f24c8a126"
+      },
+      {
+        "page": "range-rover/en-gb/vehicle/range-rover-evoque-2010-2018",
+        "src": "blob:https://media.jlr.com/bddd6b0a-a0fe-4630-85ea-d9054fa91b54"
+      },
+      {
+        "page": "range-rover/en-gb/vehicle/range-rover-svautobiography",
+        "src": "blob:https://media.jlr.com/402edb34-ae9b-47f3-86ce-1fa8f5916c5b"
+      }
+    ]
+  }
+}

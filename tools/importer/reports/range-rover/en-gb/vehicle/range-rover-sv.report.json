@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sv",
+  "path": "range-rover/en-gb/vehicle/range-rover-sv",
+  "timestamp": "2026-11-06T17:36:17.026Z",
+  "title": "Range Rover",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

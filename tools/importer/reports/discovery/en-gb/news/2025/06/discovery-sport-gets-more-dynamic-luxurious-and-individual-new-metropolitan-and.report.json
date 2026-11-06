@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/discovery/en-gb/news/2025/06/discovery-sport-gets-more-dynamic-luxurious-and-individual-new-metropolitan-and",
+  "path": "discovery/en-gb/news/2025/06/discovery-sport-gets-more-dynamic-luxurious-and-individual-new-metropolitan-and",
+  "timestamp": "2026-11-06T10:48:05.065Z",
+  "title": "DISCOVERY SPORT GETS MORE DYNAMIC, LUXURIOUS AND INDIVIDUAL WITH NEW METROPOLITAN AND LANDMARK EDITIONS | Discovery Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

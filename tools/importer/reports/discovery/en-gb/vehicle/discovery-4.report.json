@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/discovery/en-gb/vehicle/discovery-4",
+  "path": "discovery/en-gb/vehicle/discovery-4",
+  "timestamp": "2026-11-06T17:18:29.251Z",
+  "title": "Discovery",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news",
+    "pagination",
+    "pagination"
+  ]
+}

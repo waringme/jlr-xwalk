@@ -1,0 +1,35 @@
+{
+  "variantName": "accordion-press-kit",
+  "baseBlock": "accordion",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "heading + list + link",
+    "purpose": "expandable model headers (model name and model year) revealing the press kits for that model"
+  },
+  "contentPattern": {
+    "structure": "one row per model: model name | model year (optional) | press kits (rich text, usually a cards-press-kit list or links)",
+    "rows": [
+      {
+        "cells": [
+          "summary (text)",
+          "year (text, optional)",
+          "body (richtext)"
+        ]
+      }
+    ]
+  },
+  "options": [],
+  "memberVariantIds": [
+    "v_b989f8144966"
+  ],
+  "usage": {
+    "pagesFound": 7,
+    "description": "heading + list + link",
+    "note": "expandable model-year headers revealing press kits"
+  },
+  "reuseGuidance": "Use for press-kit and tech-spec listings grouped by model. For flat lists without expand/collapse use cards-press-kit directly."
+}

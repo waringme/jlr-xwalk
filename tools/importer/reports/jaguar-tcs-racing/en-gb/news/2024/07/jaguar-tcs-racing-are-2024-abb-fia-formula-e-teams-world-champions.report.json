@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/07/jaguar-tcs-racing-are-2024-abb-fia-formula-e-teams-world-champions",
+  "path": "jaguar-tcs-racing/en-gb/news/2024/07/jaguar-tcs-racing-are-2024-abb-fia-formula-e-teams-world-champions",
+  "timestamp": "2026-11-06T10:55:04.174Z",
+  "title": "JAGUAR TCS RACING ARE THE 2024 ABB FIA FORMULA E TEAMS’ WORLD CHAMPIONS | Jaguar TCS Racing Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

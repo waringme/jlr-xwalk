@@ -1,0 +1,61 @@
+/* image-caption: full-width article photo with an overlapping white caption card.
+   No direct prototype module; body text values follow the news-article page
+   (css/defender-en-gb-news-*.css .article-text p: #555, 18px / 28.8px) and the bootstrap
+   12-column grid used there (offset-1, col-4). */
+
+.image-caption {
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
+.image-caption .image-caption-figure {
+  position: relative;
+  margin: 0;
+}
+
+.image-caption .image-caption-media picture,
+.image-caption .image-caption-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.image-caption .image-caption-card {
+  position: relative;
+  z-index: 1;
+  padding: 30px 15px;
+  background: var(--c-white, #fff);
+}
+
+.image-caption .image-caption-card::after {
+  content: "";
+  display: block;
+  width: 250px;
+  max-width: 100%;
+  margin-top: 30px;
+  border-bottom: 1px solid var(--c-rule, #aaacae);
+}
+
+.image-caption .image-caption-text p {
+  margin: 15px 0;
+  color: #555;
+  font-family: var(--ff-body, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 18px;
+  line-height: 28.8px;
+}
+
+.image-caption .image-caption-text h2,
+.image-caption .image-caption-text h3,
+.image-caption .image-caption-text h4 {
+  margin: 0 0 10px;
+  color: var(--c-ink, #0c121c);
+}
+
+@media (width >= 992px) {
+  .image-caption .image-caption-card {
+    width: calc((100% + 36px) * 4 / 12 - 36px);
+    margin-top: -176px;
+    margin-left: calc((100% + 36px) / 12);
+    padding: 30px;
+  }
+}

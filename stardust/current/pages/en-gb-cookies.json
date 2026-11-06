@@ -1,0 +1,952 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:09:25.107Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-gb-cookies",
+  "url": "https://media.jlr.com/en-gb/cookies",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:09:25.107Z",
+  "finalUrl": "https://media.jlr.com/en-gb/cookies",
+  "title": "Cookies | Media Landing Newsroom",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Cookies"
+    },
+    {
+      "tag": "h2",
+      "text": "INFORMATION ABOUT OUR USE OF COOKIES"
+    },
+    {
+      "tag": "h2",
+      "text": "COOKIE TYPE: FIRST PARTY COOKIE"
+    },
+    {
+      "tag": "h2",
+      "text": "COOKIE TYPE: PERSISTENT FIRST PARTY COOKIE"
+    },
+    {
+      "tag": "h2",
+      "text": "COOKIE TYPE: PERSISTENT THIRD PARTY COOKIE"
+    },
+    {
+      "tag": "h2",
+      "text": "MANAGING COOKIES"
+    },
+    {
+      "tag": "h3",
+      "text": "DISABLING AND ENABLING COOKIES"
+    },
+    {
+      "tag": "h3",
+      "text": "HOW TO CHECK COOKIES ARE ENABLED FOR PC’S"
+    },
+    {
+      "tag": "h3",
+      "text": "HOW TO CHECK COOKIES ARE ENABLED FOR MACS"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Jaguar Land Rover would like to use cookies to store information on your computer to improve our website. One of the cookies we use is essential for parts of the site to operate and has already been set. You may delete and block all cookies from this site, but some elements of this site may not work correctly, if you choose to do so.",
+    "By continuing to browse the Site, you are agreeing to our use of cookies.",
+    "A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.",
+    "We use the following cookies:",
+    "Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.",
+    "You can find more information about the individual cookies we use and the purposes for which we use them below:",
+    "Name: __utma, __utmb, __utmz",
+    "Name: __atuvc, __atuvs",
+    "Cookie Type: First party cookie",
+    "Purpose: This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.",
+    "This cookie can be turned off via your web browser, and will result in the use of cookie notification banner displaying.",
+    "Purpose: These cookies enable the function of Google Analytics. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and browsing times. That information helps us to improve the website and your experience, and to make our marketing campaigns relevant. These cookies can be turned off via your web browser, and will not affect the user’s experience.",
+    "Name: JLR_allowCookie",
+    "Cookie Type: Persistent first party cookie",
+    "Purpose: This cookie remembers your acceptance of the use of cookies on the website and hides the notification banner.",
+    "This cookie can be turned off via your web browser, and will result in the use of cookie notification banner displaying.",
+    "Name: wistia‑http2‑push‑disabled",
+    "Cookie Type: Third party cookie",
+    "Purpose: Used by video hosting platform for analytics purposes.",
+    "This cookie can be turned off via your web browser, and will result in the use of cookie notification banner displaying.",
+    "Name: _ga",
+    "Cookie Type: Third party cookie",
+    "Purpose: This cookie name is asssociated with Google Universal Analytics. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and browsing times. That information helps us to improve the website and your experience, and to make our marketing campaigns relevant.",
+    "This cookie can be turned off via your web browser, and will not affect the user’s experience.",
+    "You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. Guideline instructions on how to check cookies are enabled follow below:",
+    "Google Chrome 1. Click on 'Tools' at the top of your browser window and select Options 2. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button 3. Now select 'Allow local data to be set'",
+    "Microsoft Internet Explorer 6.0, 7.0, 8.0 1. Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab 2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser 3. Settings above Medium will disable cookies",
+    "Mozilla Firefox 1. Click on 'Tools' at the top of your browser window and select Options 2. Then select the Privacy icon 3. Click on Cookies, then select 'allow sites to set cookies'",
+    "Safari 1. Click on the Cog icon at the top of your browser window and select the 'Preferences' option 2. Click on 'Security', check the option that says 'Block third‑party and advertising cookies' 3. Click 'Save'",
+    "Microsoft Internet Explorer 5.0 on OSX 1. Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab 2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser 3. Settings above Medium will disable cookies",
+    "Safari on OSX 1. Click on 'Safari' at the top of your browser window and select the 'Preferences' option 2. Click on 'Security' then 'Accept cookies' 3. Select the 'Only from site you navigate to'",
+    "Mozilla and Netscape on OSX 1. Click on 'Mozilla' or 'Netscape' at the top of your browser window and select the 'Preferences' option 2. Scroll down until you see cookies under 'Privacy & Security' 3. Select 'Enable cookies for the originating web site only'",
+    "Opera 1. Click on 'Menu' at the top of your browser window and select 'Settings' 2. Then select 'Preferences', select the 'Advanced' tab 3. Then select 'Accept cookies' option",
+    "Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.",
+    "You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site.",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/en-gb/contact"
+    },
+    {
+      "label": "Search All Brands",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/en-gb/cookies#main-content",
+    "https://media.jlr.com/zh-cn",
+    "https://media.jlr.com/fr-fr",
+    "https://media.jlr.com/de-de",
+    "https://media.jlr.com/",
+    "https://media.jlr.com/it-it",
+    "https://media.jlr.com/en-us",
+    "https://media.jlr.com/es-es",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/en-gb/cart",
+    "https://media.jlr.com/en-gb/contact",
+    "https://media.jlr.com/en-gb/",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/en-gb/terms-and-conditions",
+    "https://media.jlr.com/en-gb/user-licence",
+    "https://media.jlr.com/en-gb/cookies",
+    "https://media.jlr.com/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.facebook.com/RangeRover",
+    "https://www.facebook.com/Defender",
+    "https://www.facebook.com/LandRoverDiscovery",
+    "https://www.facebook.com/JaguarRacing",
+    "https://x.com/RangeRover",
+    "https://x.com/defender",
+    "https://twitter.com/JaguarUK",
+    "https://twitter.com/JaguarUKPR",
+    "https://x.com/Defender",
+    "https://twitter.com/JaguarRacing",
+    "https://twitter.com/JLR_News",
+    "https://www.youtube.com/@rangerover",
+    "https://www.youtube.com/@defender",
+    "https://www.youtube.com/@landroverdiscovery",
+    "https://www.youtube.com/user/jaguaruk",
+    "https://www.youtube.com/@JaguarTCSRacing",
+    "https://uk.linkedin.com/showcase/landroverdiscovery/",
+    "https://www.instagram.com/rangerover/",
+    "https://www.instagram.com/defender/",
+    "https://www.instagram.com/landroverdiscovery/",
+    "https://www.instagram.com/jaguarukpr",
+    "https://www.instagram.com/jaguarracing",
+    "https://www.tiktok.com/@rangerover",
+    "https://www.tiktok.com/@defender",
+    "https://x.com/LandRover",
+    "https://www.tiktok.com/@jaguarracing",
+    "https://media.jlr.com/en-gb/cookies#"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/corporate-logo-gray.svg",
+        "alt": "JLR logo",
+        "w": 171,
+        "h": 150
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      }
+    ],
+    "allImgCount": 9,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "156px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "156px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 12,
+    "mainTextLen": 9203,
+    "realImageCount": 9,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_fv",
+          "_p",
+          "_s",
+          "_ss",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c6f6dcad24f46",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/5T0XU3oj",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://vimeo.com/flarepoint/5T0XU3oj",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/playlist/av/457cff63/avf/{n}/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 488,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/playlist/av/457cff63/avf/89966758/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MC04MDQ/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 15943893,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 74176,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891356~acl=%2F{uuid}%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/{uuid}/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 6473509,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891356~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D9909f5671f2e47f353eaf362939b7abc641475451793887756%2F%2A~hmac=713f1c0325d89ecb24298c84787ed898701a0c7e43a0b43dc067d28540c557e9/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=9909f5671f2e47f353eaf362939b7abc641475451793887756/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 6
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 4
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1893,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 3,
+    "triggers": [
+      {
+        "marker": "data-social-popup-open",
+        "href": null
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/RangeRover"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/Defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/LandRoverDiscovery"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/Defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/JaguarRacing"
+      },
+      {
+        "marker": "data-social-popup-open",
+        "href": null
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://x.com/RangeRover"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://x.com/defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JaguarUK"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JaguarUKPR"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://x.com/Defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JaguarRacing"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JLR_News"
+      },
+      {
+        "marker": "data-social-popup-open",
+        "href": null
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.youtube.com/@rangerover"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.youtube.com/@defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.youtube.com/@landroverdiscovery"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.youtube.com/user/jaguaruk"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.youtube.com/@defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.youtube.com/@JaguarTCSRacing"
+      },
+      {
+        "marker": "data-social-popup-open",
+        "href": null
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.instagram.com/rangerover/"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.instagram.com/defender/"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.instagram.com/landroverdiscovery/"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.instagram.com/jaguarukpr"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.instagram.com/defender/"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.instagram.com/jaguarracing"
+      },
+      {
+        "marker": "data-social-popup-open",
+        "href": null
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.tiktok.com/@rangerover"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.tiktok.com/@defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://x.com/LandRover"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.tiktok.com/@defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.tiktok.com/@jaguarracing"
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 16,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-gb-cookies.png",
+  "renderedHtml": "pages/en-gb-cookies.html",
+  "type": "legal-page",
+  "typeFamily": "static",
+  "typeBasis": "body.page-node-type-page",
+  "site": "main",
+  "slots": {
+    "heading": "Cookies",
+    "sections": [
+      {
+        "level": "h2",
+        "heading": "INFORMATION ABOUT OUR USE OF COOKIES"
+      },
+      {
+        "level": "h2",
+        "heading": "COOKIE TYPE: FIRST PARTY COOKIE"
+      },
+      {
+        "level": "h2",
+        "heading": "COOKIE TYPE: PERSISTENT FIRST PARTY COOKIE"
+      },
+      {
+        "level": "h2",
+        "heading": "COOKIE TYPE: PERSISTENT THIRD PARTY COOKIE"
+      },
+      {
+        "level": "h2",
+        "heading": "MANAGING COOKIES"
+      },
+      {
+        "level": "h3",
+        "heading": "DISABLING AND ENABLING COOKIES"
+      },
+      {
+        "level": "h3",
+        "heading": "HOW TO CHECK COOKIES ARE ENABLED FOR PC’S"
+      },
+      {
+        "level": "h3",
+        "heading": "HOW TO CHECK COOKIES ARE ENABLED FOR MACS"
+      }
+    ],
+    "body": [
+      "Jaguar Land Rover would like to use cookies to store information on your computer to improve our website. One of the cookies we use is essential for parts of the site to operate and has already been set. You may delete and block all cookies from this site, but some elements of this site may not work correctly, if you choose to do so.",
+      "By continuing to browse the Site, you are agreeing to our use of cookies.",
+      "A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.",
+      "We use the following cookies:",
+      "Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.",
+      "You can find more information about the individual cookies we use and the purposes for which we use them below:",
+      "Name: __utma, __utmb, __utmz",
+      "Name: __atuvc, __atuvs",
+      "Cookie Type: First party cookie",
+      "Purpose: This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. It stores an updated page share count.",
+      "This cookie can be turned off via your web browser, and will result in the use of cookie notification banner displaying.",
+      "Purpose: These cookies enable the function of Google Analytics. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and browsing times. That information helps us to improve the website and your experience, and to make our marketing campaigns relevant. These cookies can be turned off via your web browser, and will not affect the user’s experience.",
+      "Name: JLR_allowCookie",
+      "Cookie Type: Persistent first party cookie",
+      "Purpose: This cookie remembers your acceptance of the use of cookies on the website and hides the notification banner.",
+      "This cookie can be turned off via your web browser, and will result in the use of cookie notification banner displaying.",
+      "Name: wistia‑http2‑push‑disabled",
+      "Cookie Type: Third party cookie",
+      "Purpose: Used by video hosting platform for analytics purposes.",
+      "This cookie can be turned off via your web browser, and will result in the use of cookie notification banner displaying.",
+      "Name: _ga",
+      "Cookie Type: Third party cookie",
+      "Purpose: This cookie name is asssociated with Google Universal Analytics. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and browsing times. That information helps us to improve the website and your experience, and to make our marketing campaigns relevant.",
+      "This cookie can be turned off via your web browser, and will not affect the user’s experience.",
+      "You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. Guideline instructions on how to check cookies are enabled follow below:",
+      "Google Chrome 1. Click on 'Tools' at the top of your browser window and select Options 2. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button 3. Now select 'Allow local data to be set'",
+      "Microsoft Internet Explorer 6.0, 7.0, 8.0 1. Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab 2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser 3. Settings above Medium will disable cookies",
+      "Mozilla Firefox 1. Click on 'Tools' at the top of your browser window and select Options 2. Then select the Privacy icon 3. Click on Cookies, then select 'allow sites to set cookies'",
+      "Safari 1. Click on the Cog icon at the top of your browser window and select the 'Preferences' option 2. Click on 'Security', check the option that says 'Block third‑party and advertising cookies' 3. Click 'Save'",
+      "Microsoft Internet Explorer 5.0 on OSX 1. Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab 2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser 3. Settings above Medium will disable cookies",
+      "Safari on OSX 1. Click on 'Safari' at the top of your browser window and select the 'Preferences' option 2. Click on 'Security' then 'Accept cookies' 3. Select the 'Only from site you navigate to'",
+      "Mozilla and Netscape on OSX 1. Click on 'Mozilla' or 'Netscape' at the top of your browser window and select the 'Preferences' option 2. Scroll down until you see cookies under 'Privacy & Security' 3. Select 'Enable cookies for the originating web site only'",
+      "Opera 1. Click on 'Menu' at the top of your browser window and select 'Settings' 2. Then select 'Preferences', select the 'Advanced' tab 3. Then select 'Accept cookies' option",
+      "Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.",
+      "You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/vehicle/range-rover-classic",
+  "path": "classic/en-gb/vehicle/range-rover-classic",
+  "timestamp": "2026-11-06T17:07:46.438Z",
+  "title": "Classic",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

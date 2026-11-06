@@ -1,0 +1,28 @@
+{
+  "variantName": "cards-vehicle",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "link + image + heading"
+  },
+  "contentPattern": {
+    "rows": "one row per vehicle",
+    "cells": [
+      "image: cut-out vehicle photo (3:2 thumbnail)",
+      "text: vehicle model name, linked to the vehicle page"
+    ]
+  },
+  "options": [],
+  "memberVariantIds": [
+    "v_122edeb5111f"
+  ],
+  "usage": {
+    "context": "Mobile vehicle menu page: lists current/past vehicles as linked entries",
+    "prototype": "stardust/prototypes/defender-en-gb-mobile-vehicle-menu-proposed.html (.vehicle-entry)"
+  },
+  "reuseGuidance": "Use for a vertical list of linked vehicle entries with a thumbnail and model name. Group headings (\"Current\", \"Past\") stay default content above each block."
+}

@@ -1,0 +1,47 @@
+{
+  "variantName": "cards-gallery",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "image + heading + text + link + button"
+  },
+  "contentPattern": {
+    "rows": "One row per gallery / pack tile.",
+    "cells": [
+      "Image (picture)",
+      "Count badge text, e.g. \"13 Images\" or \"7 Videos\"",
+      "Text: optional date paragraph, heading (title linked to the gallery), optional teaser, optional \"Download\" link"
+    ]
+  },
+  "options": [
+    {
+      "class": "alt",
+      "label": "Alt"
+    },
+    {
+      "class": "alt-2",
+      "label": "Alt 2"
+    }
+  ],
+  "memberVariantIds": [
+    "v_ada31ded895e",
+    "v_ada31ded895e-1",
+    "v_ada31ded895e-2",
+    "v_903868bbf035-2"
+  ],
+  "usage": {
+    "description": "Image-pack and video-pack rails and listings: album tiles with an image-count badge linking to the full gallery.",
+    "pagesUsing": [
+      "/defender/en-gb",
+      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-11-06T09:20:59Z"
+  },
+  "reuseGuidance": "Use for pack/album tiles that need a count badge. Default has a dark badge; alt is for tiles on a dark section (light text); alt-2 uses the light translucent badge of the home-page Images/Videos rails. For plain article cards use cards-news.",
+  "designReference": "Values lifted from stardust/prototypes (canon/modules.css and per-page css) where a counterpart exists."
+}

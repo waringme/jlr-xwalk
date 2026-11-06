@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-evoque-named-gqs-best-compact-suv",
+  "path": "jaguar-tcs-racing/en-gb/news/2019/02/new-range-rover-evoque-named-gqs-best-compact-suv",
+  "timestamp": "2026-11-06T10:54:05.742Z",
+  "title": "NEW RANGE ROVER EVOQUE NAMED GQ’S ‘BEST COMPACT SUV’ | Jaguar TCS Racing Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update-dropdown.json",
+  "build": "stardust/replica/motion/defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update-dropdown-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 9,
+    "parity": 8,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 1,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "widget",
+      "name": ".hover-prt-wrapper .dropdown-toggle → .article-media .dropdown-toggle",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .hover-prt-wrapper .dropdown-toggle → .article-media .dropdown-toggle: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "entrance",
+      "name": "hvr-icon-push",
+      "state": "parity",
+      "note": "fired on 1 element(s)",
+      "line": "motion entrance hvr-icon-push: parity (fired on 1 element(s))"
+    },
+    {
+      "cls": "transition",
+      "name": "color",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition color: parity (1 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "24 event(s) on live, 32 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (24 event(s) on live, 32 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "24 event(s) on live, 32 on build, 300ms",
+      "line": "motion transition margin-top: parity (24 event(s) on live, 32 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "3 event(s) on live, 4 on build, 500ms",
+      "line": "motion transition top: parity (3 event(s) on live, 4 on build, 500ms)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 4× on live, 2× on build",
+      "line": "motion class bottom-shadow: parity (added 4× on live, 2× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "open",
+      "state": "parity",
+      "note": "added 1× on live, 2× on build",
+      "line": "motion class open: parity (added 1× on live, 2× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 2× on live, 2× on build",
+      "line": "motion class shrink: parity (added 2× on live, 2× on build)"
+    }
+  ]
+}

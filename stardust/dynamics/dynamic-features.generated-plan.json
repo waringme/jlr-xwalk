@@ -1,0 +1,638 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-05T16:35:55.707Z",
+  "input": "stardust/current/_dynamics.json",
+  "target": null,
+  "migrated": null,
+  "knowledge": null,
+  "chrome": "stardust/chrome/header-contract.json"
+ },
+ "rows": [
+  {
+   "id": "a-first-party-api-get-api-cart-generate-uuid",
+   "class": "A",
+   "feature": "first-party API GET /api/cart/generate/uuid",
+   "pages": 12,
+   "probed": 12,
+   "reach": {
+    "pages": 9,
+    "of": 352
+   },
+   "evidence": [
+    "GET /api/cart/generate/uuid → 200"
+   ],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "none (session-bound off-origin)"
+  },
+  {
+   "id": "a-cms-app-settings-object-drupalsettings",
+   "class": "A",
+   "feature": "CMS / app settings object drupalSettings",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "ajaxTrustedUrl"
+   ],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-first-party-api-post-defender-en-gb-recommend-market",
+   "class": "A",
+   "feature": "first-party API POST /defender/en-gb/recommend-market",
+   "pages": 11,
+   "probed": 12,
+   "reach": {
+    "pages": 54,
+    "of": 352
+   },
+   "evidence": [
+    "POST /defender/en-gb/recommend-market?_wrapper_format → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?"
+  },
+  {
+   "id": "a-first-party-api-post-en-gb-recommend-market",
+   "class": "A",
+   "feature": "first-party API POST /en-gb/recommend-market",
+   "pages": 1,
+   "probed": 12,
+   "reach": {
+    "pages": 351,
+    "of": 352
+   },
+   "evidence": [
+    "POST /en-gb/recommend-market?_wrapper_format → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?"
+  },
+  {
+   "id": "a-first-party-api-get-defender-en-gb-api-facet-data",
+   "class": "A",
+   "feature": "first-party API GET /defender/en-gb/api/facet-data",
+   "pages": 1,
+   "probed": 12,
+   "reach": {
+    "pages": 5,
+    "of": 352
+   },
+   "evidence": [
+    "GET /defender/en-gb/api/facet-data?bundle,bundleFacets,facets,isvehicle,json,vehicle → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?"
+  },
+  {
+   "id": "cr-client-rendered-slot-js-cm-form-drp-cm-subscribe-form",
+   "class": "CR",
+   "feature": "client-rendered slot js-cm-form drp-cm-subscribe__form",
+   "pages": 11,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "Name * Email * Contact me by fax only I agree to be emailed "
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-people-listing-page-view-view-people",
+   "class": "CR",
+   "feature": "client-rendered slot people-listing-page view view-peoples",
+   "pages": 1,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "PB BALAJI CHIEF EXECUTIVE OFFICER Read more RICHARD MOLYNEUX"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "f-form-drp-cm-subscribe-defender-third-party-www-createsend-",
+   "class": "F",
+   "feature": "form \"drp-cm-subscribe-defender\" → third-party www.createsend.com (4 fields)",
+   "pages": 11,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "text:cm-name,email:cm-jtkjbd-jtkjbd,text:contact_me_by_fax_only,checkbox:drp-cm-subscribe-defender-consent",
+    "cm-fo-dhact"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "i18n-locale-variants-x-default-en-en-gb-en-us-zh-cn-de-de-fr",
+   "class": "I18N",
+   "feature": "locale variants x-default,en,en-gb,en-us,zh-cn,de-de,fr-fr,es-es,it-it,en-au,en-in,en-lacro,es-lacro,es-mx,pt-br,zh-tw,ko-kr,nl-nl,nl-be,fr-be,en-mena,fr-mena,de-at,cs-cz,sk-sk,ar-mena,en-apac",
+   "pages": 7,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "https://media.jlr.com/zh-cn",
+    "https://media.jlr.com/fr-fr",
+    "https://media.jlr.com/de-de",
+    "https://media.jlr.com/en-gb"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-en-en-gb-en-us-zh-hans-de-fr-es-it-x-de",
+   "class": "I18N",
+   "feature": "locale variants en,en-gb,en-us,zh-hans,de,fr,es,it,x-default,en,en-gb,en-us,zh-cn,de-de,fr-fr,es-es,it-it,en-au,en-in,en-lacro,es-lacro,es-mx,pt-br,zh-tw,ko-kr,nl-nl,nl-be,fr-be,en-mena,fr-mena,de-at,cs-cz,sk-sk,ar-mena,en-apac",
+   "pages": 3,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "https://media.jlr.com/en-gb"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-en-en-gb-de-x-default-en-en-gb-en-us-zh",
+   "class": "I18N",
+   "feature": "locale variants en,en-gb,de,x-default,en,en-gb,en-us,zh-cn,de-de,fr-fr,es-es,it-it,en-au,en-in,en-lacro,es-lacro,es-mx,pt-br,zh-tw,ko-kr,nl-nl,nl-be,fr-be,en-mena,fr-mena,de-at,cs-cz,sk-sk,ar-mena,en-apac",
+   "pages": 1,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "https://media.jlr.com/en-gb"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-en-en-gb-de-it-x-default-en-en-gb-en-us",
+   "class": "I18N",
+   "feature": "locale variants en,en-gb,de,it,x-default,en,en-gb,en-us,zh-cn,de-de,fr-fr,es-es,it-it,en-au,en-in,en-lacro,es-lacro,es-mx,pt-br,zh-tw,ko-kr,nl-nl,nl-be,fr-be,en-mena,fr-mena,de-at,cs-cz,sk-sk,ar-mena,en-apac",
+   "pages": 1,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "https://media.jlr.com/en-gb"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "m-modal-trigger-aria-controls-dialog-chrome-only-dialog-vide",
+   "class": "M",
+   "feature": "modal trigger aria-controls→dialog (chrome only) → dialog:video",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "JLR MEDIA"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-chrome-only-div-form",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup (chrome only) → div:form",
+   "pages": 9,
+   "probed": 12,
+   "reach": {
+    "pages": 2532,
+    "of": 352
+   },
+   "evidence": [
+    "javascript: void(0);",
+    "Subscribe"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-data-social-popup-open-chrome-only-dialog-co",
+   "class": "M",
+   "feature": "modal trigger data-social-popup-open (chrome only) → dialog:content",
+   "pages": 1,
+   "probed": 12,
+   "reach": {
+    "pages": 395,
+    "of": 352
+   },
+   "evidence": [],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-social-popup-row-chrome-only-target-outside-",
+   "class": "M",
+   "feature": "modal trigger social-popup__row (chrome only) → target outside DOM at capture",
+   "pages": 1,
+   "probed": 12,
+   "reach": {
+    "pages": 2140,
+    "of": 352
+   },
+   "evidence": [
+    "https://www.facebook.com/RangeRover",
+    "https://www.facebook.com/Defender",
+    "https://www.facebook.com/LandRoverDiscovery"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-button-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup → button:content",
+   "pages": 1,
+   "probed": 12,
+   "reach": {
+    "pages": 2532,
+    "of": 352
+   },
+   "evidence": [
+    "javascript: void(0);",
+    "Download"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none"
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-button-content-div-form",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup → button:content/div:form",
+   "pages": 1,
+   "probed": 12,
+   "reach": {
+    "pages": 2532,
+    "of": 352
+   },
+   "evidence": [
+    "javascript: void(0);",
+    "Download"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none"
+  },
+  {
+   "id": "m-modal-trigger-data-modal-download-target-outside-dom-at-ca",
+   "class": "M",
+   "feature": "modal trigger data-modal-download → target outside DOM at capture",
+   "pages": 1,
+   "probed": 12,
+   "reach": {
+    "pages": 20,
+    "of": 352
+   },
+   "evidence": [
+    "Download Biography"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none"
+  },
+  {
+   "id": "s-site-search-form-defender-en-gb-search-submit",
+   "class": "S",
+   "feature": "site search form → /defender/en-gb/search-submit",
+   "pages": 11,
+   "probed": 12,
+   "reach": {
+    "pages": 0,
+    "of": 352
+   },
+   "evidence": [
+    "checkbox:sitewide,text:search"
+   ],
+   "pattern": "search-index-backed",
+   "disposition": "index-backed",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "search",
+   "decision": "none (corpus = the migrated pages; second corpora stay out)"
+  },
+  {
+   "id": "s-site-search-form-en-gb-search-submit",
+   "class": "S",
+   "feature": "site search form → /en-gb/search-submit",
+   "pages": 1,
+   "probed": 12,
+   "reach": {
+    "pages": 0,
+    "of": 352
+   },
+   "evidence": [
+    "text:search"
+   ],
+   "pattern": "search-index-backed",
+   "disposition": "index-backed",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "search",
+   "decision": "none (corpus = the migrated pages; second corpora stay out)"
+  },
+  {
+   "id": "t-unknown-third-party-host-media-production-jlrms-com",
+   "class": "T",
+   "feature": "unknown third-party host media.production.jlrms.com",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "media.production.jlrms.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-static-addtoany-com",
+   "class": "T",
+   "feature": "unknown third-party host static.addtoany.com",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "static.addtoany.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-vumbnail-com",
+   "class": "T",
+   "feature": "unknown third-party host vumbnail.com",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "vumbnail.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-analytics-google-analytics-ads",
+   "class": "T",
+   "feature": "analytics: Google Analytics / Ads",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "www.google-analytics.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-js-createsend1-com",
+   "class": "T",
+   "feature": "unknown third-party host js.createsend1.com",
+   "pages": 11,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "js.createsend1.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "v-video-vimeo",
+   "class": "V",
+   "feature": "video: Vimeo",
+   "pages": 12,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "player.vimeo.com",
+    "f.vimeocdn.com",
+    "vimeo.com",
+    "i.vimeocdn.com"
+   ],
+   "pattern": "media-as-url",
+   "disposition": "embed-passthrough",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "media",
+   "decision": "none (player ids are public)"
+  },
+  {
+   "id": "x-commerce-signals-cart-true-prices-0",
+   "class": "X",
+   "feature": "commerce signals (cart: true, prices: 0)",
+   "pages": 11,
+   "probed": 12,
+   "reach": null,
+   "evidence": [],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "pages": 4,
+   "probed": 12,
+   "reach": null,
+   "evidence": [
+    "https://www.addtoany.com/share#url=%2Fdefender%2Fen-gb%2Fnews%2F2026%2F07%2Ftough-luxury-new-defender-vertex-leads-design-and-accessory-update&title=TOUGH%20LUXURY%3A%20NEW%20DEFENDER%20VERTEX%20LEADS%20DESIGN%20AND%20ACCESSORY%20UPDATE",
+    "https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+    "https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update#main-content",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdefender%2Fen-gb%2Fnews%2F2026%2F07%2Ftough-luxury-new-defender-vertex-leads-design-and-accessory-update&title=Share"
+   ],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  },
+  {
+   "id": "x-commerce-signals-cart-true-prices-27",
+   "class": "X",
+   "feature": "commerce signals (cart: true, prices: 27)",
+   "pages": 1,
+   "probed": 12,
+   "reach": null,
+   "evidence": [],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  },
+  {
+   "id": "chrome-menu",
+   "source": "header-contract",
+   "class": "M",
+   "feature": "header menu: JLR MEDIA, EN-GB, United Kingdom (English) (chrome only)",
+   "pages": 1,
+   "probed": 1,
+   "reach": null,
+   "evidence": [
+    "390 click/key",
+    "1440 click/key"
+   ],
+   "pattern": "chrome-interaction",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (the header contract is the spec)"
+  },
+  {
+   "id": "chrome-search",
+   "source": "header-contract",
+   "class": "S",
+   "feature": "header search: Search button, press enter to open search field, Search All Brands (chrome only)",
+   "pages": 1,
+   "probed": 1,
+   "reach": null,
+   "evidence": [
+    "390 click/key",
+    "1440 click/key"
+   ],
+   "pattern": "search-index-backed",
+   "disposition": "index-backed",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none (results from the query index; overlay and typeahead per the contract)"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+  "variantName": "table-pricing",
+  "baseBlock": "table",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "table",
+    "purpose": "data table of body styles, powertrains, specs and prices"
+  },
+  "contentPattern": {
+    "structure": "first row = column headers, then one row per variant; up to 4 columns in Universal Editor",
+    "rows": [
+      {
+        "cells": [
+          "column1..column4 (richtext)"
+        ]
+      }
+    ]
+  },
+  "options": [
+    {
+      "class": "no-header",
+      "label": "No Header"
+    }
+  ],
+  "memberVariantIds": [
+    "v_f3915025204e"
+  ],
+  "usage": {
+    "pagesFound": 1,
+    "description": "table",
+    "note": "data table of variants, specs and prices"
+  },
+  "reuseGuidance": "Use for tabular price/spec data inside articles. Add the no-header class when the first row is data."
+}

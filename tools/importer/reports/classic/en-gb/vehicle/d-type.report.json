@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/vehicle/d-type",
+  "path": "classic/en-gb/vehicle/d-type",
+  "timestamp": "2026-11-06T17:45:48.546Z",
+  "title": "Classic",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-subnav",
+    "media-subnav"
+  ]
+}

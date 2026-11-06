@@ -1,0 +1,74 @@
+/*
+ * accordion-press-kit — model header row (name left, model year right, keyline under)
+ * Values follow the section-strip row in stardust/prototypes/canon/modules.css
+ * (.modern-news__row keyline var(--c-rule), .modern__header type) and canon/tokens.css.
+ */
+
+.accordion-press-kit {
+  margin: 0 0 32px;
+}
+
+.accordion-press-kit .accordion-press-kit-item + .accordion-press-kit-item {
+  margin-top: 8px;
+}
+
+.accordion-press-kit .accordion-press-kit-item-label {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 20px 0 6px;
+  border-bottom: 1px solid var(--c-rule, #aaacae);
+  list-style: none;
+  cursor: pointer;
+}
+
+.accordion-press-kit .accordion-press-kit-item-label::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-press-kit .accordion-press-kit-item-title {
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-card-heading, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 0.33px;
+}
+
+.accordion-press-kit .accordion-press-kit-item-year {
+  flex: 0 0 auto;
+  color: var(--c-rule, #aaacae);
+  font-family: var(--ff-card-text, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+.accordion-press-kit .accordion-press-kit-item-label:hover .accordion-press-kit-item-title,
+.accordion-press-kit .accordion-press-kit-item[open] .accordion-press-kit-item-title {
+  color: rgb(12 18 28 / 80%);
+}
+
+.accordion-press-kit .accordion-press-kit-item-label:focus-visible {
+  outline: 2px solid var(--c-ink, #0c121c);
+  outline-offset: 2px;
+}
+
+.accordion-press-kit .accordion-press-kit-item-body {
+  padding: 24px 0 8px;
+}
+
+.accordion-press-kit .accordion-press-kit-item:not([open]) .accordion-press-kit-item-body {
+  display: none;
+}
+
+@media (width >= 992px) {
+  .accordion-press-kit .accordion-press-kit-item-title {
+    font-size: 24px;
+    letter-spacing: 0.58px;
+  }
+
+  .accordion-press-kit .accordion-press-kit-item-year {
+    font-size: 20px;
+  }
+}

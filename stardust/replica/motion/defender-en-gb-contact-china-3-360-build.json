@@ -1,0 +1,1249 @@
+{
+  "url": "http://localhost:8791/defender-en-gb-contact-china-3-proposed.html",
+  "width": 360,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [
+    {
+      "sel": ".contact-detail__support a",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgba(12, 18, 28, 0.8)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".contact-detail__heading",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 400,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "top",
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 500,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 502,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 502,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 502,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 501,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 300,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li.main-nav__item--mobile > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--overflow > div.nav-wrapper > ul.main-nav__list > li > a",
+        "y": 200,
+        "dur": "0.3s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 400
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 502
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 501
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 502
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 501
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 502
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html > body.defender.en-gb.culture-en-gb > nav.site-header.shrink.bottom-shadow",
+        "y": 200
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defenderrally/en-gb/news/2026/10/rokas-baciuska-and-oriol-vidal-crowned-2026-fia-rally-raid-stock-drivers-and-co",
+  "path": "defenderrally/en-gb/news/2026/10/rokas-baciuska-and-oriol-vidal-crowned-2026-fia-rally-raid-stock-drivers-and-co",
+  "timestamp": "2026-11-06T10:44:23.285Z",
+  "title": "ROKAS BACIUŠKA AND ORIOL VIDAL CROWNED 2026 FIA RALLY-RAID STOCK DRIVERS' AND CO-DRIVERS' CHAMPIONS IN DEFENDER RALLY'S DEBUT WORLD RALLY-RAID CHAMPIONSHIP SEASON | Defender Rally Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "pagination"
+  ]
+}

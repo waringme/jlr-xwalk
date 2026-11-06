@@ -1,0 +1,101 @@
+/*
+ * columns-vehicle-intro — model name (left) + model-year links (right) on one keyline.
+ * Heading type from stardust/prototypes/css/defender-en-gb-vehicle-defender-110.css
+ * (.caption-holder .page-title: --ff-heading, 30px / 22px ≤991, line-height 1.2) and the
+ * section-strip keyline in canon/modules.css (.modern-news__row border var(--c-rule)).
+ */
+
+.columns-vehicle-intro {
+  margin: 0 0 32px;
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 8px 24px;
+  padding: 20px 0 6px;
+  border-bottom: 1px solid var(--c-rule, #aaacae);
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-title > * {
+  margin: 0;
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-heading, NeusaNeu-Medium, "NeusaNeu-Medium Sub", sans-serif);
+  font-weight: var(--fw-heading, 500);
+  font-size: 22px;
+  line-height: 1.2;
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-links ul,
+.columns-vehicle-intro .columns-vehicle-intro-links ol {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-links li {
+  display: flex;
+  align-items: center;
+  font-family: var(--ff-card-text, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-links li + li::before {
+  content: "";
+  display: inline-block;
+  width: 1px;
+  height: 10px;
+  margin: 0 18px;
+  background-color: var(--c-rule, #aaacae);
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-links a {
+  color: var(--c-rule, #aaacae);
+  text-decoration: none;
+  transition: color 0.15s linear;
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-links a:hover,
+.columns-vehicle-intro .columns-vehicle-intro-links a:focus-visible,
+.columns-vehicle-intro .columns-vehicle-intro-links a[aria-current] {
+  color: var(--c-ink, #0c121c);
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-img-col {
+  display: flex;
+  gap: 2px;
+  flex: 1 1 100%;
+  line-height: 0;
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-img-col > * {
+  flex: 1 1 0;
+  min-width: 0;
+  margin: 0;
+}
+
+.columns-vehicle-intro .columns-vehicle-intro-img-col img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (width >= 992px) {
+  .columns-vehicle-intro .columns-vehicle-intro-title > * {
+    font-size: 30px;
+  }
+
+  .columns-vehicle-intro .columns-vehicle-intro-links li {
+    font-size: 20px;
+  }
+
+  .columns-vehicle-intro .columns-vehicle-intro-img-col {
+    flex-basis: 50%;
+  }
+}

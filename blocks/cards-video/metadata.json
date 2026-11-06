@@ -1,0 +1,27 @@
+{
+  "variantName": "cards-video",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": ""
+  },
+  "contentPattern": {
+    "rows": "One row per video tile.",
+    "cells": [
+      "Image (picture) — the video thumbnail",
+      "Text: optional title (heading or paragraph) and a link to the video or video page"
+    ]
+  },
+  "options": [],
+  "memberVariantIds": [
+    "v_507936c3d294",
+    "v_507936c3d294-1"
+  ],
+  "usage": "Video packs: a grid of video teaser tiles; the tile links to the video.",
+  "reuseGuidance": "Use for grids of video thumbnails with an optional title overlay. Use embed-video for an inline player, cards-gallery for video packs with a count badge.",
+  "designReference": "Values lifted from stardust/prototypes (canon/modules.css and per-page css) where a counterpart exists."
+}

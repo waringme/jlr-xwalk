@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/vehicle/xj220",
+  "path": "classic/en-gb/vehicle/xj220",
+  "timestamp": "2026-11-06T17:49:04.968Z",
+  "title": "Classic",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav"
+  ]
+}

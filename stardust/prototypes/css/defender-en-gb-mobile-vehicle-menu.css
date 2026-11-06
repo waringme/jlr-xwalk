@@ -1,0 +1,77 @@
+/* defender-en-gb-mobile-vehicle-menu — mobile-vehicle-menu archetype (vehicle-menu-list: group
+   heading "Current" / "Past" + vertical list of vehicle entry cards — 130px 3:2 thumbnail | title,
+   1px #e9ecec frame, 2px ink underline growing in on hover). Page-specific modules only; tokens /
+   chrome / shared modules come from canon/.
+   Values lifted from main.css (@offsets; tailwind utilities @371523–@375493) and the live computed
+   boxes (measure.mjs @1440/@360, .work/defender-en-gb-mobile-vehicle-menu/live-measure.txt). */
+
+/* Bootstrap .container clearfix (libraries.css .container:before/:after) — keeps the list's 18px
+   top margin inside the container instead of collapsing into .page-view's margin-top. */
+.vehicle-mobile-menu::before, .vehicle-mobile-menu::after { content: " "; display: table; }
+.vehicle-mobile-menu::after { clear: both; }
+
+/* .mobile-section .mobile-menu { margin: 18px 0 } (@147904) */
+.vehicle-mobile-menu .mobile-menu { margin-top: 18px; margin-bottom: 18px; }
+.vehicle-mobile-menu .vehicle-groups,
+.vehicle-mobile-menu .vehicle-group__list { width: 100%; }                    /* .tw-w-full */
+
+/* group heading: .mobile-section h2 (@147836) + body .bt-vehicle-group-heading 14px (@12215);
+   face: body.defender .bt-vehicle-* NeusaNeu-Regular 400 (@27846); line-height 1.2 (16.8 measured) */
+.vehicle-mobile-menu .vehicle-group__heading {
+  width: 100%;
+  margin: 18px 0;
+  color: #0c121c;
+  font-family: var(--f-neusa);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+/* entry card: tw-flex tw-items-center tw-mb-3 + .vehicle-mobile-menu .mobile-menu a (@147483) */
+.vehicle-mobile-menu .vehicle-entry {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: .75rem;
+  border: 1px solid #e9ecec;               /* colour: global a (ink) / a:hover, as live */
+}
+.vehicle-mobile-menu .vehicle-entry::after {                                   /* @147562 */
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #0c121c;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform .2s ease;
+}
+.vehicle-mobile-menu .vehicle-entry:hover::after { transform: scaleX(1); }     /* @147768 */
+
+/* thumbnail: tw-w-[130px] tw-min-w-[130px] tw-aspect-[3/2] tw-overflow-hidden tw-p-0 */
+.vehicle-mobile-menu .vehicle-entry__media {
+  width: 130px;
+  min-width: 130px;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  padding: 0;
+}
+.vehicle-mobile-menu .vehicle-entry__media img {                               /* @147418 */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* title: tw-w-full tw-m-0 tw-px-5 + body .bt-vehicle-title 16px (@12332), NeusaNeu-Regular 400
+   (@27846), line-height 1.3 (20.8 measured) */
+.vehicle-mobile-menu .vehicle-entry__title {
+  width: 100%;
+  margin: 0;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;                  /* colour inherited from the link, as live */
+  font-family: var(--f-neusa);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+}

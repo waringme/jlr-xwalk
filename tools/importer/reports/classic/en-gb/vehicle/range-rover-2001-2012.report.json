@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/vehicle/range-rover-%282001-2012%29",
+  "path": "classic/en-gb/vehicle/range-rover-2001-2012",
+  "timestamp": "2026-11-06T17:06:52.762Z",
+  "title": "Classic",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

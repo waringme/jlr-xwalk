@@ -1,0 +1,259 @@
+{
+  "news-card": {
+    "origin": "div.modern-news__panel.modern-news__container",
+    "build": "article.modern-news__container",
+    "n": 4,
+    "required": true,
+    "pages": [
+      "defender-en-gb"
+    ],
+    "templates": [
+      "brand-landing",
+      "vehicle-detail"
+    ]
+  },
+  "pack-card": {
+    "origin": "div.modern-packs__panel",
+    "build": "article.modern-packs__panel",
+    "n": 6,
+    "required": true,
+    "pages": [
+      "defender-en-gb"
+    ],
+    "templates": [
+      "brand-landing",
+      "vehicle-detail"
+    ]
+  },
+  "footer-social-button": {
+    "origin": ".social-bar__container > a",
+    "build": ".social-bar__container > a",
+    "n": 5,
+    "required": false,
+    "pages": [
+      "defender-en-gb"
+    ],
+    "templates": [
+      "*"
+    ]
+  },
+  "media-card": {
+    "origin": "div.news-box.modern-news__panel",
+    "build": "article.news-box.modern-news__panel",
+    "n": 15,
+    "required": true,
+    "pages": [
+      "defender-en-gb-vehicle-defender-110"
+    ],
+    "templates": [
+      "vehicle-detail",
+      "listing"
+    ]
+  },
+  "content-type-tab": {
+    "origin": "ul.nav-search > li.results",
+    "build": "ul.nav-search > li.results",
+    "n": 7,
+    "required": true,
+    "pages": [
+      "defender-en-gb-vehicle-defender-110"
+    ],
+    "templates": [
+      "vehicle-detail",
+      "listing"
+    ]
+  },
+  "refine-option": {
+    "origin": "li.new-grid__checkbox",
+    "build": "li.new-grid__checkbox",
+    "n": 16,
+    "required": false,
+    "pages": [
+      "defender-en-gb-vehicle-defender-110"
+    ],
+    "templates": [
+      "vehicle-detail",
+      "listing"
+    ]
+  },
+  "listing-pack-card": {
+    "origin": ".card-grid > .gallery-item",
+    "build": ".card-grid > .gallery-item",
+    "n": 6,
+    "required": true,
+    "pages": [
+      "defender-en-gb-image-packs"
+    ],
+    "templates": [
+      "media-listing"
+    ]
+  },
+  "listing-image-count-badge": {
+    "origin": ".card-grid > .gallery-item .img-count",
+    "build": ".card-grid > .gallery-item .img-count",
+    "n": 6,
+    "required": true,
+    "pages": [
+      "defender-en-gb-image-packs"
+    ],
+    "templates": [
+      "media-listing"
+    ]
+  },
+  "pack-image-tile": {
+    "origin": ".img-pack-expand-body > .img-pack-block",
+    "build": ".img-pack-expand-body > .img-pack-block",
+    "n": 4,
+    "required": true,
+    "pages": [
+      "defender-en-gb-image-packs-defender-110-namib-orange"
+    ],
+    "templates": [
+      "media-pack-detail"
+    ]
+  },
+  "pack-mobile-slide": {
+    "origin": ".mobile-slider-image-packs .drp-slider__wrapper > li",
+    "build": ".mobile-slider-image-packs .drp-slider__wrapper > li",
+    "n": 4,
+    "required": true,
+    "pages": [
+      "defender-en-gb-image-packs-defender-110-namib-orange"
+    ],
+    "templates": [
+      "media-pack-detail"
+    ]
+  },
+  "pack-viewer-slide-head": {
+    "origin": ".image-pack-slide .image-slide__head",
+    "build": ".image-pack-slide .image-slide__head",
+    "n": 4,
+    "required": false,
+    "pages": [
+      "defender-en-gb-image-packs-defender-110-namib-orange"
+    ],
+    "templates": [
+      "media-pack-detail"
+    ]
+  },
+  "related-pack-card": {
+    "origin": ".related-content-packs .gallery-item.hidden-xs",
+    "build": ".related-content-packs .gallery-item.hidden-xs",
+    "n": 8,
+    "required": true,
+    "pages": [
+      "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "templates": [
+      "content-detail"
+    ]
+  },
+  "related-pack-slide": {
+    "origin": ".related-content-packs .jlr-tabs__block--active .drp-slider__wrapper > li",
+    "build": ".related-slider__slide",
+    "n": 8,
+    "required": false,
+    "pages": [
+      "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "templates": [
+      "content-detail"
+    ]
+  },
+  "article-media-figure": {
+    "origin": ".page-news .hover-prt-wrapper",
+    "build": ".page-news .article-media",
+    "n": 9,
+    "required": true,
+    "pages": [
+      "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "templates": [
+      "content-detail"
+    ]
+  },
+  "article-subheading": {
+    "origin": ".subheading-template",
+    "build": ".article-subheading",
+    "n": 9,
+    "required": true,
+    "pages": [
+      "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "templates": [
+      "content-detail"
+    ]
+  },
+  "people-card": {
+    "origin": ".tw-grid > .people-listing-holder",
+    "build": ".tw-grid > .people-listing-holder",
+    "n": 13,
+    "required": true,
+    "pages": [
+      "defender-en-gb-directors"
+    ],
+    "templates": [
+      "grid-overview"
+    ]
+  },
+  "person-bio-paragraph": {
+    "origin": ".field--name-description > p",
+    "build": ".field--name-description > p",
+    "n": 6,
+    "required": true,
+    "pages": [
+      "defender-en-gb-person-chris-thorp"
+    ],
+    "templates": [
+      "person-detail"
+    ]
+  },
+  "contact-region-card": {
+    "origin": ".contact-regions__grid > .contact-card-wrapper",
+    "build": ".contact-regions__grid > .contact-card-wrapper",
+    "n": 7,
+    "required": true,
+    "pages": [
+      "defender-en-gb-contact"
+    ],
+    "templates": [
+      "contact-listing"
+    ]
+  },
+  "legal-body-paragraph": {
+    "origin": ".field--name-body > p",
+    "build": ".field--name-body > p",
+    "n": 6,
+    "required": true,
+    "pages": [
+      "defender-en-gb-terms-and-conditions"
+    ],
+    "templates": [
+      "legal-page"
+    ]
+  },
+  "vehicle-menu-group": {
+    "origin": ".mobile-menu > .tw-w-full > div",
+    "build": ".mobile-menu .vehicle-group",
+    "n": 2,
+    "required": true,
+    "pages": [
+      "defender-en-gb-mobile-vehicle-menu"
+    ],
+    "templates": [
+      "mobile-vehicle-menu"
+    ]
+  },
+  "vehicle-menu-entry": {
+    "origin": ".mobile-menu a.tw-flex",
+    "build": ".mobile-menu a.vehicle-entry",
+    "n": 4,
+    "required": true,
+    "pages": [
+      "defender-en-gb-mobile-vehicle-menu"
+    ],
+    "templates": [
+      "mobile-vehicle-menu"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar/en-gb/news/2026/07/championing-originality-jaguar-and-royal-college-art-announce-jaguar-awards-winners",
+  "path": "jaguar/en-gb/news/2026/07/championing-originality-jaguar-and-royal-college-art-announce-jaguar-awards-winners",
+  "timestamp": "2026-11-06T10:51:28.347Z",
+  "title": "CHAMPIONING ORIGINALITY: JAGUAR AND THE ROYAL COLLEGE OF ART ANNOUNCE JAGUAR AWARDS WINNERS | Jaguar 2024 Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

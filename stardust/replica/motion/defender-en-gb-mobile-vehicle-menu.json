@@ -1,0 +1,328 @@
+{
+  "url": "https://media.jlr.com/defender/en-gb/mobile-vehicle-menu",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [
+    {
+      "sel": ".vehicle-mobile-menu .mobile-menu a",
+      "changed": [
+        "self.color",
+        "img.img-responsive.color",
+        "h3.tw-w-full.tw-m-0.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "img.img-responsive",
+            "transform": "none",
+            "color": "rgb(12, 18, 28)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "h3.tw-w-full.tw-m-0",
+            "transform": "none",
+            "color": "rgb(12, 18, 28)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgba(12, 18, 28, 0.8)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "img.img-responsive",
+            "transform": "none",
+            "color": "rgba(12, 18, 28, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "h3.tw-w-full.tw-m-0",
+            "transform": "none",
+            "color": "rgba(12, 18, 28, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 296,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 296,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.mobile-menu > div.tw-w-full > div > div.tw-w-full > a.tw-flex.tw-items-center.tw-mb-3",
+        "y": 0,
+        "dur": "0s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 296
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 296
+      }
+    ]
+  }
+}

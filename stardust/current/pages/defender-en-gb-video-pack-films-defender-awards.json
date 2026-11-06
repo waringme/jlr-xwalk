@@ -1,0 +1,955 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:02:23.441Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "defender-en-gb-video-pack-films-defender-awards",
+  "url": "https://media.jlr.com/defender/en-gb/video-pack/films-defender-awards",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:02:23.441Z",
+  "finalUrl": "https://media.jlr.com/defender/en-gb/video-pack/films-defender-awards",
+  "title": "FILMS - DEFENDER AWARDS | Defender Media Newsroom",
+  "description": "New international Defender Awards initiative will benefit small non‑profit conservation and humanitarian charities and organisations in seven‑countries around the world",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "FILMS - DEFENDER AWARDS"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "Defender Rally",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/defender/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/defender/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/defender/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/defender/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/defender/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/defender/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/defender/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/defender/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/defender/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/defender/en-gb/contact"
+    },
+    {
+      "label": "Defender",
+      "href": "https://www.landrover.com/defender/defender/index.html"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "News",
+      "href": "/defender/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/defender/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/defender/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/defender/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/defender/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/defender/en-gb/tech-specs"
+    },
+    {
+      "label": "Defender Rally",
+      "href": "https://media.jlr.com/defenderrally/en-gb"
+    },
+    {
+      "label": "Search Defender",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/defender/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/defender/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/defender/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/defender/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/defender/en-gb/video-pack/films-defender-awards#main-content",
+    "https://media.jlr.com/defender/zh-cn",
+    "https://media.jlr.com/defender/fr-fr",
+    "https://media.jlr.com/defender/de-de",
+    "https://media.jlr.com/defender/",
+    "https://media.jlr.com/defender/it-it",
+    "https://media.jlr.com/defender/en-us",
+    "https://media.jlr.com/defender/es-es",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/defender/en-gb/cart",
+    "https://media.jlr.com/defender/en-gb/contact",
+    "https://media.jlr.com/defender/en-gb/",
+    "https://www.landrover.com/defender/defender/index.html",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/defender/en-gb/terms-and-conditions",
+    "https://media.jlr.com/defender/en-gb/user-licence",
+    "https://media.jlr.com/defender/en-gb/cookies",
+    "https://media.jlr.com/defender/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/defender/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/defender/en-gb/news",
+    "https://media.jlr.com/defender/en-gb/image-packs",
+    "https://media.jlr.com/defender/en-gb/videos",
+    "https://media.jlr.com/defender/en-gb/directors",
+    "https://media.jlr.com/defender/en-gb/press-kit",
+    "https://media.jlr.com/defender/en-gb/tech-specs",
+    "https://media.jlr.com/defenderrally/en-gb",
+    "javascript:void(0)",
+    "https://media.jlr.com/defender/en-gb/vehicle/defender-90",
+    "https://media.jlr.com/defender/en-gb/vehicle/defender-110",
+    "https://media.jlr.com/defender/en-gb/vehicle/defender-130",
+    "https://media.jlr.com/defender/en-gb/vehicle/defender-(1990-2016)",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.jlr.com/defender/en-gb/video-pack/films-defender-awards",
+    "https://media.production.jlrms.com/2025-03-31/video/af64c5ab-8c18-4a13-be5d-75ef7571fd18/DA%20HERO%20FULL%20FILM%2016x9.mp4?VersionId=aX2T2CR38G2bTEjwhknjaCIBA0aswOjg",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-03-31%2Fvideo%2Faf64c5ab-8c18-4a13-be5d-75ef7571fd18%2FDA%2520HERO%2520FULL%2520FILM%252016x9.mp4%3FVersionId%3DaX2T2CR38G2bTEjwhknjaCIBA0aswOjg&title=DEFENDER%20AWARDS%20HERO%20FILM",
+    "https://media.production.jlrms.com/2025-03-31/video/7323c2ee-6281-4fcb-b3a5-3a39d5c723e5/DEFENDER%20AWARDS%20KENYA%20B-ROLL.mp4?VersionId=7cfQp6yr8uFHJXAePNmhBna41nGIbLNB",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-03-31%2Fvideo%2F7323c2ee-6281-4fcb-b3a5-3a39d5c723e5%2FDEFENDER%2520AWARDS%2520KENYA%2520B-ROLL.mp4%3FVersionId%3D7cfQp6yr8uFHJXAePNmhBna41nGIbLNB&title=B-ROLL%20-%20KENYA",
+    "https://media.production.jlrms.com/2025-03-31/video/46616209-64f2-4b9f-b73d-983b9e0eda02/DEFENDER%20AWARDS%20SCOTLAND%20B-ROLL.mp4?VersionId=3SA9PSQs7TH7cZQPbUsyFXIeZa1sHfgP",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-03-31%2Fvideo%2F46616209-64f2-4b9f-b73d-983b9e0eda02%2FDEFENDER%2520AWARDS%2520SCOTLAND%2520B-ROLL.mp4%3FVersionId%3D3SA9PSQs7TH7cZQPbUsyFXIeZa1sHfgP&title=B-ROLL%20-%20SCOTLAND%20",
+    "https://media.production.jlrms.com/2025-03-31/video/72d4ca1f-b98a-4b10-b21b-212e06efd8fe/DEFENDER%20AWARDS%20SWITZERLAND%20B-ROLL.mp4?VersionId=rRza_vD2fRcnJwEOrjcpWF7glb.I4qg6",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-03-31%2Fvideo%2F72d4ca1f-b98a-4b10-b21b-212e06efd8fe%2FDEFENDER%2520AWARDS%2520SWITZERLAND%2520B-ROLL.mp4%3FVersionId%3DrRza_vD2fRcnJwEOrjcpWF7glb.I4qg6&title=B-ROLL%20-%20SWITZERLAND",
+    "https://media.production.jlrms.com/2025-03-31/video/a35df180-ac3c-420a-91d7-84ee9596f9e6/DEFENDER%20AWARDS%20WALES%20B-ROLL%20MP4.mp4?VersionId=UykzZAsTIa8bMFqrNOrl9hgTzMfIj8CG",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-03-31%2Fvideo%2Fa35df180-ac3c-420a-91d7-84ee9596f9e6%2FDEFENDER%2520AWARDS%2520WALES%2520B-ROLL%2520MP4.mp4%3FVersionId%3DUykzZAsTIa8bMFqrNOrl9hgTzMfIj8CG&title=B-ROLL%20-%20WALES",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/defender/",
+    "https://www.tiktok.com/@defender",
+    "https://www.youtube.com/@defender",
+    "https://www.facebook.com/Defender",
+    "https://x.com/defender",
+    "https://media.jlr.com/defender/en-gb/video-pack/films-defender-awards#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/defender/en-gb/video-pack/films-defender-awards#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/defender-logo-dark.svg",
+        "alt": "Defender logo",
+        "w": 145,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2024-05-21/image/b8e72087-b964-47c6-b049-7bfab89b89f9/Defender_90_Thumb.jpg?VersionId=fuowEhMWPb0taZqEwRTuD.ofj9XGwbQ2&h=1e9af1ba&itok=vvfU01Op",
+        "alt": "Defender 90",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2024-05-21/image/dcd137ec-4e1a-431a-83ce-dab0942e9038/LR_DEF_110_Thumb.jpg?VersionId=11F0klOEnknfyatcu_Spu6CtMEHn3n8W&h=1e9af1ba&itok=wpkk6OQO",
+        "alt": "Defender 110",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2024-05-21/image/588d7fad-8210-4a27-b919-3b176737080d/LR_DEF_130_Thumbnail.jpg?VersionId=jvXOxuHFS3fVpz5_R010igjYn8VrcPfS&h=1e9af1ba&itok=aZ0BuRI6",
+        "alt": "Defender 130",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Defender.jpg?VersionId=alNCsrRCNi8_KHoqGU9cqEYCc7hobgbc&h=05abcc49&itok=cdLnKik_",
+        "alt": "Defender (1990-2016)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 15,
+    "cssBackgrounds": [
+      "https://i.vimeocdn.com/video/1999697550-0ee829ece677a26caa0788e2da0da9d76bb54d6fea55e5fb1d3f793e6c47e151-d_960x540",
+      "https://i.vimeocdn.com/video/1999687260-839f1bffabff1d7ff498af5969bc592de5dd238561d2cf553fd4e6db2f980ce1-d_960x540",
+      "https://i.vimeocdn.com/video/1999684548-29a3bdd8bc6c330dd305033b901a9a2b030faf2f707f9818f43849d9942b830c-d_960x540",
+      "https://i.vimeocdn.com/video/1999694176-c89744ac15436be5b73c83af66175ae84ea8c70ce3043209991c4bfe2fc83be7-d_960x540",
+      "https://i.vimeocdn.com/video/1999688873-e81fdc99b74a2286f78923f23b579cef0ba6e11e42effce9a0964d80ef9d5da5-d_960x540"
+    ],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "Video: DEFENDER AWARDS HERO FILM Embed Code Download Share Video: B-ROLL - KENYA Embed Code Download Share Video: B-ROLL - SCOTLAND Embed Code Download Share Video: B-ROLL - SWITZERLAND Embed Code Download Share Video: B-ROLL - WALES Embed Code Download Share",
+      "× SUBSCRIBE TO OUR NEWSLETTER Name * Email * Contact me by fax only I agree to be emailed * Subscribe"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "206px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 5,
+    "mainTextLen": 3437,
+    "realImageCount": 15,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/defender/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/defender/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 11,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c65042e214d20",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890929~acl=%2F{uuid}%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/{uuid}/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890929~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890929~acl=%2F{uuid}%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/{uuid}/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890929~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890929~acl=%2F{uuid}%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/{uuid}/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890929~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890930~acl=%2F{uuid}%2Fpsid%3Da1ef710a899f204b548854ecef44bcb84164d2941793887330%2F%2A~hmac=6b2b6043abb7cc5c7bc7bb3bd9d53d272358b5796307ecd82657e6662e3d6410/{uuid}/psid=a1ef710a899f204b548854ecef44bcb84164d2941793887330/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 695,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890930~acl=%2F564182a3-7c46-49c5-8da1-b80c9c5b54a9%2Fpsid%3Da1ef710a899f204b548854ecef44bcb84164d2941793887330%2F%2A~hmac=6b2b6043abb7cc5c7bc7bb3bd9d53d272358b5796307ecd82657e6662e3d6410/564182a3-7c46-49c5-8da1-b80c9c5b54a9/psid=a1ef710a899f204b548854ecef44bcb84164d2941793887330/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890929~acl=%2F{uuid}%2Fpsid%3Da22b0c1f7a604f9a1968e6680837bf83182c5da41793887329%2F%2A~hmac=0efc9de62343eb6b3a97a4324ce6408dd1dbfd0174dacedc00c261bd0bcbf59a/{uuid}/psid=a22b0c1f7a604f9a1968e6680837bf83182c5da41793887329/v2/playlist/av/primary/sub/222647389-en-x-autogen/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "ext-subs",
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 956,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890929~acl=%2F06d0b464-ff91-4961-948e-a5342fb15f34%2Fpsid%3Da22b0c1f7a604f9a1968e6680837bf83182c5da41793887329%2F%2A~hmac=0efc9de62343eb6b3a97a4324ce6408dd1dbfd0174dacedc00c261bd0bcbf59a/06d0b464-ff91-4961-948e-a5342fb15f34/psid=a22b0c1f7a604f9a1968e6680837bf83182c5da41793887329/v2/playlist/av/primary/sub/222647389-en-x-autogen/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890930~acl=%2F{uuid}%2Fpsid%3De09736699833a79e81dded7c332ee45ce0893eba1793887330%2F%2A~hmac=9432529f87798a66d52245b9007d5fb1d01d44ced752180eaaea0f2454053fe4/{uuid}/psid=e09736699833a79e81dded7c332ee45ce0893eba1793887330/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 846,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890930~acl=%2Fd546a567-4994-4313-8389-fb74b770484e%2Fpsid%3De09736699833a79e81dded7c332ee45ce0893eba1793887330%2F%2A~hmac=9432529f87798a66d52245b9007d5fb1d01d44ced752180eaaea0f2454053fe4/d546a567-4994-4313-8389-fb74b770484e/psid=e09736699833a79e81dded7c332ee45ce0893eba1793887330/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890930~acl=%2F{uuid}%2Fpsid%3D97f1986bcd2345a47cdd39dbc06bc0955fd06b581793887330%2F%2A~hmac=58e0d4d9b85fa94931878b506427133fe19782ebd1f55512b432b5354bd18cec/{uuid}/psid=97f1986bcd2345a47cdd39dbc06bc0955fd06b581793887330/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890930~acl=%2F2cb0ba49-420e-4475-8f18-0a9e490bb0e1%2Fpsid%3D97f1986bcd2345a47cdd39dbc06bc0955fd06b581793887330%2F%2A~hmac=58e0d4d9b85fa94931878b506427133fe19782ebd1f55512b432b5354bd18cec/2cb0ba49-420e-4475-8f18-0a9e490bb0e1/psid=97f1986bcd2345a47cdd39dbc06bc0955fd06b581793887330/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890930~acl=%2F{uuid}%2Fpsid%3D352d30a0546ef79263b44dfd22b1c720acd3428f1793887330%2F%2A~hmac=301008401d17f5923d562b797c64383b5095a2857804a11ede9c25977f670b7d/{uuid}/psid=352d30a0546ef79263b44dfd22b1c720acd3428f1793887330/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 696,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890930~acl=%2F92386246-8b21-4323-9d09-2018e1ece957%2Fpsid%3D352d30a0546ef79263b44dfd22b1c720acd3428f1793887330%2F%2A~hmac=301008401d17f5923d562b797c64383b5095a2857804a11ede9c25977f670b7d/92386246-8b21-4323-9d09-2018e1ece957/psid=352d30a0546ef79263b44dfd22b1c720acd3428f1793887330/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890932~acl=%2F{uuid}%2Fpsid%3D9278bac8bd000f8b40b1142aa0d7e50cab4130361793887332%2F%2A~hmac=6e2e9c8a24962bd767829da8e3ba55b92cde364b5ae740b375ef86549dfdfd28/{uuid}/psid=9278bac8bd000f8b40b1142aa0d7e50cab4130361793887332/v2/playlist/av/primary/sub/222647389-en-x-autogen/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "ext-subs",
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 956,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890932~acl=%2F06d0b464-ff91-4961-948e-a5342fb15f34%2Fpsid%3D9278bac8bd000f8b40b1142aa0d7e50cab4130361793887332%2F%2A~hmac=6e2e9c8a24962bd767829da8e3ba55b92cde364b5ae740b375ef86549dfdfd28/06d0b464-ff91-4961-948e-a5342fb15f34/psid=9278bac8bd000f8b40b1142aa0d7e50cab4130361793887332/v2/playlist/av/primary/sub/222647389-en-x-autogen/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890932~acl=%2F{uuid}%2Fpsid%3D9887deb7037d6d111038a28228d642508c823a2c1793887332%2F%2A~hmac=0350c8d103fb3b5366eac3b997b1b3adb34f5e9037d968741be916bc21f04f97/{uuid}/psid=9887deb7037d6d111038a28228d642508c823a2c1793887332/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 696,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890932~acl=%2F92386246-8b21-4323-9d09-2018e1ece957%2Fpsid%3D9887deb7037d6d111038a28228d642508c823a2c1793887332%2F%2A~hmac=0350c8d103fb3b5366eac3b997b1b3adb34f5e9037d968741be916bc21f04f97/92386246-8b21-4323-9d09-2018e1ece957/psid=9887deb7037d6d111038a28228d642508c823a2c1793887332/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890932~acl=%2F{uuid}%2Fpsid%3Dd8587b5771e4d8bf060eac9d16bb1f3cafc6e8881793887332%2F%2A~hmac=b8ae4328c46e23a27d53e0bf79505e7b3ac4459938524b3f72aadca5f10ade3d/{uuid}/psid=d8587b5771e4d8bf060eac9d16bb1f3cafc6e8881793887332/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 846,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890932~acl=%2Fd546a567-4994-4313-8389-fb74b770484e%2Fpsid%3Dd8587b5771e4d8bf060eac9d16bb1f3cafc6e8881793887332%2F%2A~hmac=b8ae4328c46e23a27d53e0bf79505e7b3ac4459938524b3f72aadca5f10ade3d/d546a567-4994-4313-8389-fb74b770484e/psid=d8587b5771e4d8bf060eac9d16bb1f3cafc6e8881793887332/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890932~acl=%2F{uuid}%2Fpsid%3Dd668cb6cf21a6c03c204cdc0d7640ceccad178311793887332%2F%2A~hmac=f16c868268ada2d2b0c64cc8b85112915a0d27d25517b946adb0e2a0763231e3/{uuid}/psid=d668cb6cf21a6c03c204cdc0d7640ceccad178311793887332/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 695,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890932~acl=%2F564182a3-7c46-49c5-8da1-b80c9c5b54a9%2Fpsid%3Dd668cb6cf21a6c03c204cdc0d7640ceccad178311793887332%2F%2A~hmac=f16c868268ada2d2b0c64cc8b85112915a0d27d25517b946adb0e2a0763231e3/564182a3-7c46-49c5-8da1-b80c9c5b54a9/psid=d668cb6cf21a6c03c204cdc0d7640ceccad178311793887332/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890929~acl=%2F{uuid}%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/{uuid}/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890929~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890929~acl=%2F{uuid}%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/{uuid}/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890929~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890929~acl=%2F{uuid}%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/{uuid}/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890929~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890929~acl=%2F{uuid}%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/{uuid}/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890929~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D6f61c50bcab39118388f18eb4a76bd159f5a04321793887329%2F%2A~hmac=e8efc4427306857baf075a4fb51ca641b421b33ed1358c72d063de8bdc0b3140/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=6f61c50bcab39118388f18eb4a76bd159f5a04321793887329/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/xtOgWIGE",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/xtOgWIGE",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793890932~acl=%2F{uuid}%2Fpsid%3D7d527d4f64a9759cec255c4504b7df858b0e157f1793887332%2F%2A~hmac=d643107795288617cf7801903091c69673db21b9ee65cfc95eb3bb93119cc2d7/{uuid}/psid=7d527d4f64a9759cec255c4504b7df858b0e157f1793887332/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793890932~acl=%2F2cb0ba49-420e-4475-8f18-0a9e490bb0e1%2Fpsid%3D7d527d4f64a9759cec255c4504b7df858b0e157f1793887332%2F%2A~hmac=d643107795288617cf7801903091c69673db21b9ee65cfc95eb3bb93119cc2d7/2cb0ba49-420e-4475-8f18-0a9e490bb0e1/psid=7d527d4f64a9759cec255c4504b7df858b0e157f1793887332/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 49
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 22
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1922,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1",
+      "https://player.vimeo.com/video/1071007141?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007257?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007390?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007549?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007710?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007141?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007257?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007390?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007549?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007710?badge=0&autopause=0&player_id=0&app_id=138872"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 20,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/defender-en-gb-video-pack-films-defender-awards.png",
+  "renderedHtml": "pages/defender-en-gb-video-pack-films-defender-awards.html",
+  "type": "media-pack-detail",
+  "typeFamily": "listing",
+  "typeBasis": "body.page-node-type-video-pack",
+  "typeVariant": "video-pack",
+  "site": "defender",
+  "slots": {
+    "pack-title": "FILMS - DEFENDER AWARDS",
+    "count": null,
+    "count-label": null,
+    "items": [
+      {
+        "image": "https://i.vimeocdn.com/video/1999697550-0ee829ece677a26caa0788e2da0da9d76bb54d6fea55e5fb1d3f793e6c47e151-d_960x540",
+        "title": "Video: DEFENDER AWARDS HERO FILM",
+        "downloads": []
+      },
+      {
+        "image": "https://i.vimeocdn.com/video/1999687260-839f1bffabff1d7ff498af5969bc592de5dd238561d2cf553fd4e6db2f980ce1-d_960x540",
+        "title": "Video: B-ROLL - KENYA",
+        "downloads": []
+      },
+      {
+        "image": "https://i.vimeocdn.com/video/1999684548-29a3bdd8bc6c330dd305033b901a9a2b030faf2f707f9818f43849d9942b830c-d_960x540",
+        "title": "Video: B-ROLL - SCOTLAND",
+        "downloads": []
+      },
+      {
+        "image": "https://i.vimeocdn.com/video/1999694176-c89744ac15436be5b73c83af66175ae84ea8c70ce3043209991c4bfe2fc83be7-d_960x540",
+        "title": "Video: B-ROLL - SWITZERLAND",
+        "downloads": []
+      },
+      {
+        "image": "https://i.vimeocdn.com/video/1999688873-e81fdc99b74a2286f78923f23b579cef0ba6e11e42effce9a0964d80ef9d5da5-d_960x540",
+        "title": "Video: B-ROLL - WALES",
+        "downloads": []
+      }
+    ],
+    "videoIds": [
+      "https://player.vimeo.com/video/1071007141?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007257?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007390?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007549?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007710?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007141?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007257?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007390?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007549?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1071007710?badge=0&autopause=0&player_id=0&app_id=138872"
+    ],
+    "pack-downloads": []
+  }
+}

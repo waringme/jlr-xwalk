@@ -1,0 +1,35 @@
+{
+  "variantName": "carousel-featured-news",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "button + link + image + heading + text + list"
+  },
+  "contentPattern": {
+    "rows": "One row per slide.",
+    "cells": [
+      "Image (picture) \u2014 the slide image",
+      "Content: heading (article title, optionally linked), optional description paragraph, date paragraph (e.g. \"16 September 2026\"), \"Find Out More\" link to the article, optional \"Download\" link (press-kit zip)"
+    ],
+    "notes": "Slides fade every 5 s (paused on hover/focus and for reduced motion). A single row renders a static slide with no dots."
+  },
+  "options": [],
+  "memberVariantIds": [
+    "v_029315ed8e12",
+    "v_029315ed8e12-1"
+  ],
+  "usage": {
+    "description": "Home / brand landing pages: rotating featured news slides with an action rail (download, cart, share) and dot pagination.",
+    "pagesUsing": [
+      "/defender/en-gb"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-06T08:48:34Z"
+  },
+  "reuseGuidance": "Use for the featured-news hero slider. For a static single hero use the hero block; for a horizontal strip of link tiles use carousel-brands.",
+  "designReference": "Values lifted from stardust/prototypes (canon/modules.css and per-page css) where a counterpart exists."
+}

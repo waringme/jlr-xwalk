@@ -1,0 +1,1713 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:08:52.139Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "discovery-en-gb-vehicle-discovery-vision-concept",
+  "url": "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:08:52.139Z",
+  "finalUrl": "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept?bundle=image",
+  "title": "Discovery",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Discovery Vision"
+    },
+    {
+      "tag": "h1",
+      "text": "25 Results"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h1",
+      "text": "Land Rover Announces Discovery Vision Concept"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery Vision Concept: Technology Infographic"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery Vision Concept: Technology Infographic"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery Vision Concept: Technology Infographic"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery Vision Concept: Technology Infographic"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery Vision Concept: Social Seating"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery Vision Concept: Social Seating"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery Vision Concept: Seat Configuration"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery Vision Concept: Seat Configuration"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery Vision Concept: Remote Control Drive"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery Vision Concept: Remote Control Drive"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery Vision Concept: Laser Referencing"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery Vision Concept: Laser Referencing"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery Vision Concept: Laser Lights"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery Vision Concept: Laser Lights"
+    },
+    {
+      "tag": "h5",
+      "text": "15 April 2014"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery Vision Concept: Technology Infographic"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery Vision Concept: Technology Infographic"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "Images (25)",
+    "Phil Popham, Group Marketing Director, Jaguar Land Rover, at the launch of the Discovery Vision Concept.",
+    "George Whitesides, CEO, Virgin Galactic, addresses a crowd at the launch of the Discovery Vision Concept in New York.",
+    "George Whitesides, CEO of Virgin Galactic, with Phil Popham, Group Marketing Director, Jaguar Land Rover",
+    "Dr Ralf Speth, CEO of Jaguar Land Rover, with George Whitesides, CEO of Virgin Galactic, with the SpaceShipTwo Replica.",
+    "Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+    "Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+    "Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+    "Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+    "Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+    "Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+    "An infographic detailing Transparent Bonnet technology.",
+    "An infographic highlighting next‑generation Terrain Response, on the Discovery Vision Concept.",
+    "An infographic detailing the social seating on the Discovery Vision Concept.",
+    "An infographic detailing the seating configuration on the Discovery Vision Concept.",
+    "An infographic detailing the Remote Control Drive functionality of the Discovery Vision Concept.",
+    "An infographic detailing the Laser Referencing on the Discovery Vision Concept.",
+    "An infographic detailing the Laser Lights on the Discovery Vision Concept.",
+    "An infographic detailing Transparent Bonnet technology.",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/discovery/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/discovery/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/discovery/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/discovery/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/discovery/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/discovery/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/discovery/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/discovery/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/discovery/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/discovery/en-gb/contact"
+    },
+    {
+      "label": "Discovery",
+      "href": "https://www.landrover.com/discovery/index.html"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "News",
+      "href": "/discovery/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/discovery/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/discovery/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/discovery/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/discovery/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/discovery/en-gb/tech-specs"
+    },
+    {
+      "label": "Search Discovery",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Fstyles%2Fhero_crop%2Fs3%2Falf%2Fimages%2F2019-06%2Fe6d73f5c-eb35-49e4-9521-e8af96e8cba2%2FLRDVCFront34Location14041401.jpg%3FVersionId%3DZI6yLUzniWD1vol4UyBQfyobkaTLhgcW%26h%3Dff04513c%26itok%3DLMxfmbNk&title=Discovery%20Vision"
+    },
+    {
+      "label": "Images (25)",
+      "href": "#"
+    },
+    {
+      "label": "Refine By",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Format",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "View",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Tags",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "People",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Model Year",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fcc9aa8c7-eef4-4379-a60b-4d4a0127ad1c%2FPhilPophamAnnouncingNewAgeofDiscovery.jpg%3FVersionId%3DjhypHaJqJPVKXcbD2jB.LstwFVqqAcS9&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fcc9aa8c7-eef4-4379-a60b-4d4a0127ad1c%2FPhilPophamAnnouncingNewAgeofDiscovery.jpg%3FVersionId%3DjhypHaJqJPVKXcbD2jB.LstwFVqqAcS9&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F23be69b2-ed18-4ea6-9148-4af4e8899c4a%2FGeorgeWhitesides.jpg%3FVersionId%3DEpm0KS3I0g3gn0YlxCJDhMFd8CbUKJ3n&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F23be69b2-ed18-4ea6-9148-4af4e8899c4a%2FGeorgeWhitesides.jpg%3FVersionId%3DEpm0KS3I0g3gn0YlxCJDhMFd8CbUKJ3n&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fb478ef55-2e21-4b70-ad2f-27d89a28240f%2FDiscoveryVisionConceptReveal020.jpg%3FVersionId%3Dh5_wPbkLrxPvJbhsW1yrDbdM3HVVL_at&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fb478ef55-2e21-4b70-ad2f-27d89a28240f%2FDiscoveryVisionConceptReveal020.jpg%3FVersionId%3Dh5_wPbkLrxPvJbhsW1yrDbdM3HVVL_at&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fefe89c96-c61b-4b61-9293-8c768dd2357d%2FDiscoveryVisionConceptReveal019.jpg%3FVersionId%3DrZxzIQDNM.8AUJoh56tH63GxoIsD_EmH&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fefe89c96-c61b-4b61-9293-8c768dd2357d%2FDiscoveryVisionConceptReveal019.jpg%3FVersionId%3DrZxzIQDNM.8AUJoh56tH63GxoIsD_EmH&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F22cdf9fe-94be-42a5-b343-979f1fb8bbc2%2FDiscoveryVisionConceptReveal016.jpg%3FVersionId%3Dlyi0HfhQkyR7xd8oK.i12IBWbAB6nxVv&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F22cdf9fe-94be-42a5-b343-979f1fb8bbc2%2FDiscoveryVisionConceptReveal016.jpg%3FVersionId%3Dlyi0HfhQkyR7xd8oK.i12IBWbAB6nxVv&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F3d3e05e9-44f9-4d37-a110-b781a8f50ae8%2FDiscoveryVisionConceptReveal010.jpg%3FVersionId%3DmUdghTydjq4NFarPasowzH14uSKdRV4w&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F3d3e05e9-44f9-4d37-a110-b781a8f50ae8%2FDiscoveryVisionConceptReveal010.jpg%3FVersionId%3DmUdghTydjq4NFarPasowzH14uSKdRV4w&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F2d6eb6ff-94e8-4d42-b598-1fdf70b1514d%2FDiscoveryVisionConceptReveal009.jpg%3FVersionId%3Dd0h1iJM.gndvnQhTdsBd94VguznYuCzo&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F2d6eb6ff-94e8-4d42-b598-1fdf70b1514d%2FDiscoveryVisionConceptReveal009.jpg%3FVersionId%3Dd0h1iJM.gndvnQhTdsBd94VguznYuCzo&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F3ce0cb99-6b22-4389-a0be-c17e400c1b65%2FDiscoveryVisionConceptReveal008.jpg%3FVersionId%3DWOXzRLyvNVGNjrfbhArJm2mJSChgnV0q&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F3ce0cb99-6b22-4389-a0be-c17e400c1b65%2FDiscoveryVisionConceptReveal008.jpg%3FVersionId%3DWOXzRLyvNVGNjrfbhArJm2mJSChgnV0q&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F366113e5-24a5-435f-931d-088a7042a7dd%2FDiscoveryVisionConceptReveal004.jpg%3FVersionId%3Dr2bvBdNI4yTDPYKag0nCyijf4m8iq.8v&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F366113e5-24a5-435f-931d-088a7042a7dd%2FDiscoveryVisionConceptReveal004.jpg%3FVersionId%3Dr2bvBdNI4yTDPYKag0nCyijf4m8iq.8v&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fab5bdf0f-740f-4cd2-b173-233f43ae279d%2FDiscoveryVisionConceptReveal003.jpg%3FVersionId%3DWfB37_hqBfFwwUb8h.ZmiZv2r8jxEyLk&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fab5bdf0f-740f-4cd2-b173-233f43ae279d%2FDiscoveryVisionConceptReveal003.jpg%3FVersionId%3DWfB37_hqBfFwwUb8h.ZmiZv2r8jxEyLk&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fc8985d41-71b0-45d3-9010-5fb7a07e3e5a%2FDVCTransparentBonnetDigital.jpg%3FVersionId%3DNO_smRraflX_iUsuPfirfvwunGx3CD6L&title=Discovery%20Vision%20Concept%3A%20Technology%20Infographic"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fc8985d41-71b0-45d3-9010-5fb7a07e3e5a%2FDVCTransparentBonnetDigital.jpg%3FVersionId%3DNO_smRraflX_iUsuPfirfvwunGx3CD6L&title=Discovery%20Vision%20Concept%3A%20Technology%20Infographic"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Faacb3b3c-1707-4909-9490-952e7387bb60%2FDVCTerrainResponseDigital.jpg%3FVersionId%3DaQbY2Qw22m0sEuk9wujn9_KleiFv.8G3&title=Discovery%20Vision%20Concept%3A%20Technology%20Infographic"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Faacb3b3c-1707-4909-9490-952e7387bb60%2FDVCTerrainResponseDigital.jpg%3FVersionId%3DaQbY2Qw22m0sEuk9wujn9_KleiFv.8G3&title=Discovery%20Vision%20Concept%3A%20Technology%20Infographic"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F77c8fd99-8cb0-442b-a2a0-eb113ad3a8de%2FDVCSocialSeatingDigital.jpg%3FVersionId%3DiaZR3t8mdiM4Eg18cAW8NFTF2Lg98giJ&title=Discovery%20Vision%20Concept%3A%20Social%20Seating"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F77c8fd99-8cb0-442b-a2a0-eb113ad3a8de%2FDVCSocialSeatingDigital.jpg%3FVersionId%3DiaZR3t8mdiM4Eg18cAW8NFTF2Lg98giJ&title=Discovery%20Vision%20Concept%3A%20Social%20Seating"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fe20b321f-838c-4b93-8dc3-3331f1a53279%2FDVCSeatConfigDigital.jpg%3FVersionId%3Dq6.3RWl3rVQqTRYKns2Xua34nHjGhohT&title=Discovery%20Vision%20Concept%3A%20Seat%20Configuration"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fe20b321f-838c-4b93-8dc3-3331f1a53279%2FDVCSeatConfigDigital.jpg%3FVersionId%3Dq6.3RWl3rVQqTRYKns2Xua34nHjGhohT&title=Discovery%20Vision%20Concept%3A%20Seat%20Configuration"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fedbce756-992d-4366-8f27-8b6e2e662ae0%2FDVCRemoteControlDriveDigital.jpg%3FVersionId%3DneUOUzzvvZsIsZW5jC04Q.bn8tCB3wbR&title=Discovery%20Vision%20Concept%3A%20Remote%20Control%20Drive"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fedbce756-992d-4366-8f27-8b6e2e662ae0%2FDVCRemoteControlDriveDigital.jpg%3FVersionId%3DneUOUzzvvZsIsZW5jC04Q.bn8tCB3wbR&title=Discovery%20Vision%20Concept%3A%20Remote%20Control%20Drive"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F8e18393d-4112-4ef2-9a92-1bed4727770c%2FDVCLaserReferencingDigital.jpg%3FVersionId%3Dfw3YZktbgLFJZlWhn7XFrNxbv7uHNt8j&title=Discovery%20Vision%20Concept%3A%20Laser%20Referencing"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F8e18393d-4112-4ef2-9a92-1bed4727770c%2FDVCLaserReferencingDigital.jpg%3FVersionId%3Dfw3YZktbgLFJZlWhn7XFrNxbv7uHNt8j&title=Discovery%20Vision%20Concept%3A%20Laser%20Referencing"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fa383289f-149d-4822-8d2e-48ed5d1e7106%2FDVCLaserLightsDigital.jpg%3FVersionId%3Dy6vkYbNUWXfecb9v1VCESOVVCm3ohpWv&title=Discovery%20Vision%20Concept%3A%20Laser%20Lights"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fa383289f-149d-4822-8d2e-48ed5d1e7106%2FDVCLaserLightsDigital.jpg%3FVersionId%3Dy6vkYbNUWXfecb9v1VCESOVVCm3ohpWv&title=Discovery%20Vision%20Concept%3A%20Laser%20Lights"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fca9bf3a9-b938-4d53-9146-2c27eebca487%2FDVCTransparentBonnetDigital.jpg%3FVersionId%3DQHl7L.B3kilesnl.0gKjw_46SAJYNibx&title=Discovery%20Vision%20Concept%3A%20Technology%20Infographic"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept?bundle=image#main-content",
+    "https://media.jlr.com/discovery/zh-cn",
+    "https://media.jlr.com/discovery/fr-fr",
+    "https://media.jlr.com/discovery/de-de",
+    "https://media.jlr.com/discovery/",
+    "https://media.jlr.com/discovery/it-it",
+    "https://media.jlr.com/discovery/en-us",
+    "https://media.jlr.com/discovery/es-es",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/discovery/en-gb/cart",
+    "https://media.jlr.com/discovery/en-gb/contact",
+    "https://media.jlr.com/discovery/en-gb/",
+    "https://www.landrover.com/discovery/index.html",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/discovery/en-gb/terms-and-conditions",
+    "https://media.jlr.com/discovery/en-gb/user-licence",
+    "https://media.jlr.com/discovery/en-gb/cookies",
+    "https://media.jlr.com/discovery/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/discovery/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/discovery/en-gb/news",
+    "https://media.jlr.com/discovery/en-gb/image-packs",
+    "https://media.jlr.com/discovery/en-gb/videos",
+    "https://media.jlr.com/discovery/en-gb/directors",
+    "https://media.jlr.com/discovery/en-gb/press-kit",
+    "https://media.jlr.com/discovery/en-gb/tech-specs",
+    "javascript:void(0)",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-sport",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-4",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Fstyles%2Fhero_crop%2Fs3%2Falf%2Fimages%2F2019-06%2Fe6d73f5c-eb35-49e4-9521-e8af96e8cba2%2FLRDVCFront34Location14041401.jpg%3FVersionId%3DZI6yLUzniWD1vol4UyBQfyobkaTLhgcW%26h%3Dff04513c%26itok%3DLMxfmbNk&title=Discovery%20Vision",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept?bundle=image#",
+    "https://media.production.jlrms.com/alf/images/2019-06/cc9aa8c7-eef4-4379-a60b-4d4a0127ad1c/PhilPophamAnnouncingNewAgeofDiscovery.jpg?VersionId=jhypHaJqJPVKXcbD2jB.LstwFVqqAcS9",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/cc9aa8c7-eef4-4379-a60b-4d4a0127ad1c/PhilPophamAnnouncingNewAgeofDiscovery.jpg?VersionId=cAfh0JQYVHypRvtsjCSSh5UEnkqA4au1&itok=Db_SeukN",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fcc9aa8c7-eef4-4379-a60b-4d4a0127ad1c%2FPhilPophamAnnouncingNewAgeofDiscovery.jpg%3FVersionId%3DjhypHaJqJPVKXcbD2jB.LstwFVqqAcS9&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/23be69b2-ed18-4ea6-9148-4af4e8899c4a/GeorgeWhitesides.jpg?VersionId=Epm0KS3I0g3gn0YlxCJDhMFd8CbUKJ3n",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/23be69b2-ed18-4ea6-9148-4af4e8899c4a/GeorgeWhitesides.jpg?VersionId=U2.ug_MZyVZvs0aNr38Y61UMK7rlyJWl&itok=gCc2dDuz",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F23be69b2-ed18-4ea6-9148-4af4e8899c4a%2FGeorgeWhitesides.jpg%3FVersionId%3DEpm0KS3I0g3gn0YlxCJDhMFd8CbUKJ3n&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/b478ef55-2e21-4b70-ad2f-27d89a28240f/DiscoveryVisionConceptReveal020.jpg?VersionId=h5_wPbkLrxPvJbhsW1yrDbdM3HVVL_at",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/b478ef55-2e21-4b70-ad2f-27d89a28240f/DiscoveryVisionConceptReveal020.jpg?VersionId=t209ndX97sf2jrfW3qJlCS6ni7wvcfsF&itok=KtaM0e_5",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fb478ef55-2e21-4b70-ad2f-27d89a28240f%2FDiscoveryVisionConceptReveal020.jpg%3FVersionId%3Dh5_wPbkLrxPvJbhsW1yrDbdM3HVVL_at&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/efe89c96-c61b-4b61-9293-8c768dd2357d/DiscoveryVisionConceptReveal019.jpg?VersionId=rZxzIQDNM.8AUJoh56tH63GxoIsD_EmH",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/efe89c96-c61b-4b61-9293-8c768dd2357d/DiscoveryVisionConceptReveal019.jpg?VersionId=_mnM_1XhsV3JfS6dOjsXbh4GO6fXD_eQ&itok=UgYxciSg",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fefe89c96-c61b-4b61-9293-8c768dd2357d%2FDiscoveryVisionConceptReveal019.jpg%3FVersionId%3DrZxzIQDNM.8AUJoh56tH63GxoIsD_EmH&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/22cdf9fe-94be-42a5-b343-979f1fb8bbc2/DiscoveryVisionConceptReveal016.jpg?VersionId=lyi0HfhQkyR7xd8oK.i12IBWbAB6nxVv",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/22cdf9fe-94be-42a5-b343-979f1fb8bbc2/DiscoveryVisionConceptReveal016.jpg?VersionId=izC_lgpRH7Qg4YTLdSd7BbgNnxgiqscZ&itok=SH1JAUrx",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F22cdf9fe-94be-42a5-b343-979f1fb8bbc2%2FDiscoveryVisionConceptReveal016.jpg%3FVersionId%3Dlyi0HfhQkyR7xd8oK.i12IBWbAB6nxVv&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/3d3e05e9-44f9-4d37-a110-b781a8f50ae8/DiscoveryVisionConceptReveal010.jpg?VersionId=mUdghTydjq4NFarPasowzH14uSKdRV4w",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/3d3e05e9-44f9-4d37-a110-b781a8f50ae8/DiscoveryVisionConceptReveal010.jpg?VersionId=eC1pzjb1WI9qr5382nWuwWN3FKSJHqMt&itok=x60_FUnp",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F3d3e05e9-44f9-4d37-a110-b781a8f50ae8%2FDiscoveryVisionConceptReveal010.jpg%3FVersionId%3DmUdghTydjq4NFarPasowzH14uSKdRV4w&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/2d6eb6ff-94e8-4d42-b598-1fdf70b1514d/DiscoveryVisionConceptReveal009.jpg?VersionId=d0h1iJM.gndvnQhTdsBd94VguznYuCzo",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/2d6eb6ff-94e8-4d42-b598-1fdf70b1514d/DiscoveryVisionConceptReveal009.jpg?VersionId=B2G57R65rbVlVhOLmzZ0TQoqk8YBb3qg&itok=Tfgitob0",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F2d6eb6ff-94e8-4d42-b598-1fdf70b1514d%2FDiscoveryVisionConceptReveal009.jpg%3FVersionId%3Dd0h1iJM.gndvnQhTdsBd94VguznYuCzo&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/3ce0cb99-6b22-4389-a0be-c17e400c1b65/DiscoveryVisionConceptReveal008.jpg?VersionId=WOXzRLyvNVGNjrfbhArJm2mJSChgnV0q",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/3ce0cb99-6b22-4389-a0be-c17e400c1b65/DiscoveryVisionConceptReveal008.jpg?VersionId=X1VCK.E0l.humz9XmRFIwh3woT21T457&itok=sDog18qZ",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F3ce0cb99-6b22-4389-a0be-c17e400c1b65%2FDiscoveryVisionConceptReveal008.jpg%3FVersionId%3DWOXzRLyvNVGNjrfbhArJm2mJSChgnV0q&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/366113e5-24a5-435f-931d-088a7042a7dd/DiscoveryVisionConceptReveal004.jpg?VersionId=r2bvBdNI4yTDPYKag0nCyijf4m8iq.8v",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/366113e5-24a5-435f-931d-088a7042a7dd/DiscoveryVisionConceptReveal004.jpg?VersionId=pBfxQVwk90IkTjvykdQ39vgsbrR3WNjD&itok=T-ko9G19",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F366113e5-24a5-435f-931d-088a7042a7dd%2FDiscoveryVisionConceptReveal004.jpg%3FVersionId%3Dr2bvBdNI4yTDPYKag0nCyijf4m8iq.8v&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/ab5bdf0f-740f-4cd2-b173-233f43ae279d/DiscoveryVisionConceptReveal003.jpg?VersionId=WfB37_hqBfFwwUb8h.ZmiZv2r8jxEyLk",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/ab5bdf0f-740f-4cd2-b173-233f43ae279d/DiscoveryVisionConceptReveal003.jpg?VersionId=ySLM.uiDpoBbK9RhSoamvMCygFjCdI6s&itok=gOkjfdTn",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fab5bdf0f-740f-4cd2-b173-233f43ae279d%2FDiscoveryVisionConceptReveal003.jpg%3FVersionId%3DWfB37_hqBfFwwUb8h.ZmiZv2r8jxEyLk&title=Land%20Rover%20Announces%20Discovery%20Vision%20Concept",
+    "https://media.production.jlrms.com/alf/images/2019-06/c8985d41-71b0-45d3-9010-5fb7a07e3e5a/DVCTransparentBonnetDigital.jpg?VersionId=NO_smRraflX_iUsuPfirfvwunGx3CD6L",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/c8985d41-71b0-45d3-9010-5fb7a07e3e5a/DVCTransparentBonnetDigital.jpg?VersionId=dDVgwfWctZvZn6qolubVtHJbvyjvukev&itok=6craLshb",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fc8985d41-71b0-45d3-9010-5fb7a07e3e5a%2FDVCTransparentBonnetDigital.jpg%3FVersionId%3DNO_smRraflX_iUsuPfirfvwunGx3CD6L&title=Discovery%20Vision%20Concept%3A%20Technology%20Infographic",
+    "https://media.production.jlrms.com/alf/images/2019-06/aacb3b3c-1707-4909-9490-952e7387bb60/DVCTerrainResponseDigital.jpg?VersionId=aQbY2Qw22m0sEuk9wujn9_KleiFv.8G3",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/aacb3b3c-1707-4909-9490-952e7387bb60/DVCTerrainResponseDigital.jpg?VersionId=Yq0gfmigDvxqWisHAFSm3iETDHb0kZed&itok=M8wR6_JC",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Faacb3b3c-1707-4909-9490-952e7387bb60%2FDVCTerrainResponseDigital.jpg%3FVersionId%3DaQbY2Qw22m0sEuk9wujn9_KleiFv.8G3&title=Discovery%20Vision%20Concept%3A%20Technology%20Infographic",
+    "https://media.production.jlrms.com/alf/images/2019-06/77c8fd99-8cb0-442b-a2a0-eb113ad3a8de/DVCSocialSeatingDigital.jpg?VersionId=iaZR3t8mdiM4Eg18cAW8NFTF2Lg98giJ",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/77c8fd99-8cb0-442b-a2a0-eb113ad3a8de/DVCSocialSeatingDigital.jpg?VersionId=.qL9NN9Mv_EMD2YiDME3Bw73ZrN661.n&itok=0chLC9pj",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F77c8fd99-8cb0-442b-a2a0-eb113ad3a8de%2FDVCSocialSeatingDigital.jpg%3FVersionId%3DiaZR3t8mdiM4Eg18cAW8NFTF2Lg98giJ&title=Discovery%20Vision%20Concept%3A%20Social%20Seating",
+    "https://media.production.jlrms.com/alf/images/2019-06/e20b321f-838c-4b93-8dc3-3331f1a53279/DVCSeatConfigDigital.jpg?VersionId=q6.3RWl3rVQqTRYKns2Xua34nHjGhohT",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/e20b321f-838c-4b93-8dc3-3331f1a53279/DVCSeatConfigDigital.jpg?VersionId=MLp_sb25JR5dmkeL3Za9D7iUlbBIfj5A&itok=woB0zRij",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fe20b321f-838c-4b93-8dc3-3331f1a53279%2FDVCSeatConfigDigital.jpg%3FVersionId%3Dq6.3RWl3rVQqTRYKns2Xua34nHjGhohT&title=Discovery%20Vision%20Concept%3A%20Seat%20Configuration",
+    "https://media.production.jlrms.com/alf/images/2019-06/edbce756-992d-4366-8f27-8b6e2e662ae0/DVCRemoteControlDriveDigital.jpg?VersionId=neUOUzzvvZsIsZW5jC04Q.bn8tCB3wbR",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/edbce756-992d-4366-8f27-8b6e2e662ae0/DVCRemoteControlDriveDigital.jpg?VersionId=bYNyrxk62leuOe.XUhTMCwjEK.zWoW3V&itok=NCLAk8Au",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fedbce756-992d-4366-8f27-8b6e2e662ae0%2FDVCRemoteControlDriveDigital.jpg%3FVersionId%3DneUOUzzvvZsIsZW5jC04Q.bn8tCB3wbR&title=Discovery%20Vision%20Concept%3A%20Remote%20Control%20Drive",
+    "https://media.production.jlrms.com/alf/images/2019-06/8e18393d-4112-4ef2-9a92-1bed4727770c/DVCLaserReferencingDigital.jpg?VersionId=fw3YZktbgLFJZlWhn7XFrNxbv7uHNt8j",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/8e18393d-4112-4ef2-9a92-1bed4727770c/DVCLaserReferencingDigital.jpg?VersionId=YHu_mYNqN3Tvg1e025DTQF5yf96D4Cvc&itok=s1gZUdb3",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2F8e18393d-4112-4ef2-9a92-1bed4727770c%2FDVCLaserReferencingDigital.jpg%3FVersionId%3Dfw3YZktbgLFJZlWhn7XFrNxbv7uHNt8j&title=Discovery%20Vision%20Concept%3A%20Laser%20Referencing",
+    "https://media.production.jlrms.com/alf/images/2019-06/a383289f-149d-4822-8d2e-48ed5d1e7106/DVCLaserLightsDigital.jpg?VersionId=y6vkYbNUWXfecb9v1VCESOVVCm3ohpWv",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/a383289f-149d-4822-8d2e-48ed5d1e7106/DVCLaserLightsDigital.jpg?VersionId=6DMlNRxDu4VUdmo20OIystXJWaJjF2C4&itok=0i4HO4gD",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fa383289f-149d-4822-8d2e-48ed5d1e7106%2FDVCLaserLightsDigital.jpg%3FVersionId%3Dy6vkYbNUWXfecb9v1VCESOVVCm3ohpWv&title=Discovery%20Vision%20Concept%3A%20Laser%20Lights",
+    "https://media.production.jlrms.com/alf/images/2019-06/ca9bf3a9-b938-4d53-9146-2c27eebca487/DVCTransparentBonnetDigital.jpg?VersionId=QHl7L.B3kilesnl.0gKjw_46SAJYNibx",
+    "https://media.production.jlrms.com/styles/low_res/s3/alf/images/2019-06/ca9bf3a9-b938-4d53-9146-2c27eebca487/DVCTransparentBonnetDigital.jpg?VersionId=lRmvvICHGkGy85KoTqGf3jL4ukKMi0VQ&itok=V1wZowkU",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Falf%2Fimages%2F2019-06%2Fca9bf3a9-b938-4d53-9146-2c27eebca487%2FDVCTransparentBonnetDigital.jpg%3FVersionId%3DQHl7L.B3kilesnl.0gKjw_46SAJYNibx&title=Discovery%20Vision%20Concept%3A%20Technology%20Infographic",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/landroverdiscovery/",
+    "https://www.youtube.com/@landroverdiscovery",
+    "https://www.facebook.com/LandRoverDiscovery",
+    "https://x.com/LandRover",
+    "https://uk.linkedin.com/showcase/landroverdiscovery/",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept?bundle=image#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/discovery-logo-dark.svg",
+        "alt": "Discovery logo",
+        "w": 169,
+        "h": 12
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2020-11/New_Discovery_V2.jpg?VersionId=xt2t01p_xpBfNOZ4qO9fi5_h7NpUoHZv&h=05abcc49&itok=uZOp4DoD",
+        "alt": "Discovery",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-06/Discovery-Sport-Thumb.jpg?VersionId=fHBZTomC7l2hICRXfj_VVdLufP.GyYpP&h=05abcc49&itok=19RyO1r9",
+        "alt": "Discovery Sport",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery%20Vision%20Concept.jpg?VersionId=LxyHR6mdtC237_ogFOkOn48fnBhJqfjC&h=05abcc49&itok=iOBZ781U",
+        "alt": "Discovery Vision Concept",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery.jpg?VersionId=idE85EC4N8qlgBPndqMPIj8k3mMu5Gf1&h=05abcc49&itok=0smOB2cA",
+        "alt": "Discovery 4",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/alf/images/2019-06/e6d73f5c-eb35-49e4-9521-e8af96e8cba2/LRDVCFront34Location14041401.jpg?VersionId=ZI6yLUzniWD1vol4UyBQfyobkaTLhgcW&h=ff04513c&itok=LMxfmbNk",
+        "alt": "",
+        "w": 1200,
+        "h": 450
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/alf/images/2019-06/e6d73f5c-eb35-49e4-9521-e8af96e8cba2/LRDVCFront34Location14041401.jpg?VersionId=ZI6yLUzniWD1vol4UyBQfyobkaTLhgcW&h=ff04513c&itok=LMxfmbNk",
+        "alt": "",
+        "w": 1200,
+        "h": 450
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/alf/images/2019-06/d248c909-ab98-4b86-b11a-f47e4473242e/LRDVCInteriorSkyLightOn14041414.jpg?VersionId=3uf_t6D93VQnaZEtamAHbjYF0.a4PTln&h=eec9af9f&itok=TT5-CyVl",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/alf/images/2019-06/f5d3731b-3b5a-42f4-ba2f-db3de9bad8ea/LRDVCRear34Location14041402.jpg?VersionId=1ZA83qBtOW6G5nUdJV4sAwcmlB9NlOGa&h=afd400ac&itok=gGzHumz6",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/cc9aa8c7-eef4-4379-a60b-4d4a0127ad1c/PhilPophamAnnouncingNewAgeofDiscovery.jpg?VersionId=V_3cs4kwrLqwtDjwMHb5AQ_dmVFWG9uX&h=6c3a9848&itok=88gnwwzt",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/23be69b2-ed18-4ea6-9148-4af4e8899c4a/GeorgeWhitesides.jpg?VersionId=3mDf5.dEWDeS3K2Kj9dCBmRfrIt7p9k2&h=a8999831&itok=vLw5fe0E",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/b478ef55-2e21-4b70-ad2f-27d89a28240f/DiscoveryVisionConceptReveal020.jpg?VersionId=J0onjIoG0cB8adiPo8yV8vQnyqocWSGv&h=a8999831&itok=hwkM9u0O",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/efe89c96-c61b-4b61-9293-8c768dd2357d/DiscoveryVisionConceptReveal019.jpg?VersionId=9LwehOb.5TcQgCBHYUv757ShVrZh_DCO&h=a8999831&itok=8hsDa63x",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/22cdf9fe-94be-42a5-b343-979f1fb8bbc2/DiscoveryVisionConceptReveal016.jpg?VersionId=5eqXU5BWBW5pDuuCQeZScfdF1eu4xP7P&h=a8999831&itok=pasI9Mu4",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/3d3e05e9-44f9-4d37-a110-b781a8f50ae8/DiscoveryVisionConceptReveal010.jpg?VersionId=z0cLW1WP9z8QR6xqwSXOMRhS.vATZO9T&h=a8999831&itok=ZB9mhNJW",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/2d6eb6ff-94e8-4d42-b598-1fdf70b1514d/DiscoveryVisionConceptReveal009.jpg?VersionId=kQj1.ALmkqUhDQFoRfmWulGQcXtPfWij&h=a8999831&itok=1lPnv5FV",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/3ce0cb99-6b22-4389-a0be-c17e400c1b65/DiscoveryVisionConceptReveal008.jpg?VersionId=YB3p1jOVsd2HlOK48ZtRj4NY6dKHLdbc&h=a8999831&itok=xTXL8-DV",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/366113e5-24a5-435f-931d-088a7042a7dd/DiscoveryVisionConceptReveal004.jpg?VersionId=H2jkYw1kimgaa5vh6rdFvXk_ckZREmjq&h=a8999831&itok=ySDxLiJK",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/ab5bdf0f-740f-4cd2-b173-233f43ae279d/DiscoveryVisionConceptReveal003.jpg?VersionId=HyjnZ_nP1__Tzl5VCa_XGJGaVBS3ZqZs&h=a8999831&itok=77PSnUVS",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/c8985d41-71b0-45d3-9010-5fb7a07e3e5a/DVCTransparentBonnetDigital.jpg?VersionId=2vIye6AqBfustttmfzEmeRjhXFMBCGUh&h=fa9538f4&itok=s8-YYsMi",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/aacb3b3c-1707-4909-9490-952e7387bb60/DVCTerrainResponseDigital.jpg?VersionId=_scYPedXUKmxmvDiz8zneWyLmg2i8A8.&h=fa9538f4&itok=34DybFWa",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/77c8fd99-8cb0-442b-a2a0-eb113ad3a8de/DVCSocialSeatingDigital.jpg?VersionId=E8ejE_THxinwszaT5Pkp_dy04R.S8hyu&h=fa9538f4&itok=5VuzfCg2",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/e20b321f-838c-4b93-8dc3-3331f1a53279/DVCSeatConfigDigital.jpg?VersionId=aa9zuJ_Two3_dlwTyWMuswh5dZOaxLQx&h=fa9538f4&itok=zjKt0_Ui",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/edbce756-992d-4366-8f27-8b6e2e662ae0/DVCRemoteControlDriveDigital.jpg?VersionId=8NFWfFX8aCauXpARH5c1I9HTpwtQr3es&h=fa9538f4&itok=FRvTvYEM",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/8e18393d-4112-4ef2-9a92-1bed4727770c/DVCLaserReferencingDigital.jpg?VersionId=njPyODQy1huJTX4rA_4lY4Vn7nxCHWVS&h=fa9538f4&itok=JOiK2bVg",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/a383289f-149d-4822-8d2e-48ed5d1e7106/DVCLaserLightsDigital.jpg?VersionId=MVGm3.ghXlMAnPDJB93ua_lU_Wiugc4u&h=fa9538f4&itok=tjWt3gWY",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/ca9bf3a9-b938-4d53-9146-2c27eebca487/DVCTransparentBonnetDigital.jpg?VersionId=E5rXxJWu_r8UqV4zSJEZWe06Md_lMVvI&h=fa9538f4&itok=FtK66FSL",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 37,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE Phil Popham, Group Marketing Director, Jaguar Land Rover, at the launch of the Discovery Vision Concept.",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE George Whitesides, CEO, Virgin Galactic, addresses a crowd at the launch of the Discovery Vision Concept in New York.",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE George Whitesides, CEO of Virgin Galactic, with Phil Popham, Group Marketing Director, Jaguar Land Rover",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE Dr Ralf Speth, CEO of Jaguar Land Rover, with George Whitesides, CEO of Virgin Galactic, with the SpaceShipTwo Replica.",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum.",
+      "Land Rover Announces Discovery Vision Concept Download options High Resolution Low Resolution SHARE Discovery Vision Concept, revealed ahead of New York Auto Show 2014 aboard the Intrepid Sea, Air and Space Museum."
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "206px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 14,
+    "mainTextLen": 8763,
+    "realImageCount": 37,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/discovery/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/discovery/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "media.jlr.com",
+        "path": "/discovery/en-gb/api/facet-data",
+        "query": [
+          "bundle",
+          "bundleFacets",
+          "facets",
+          "isvehicle",
+          "json",
+          "vehicle"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://media.jlr.com/discovery/en-gb/api/facet-data",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c6e82ceb34f46",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891318~acl=%2F{uuid}%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/{uuid}/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891318~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891318~acl=%2F{uuid}%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/{uuid}/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891318~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891318~acl=%2F{uuid}%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/{uuid}/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891318~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/Tf3GveoP",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/Tf3GveoP",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891318~acl=%2F{uuid}%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/{uuid}/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891318~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891318~acl=%2F{uuid}%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/{uuid}/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891318~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891318~acl=%2F{uuid}%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/{uuid}/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891318~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891318~acl=%2F{uuid}%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/{uuid}/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891318~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718%2F%2A~hmac=cb967f1ffb58164382d1592c719ce91f1a96a5bd0e8bc69aecd0f430c9bb6342/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=4738e813dd8b3a2aac1acaffa09f662c3706d1db1793887718/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 4
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1968,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 10,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/discovery-en-gb-vehicle-discovery-vision-concept.png",
+  "renderedHtml": "pages/discovery-en-gb-vehicle-discovery-vision-concept.html",
+  "type": "vehicle-detail",
+  "typeFamily": "listing",
+  "typeBasis": "body.path-vehicle + .vehicle-page",
+  "site": "discovery",
+  "slots": {
+    "index-headline": "Discovery Vision",
+    "result-count": "25 Results",
+    "filter-controls": {
+      "groups": [
+        "Format",
+        "View",
+        "Tags",
+        "People",
+        "Model Year"
+      ],
+      "options": 8,
+      "refineButton": true
+    },
+    "pager": true,
+    "card-grid": [
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/cc9aa8c7-eef4-4379-a60b-4d4a0127ad1c/PhilPophamAnnouncingNewAgeofDiscovery.jpg?VersionId=V_3cs4kwrLqwtDjwMHb5AQ_dmVFWG9uX&h=6c3a9848&itok=88gnwwzt",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/cc9aa8c7-eef4-4379-a60b-4d4a0127ad1c/PhilPophamAnnouncingNewAgeofDiscovery.jpg?VersionId=jhypHaJqJPVKXcbD2jB.LstwFVqqAcS9",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/23be69b2-ed18-4ea6-9148-4af4e8899c4a/GeorgeWhitesides.jpg?VersionId=3mDf5.dEWDeS3K2Kj9dCBmRfrIt7p9k2&h=a8999831&itok=vLw5fe0E",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/23be69b2-ed18-4ea6-9148-4af4e8899c4a/GeorgeWhitesides.jpg?VersionId=Epm0KS3I0g3gn0YlxCJDhMFd8CbUKJ3n",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/b478ef55-2e21-4b70-ad2f-27d89a28240f/DiscoveryVisionConceptReveal020.jpg?VersionId=J0onjIoG0cB8adiPo8yV8vQnyqocWSGv&h=a8999831&itok=hwkM9u0O",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/b478ef55-2e21-4b70-ad2f-27d89a28240f/DiscoveryVisionConceptReveal020.jpg?VersionId=h5_wPbkLrxPvJbhsW1yrDbdM3HVVL_at",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/efe89c96-c61b-4b61-9293-8c768dd2357d/DiscoveryVisionConceptReveal019.jpg?VersionId=9LwehOb.5TcQgCBHYUv757ShVrZh_DCO&h=a8999831&itok=8hsDa63x",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/efe89c96-c61b-4b61-9293-8c768dd2357d/DiscoveryVisionConceptReveal019.jpg?VersionId=rZxzIQDNM.8AUJoh56tH63GxoIsD_EmH",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/22cdf9fe-94be-42a5-b343-979f1fb8bbc2/DiscoveryVisionConceptReveal016.jpg?VersionId=5eqXU5BWBW5pDuuCQeZScfdF1eu4xP7P&h=a8999831&itok=pasI9Mu4",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/22cdf9fe-94be-42a5-b343-979f1fb8bbc2/DiscoveryVisionConceptReveal016.jpg?VersionId=lyi0HfhQkyR7xd8oK.i12IBWbAB6nxVv",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/3d3e05e9-44f9-4d37-a110-b781a8f50ae8/DiscoveryVisionConceptReveal010.jpg?VersionId=z0cLW1WP9z8QR6xqwSXOMRhS.vATZO9T&h=a8999831&itok=ZB9mhNJW",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/3d3e05e9-44f9-4d37-a110-b781a8f50ae8/DiscoveryVisionConceptReveal010.jpg?VersionId=mUdghTydjq4NFarPasowzH14uSKdRV4w",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/2d6eb6ff-94e8-4d42-b598-1fdf70b1514d/DiscoveryVisionConceptReveal009.jpg?VersionId=kQj1.ALmkqUhDQFoRfmWulGQcXtPfWij&h=a8999831&itok=1lPnv5FV",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/2d6eb6ff-94e8-4d42-b598-1fdf70b1514d/DiscoveryVisionConceptReveal009.jpg?VersionId=d0h1iJM.gndvnQhTdsBd94VguznYuCzo",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/3ce0cb99-6b22-4389-a0be-c17e400c1b65/DiscoveryVisionConceptReveal008.jpg?VersionId=YB3p1jOVsd2HlOK48ZtRj4NY6dKHLdbc&h=a8999831&itok=xTXL8-DV",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/3ce0cb99-6b22-4389-a0be-c17e400c1b65/DiscoveryVisionConceptReveal008.jpg?VersionId=WOXzRLyvNVGNjrfbhArJm2mJSChgnV0q",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/366113e5-24a5-435f-931d-088a7042a7dd/DiscoveryVisionConceptReveal004.jpg?VersionId=H2jkYw1kimgaa5vh6rdFvXk_ckZREmjq&h=a8999831&itok=ySDxLiJK",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/366113e5-24a5-435f-931d-088a7042a7dd/DiscoveryVisionConceptReveal004.jpg?VersionId=r2bvBdNI4yTDPYKag0nCyijf4m8iq.8v",
+        "download": null
+      },
+      {
+        "title": "Land Rover Announces Discovery Vision Concept",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/ab5bdf0f-740f-4cd2-b173-233f43ae279d/DiscoveryVisionConceptReveal003.jpg?VersionId=HyjnZ_nP1__Tzl5VCa_XGJGaVBS3ZqZs&h=a8999831&itok=77PSnUVS",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/ab5bdf0f-740f-4cd2-b173-233f43ae279d/DiscoveryVisionConceptReveal003.jpg?VersionId=WfB37_hqBfFwwUb8h.ZmiZv2r8jxEyLk",
+        "download": null
+      },
+      {
+        "title": "Discovery Vision Concept: Technology Infographic",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/c8985d41-71b0-45d3-9010-5fb7a07e3e5a/DVCTransparentBonnetDigital.jpg?VersionId=2vIye6AqBfustttmfzEmeRjhXFMBCGUh&h=fa9538f4&itok=s8-YYsMi",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/c8985d41-71b0-45d3-9010-5fb7a07e3e5a/DVCTransparentBonnetDigital.jpg?VersionId=NO_smRraflX_iUsuPfirfvwunGx3CD6L",
+        "download": null
+      },
+      {
+        "title": "Discovery Vision Concept: Technology Infographic",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/aacb3b3c-1707-4909-9490-952e7387bb60/DVCTerrainResponseDigital.jpg?VersionId=_scYPedXUKmxmvDiz8zneWyLmg2i8A8.&h=fa9538f4&itok=34DybFWa",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/aacb3b3c-1707-4909-9490-952e7387bb60/DVCTerrainResponseDigital.jpg?VersionId=aQbY2Qw22m0sEuk9wujn9_KleiFv.8G3",
+        "download": null
+      },
+      {
+        "title": "Discovery Vision Concept: Social Seating",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/77c8fd99-8cb0-442b-a2a0-eb113ad3a8de/DVCSocialSeatingDigital.jpg?VersionId=E8ejE_THxinwszaT5Pkp_dy04R.S8hyu&h=fa9538f4&itok=5VuzfCg2",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "Discovery Vision Concept: Seat Configuration",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/e20b321f-838c-4b93-8dc3-3331f1a53279/DVCSeatConfigDigital.jpg?VersionId=aa9zuJ_Two3_dlwTyWMuswh5dZOaxLQx&h=fa9538f4&itok=zjKt0_Ui",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/e20b321f-838c-4b93-8dc3-3331f1a53279/DVCSeatConfigDigital.jpg?VersionId=q6.3RWl3rVQqTRYKns2Xua34nHjGhohT",
+        "download": null
+      },
+      {
+        "title": "Discovery Vision Concept: Remote Control Drive",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/edbce756-992d-4366-8f27-8b6e2e662ae0/DVCRemoteControlDriveDigital.jpg?VersionId=8NFWfFX8aCauXpARH5c1I9HTpwtQr3es&h=fa9538f4&itok=FRvTvYEM",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/edbce756-992d-4366-8f27-8b6e2e662ae0/DVCRemoteControlDriveDigital.jpg?VersionId=neUOUzzvvZsIsZW5jC04Q.bn8tCB3wbR",
+        "download": null
+      },
+      {
+        "title": "Discovery Vision Concept: Laser Referencing",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/8e18393d-4112-4ef2-9a92-1bed4727770c/DVCLaserReferencingDigital.jpg?VersionId=njPyODQy1huJTX4rA_4lY4Vn7nxCHWVS&h=fa9538f4&itok=JOiK2bVg",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/8e18393d-4112-4ef2-9a92-1bed4727770c/DVCLaserReferencingDigital.jpg?VersionId=fw3YZktbgLFJZlWhn7XFrNxbv7uHNt8j",
+        "download": null
+      },
+      {
+        "title": "Discovery Vision Concept: Laser Lights",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/a383289f-149d-4822-8d2e-48ed5d1e7106/DVCLaserLightsDigital.jpg?VersionId=MVGm3.ghXlMAnPDJB93ua_lU_Wiugc4u&h=fa9538f4&itok=tjWt3gWY",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/a383289f-149d-4822-8d2e-48ed5d1e7106/DVCLaserLightsDigital.jpg?VersionId=y6vkYbNUWXfecb9v1VCESOVVCm3ohpWv",
+        "download": null
+      },
+      {
+        "title": "Discovery Vision Concept: Technology Infographic",
+        "date": "15 April 2014",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/ca9bf3a9-b938-4d53-9146-2c27eebca487/DVCTransparentBonnetDigital.jpg?VersionId=E5rXxJWu_r8UqV4zSJEZWe06Md_lMVvI&h=fa9538f4&itok=FtK66FSL",
+        "href": "https://media.production.jlrms.com/alf/images/2019-06/ca9bf3a9-b938-4d53-9146-2c27eebca487/DVCTransparentBonnetDigital.jpg?VersionId=QHl7L.B3kilesnl.0gKjw_46SAJYNibx",
+        "download": null
+      }
+    ],
+    "hero": null,
+    "vehicle-name": "Discovery Vision",
+    "vehicle-hero": {
+      "image": "https://media.production.jlrms.com/styles/hero_crop/s3/alf/images/2019-06/e6d73f5c-eb35-49e4-9521-e8af96e8cba2/LRDVCFront34Location14041401.jpg?VersionId=ZI6yLUzniWD1vol4UyBQfyobkaTLhgcW&h=ff04513c&itok=LMxfmbNk",
+      "intro": []
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar/en-gb",
+  "path": "jaguar/en-gb",
+  "timestamp": "2026-11-06T09:09:38.082Z",
+  "title": "New Jaguar 2024 Brand",
+  "template": "brand-landing",
+  "blocks": [
+    "carousel-featured-news",
+    "carousel-featured-news",
+    "social-links",
+    "social-links"
+  ]
+}

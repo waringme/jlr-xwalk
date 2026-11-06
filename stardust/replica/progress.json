@@ -1,0 +1,1031 @@
+{
+ "site": "https://media.jlr.com/en-gb",
+ "breakpoints": [
+  1440,
+  360
+ ],
+ "fonts": {
+  "NeusaNeu-Light": {
+   "substitute": "Urbanist",
+   "file": "stardust/prototypes/canon/fonts/Urbanist-latin.woff2",
+   "weight": 400
+  },
+  "NeusaNeu-Regular": {
+   "substitute": "Urbanist",
+   "file": "stardust/prototypes/canon/fonts/Urbanist-latin.woff2",
+   "weight": 520
+  },
+  "NeusaNeu-Medium": {
+   "substitute": "Urbanist",
+   "file": "stardust/prototypes/canon/fonts/Urbanist-latin.woff2",
+   "weight": 620
+  },
+  "NeusaNeu-Bold": {
+   "substitute": "Urbanist",
+   "file": "stardust/prototypes/canon/fonts/Urbanist-latin.woff2",
+   "weight": 700
+  },
+  "NeusaNeu-WideBold": {
+   "substitute": "Golos Text",
+   "file": "stardust/prototypes/canon/fonts/GolosText-latin.woff2",
+   "weight": 700
+  },
+  "JLREmeric-Regular": {
+   "substitute": "Hanken Grotesk",
+   "file": "stardust/prototypes/canon/fonts/HankenGrotesk-latin.woff2",
+   "weight": 400
+  },
+  "jlr_emeric_extralight": {
+   "substitute": "Hanken Grotesk",
+   "file": "stardust/prototypes/canon/fonts/HankenGrotesk-latin.woff2",
+   "weight": 300
+  },
+  "jlr_emeric_semibold": {
+   "substitute": "Hanken Grotesk",
+   "file": "stardust/prototypes/canon/fonts/HankenGrotesk-latin.woff2",
+   "weight": 600
+  },
+  "HelveticaNowText-Light": {
+   "substitute": "Public Sans",
+   "file": "stardust/prototypes/canon/fonts/PublicSans-latin.woff2",
+   "weight": 400
+  },
+  "HelveticaNowText-Regular": {
+   "substitute": "Public Sans",
+   "file": "stardust/prototypes/canon/fonts/PublicSans-latin.woff2",
+   "weight": 500
+  },
+  "HelveticaNowText-Medium": {
+   "substitute": "Public Sans",
+   "file": "stardust/prototypes/canon/fonts/PublicSans-latin.woff2",
+   "weight": 600
+  },
+  "AvenirNext-Regular": {
+   "substitute": "Nunito Sans",
+   "file": "stardust/prototypes/canon/fonts/NunitoSans-latin.woff2",
+   "weight": 400
+  },
+  "AvenirRegular": {
+   "substitute": "Nunito Sans",
+   "file": "stardust/prototypes/canon/fonts/NunitoSans-latin.woff2",
+   "weight": 400
+  },
+  "AvenirMedium": {
+   "substitute": "Nunito Sans",
+   "file": "stardust/prototypes/canon/fonts/NunitoSans-latin.woff2",
+   "weight": 500
+  },
+  "AvenirDemi": {
+   "substitute": "Nunito Sans",
+   "file": "stardust/prototypes/canon/fonts/NunitoSans-latin.woff2",
+   "weight": 600
+  },
+  "AvenirBold": {
+   "substitute": "Nunito Sans",
+   "file": "stardust/prototypes/canon/fonts/NunitoSans-latin.woff2",
+   "weight": 700
+  },
+  "LandRoverWeb-Light": {
+   "substitute": "Urbanist",
+   "file": "stardust/prototypes/canon/fonts/Urbanist-latin.woff2",
+   "weight": 400
+  },
+  "LandRoverWeb-Medium": {
+   "substitute": "Urbanist",
+   "file": "stardust/prototypes/canon/fonts/Urbanist-latin.woff2",
+   "weight": 600
+  },
+  "LandRoverWeb-Demi": {
+   "substitute": "Urbanist",
+   "file": "stardust/prototypes/canon/fonts/Urbanist-latin.woff2",
+   "weight": 600
+  },
+  "LandRoverWeb-Bold": {
+   "substitute": "Urbanist",
+   "file": "stardust/prototypes/canon/fonts/Urbanist-latin.woff2",
+   "weight": 700
+  },
+  "JaguarExuberantLight": {
+   "substitute": "Wix Madefor Text",
+   "file": "stardust/prototypes/canon/fonts/WixMadeforText-400-latin.woff2",
+   "weight": 400
+  },
+  "JaguarExuberantRegular": {
+   "substitute": "Wix Madefor Text",
+   "file": "stardust/prototypes/canon/fonts/WixMadeforText-500-latin.woff2",
+   "weight": 500
+  },
+  "JaguarExuberantBold": {
+   "substitute": "Wix Madefor Text",
+   "file": "stardust/prototypes/canon/fonts/WixMadeforText-700-latin.woff2",
+   "weight": 700
+  },
+  "JaguarModernWeb-Bold": {
+   "substitute": "Montserrat",
+   "file": "stardust/prototypes/canon/fonts/Montserrat-latin.woff2",
+   "weight": 700
+  },
+  "ProximaNova-Regular": {
+   "substitute": "Outfit",
+   "file": "stardust/prototypes/canon/fonts/Outfit-latin.woff2",
+   "weight": 400
+  },
+  "ProximaNova-SemiBold": {
+   "substitute": "Hanken Grotesk",
+   "file": "stardust/prototypes/canon/fonts/HankenGrotesk-latin.woff2",
+   "weight": 700
+  },
+  "ProximaNova-Bold": {
+   "substitute": "Figtree",
+   "file": "stardust/prototypes/canon/fonts/Figtree-latin.woff2",
+   "weight": 600
+  },
+  "_policy": "SUBSTITUTE: brand family first in every stack, \"<Brand> Sub\" @font-face (OFL, latin subset) second; mapping by measured cap/x-height/advance (stardust/.work/defender/font-metrics.json); expected permanent residual",
+  "_decidedBy": "canon defender-en-gb (stardust/prototypes/canon/tokens.css)"
+ },
+ "types": {
+  "brand-landing": {
+   "archetype": true,
+   "slug": "defender-en-gb",
+   "liveUrl": "https://media.jlr.com/defender/en-gb",
+   "prototype": "stardust/prototypes/defender-en-gb-proposed.html",
+   "iterations": {
+    "360": 3,
+    "1440": 3
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 11.58,
+     "heightDelta": -21,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0,
+     "overflow": "ok",
+     "round": "iter3c",
+     "verdict": "FAIL pixel (justified residual: substitute-font wrap fork; iteration cap reached)",
+     "hotBands": [
+      "2500-3000 26.3%",
+      "3000-3500 21.5%",
+      "3500-4000 20.0%",
+      "4500-5000 15.2%",
+      "6000-6097 19.9%"
+     ],
+     "chromeParity": "footer = uniform Δy −21 offset only (from main residual); header Δx/Δw = substitute-font width forks (justified)"
+    },
+    "1440": {
+     "pixelPct": 1.48,
+     "heightDelta": 1,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0,
+     "overflow": "ok",
+     "round": "iter3c",
+     "verdict": "PASS",
+     "hotBands": [],
+     "chromeParity": "footer ✓; header Δx/Δw = substitute-font width forks (justified)"
+    }
+   },
+   "residuals": [
+    {
+     "width": "360",
+     "band": "y 2500–5000, 6000–6097",
+     "pct": 11.58,
+     "heightDelta": -21,
+     "cause": "substitute-font wrap fork: .new-card__title t2 wraps 2 lines vs live 3 (Urbanist sub for NeusaNeu-Regular; no uniform tweak reaches it) → cumulative −21 px offset below news grid",
+     "permanent": true,
+     "expected": true,
+     "flaggedFor": "user",
+     "why": "justified by the user's font-substitution decision"
+    }
+   ],
+   "motion": {
+    "observed": [
+     "header scroll-morph: #main-nav .shrink + .bottom-shadow above 150 px (nav-link margin 0.3s, navbar top 0.5s/0.3s)",
+     "JLR MEDIA burger: fullscreen overlay .is-open + scroll lock (1440 and 360)",
+     "market switcher: .navigation-tools__switcher--active (bg 0.3s, list max-height 0.3s, market-switcher-chevron-bounce)",
+     "Vehicles mega menu: .mega-menu.open + li.open, fadeIn .3s ease-out / slideDown .5s ease",
+     "Search Defender: .menu-search-expandable--open + __input--open (width .3s), input focus border-color .15s",
+     "hero carousel: dot click goTo + autoplay 5 s timer (slick fade 500 ms linear; slick-current/slick-active)"
+    ],
+    "implemented": [
+     "canon/chrome.js: shrink/bottom-shadow scroll state (pre-existing), burger overlay toggle + close + body overflow lock, market switcher toggle, Vehicles mega toggle, search toggle (closes on shrink), hero dots + autoplay 5000 ms (live slider-init.js autoplaySpeed:5e3)",
+     "canon/chrome.css: mega-menu fadeIn/slideDown keyframes (main.css @71285/@72591), search input .15s border-color transition + :focus (libraries.css L3829, main.css @339149)"
+    ],
+    "dead": [
+     "card share trigger (button.new-share__trigger): click → no class mutation, hover → no computed-style change",
+     ".new-card hover: probe target not found on live",
+     "hero slick arrows: not poked (transparent 20 px controls) — not implemented beyond static markup"
+    ],
+    "files": [
+     "stardust/replica/motion/defender-en-gb.json",
+     "stardust/replica/motion/defender-en-gb-build.json",
+     "stardust/replica/motion/defender-en-gb-360.json",
+     "stardust/replica/motion/defender-en-gb-360-build.json",
+     "stardust/replica/motion/defender-en-gb-compare.json"
+    ],
+    "compare": {
+     "360": "9 parity, 0 missing, 0 extra",
+     "1440": "all fired behaviours parity; 0 EXTRA; 1 MISSING 'media auto-advance' = 1.5 s idle-window phase miss (build verified rotating 0→1→2 at 5.4/10.4 s, 0 pageerrors); advisory is-active = prototype state hook for the same observed fade"
+    },
+    "pixelAfter": {
+     "360": {
+      "pixelPct": 11.58,
+      "heightDelta": -21
+     },
+     "1440": {
+      "pixelPct": 1.48,
+      "heightDelta": 1
+     },
+     "round": "motion1",
+     "verdict": "returned exactly to gated values"
+    }
+   },
+   "canonRequests": 0,
+   "captureState": [
+    {
+     "what": "hero-carousel",
+     "frozenAt": "slide 1 (INITIAL_SLIDE=0)",
+     "restoreAtDelivery": "slick fade carousel, autoplay rotates every 5 s, dots"
+    }
+   ],
+   "notes": "iter3c: structural probes run directly (content-diff 0 🔴 both widths, visual-diff none, cap-probe PASS, chrome-parity footer ✓); pixel-only gate.sh iter3c confirms 1440 1.48 % / 360 11.58 %. See stardust/replica/notes/defender-en-gb.md",
+   "justified": [
+    {
+     "width": "both",
+     "probe": "content",
+     "flag": "🟠 font fork ×1 (NeusaNeu-Regular→Sub)",
+     "why": "licensed kit substituted per user font-substitution decision",
+     "permanent": true
+    },
+    {
+     "width": "both",
+     "probe": "chrome-parity",
+     "flag": "header nav-item Δx/Δw ±2–11 px",
+     "why": "substitute-font advance-width fork (Helvetica Now/Neusa subs)",
+     "permanent": true
+    }
+   ]
+  },
+  "vehicle-detail": {
+   "archetype": "https://media.jlr.com/defender/en-gb/vehicle/defender-110",
+   "slug": "defender-en-gb-vehicle-defender-110",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/vehicle/defender-110",
+   "prototype": "stardust/prototypes/defender-en-gb-vehicle-defender-110-proposed.html",
+   "iterations": {
+    "360": 3,
+    "1440": 3
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 2.77,
+     "heightDelta": 0,
+     "structuralRed": 0,
+     "clipped": 0,
+     "overflow": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS (probed once at 2560)",
+     "round": "iter2b pixel + iter3 probes",
+     "pass": true,
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "🟠 font fork ×1 (NeusaNeu-Regular → NeusaNeu-Regular Sub)",
+       "why": "licensed kit substituted (user font-substitution decision)",
+       "permanent": true
+      },
+      {
+       "probe": "chrome-parity",
+       "flag": "header 10 Δx/Δw ≤7 px; header bg white→transparent",
+       "why": "substitute-font advance widths; header bg = canon-known delta (brand-landing iter3c), no canon file edited",
+       "parity": "stardust/replica/gates/defender-en-gb-vehicle-defender-110-360/chrome-parity-iter3.txt"
+      }
+     ],
+     "residuals": []
+    },
+    "1440": {
+     "pixelPct": 9.67,
+     "heightDelta": 44,
+     "structuralRed": 0,
+     "clipped": 0,
+     "overflow": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS (2560: content cap 1176 = 1176, 3/3 modules; sections 3 vs 4 advisory)",
+     "round": "iter2b pixel + iter3 probes",
+     "pass": false,
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "🟠 font fork ×1 (NeusaNeu-Regular → NeusaNeu-Regular Sub)",
+       "why": "licensed kit substituted (user font-substitution decision)",
+       "permanent": true
+      },
+      {
+       "probe": "chrome-parity",
+       "flag": "header 21 Δx/Δw ≤12 px (nav labels, market list, search) ; footer uniform Δy +45",
+       "why": "substitute-font advance widths (canon chrome, same forks logged on brand-landing); footer Δy = main Δh +44 offset only",
+       "parity": "stardust/replica/gates/defender-en-gb-vehicle-defender-110-1440/chrome-parity-iter3.txt"
+      }
+     ],
+     "residuals": [
+      {
+       "band": "y 2000–3000 (+ offset below)",
+       "pct": 9.67,
+       "heightDelta": 44,
+       "cause": "substitute-font wrap fork: card 4 teaser wraps 2 lines vs live 1; no uniform letter/word-spacing sweep fixes it without collapsing card 1 teaser (wrap-sweep.mjs)",
+       "flaggedFor": "user",
+       "permanent": true
+      }
+     ]
+    }
+   },
+   "residuals": [
+    {
+     "width": 1440,
+     "heightDelta": 44,
+     "cause": "card 4 teaser substitute-font wrap fork (coordinator-accepted 19:32)",
+     "flaggedFor": "user",
+     "permanent": true
+    }
+   ],
+   "motion": {
+    "observed": [
+     "refine sidebar toggle (.new-grid__sidebar-panel--open opacity/width .5s + .new-grid__content--with-sidebar width .5s)",
+     "facet collapse (.active-facet chevron rotate .2s, .collapse-me--trans height .6s → --open)",
+     "card image lazy blur-in (.lazy-blur → .lazy-loaded, opacity .25s filter/transform .35s)",
+     "refine-btn hover color/bg",
+     "pager-btn hover color .2s",
+     "pager next → page-2 API fetch (jlr-loader load8, lazy-ready)",
+     "canon: header shrink/bottom-shadow, nav-link margin .3s"
+    ],
+    "implemented": [
+     "js/defender-en-gb-vehicle-defender-110.js: refine sidebar toggle + mobile close, facet collapse + chevron, below-fold card img blur-in via IntersectionObserver",
+     "css: open states lifted from live main.css, refine-btn hover color",
+     "build-page.mjs: pager rel=prev/next (live markup)",
+     "canon chrome.js: header shrink (already)"
+    ],
+    "dead": [
+     "hero thumbnail click",
+     "vehicle tab hover",
+     "hero thumb img hover",
+     "sidebar-link hover (no diff)"
+    ],
+    "justified": [
+     "pager next page-2 fetch (load8 loader, lazy-ready, prev-button hover) = dynamic API feature, not replicated in static prototype; build next button carries the same lifted :hover #c4c4c4 .2s"
+    ],
+    "compare": "stardust/replica/gates/defender-en-gb-vehicle-defender-110-1440/motion-compare.txt (15 parity, 0 extra, 1 advisory: card a.opacity hover — live probe selector miss)",
+    "pixelAfter": {
+     "360": {
+      "pixelPct": 2.77,
+      "heightDelta": 0
+     },
+     "1440": {
+      "pixelPct": 9.67,
+      "heightDelta": 44
+     },
+     "round": "motion1"
+    },
+    "widths": "observed at 1440 only (360 off-canvas sidebar CSS lifted, not observed)"
+   },
+   "canonRequests": 0
+  },
+  "media-listing": {
+   "archetype": "defender-en-gb-image-packs",
+   "slug": "defender-en-gb-image-packs",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/image-packs",
+   "prototype": "stardust/prototypes/defender-en-gb-image-packs-proposed.html",
+   "iterations": {
+    "360": 1,
+    "1440": 3
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 1.86,
+     "heightDelta": 0,
+     "structuralRed": 0,
+     "overflow": 0
+    },
+    "1440": {
+     "pixelPct": 0.92,
+     "heightDelta": -1,
+     "structuralRed": 0,
+     "overflow": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0,
+     "chromeParity": "32 deltas: footer uniform dy -6 page offset only; header font-sub dx/dw forks + hidden market-list dx +12 (canon chrome class)"
+    }
+   },
+   "residuals": [
+    "1440/360: substitute-font wrap/width forks (expected, font-substitution decision)",
+    "1440 chrome-parity header: font-sub dx/dw on nav items + hidden market-list items dx +12 (canon chrome, same as defender-en-gb iter3c)",
+    "1440 chrome-parity footer: uniform dy -6 = nav-height shrink re-sample timing above footer (pixel dh -1)",
+    "motion: load8 loader + hvr-icon-push MISSING = AJAX pack-content load in opened expander (dynamic feature); lazy-loaded MISSING = lazysizes marker with no visual rule"
+   ],
+   "motion": {
+    "observed": [
+     "refine-btn -> sidebar-panel--open + content--with-sidebar (.5s)",
+     "refine-item -> active-facet + collapse-me --trans(.6s)/--open + icon rotate .2s",
+     "gallery-trigger click -> gallery-item.active (pack expander open)",
+     "cart-btn--active toggle (1440 only)",
+     "navbar shrink/bottom-shadow (canon)",
+     "load8 + hvr-icon-push (expander AJAX)",
+     "lazy-loaded"
+    ],
+    "implemented": [
+     "refine panel open/close",
+     "facet collapse + icon rotate",
+     "pack expander .active open/close",
+     "cart-btn--active toggle >=992"
+    ],
+    "dead": [
+     ".new-share__btn click @360",
+     ".gallery-contents hover (observer changed [] — source CSS @126157 has overlay opacity 1 .5s; not implemented, coordinator decision)",
+     ".new-grid__pager-btn hover"
+    ],
+    "compare": {
+     "360": "15 parity / 0 missing / 0 extra",
+     "1440": "16 parity / 3 missing (justified) / 0 extra"
+    },
+    "motion1": {
+     "360": {
+      "pixelPct": 1.86,
+      "heightDelta": 0
+     },
+     "1440": {
+      "pixelPct": 0.92,
+      "heightDelta": -1
+     }
+    }
+   },
+   "canonRequests": 1
+  },
+  "media-pack-detail": {
+   "archetype": "defender-en-gb-image-packs-defender-110-namib-orange",
+   "slug": "defender-en-gb-image-packs-defender-110-namib-orange",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/image-packs/defender-110-namib-orange",
+   "prototype": "stardust/prototypes/defender-en-gb-image-packs-defender-110-namib-orange-proposed.html",
+   "iterations": {
+    "360": 1,
+    "1440": 1
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 1.86,
+     "heightDelta": 0,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "clipped": 0,
+     "overflow": 0,
+     "chromeParity": "22 deltas: footer uniform dy +6 (same nav-height re-sample class); header font-sub forks + region bg white->transparent (existing canon request)"
+    },
+    "1440": {
+     "pixelPct": 2.02,
+     "heightDelta": -1,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0,
+     "overflow": 0,
+     "chromeParity": "32 deltas: footer uniform dy +16 (live nav-height shrink re-sample 206 vs build 222 after scroll warm, page offset only); header font-sub dx/dw forks + hidden market-list dx +12 (canon chrome class)"
+    }
+   },
+   "residuals": [
+    "1440/360: substitute-font width forks (download-all btn dw +4, tile dropdown dw +3, count badge dw +3, nav items) — expected, font-substitution decision",
+    "chrome-parity footer uniform dy (+16 @1440, +6 @360) = live --nav-height sampled from the shrunk header after scroll; canon chrome timing (existing canon request); pixel dh -1/0",
+    "chrome-parity header: font-sub dx/dw + hidden market-list dx +12 @1440; 360 header region background transparent vs white (existing canon request)"
+   ],
+   "motion": {
+    "observed": [
+     "viewer open (.view-large-img removes .hide)",
+     "viewer close (.image-pack-slide__close adds .hide)",
+     "close icon hvr-icon-push animation + color .3s",
+     "mobile drp-slider next: wrapper left .6s (360)",
+     "header shrink/bottom-shadow (canon)"
+    ],
+    "implemented": [
+     "viewer open/close (+Esc, focus return) js/defender-en-gb-image-packs-defender-110-namib-orange.js",
+     "hvr-icon-push lifted CSS @71789-@72193",
+     "drp-slider prev/next + initial left:0% js",
+     "header shrink (canon chrome.js)"
+    ],
+    "dead": [
+     ".img-pack-block click",
+     ".img-pack-block hover (sampler: changed [])",
+     ".new-share__trigger click (1440+360)"
+    ],
+    "compare": {
+     "360": "6 parity / 0 missing / 0 extra / 0 advisory",
+     "1440": "8 parity / 0 missing / 0 extra / 1 advisory (opacity build-only, incidental)"
+    },
+    "motion1": {
+     "360": {
+      "pixelPct": 1.86,
+      "heightDelta": 0
+     },
+     "1440": {
+      "pixelPct": 2.02,
+      "heightDelta": -1
+     }
+    }
+   },
+   "canonRequests": 0
+  },
+  "content-detail": {
+   "archetype": "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+   "slug": "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+   "prototype": "stardust/prototypes/defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update-proposed.html",
+   "iterations": {
+    "360": 3,
+    "1440": 3
+   },
+   "gates": {
+    "360": {
+     "round": "iter3",
+     "pixelPct": 20.24,
+     "heightDelta": 550,
+     "structuralRed": 0,
+     "visualFlags": "8 SURFACE/GROUND justified (instrument: visual-diff keys headings by text, source Map keeps the LAST duplicate = dark mobile-slider h3.title while build reports the white grid-overlay h3.bt-gallery-title; both sides have both, same order, colours equal per measure overlay-measure-iter3.txt)",
+     "capProbe": "PASS @2560 (iter2b; iter3 change is <992 only)",
+     "clipped": "36 = live 36 (hover-only, justified)",
+     "overflow": 0,
+     "pass": false
+    },
+    "1440": {
+     "round": "iter3",
+     "pixelPct": 8.39,
+     "heightDelta": -31,
+     "structuralRed": 0,
+     "visualFlags": "8 SURFACE/GROUND justified (instrument: visual-diff keys headings by text, source Map keeps the LAST duplicate = dark mobile-slider h3.title while build reports the white grid-overlay h3.bt-gallery-title; both sides have both, same order, colours equal per measure overlay-measure-iter3.txt)",
+     "capProbe": "PASS @2560 (iter2b)",
+     "clipped": "36 = live 36 (hover-only, justified)",
+     "overflow": 0,
+     "pass": false
+    }
+   },
+   "residuals": [
+    {
+     "bp": 360,
+     "band": "y 2500-16500 (body modules)",
+     "heightPx": -309,
+     "cause": "substitute-font wrap fork (NeusaNeu-Regular -> canon substitute; identical box widths/font-size/line-height, only line counts differ; uniform spacing cannot fix without breaking other lines) — user font-substitution decision, permanent: #6 wysiwyg p 11/16/10 vs 10/14/9 lines (-116), #24 -86, #5 -58, #1 -19, one-line +-28/29 forks #8 #9 #11 #26 (-) #17 #19 #28 (+)",
+     "evidence": "gates/defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update-360/settled-modules-{live,build}-iter3.txt",
+     "flaggedFor": "user",
+     "permanent": true
+    },
+    {
+     "bp": 360,
+     "band": "y 16800-19600 (footnotes table)",
+     "heightPx": -296,
+     "cause": "substitute-font wrap fork (NeusaNeu-Regular -> canon substitute; identical box widths/font-size/line-height, only line counts differ; uniform spacing cannot fix without breaking other lines) — user font-substitution decision, permanent: auto table layout sizes columns from glyph advances (live 101/107/92 vs build 105/109/85 at table w300/299) -> 11 rows one line fewer; row line-height equal",
+     "evidence": "gates/defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update-360/table-{live,build}-iter3.txt",
+     "flaggedFor": "user",
+     "permanent": true
+    },
+    {
+     "bp": 360,
+     "band": "y 2500-end",
+     "pct": 20.24,
+     "cause": "pixel % is the cumulative vertical offset of the two forks above (everything below shifts); no unexplained hot band",
+     "flaggedFor": "user"
+    },
+    {
+     "bp": 1440,
+     "band": "y 10894-13414 (footnotes)",
+     "heightPx": 30,
+     "cause": "substitute-font wrap fork (NeusaNeu-Regular -> canon substitute; identical box widths/font-size/line-height, only line counts differ; uniform spacing cannot fix without breaking other lines) — user font-substitution decision, permanent: table -24 (row forks) + notes p#9 +28, p#14 +27 at w534; body #2 -29/#15 +29 cancel",
+     "evidence": "gates/defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update-1440/foot-{live,build}-iter3.txt",
+     "flaggedFor": "user",
+     "permanent": true
+    }
+   ],
+   "motion": {
+    "observed": [
+     "figure hover bar .hover-prt transform .5s in/.2s out (CSS)",
+     "pack card overlay opacity .5s linear hover-in",
+     "pack card click -> .gallery-item.active expander modal",
+     "expander close icon hvr-icon-push",
+     "View larger image / Back -> viewer .hide toggle",
+     "figure Download toggle -> .dropdown.open + focus (icon push, colour .3s)",
+     "360 mobile related slider next -> wrapper left .6s",
+     "360 related tab click -> item/block --active",
+     "canon header shrink/bottom-shadow"
+    ],
+    "implemented": [
+     "js/defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update.js: expander open/close (+Enter/Esc, focus return), viewer open/close per expander, figure dropdown toggle (+focus, outside close), slider prev/next left, tab re-activation",
+     "css: overlay .5s linear @126157, active expander modal @354932/@148531/@60830, hvr-icon-push @71789-@72193, btn-transparent hover/focus @120415, slider track left .6s @245411/@245638",
+     "generator: hvr-icon-push on 8 close + 9 figure download icons, div.jlr-tabs__block wrapper, page script"
+    ],
+    "dead": [
+     "share trigger click (1440, 360)",
+     "mobile slider buttons display:none (user-unreachable; observer-only left transition replicated)",
+     "tile hover sample (no measured diff)"
+    ],
+    "compare": {
+     "360": "8 parity/0/0",
+     "1440": "10 parity/0 missing/0 extra",
+     "1440-dropdown": "8 parity/0/0"
+    },
+    "motion1": {
+     "360": {
+      "pixelPct": 20.24,
+      "heightDelta": 550
+     },
+     "1440": {
+      "pixelPct": 8.39,
+      "heightDelta": -31
+     }
+    }
+   },
+   "canonRequests": 0,
+   "authorMeasure": {
+    "360": {
+     "scrollHeightLive": 22463,
+     "scrollHeightBuild": 21912
+    },
+    "1440": {
+     "scrollHeightLive": 14895,
+     "scrollHeightBuild": 14926
+    }
+   },
+   "captureState": [
+    {
+     "what": "live 360 .related-content-packs is bistable: tabs JS activates .jlr-tabs__block--active -> block-wrapper in flow h443 (band h566, gate live.png state); before init the slider is out of flow (band h124). Build replicates the settled state.",
+     "where": "related-content-packs @<992",
+     "restoreAtDelivery": "tabs/slider init (motion unit)"
+    }
+   ]
+  },
+  "grid-overview": {
+   "archetype": "defender-en-gb-directors",
+   "slug": "defender-en-gb-directors",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/directors",
+   "prototype": "stardust/prototypes/defender-en-gb-directors-proposed.html",
+   "iterations": {
+    "360": 1,
+    "1440": 1
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 2.22,
+     "heightDelta": 0,
+     "structuralRed": 0,
+     "overflow": 0,
+     "contentDiff": "0 red; 3 hidden-modal ICON DIFF fixed in iter1b (pixel-neutral)",
+     "visualFlags": "same 3 hidden-modal flags as 1440, fixed by same rule (pixel-neutral)",
+     "capProbe": "PASS (once per archetype, @1440 base)",
+     "clipped": 0,
+     "chromeParity": "header bg white->transparent (existing canon request) + font-sub forks; footer uniform dy -5 (nav-height sample timing)"
+    },
+    "1440": {
+     "pixelPct": 1.07,
+     "heightDelta": 1,
+     "structuralRed": 0,
+     "overflow": 0,
+     "contentDiff": "none (iter1b)",
+     "visualFlags": "none (iter1c; 3 hidden-modal h1.white SURFACE flags fixed)",
+     "capProbe": "PASS (0/4 rows @2560)",
+     "clipped": 0,
+     "chromeParity": "footer parity; header 21 = font-sub forks + hidden market-list dx +12 (canon chrome)"
+    }
+   },
+   "residuals": [
+    "1440/360: substitute-font width forks (grid-2 title dw +2, nav items; expected, font-substitution decision)",
+    "1440 chrome-parity header: font-sub dx/dw + hidden market-list items dx +12 (canon chrome, same as defender-en-gb iter3c / image-packs)",
+    "360 chrome-parity header: background transparent vs live white (canon request already logged by vehicle-defender-110)",
+    "360 chrome-parity footer: uniform dy -5 = nav-height sample timing above footer (pixel dh 0)"
+   ],
+   "motion": {
+    "observed": [
+     "card hover -> portrait a color rgba(12,18,28,.8) (global a:hover @60470)",
+     ".plc-header a hover color rgba(12,18,28,.8) @1440",
+     "navbar shrink/bottom-shadow (canon)"
+    ],
+    "implemented": [
+     ".people-listing-holder > a:hover (page CSS, canon request)",
+     ".plc-header a:hover (page CSS @60625, already present)"
+    ],
+    "dead": [
+     ".people-listing-holder h4 a hover",
+     ".read-more hover",
+     ".plc-header a hover @360 (observer)"
+    ],
+    "compare": {
+     "360": "6 parity / 0 missing / 0 extra",
+     "1440": "8 parity / 0 missing / 0 extra"
+    },
+    "motion1": {
+     "360": {
+      "pixelPct": 2.22,
+      "heightDelta": 0
+     },
+     "1440": {
+      "pixelPct": 1.07,
+      "heightDelta": 1
+     }
+    }
+   },
+   "canonRequests": 1,
+   "notes": "author: measure --against Δ0 @1440, Δy -1 @360 (nav-height jitter); people list = static snapshot (dynamic-features #15)"
+  },
+  "person-detail": {
+   "archetype": "defender-en-gb-person-chris-thorp",
+   "slug": "defender-en-gb-person-chris-thorp",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/person/chris-thorp",
+   "prototype": "stardust/prototypes/defender-en-gb-person-chris-thorp-proposed.html",
+   "module": "person-profile",
+   "iterations": {
+    "360": 2,
+    "1440": 2
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 2.65,
+     "heightDelta": 0,
+     "overflow": 0,
+     "structuralRed": 0,
+     "visualFlags": "1 justified (STRETCHED Chris_1.jpg 128x174 identical on live)",
+     "capProbe": "PASS",
+     "clipped": 0
+    },
+    "1440": {
+     "pixelPct": 1.35,
+     "heightDelta": 1,
+     "overflow": 0,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0,
+     "note": "iter1 10.72 % FAIL (sticky scroll-up un-shrink missing in canon) -> iter2b PASS"
+    }
+   },
+   "residuals": [
+    "chrome header (1440+360): substitute-font Δx/Δw forks + hidden market-list Δx +12 — canon chrome, font-substitution decision (expected, permanent)",
+    "360 header bg white->transparent — existing canon request",
+    "1440 footer uniform Δy +6 in chrome-parity (no internal delta) — .view-main marginTop nav-height sample jitter on both sides; stitched Δh +1, mainHeight 807/807"
+   ],
+   "motion": {
+    "observed": [
+     "hover .bio-download-wrapper a (color/bg flip + icon color, .3s)",
+     "hvr-icon-push on download icon",
+     "hover .bottom-back a (color/bg flip)",
+     "header shrink/bottom-shadow + nav-link margin transitions (canon) + scroll-up un-shrink (page js)"
+    ],
+    "implemented": [
+     "all observed — lifted CSS + canon chrome + js/defender-en-gb-person-chris-thorp.js; motion-compare 9 parity / 0 missing / 0 extra at 1440 and 360"
+    ],
+    "dead": [
+     "hover .person-title h1 (no diff on live)"
+    ]
+   },
+   "canonRequests": 1
+  },
+  "contact-detail": {
+   "archetype": "defender-en-gb-contact-china-3",
+   "slug": "defender-en-gb-contact-china-3",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/contact/china-3",
+   "prototype": "stardust/prototypes/defender-en-gb-contact-china-3-proposed.html",
+   "module": "contact-detail-panel",
+   "iterations": {
+    "360": 1,
+    "1440": 1
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 4.62,
+     "heightDelta": 0,
+     "overflow": 0,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0
+    },
+    "1440": {
+     "pixelPct": 1.38,
+     "heightDelta": 1,
+     "overflow": 0,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0
+    }
+   },
+   "residuals": [
+    "360 stitched chunk-2 header shrink state: live and build both oscillate shrink<->unshrink on this short page (scroll-anchoring loop at clamped max scroll, sticky-probe-t.mjs); capture phase is non-deterministic per side — justified, behaviour parity",
+    "chrome header: substitute-font Δx/Δw forks + hidden market-list Δx +12 @1440 (canon-chrome residual class)",
+    "here. link Δx +8 @1440 (substitute-font advance fork)"
+   ],
+   "motion": {
+    "observed": [
+     "hover .contact-detail__support a color -> rgba(12,18,28,.8)",
+     "360 header shrink/bottom-shadow + margin/top transitions"
+    ],
+    "implemented": [
+     "link hover via canon a:hover (page colour override removed)",
+     "header shrink canon + page short-page un-shrink JS"
+    ],
+    "dead": [
+     "hover .contact-detail__heading"
+    ]
+   },
+   "canonRequests": 0,
+   "motion1": {
+    "360": 5.08,
+    "1440": 1.38,
+    "note": "360 +0.46 vs gated 4.62 = header shrink-state oscillation phase at stitched chunk 2 (both sides oscillate)"
+   }
+  },
+  "contact-listing": {
+   "archetype": "defender-en-gb-contact",
+   "slug": "defender-en-gb-contact",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/contact",
+   "prototype": "stardust/prototypes/defender-en-gb-contact-proposed.html",
+   "iterations": {
+    "360": 1,
+    "1440": 1
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 2.22,
+     "pixelPctUnmasked": 7.84,
+     "pixelMask": "195:182 hero (authored-volatile, random per request)",
+     "heightDelta": 0,
+     "structuralRed": 0,
+     "overflow": 0,
+     "contentDiff": "none (iter1)",
+     "visualFlags": "none",
+     "capProbe": "PASS (once per archetype, @2560)",
+     "clipped": 0,
+     "chromeParity": "footer parity; header 10 = font-sub dx/dw forks (canon chrome residual)"
+    },
+    "1440": {
+     "pixelPct": 1.17,
+     "pixelPctUnmasked": 20.09,
+     "pixelMask": "262:500 hero (authored-volatile, random per request)",
+     "heightDelta": 1,
+     "structuralRed": 0,
+     "overflow": 0,
+     "contentDiff": "none (iter1)",
+     "visualFlags": "1 STRETCHED hero = intentional object-fit:cover crop at max-height 500, same on live (justified)",
+     "capProbe": "PASS (0/3 rows @2560)",
+     "clipped": 0,
+     "chromeParity": "header 21 = font-sub dx/dw forks + hidden market-list dx +12 (canon chrome residual); footer uniform dy +10, no internal delta (live nav-height jitter class)"
+    }
+   },
+   "residuals": [
+    "1440/360: hero picture is randomised server-side per request (capture Defender x Gorillaz; later loads DEF_110 26MY exterior, Defender Awards) — build ships the captured image verbatim; hero rows masked in pixel-compare as authored-volatile (gate doc); needs a dynamic-features entry / coordinator decision for EDS (random hero pool vs fixed image)",
+    "1440: description tracking -0.2px at >=992 compensates the Urbanist substitute (restores live line counts on all 7 cards)"
+   ],
+   "motion": {
+    "observed": "hover .contact-card (border-color #949494 + box-shadow 200ms, arrow translate(2px,-2px) 200ms), canon header shrink/bottom-shadow; 0 animations/videos/widgets",
+    "implemented": "CSS (lifted main.css @266862–@267996) + page JS short-page header un-shrink; motion-compare 1440 13/0/0, 360 13/0/0; motion1 1.17 % / 2.22 % (masked) = gated",
+    "dead": [
+     "hover .contact-regions__heading"
+    ]
+   },
+   "canonRequests": 0
+  },
+  "legal-page": {
+   "archetype": "defender-en-gb-terms-and-conditions",
+   "slug": "defender-en-gb-terms-and-conditions",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/terms-and-conditions",
+   "prototype": "stardust/prototypes/defender-en-gb-terms-and-conditions-proposed.html",
+   "module": "legal-body",
+   "iterations": {
+    "360": 2,
+    "1440": 2
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 9.5,
+     "heightDelta": 25,
+     "overflow": 0,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0,
+     "note": "iter1 10.01 % / Δh +77 -> iter2 9.50 % / Δh +25 = 1 substitute-font wrap fork (p2 +1 line), accepted residual per coordinator decision"
+    },
+    "1440": {
+     "pixelPct": 3.46,
+     "heightDelta": -1,
+     "overflow": 0,
+     "structuralRed": 0,
+     "visualFlags": "none",
+     "capProbe": "PASS",
+     "clipped": 0,
+     "note": "iter1 5.12 % / Δh +24 (font-sub wrap p6) -> iter2 PASS after uniform -0.3px letter-spacing on .field--name-body"
+    }
+   },
+   "residuals": [
+    "360 Δh +25: paragraph 2 wraps to 12 lines vs live 11 under the Neusa substitute — uniform letter-spacing sweep 0..-0.5px / word-spacing -1..-3px always leaves one paragraph off by a line (ls-sweep.mjs); font-substitution decision, expected, permanent",
+    "chrome header (1440+360): substitute-font Δx/Δw forks + hidden market-list Δx +12 — canon chrome, font-substitution decision",
+    "360 footer uniform Δy +36 (p2 wrap +26 + .view-main marginTop nav-height sample jitter +10, existing canon request); no internal footer delta"
+   ],
+   "motion": {
+    "observed": [],
+    "implemented": [],
+    "dead": []
+   },
+   "canonRequests": 0
+  },
+  "mobile-vehicle-menu": {
+   "archetype": "defender-en-gb-mobile-vehicle-menu",
+   "slug": "defender-en-gb-mobile-vehicle-menu",
+   "liveUrl": "https://media.jlr.com/defender/en-gb/mobile-vehicle-menu",
+   "prototype": "stardust/prototypes/defender-en-gb-mobile-vehicle-menu-proposed.html",
+   "module": "vehicle-menu-list",
+   "iterations": {
+    "360": 1,
+    "1440": 1
+   },
+   "gates": {
+    "360": {
+     "pixelPct": 1.57,
+     "heightDelta": 0,
+     "overflow": 0,
+     "structuralRed": 0,
+     "visualFlags": "4 justified (same object-fit cover thumbs)",
+     "capProbe": "PASS",
+     "clipped": 0
+    },
+    "1440": {
+     "pixelPct": 1.03,
+     "heightDelta": 1,
+     "overflow": 0,
+     "structuralRed": 0,
+     "visualFlags": "4 justified (STRETCHED vehicle thumbs 288x216->130x87 = object-fit cover, identical on live)",
+     "capProbe": "PASS",
+     "clipped": 0
+    }
+   },
+   "residuals": [
+    "chrome header (1440+360): substitute-font Δx/Δw forks — canon chrome, font-substitution decision (expected, permanent)",
+    "1440 footer uniform Δy +6 in chrome-parity (no internal delta) — .view-main marginTop nav-height sample jitter on both sides (existing canon request class); stitched Δh +1, mainHeight 502/502"
+   ],
+   "motion": {
+    "observed": [],
+    "implemented": [],
+    "dead": []
+   },
+   "canonRequests": 0
+  }
+ },
+ "canon": {
+  "appliedRequests": 3,
+  "requestsQueued": 4,
+  "revertedRequests": [
+   {
+    "slug": "defender-en-gb-person-chris-thorp",
+    "change": "sticky un-shrink on upward scroll (main.js sticky.c i<o)",
+    "reason": "namib-orange 360 1.86->3.20 % (stitched max-scroll shrink/clamp loop, chunk 2 +15 px); page-level compensation kept"
+   }
+  ],
+  "regression": {
+   "defender-en-gb": {
+    "360": 11.58,
+    "1440": 1.48
+   },
+   "defender-en-gb-vehicle-defender-110": {
+    "360": 2.77,
+    "1440": 9.67
+   },
+   "defender-en-gb-image-packs": {
+    "360": 1.86,
+    "1440": 0.92
+   },
+   "defender-en-gb-image-packs-defender-110-namib-orange": {
+    "360": 1.86,
+    "1440": 2.02
+   },
+   "defender-en-gb-directors": {
+    "360": 2.22,
+    "1440": 1.07
+   },
+   "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update": {
+    "360": 20.24,
+    "1440": 8.39
+   },
+   "defender-en-gb-person-chris-thorp": {
+    "360": 2.65,
+    "1440": 1.35
+   }
+  },
+  "regressionLabel": "canon1 (namib-orange + chris-thorp re-run canon1c after revert)",
+  "date": "2026-11-05"
+ },
+ "scriptAdaptations": [
+  {
+   "file": "stardust/scripts/diff/unit-geometry.mjs",
+   "line": 255,
+   "change": "origin-inventory cache key ${slug}-units -> ${slug}-units-${width} (+ --slug help text L44)",
+   "reason": "instrument bug: origin unit inventory cached per slug only, so the second breakpoint compared the served page against the other width origin geometry (same origin.at/docH in prototypes-1440 and -360 units.json); measured falsely",
+   "commented": true,
+   "invalidates": "gates/prototypes-{1440,360}/*/units.json from the 2026-11-05T22:45/22:47 runs (units column of both summaries)",
+   "upstream": "flag for plugin skills/diff/scripts/unit-geometry.mjs",
+   "date": "2026-11-05"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "note": "One archetype per page type (state.json.pages[].type). Defender sub-site chosen as the archetype brand: every brand shares one theme/stylesheet (extract finding); per-brand deltas are typeface, header logo, vehicle menu, favicon.",
+  "archetypes": [
+    { "type": "main-landing",        "slug": "en-gb",                                                 "rep_url": "https://media.jlr.com/en-gb" },
+    { "type": "brand-landing",       "slug": "defender-en-gb",                                        "rep_url": "https://media.jlr.com/defender/en-gb" },
+    { "type": "content-detail",      "slug": "defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update", "rep_url": "https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update" },
+    { "type": "vehicle-detail",      "slug": "defender-en-gb-vehicle-defender-110",                   "rep_url": "https://media.jlr.com/defender/en-gb/vehicle/defender-110" },
+    { "type": "media-listing",       "slug": "defender-en-gb-image-packs",                            "rep_url": "https://media.jlr.com/defender/en-gb/image-packs" },
+    { "type": "media-pack-detail",   "slug": "defender-en-gb-image-packs-defender-110-namib-orange",  "rep_url": "https://media.jlr.com/defender/en-gb/image-packs/defender-110-namib-orange" },
+    { "type": "grid-overview",       "slug": "defender-en-gb-directors",                              "rep_url": "https://media.jlr.com/defender/en-gb/directors" },
+    { "type": "contact-listing",     "slug": "defender-en-gb-contact",                                "rep_url": "https://media.jlr.com/defender/en-gb/contact" },
+    { "type": "contact-detail",      "slug": "defender-en-gb-contact-china-3",                        "rep_url": "https://media.jlr.com/defender/en-gb/contact/china-3" },
+    { "type": "person-detail",       "slug": "defender-en-gb-person-chris-thorp",                     "rep_url": "https://media.jlr.com/defender/en-gb/person/chris-thorp" },
+    { "type": "legal-page",          "slug": "defender-en-gb-terms-and-conditions",                   "rep_url": "https://media.jlr.com/defender/en-gb/terms-and-conditions" },
+    { "type": "mobile-vehicle-menu", "slug": "defender-en-gb-mobile-vehicle-menu",                    "rep_url": "https://media.jlr.com/defender/en-gb/mobile-vehicle-menu" }
+  ]
+}

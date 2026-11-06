@@ -1,0 +1,1763 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:05:51.886Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "discovery-en-gb-images",
+  "url": "https://media.jlr.com/discovery/en-gb/images",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:05:51.886Z",
+  "finalUrl": "https://media.jlr.com/discovery/en-gb/images",
+  "title": "Discovery",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Images"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ DETAIL"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h5",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK ‑ STUDIO"
+    },
+    {
+      "tag": "h5",
+      "text": "15 June 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h5",
+      "text": "15 June 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h5",
+      "text": "15 June 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h5",
+      "text": "15 June 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h5",
+      "text": "15 June 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h1",
+      "text": "Discovery x Tempest"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing",
+    "New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/discovery/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/discovery/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/discovery/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/discovery/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/discovery/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/discovery/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/discovery/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/discovery/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/discovery/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/discovery/en-gb/contact"
+    },
+    {
+      "label": "Discovery",
+      "href": "https://www.landrover.com/discovery/index.html"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "News",
+      "href": "/discovery/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/discovery/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/discovery/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/discovery/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/discovery/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/discovery/en-gb/tech-specs"
+    },
+    {
+      "label": "Search Discovery",
+      "href": null
+    },
+    {
+      "label": "Refine By",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Images",
+      "href": "/discovery/en-gb/images"
+    },
+    {
+      "label": "Image Packs",
+      "href": "/discovery/en-gb/image-packs"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Format",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "View",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Tags",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "People",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Model Year",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ffaa674d6-fec0-45c1-8597-f8226d498c84%2FDISCOVERY_LANDMARK_DETAIL_130526_07.jpg%3FVersionId%3DmFQDDP7eV9PTHNBFfg01C5HjnWXgMhYt&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ffaa674d6-fec0-45c1-8597-f8226d498c84%2FDISCOVERY_LANDMARK_DETAIL_130526_07.jpg%3FVersionId%3DmFQDDP7eV9PTHNBFfg01C5HjnWXgMhYt&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F8723a913-bdc2-44e4-b706-3b5fd72bd4e8%2FDISCOVERY_LANDMARK_DETAIL_130526_05.jpg%3FVersionId%3DpR.jOHMnDwjU5pOhs8FFtKEvfm9jT3Nc&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F8723a913-bdc2-44e4-b706-3b5fd72bd4e8%2FDISCOVERY_LANDMARK_DETAIL_130526_05.jpg%3FVersionId%3DpR.jOHMnDwjU5pOhs8FFtKEvfm9jT3Nc&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F812ef279-b708-4e16-9ed7-85903f7d119a%2FDISCOVERY_LANDMARK_DETAIL_130526_06.jpg%3FVersionId%3Dj2nAZIWOXeL8wB1NqyDhoKHtofXzmnF2&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F812ef279-b708-4e16-9ed7-85903f7d119a%2FDISCOVERY_LANDMARK_DETAIL_130526_06.jpg%3FVersionId%3Dj2nAZIWOXeL8wB1NqyDhoKHtofXzmnF2&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F7cfdc912-2543-45bc-8fb9-92c9ddaf12f0%2FDISCOVERY_LANDMARK_DETAIL_130526_02.jpg%3FVersionId%3Ddj6mNn5QDk89nYSWZHC33TVkOvLMjSN5&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F7cfdc912-2543-45bc-8fb9-92c9ddaf12f0%2FDISCOVERY_LANDMARK_DETAIL_130526_02.jpg%3FVersionId%3Ddj6mNn5QDk89nYSWZHC33TVkOvLMjSN5&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fc6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d%2FDISCOVERY_LANDMARK_DETAIL_130526_03.jpg%3FVersionId%3Dg1k1CYXQGq3uz1831ALjQ_YMc4qSvK0O&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fc6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d%2FDISCOVERY_LANDMARK_DETAIL_130526_03.jpg%3FVersionId%3Dg1k1CYXQGq3uz1831ALjQ_YMc4qSvK0O&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fd9dc6dfb-805b-4a41-bcc8-07eecb2d3df0%2FDISCOVERY_LANDMARK_DETAIL_130526_04.jpg%3FVersionId%3Dx6UVbQP.Lq.Fj_MsB5JKrwEGDSXjdMv5&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fd9dc6dfb-805b-4a41-bcc8-07eecb2d3df0%2FDISCOVERY_LANDMARK_DETAIL_130526_04.jpg%3FVersionId%3Dx6UVbQP.Lq.Fj_MsB5JKrwEGDSXjdMv5&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ff29e0b29-9881-4724-be27-301873bb597d%2FDISCOVERY_LANDMARK_DETAIL_130526_01.jpg%3FVersionId%3DAhNC2LrKfZWs6DeWqJ1rtUnyYVM1yXxr&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ff29e0b29-9881-4724-be27-301873bb597d%2FDISCOVERY_LANDMARK_DETAIL_130526_01.jpg%3FVersionId%3DAhNC2LrKfZWs6DeWqJ1rtUnyYVM1yXxr&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fea3e268b-b9c5-46ae-bbfe-4ac259e39fdd%2FDISCOVERY_LANDMARK_STUDIO_130526_06.jpg%3FVersionId%3D5lUXcGmZdDHhfZNuAZ8qMY68IAW7Oier&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fea3e268b-b9c5-46ae-bbfe-4ac259e39fdd%2FDISCOVERY_LANDMARK_STUDIO_130526_06.jpg%3FVersionId%3D5lUXcGmZdDHhfZNuAZ8qMY68IAW7Oier&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fb87f5bf3-7702-4449-8502-e9eeca89bce5%2FDISCOVERY_LANDMARK_STUDIO_130526_03.jpg%3FVersionId%3DtFuuNhfMudbfuQwC9_Mt2cLwVXbk6Fct&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fb87f5bf3-7702-4449-8502-e9eeca89bce5%2FDISCOVERY_LANDMARK_STUDIO_130526_03.jpg%3FVersionId%3DtFuuNhfMudbfuQwC9_Mt2cLwVXbk6Fct&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F5fa2ced4-0aea-4e41-a0dc-5d7e87071012%2FDISCOVERY_LANDMARK_STUDIO_130526_04.jpg%3FVersionId%3Ds2w0GTVxP607_QnMxeKIkO9SQVRn9mb9&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F5fa2ced4-0aea-4e41-a0dc-5d7e87071012%2FDISCOVERY_LANDMARK_STUDIO_130526_04.jpg%3FVersionId%3Ds2w0GTVxP607_QnMxeKIkO9SQVRn9mb9&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F676a29e2-a121-4e2d-a005-f33982d1473e%2FDISCOVERY_LANDMARK_STUDIO_130526_05.jpg%3FVersionId%3DrLWmGSTowKJbT.8I74RGr27Y_QmUkM4P&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F676a29e2-a121-4e2d-a005-f33982d1473e%2FDISCOVERY_LANDMARK_STUDIO_130526_05.jpg%3FVersionId%3DrLWmGSTowKJbT.8I74RGr27Y_QmUkM4P&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F936d97f8-5106-46e9-99db-e68fff7295af%2FDISCOVERY_LANDMARK_STUDIO_130526_02.jpg%3FVersionId%3DVYw9IIvytx9aTNo8heTCp.pQ.k9kk3De&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F936d97f8-5106-46e9-99db-e68fff7295af%2FDISCOVERY_LANDMARK_STUDIO_130526_02.jpg%3FVersionId%3DVYw9IIvytx9aTNo8heTCp.pQ.k9kk3De&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ff4afd39c-80e1-4e0a-a932-2738c1268dc1%2FDISCOVERY_LANDMARK_STUDIO_130526_01.jpg%3FVersionId%3D8Za1iuf0HmFk0ZcrKnDViU87Vnpu9NNy&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ff4afd39c-80e1-4e0a-a932-2738c1268dc1%2FDISCOVERY_LANDMARK_STUDIO_130526_01.jpg%3FVersionId%3D8Za1iuf0HmFk0ZcrKnDViU87Vnpu9NNy&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2F3ac4e165-fd21-4318-8ab1-eb8fee367b5c%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-113.jpg%3FVersionId%3DGn1EGVupAdfiPw6RSVZfuy8nSsjpme.E&title=Discovery%20x%20Tempest"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2F3ac4e165-fd21-4318-8ab1-eb8fee367b5c%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-113.jpg%3FVersionId%3DGn1EGVupAdfiPw6RSVZfuy8nSsjpme.E&title=Discovery%20x%20Tempest"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2Fb16a0b6d-5403-41ff-8ce4-240a260ec209%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-114.jpg%3FVersionId%3DDMN36NS490ofEhQhvLepynmyzMH5nFjg&title=Discovery%20x%20Tempest"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2Fb16a0b6d-5403-41ff-8ce4-240a260ec209%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-114.jpg%3FVersionId%3DDMN36NS490ofEhQhvLepynmyzMH5nFjg&title=Discovery%20x%20Tempest"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2F58d0c6f8-25e2-4710-a14f-a1d3247f0222%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-110.jpg%3FVersionId%3DpXU5aCPMSnJHdaDSIwZlJ3poo8KDDbd6&title=Discovery%20x%20Tempest"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2F58d0c6f8-25e2-4710-a14f-a1d3247f0222%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-110.jpg%3FVersionId%3DpXU5aCPMSnJHdaDSIwZlJ3poo8KDDbd6&title=Discovery%20x%20Tempest"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2Fbb7c2382-f4cb-46ca-8d92-0c0b7ae632fe%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-112.jpg%3FVersionId%3DzrFK3abu3eVM4AI0hfdTAD66DgZ1RND1&title=Discovery%20x%20Tempest"
+    },
+    {
+      "label": "Download options",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2Fbb7c2382-f4cb-46ca-8d92-0c0b7ae632fe%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-112.jpg%3FVersionId%3DzrFK3abu3eVM4AI0hfdTAD66DgZ1RND1&title=Discovery%20x%20Tempest"
+    },
+    {
+      "label": "Download",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/discovery/en-gb/images#main-content",
+    "https://media.jlr.com/discovery/zh-cn",
+    "https://media.jlr.com/discovery/fr-fr",
+    "https://media.jlr.com/discovery/de-de",
+    "https://media.jlr.com/discovery/",
+    "https://media.jlr.com/discovery/it-it",
+    "https://media.jlr.com/discovery/en-us",
+    "https://media.jlr.com/discovery/es-es",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/discovery/en-gb/cart",
+    "https://media.jlr.com/discovery/en-gb/contact",
+    "https://media.jlr.com/discovery/en-gb/",
+    "https://www.landrover.com/discovery/index.html",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/discovery/en-gb/terms-and-conditions",
+    "https://media.jlr.com/discovery/en-gb/user-licence",
+    "https://media.jlr.com/discovery/en-gb/cookies",
+    "https://media.jlr.com/discovery/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/discovery/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/discovery/en-gb/news",
+    "https://media.jlr.com/discovery/en-gb/image-packs",
+    "https://media.jlr.com/discovery/en-gb/videos",
+    "https://media.jlr.com/discovery/en-gb/directors",
+    "https://media.jlr.com/discovery/en-gb/press-kit",
+    "https://media.jlr.com/discovery/en-gb/tech-specs",
+    "javascript:void(0)",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-sport",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-4",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.jlr.com/discovery/en-gb/images",
+    "https://media.production.jlrms.com/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=mFQDDP7eV9PTHNBFfg01C5HjnWXgMhYt",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=XwWd4g.qx4Cn13RNFSzQJeXms4U52Ccg&itok=NJ0iQbIq",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ffaa674d6-fec0-45c1-8597-f8226d498c84%2FDISCOVERY_LANDMARK_DETAIL_130526_07.jpg%3FVersionId%3DmFQDDP7eV9PTHNBFfg01C5HjnWXgMhYt&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL",
+    "https://media.production.jlrms.com/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=pR.jOHMnDwjU5pOhs8FFtKEvfm9jT3Nc",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=xOFG9v1mMGZTzq8Qqi5v9bo3eh7_Ss9a&itok=nkZapGff",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F8723a913-bdc2-44e4-b706-3b5fd72bd4e8%2FDISCOVERY_LANDMARK_DETAIL_130526_05.jpg%3FVersionId%3DpR.jOHMnDwjU5pOhs8FFtKEvfm9jT3Nc&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL",
+    "https://media.production.jlrms.com/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=j2nAZIWOXeL8wB1NqyDhoKHtofXzmnF2",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=l7Iffwk5NpppyKnx7Ku2p3iwEebN5yeX&itok=mvA30Jz6",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F812ef279-b708-4e16-9ed7-85903f7d119a%2FDISCOVERY_LANDMARK_DETAIL_130526_06.jpg%3FVersionId%3Dj2nAZIWOXeL8wB1NqyDhoKHtofXzmnF2&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL",
+    "https://media.production.jlrms.com/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=dj6mNn5QDk89nYSWZHC33TVkOvLMjSN5",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=K0VOsB7sMG8QHadkD32v1IsQMAFiIWIx&itok=bEAvBQ2U",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F7cfdc912-2543-45bc-8fb9-92c9ddaf12f0%2FDISCOVERY_LANDMARK_DETAIL_130526_02.jpg%3FVersionId%3Ddj6mNn5QDk89nYSWZHC33TVkOvLMjSN5&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL",
+    "https://media.production.jlrms.com/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=g1k1CYXQGq3uz1831ALjQ_YMc4qSvK0O",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=1akFMEV4pq80Rz.moLdofScuPef03z6P&itok=qVoSMDdN",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fc6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d%2FDISCOVERY_LANDMARK_DETAIL_130526_03.jpg%3FVersionId%3Dg1k1CYXQGq3uz1831ALjQ_YMc4qSvK0O&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL",
+    "https://media.production.jlrms.com/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=x6UVbQP.Lq.Fj_MsB5JKrwEGDSXjdMv5",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=ehFUlYvK4zrDQB30LH0rw4w4v5M.iCUL&itok=iROYFs3U",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fd9dc6dfb-805b-4a41-bcc8-07eecb2d3df0%2FDISCOVERY_LANDMARK_DETAIL_130526_04.jpg%3FVersionId%3Dx6UVbQP.Lq.Fj_MsB5JKrwEGDSXjdMv5&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL",
+    "https://media.production.jlrms.com/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=AhNC2LrKfZWs6DeWqJ1rtUnyYVM1yXxr",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=ngDDcoZ0c4SwP_5Y36LiY5Zy.3dyG1Oi&itok=8RB8HpDj",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ff29e0b29-9881-4724-be27-301873bb597d%2FDISCOVERY_LANDMARK_DETAIL_130526_01.jpg%3FVersionId%3DAhNC2LrKfZWs6DeWqJ1rtUnyYVM1yXxr&title=DISCOVERY%20LANDMARK%20%E2%80%91%20DETAIL",
+    "https://media.production.jlrms.com/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=5lUXcGmZdDHhfZNuAZ8qMY68IAW7Oier",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=XpQm39nfoNjUggkgu0G52ohbslwcTLk2&itok=0QGh5G5Q",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fea3e268b-b9c5-46ae-bbfe-4ac259e39fdd%2FDISCOVERY_LANDMARK_STUDIO_130526_06.jpg%3FVersionId%3D5lUXcGmZdDHhfZNuAZ8qMY68IAW7Oier&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO",
+    "https://media.production.jlrms.com/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=tFuuNhfMudbfuQwC9_Mt2cLwVXbk6Fct",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=I0B1myPfuPXeODMGVBz8VdPa5rGCcq3R&itok=WldRKPUQ",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fb87f5bf3-7702-4449-8502-e9eeca89bce5%2FDISCOVERY_LANDMARK_STUDIO_130526_03.jpg%3FVersionId%3DtFuuNhfMudbfuQwC9_Mt2cLwVXbk6Fct&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO",
+    "https://media.production.jlrms.com/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=s2w0GTVxP607_QnMxeKIkO9SQVRn9mb9",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=ku1UezePiU8Wp5c3Czarz7gV2IgCf5vT&itok=us5w2mts",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F5fa2ced4-0aea-4e41-a0dc-5d7e87071012%2FDISCOVERY_LANDMARK_STUDIO_130526_04.jpg%3FVersionId%3Ds2w0GTVxP607_QnMxeKIkO9SQVRn9mb9&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO",
+    "https://media.production.jlrms.com/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=rLWmGSTowKJbT.8I74RGr27Y_QmUkM4P",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=S2xixa9WCACDVVKwmaLTLebgxZzq8rcd&itok=2K3HirTW",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F676a29e2-a121-4e2d-a005-f33982d1473e%2FDISCOVERY_LANDMARK_STUDIO_130526_05.jpg%3FVersionId%3DrLWmGSTowKJbT.8I74RGr27Y_QmUkM4P&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO",
+    "https://media.production.jlrms.com/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=VYw9IIvytx9aTNo8heTCp.pQ.k9kk3De",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=OwJsqZ2VrDaK.wKZac0oiSyNY3nliU8o&itok=ChKq1N14",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F936d97f8-5106-46e9-99db-e68fff7295af%2FDISCOVERY_LANDMARK_STUDIO_130526_02.jpg%3FVersionId%3DVYw9IIvytx9aTNo8heTCp.pQ.k9kk3De&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO",
+    "https://media.production.jlrms.com/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=8Za1iuf0HmFk0ZcrKnDViU87Vnpu9NNy",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=vcvk8Gr5JA.fWfrs5xDL51KcouJ.9CJM&itok=AlfU5v7D",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ff4afd39c-80e1-4e0a-a932-2738c1268dc1%2FDISCOVERY_LANDMARK_STUDIO_130526_01.jpg%3FVersionId%3D8Za1iuf0HmFk0ZcrKnDViU87Vnpu9NNy&title=DISCOVERY%20LANDMARK%20%E2%80%91%20STUDIO",
+    "https://media.production.jlrms.com/2026-06-15/image/3ac4e165-fd21-4318-8ab1-eb8fee367b5c/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-113.jpg?VersionId=Gn1EGVupAdfiPw6RSVZfuy8nSsjpme.E",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-15/image/3ac4e165-fd21-4318-8ab1-eb8fee367b5c/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-113.jpg?VersionId=DCDVQd._UVt5WsA6ztanxkt1A7e16hKI&itok=kp9O8kCX",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2F3ac4e165-fd21-4318-8ab1-eb8fee367b5c%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-113.jpg%3FVersionId%3DGn1EGVupAdfiPw6RSVZfuy8nSsjpme.E&title=Discovery%20x%20Tempest",
+    "https://media.production.jlrms.com/2026-06-15/image/b16a0b6d-5403-41ff-8ce4-240a260ec209/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-114.jpg?VersionId=DMN36NS490ofEhQhvLepynmyzMH5nFjg",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-15/image/b16a0b6d-5403-41ff-8ce4-240a260ec209/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-114.jpg?VersionId=y8ft1GkoVsEEIWlv7NTXeGTVyhd_A9eQ&itok=qMvU51oQ",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2Fb16a0b6d-5403-41ff-8ce4-240a260ec209%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-114.jpg%3FVersionId%3DDMN36NS490ofEhQhvLepynmyzMH5nFjg&title=Discovery%20x%20Tempest",
+    "https://media.production.jlrms.com/2026-06-15/image/58d0c6f8-25e2-4710-a14f-a1d3247f0222/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-110.jpg?VersionId=pXU5aCPMSnJHdaDSIwZlJ3poo8KDDbd6",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-15/image/58d0c6f8-25e2-4710-a14f-a1d3247f0222/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-110.jpg?VersionId=wn.r9nhDvBCoegP0iUEwmVb9djAC.XPN&itok=LpxabTBJ",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2F58d0c6f8-25e2-4710-a14f-a1d3247f0222%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-110.jpg%3FVersionId%3DpXU5aCPMSnJHdaDSIwZlJ3poo8KDDbd6&title=Discovery%20x%20Tempest",
+    "https://media.production.jlrms.com/2026-06-15/image/bb7c2382-f4cb-46ca-8d92-0c0b7ae632fe/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-112.jpg?VersionId=zrFK3abu3eVM4AI0hfdTAD66DgZ1RND1",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-15/image/bb7c2382-f4cb-46ca-8d92-0c0b7ae632fe/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-112.jpg?VersionId=bMemjcurkMG5EcmvRQ.pnHGdKkrMCX90&itok=oQhaSGVk",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2Fbb7c2382-f4cb-46ca-8d92-0c0b7ae632fe%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-112.jpg%3FVersionId%3DzrFK3abu3eVM4AI0hfdTAD66DgZ1RND1&title=Discovery%20x%20Tempest",
+    "https://media.production.jlrms.com/2026-06-15/image/ae49ab3b-a996-40d4-916c-32f2154b82e9/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-111.jpg?VersionId=lMiUA03pXxtDcvkrOk9s1gPQZV.qLWwT",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-15/image/ae49ab3b-a996-40d4-916c-32f2154b82e9/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-111.jpg?VersionId=L5htuCUjcRUjvu6o2jG0YtNsLc2hUlP_&itok=6G-6tUC2",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-15%2Fimage%2Fae49ab3b-a996-40d4-916c-32f2154b82e9%2FDiscovery%20x%20Watergate%20Bay%20June_26%20%40ThisIsTimothy-111.jpg%3FVersionId%3DlMiUA03pXxtDcvkrOk9s1gPQZV.qLWwT&title=Discovery%20x%20Tempest",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/landroverdiscovery/",
+    "https://www.youtube.com/@landroverdiscovery",
+    "https://www.facebook.com/LandRoverDiscovery",
+    "https://x.com/LandRover",
+    "https://uk.linkedin.com/showcase/landroverdiscovery/",
+    "https://media.jlr.com/discovery/en-gb/images#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/discovery/en-gb/images#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/discovery-logo-dark.svg",
+        "alt": "Discovery logo",
+        "w": 169,
+        "h": 12
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2020-11/New_Discovery_V2.jpg?VersionId=xt2t01p_xpBfNOZ4qO9fi5_h7NpUoHZv&h=05abcc49&itok=uZOp4DoD",
+        "alt": "Discovery",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-06/Discovery-Sport-Thumb.jpg?VersionId=fHBZTomC7l2hICRXfj_VVdLufP.GyYpP&h=05abcc49&itok=19RyO1r9",
+        "alt": "Discovery Sport",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery%20Vision%20Concept.jpg?VersionId=LxyHR6mdtC237_ogFOkOn48fnBhJqfjC&h=05abcc49&itok=iOBZ781U",
+        "alt": "Discovery Vision Concept",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery.jpg?VersionId=idE85EC4N8qlgBPndqMPIj8k3mMu5Gf1&h=05abcc49&itok=0smOB2cA",
+        "alt": "Discovery 4",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=rjDx21r0hchebDQ_yaPCMAgRoWkcA9gE&h=2c715123&itok=6cA__LwG",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=VaYCFcmKKnOO8MtGHxbMPCotQIj7zx3F&h=2c715123&itok=NbEZKJor",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=s_VCf2KQHtGkDgEs1nw9PGuP_RlHrQGU&h=2c715123&itok=PE0mRx9X",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=hUVSa4jRdGlQjZ9Z2iwAY9tRVUUFmVfX&h=2c715123&itok=qV8IZcCY",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=js6cQFW644ZKFwdOrWL7It_2vrpGKSoS&h=2c715123&itok=N3no3zt-",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=L5fHHY0SqAzwNbnRQHiSGtVRukIVWx6k&h=2c715123&itok=js68UYNI",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=HVNKAJrp0i5ed9I67nUOTUngWDdyRne3&h=2c715123&itok=efM93z7P",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=6aVG.fGIdP.HvHufMedH0Pbw_GIxgh9j&h=2c715123&itok=4Oe70pv7",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=WPFgwql_7UP5ojJbW._zIg6Z3cob37Pq&h=2c715123&itok=BDbubnzF",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=hMuIJki3sDPp7OnUT8QRYeIdTNG_ftAP&h=a9935071&itok=NOEAHCOB",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=wEYYeNGZ46HoH8MDrUALYqtsPvHlikl4&h=2c715123&itok=W1ekUYCz",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=ghmbxXQsRsnMOUwJk2av1kWo4V3HtfTq&h=2c715123&itok=KK2Bum7s",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=H25on8HQcEKB6A2DR4S7Sl4EyFS3tCIe&h=624e512b&itok=OxP0G_tP",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/3ac4e165-fd21-4318-8ab1-eb8fee367b5c/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-113.jpg?VersionId=IIsNQlHdyq3XXzuAl55TD_PXCI.awV2Q&h=44063f39&itok=GLMrdnfh",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/b16a0b6d-5403-41ff-8ce4-240a260ec209/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-114.jpg?VersionId=5nFf0ezRyd.ZePYb0VCbfqBFkyXb4QlG&h=24fc7511&itok=i5HDy_FI",
+        "alt": "",
+        "w": 750,
+        "h": 421
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/58d0c6f8-25e2-4710-a14f-a1d3247f0222/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-110.jpg?VersionId=.BCWCUz8RNiiuMTW2ffIrcW7jgjlQlM1&h=473b2adb&itok=n0HTQNiq",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/bb7c2382-f4cb-46ca-8d92-0c0b7ae632fe/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-112.jpg?VersionId=j6R6tMPGo81JZlV75wAFFEjtGinjsJ6o&h=9881c18f&itok=tKWJDg9U",
+        "alt": "",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/ae49ab3b-a996-40d4-916c-32f2154b82e9/Discovery%20x%20Watergate%20Bay%20June_26%20@ThisIsTimothy-111.jpg?VersionId=z5lBnk.Tr18xP6BrM7rnkrngWBFxZfKC&h=24fc7511&itok=UYF16yAF",
+        "alt": "",
+        "w": 750,
+        "h": 421
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 33,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "DISCOVERY LANDMARK ‑ DETAIL Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+      "DISCOVERY LANDMARK ‑ DETAIL Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+      "DISCOVERY LANDMARK ‑ DETAIL Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+      "DISCOVERY LANDMARK ‑ DETAIL Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+      "DISCOVERY LANDMARK ‑ DETAIL Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+      "DISCOVERY LANDMARK ‑ DETAIL Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+      "DISCOVERY LANDMARK ‑ DETAIL Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing.",
+      "DISCOVERY LANDMARK ‑ STUDIO Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing",
+      "DISCOVERY LANDMARK ‑ STUDIO Download options High Resolution Low Resolution SHARE New Landmark edition showcases the breadth of Discovery’s talents, with a carefully curated specification including new Tasman blue paint and unique detailing"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "214px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 10,
+    "mainTextLen": 8985,
+    "realImageCount": 33,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/discovery/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/discovery/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c69e3acaddc5f",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/WfPOYTBj",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/WfPOYTBj",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/playlist/av/457cff63/avf/{n}/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 488,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/playlist/av/457cff63/avf/89966758/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MC04MDQ/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 15943893,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 74176,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891129~acl=%2F{uuid}%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/{uuid}/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 6473509,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891129~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Df51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529%2F%2A~hmac=a4f5d00a2a10d98c2177668715561fac4256a18d1a1fae5633b3314422212693/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=f51e0697bd597cca20f8003a4eecd6f233b5deeb1793887529/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 6
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 3
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1937,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 16,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/discovery-en-gb-images.png",
+  "renderedHtml": "pages/discovery-en-gb-images.html",
+  "type": "media-listing",
+  "typeFamily": "listing",
+  "typeBasis": "body.path-images + .new-grid",
+  "typeVariant": "images",
+  "site": "discovery",
+  "slots": {
+    "index-headline": "Images",
+    "result-count": null,
+    "filter-controls": {
+      "groups": [
+        "Vehicles",
+        "Current",
+        "CONCEPT",
+        "Past",
+        "Classic",
+        "Format",
+        "View",
+        "Tags",
+        "People",
+        "Model Year"
+      ],
+      "options": 71,
+      "refineButton": true
+    },
+    "pager": true,
+    "card-grid": [
+      {
+        "title": "DISCOVERY LANDMARK ‑ DETAIL",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=rjDx21r0hchebDQ_yaPCMAgRoWkcA9gE&h=2c715123&itok=6cA__LwG",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=mFQDDP7eV9PTHNBFfg01C5HjnWXgMhYt",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ DETAIL",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=VaYCFcmKKnOO8MtGHxbMPCotQIj7zx3F&h=2c715123&itok=NbEZKJor",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=pR.jOHMnDwjU5pOhs8FFtKEvfm9jT3Nc",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ DETAIL",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=s_VCf2KQHtGkDgEs1nw9PGuP_RlHrQGU&h=2c715123&itok=PE0mRx9X",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=j2nAZIWOXeL8wB1NqyDhoKHtofXzmnF2",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ DETAIL",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=hUVSa4jRdGlQjZ9Z2iwAY9tRVUUFmVfX&h=2c715123&itok=qV8IZcCY",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=dj6mNn5QDk89nYSWZHC33TVkOvLMjSN5",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ DETAIL",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=js6cQFW644ZKFwdOrWL7It_2vrpGKSoS&h=2c715123&itok=N3no3zt-",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=g1k1CYXQGq3uz1831ALjQ_YMc4qSvK0O",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ DETAIL",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=L5fHHY0SqAzwNbnRQHiSGtVRukIVWx6k&h=2c715123&itok=js68UYNI",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=x6UVbQP.Lq.Fj_MsB5JKrwEGDSXjdMv5",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ DETAIL",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=HVNKAJrp0i5ed9I67nUOTUngWDdyRne3&h=2c715123&itok=efM93z7P",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=AhNC2LrKfZWs6DeWqJ1rtUnyYVM1yXxr",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ STUDIO",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=6aVG.fGIdP.HvHufMedH0Pbw_GIxgh9j&h=2c715123&itok=4Oe70pv7",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=5lUXcGmZdDHhfZNuAZ8qMY68IAW7Oier",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ STUDIO",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=WPFgwql_7UP5ojJbW._zIg6Z3cob37Pq&h=2c715123&itok=BDbubnzF",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=tFuuNhfMudbfuQwC9_Mt2cLwVXbk6Fct",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ STUDIO",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=hMuIJki3sDPp7OnUT8QRYeIdTNG_ftAP&h=a9935071&itok=NOEAHCOB",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=s2w0GTVxP607_QnMxeKIkO9SQVRn9mb9",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ STUDIO",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=wEYYeNGZ46HoH8MDrUALYqtsPvHlikl4&h=2c715123&itok=W1ekUYCz",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=rLWmGSTowKJbT.8I74RGr27Y_QmUkM4P",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ STUDIO",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=ghmbxXQsRsnMOUwJk2av1kWo4V3HtfTq&h=2c715123&itok=KK2Bum7s",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=VYw9IIvytx9aTNo8heTCp.pQ.k9kk3De",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY LANDMARK ‑ STUDIO",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=H25on8HQcEKB6A2DR4S7Sl4EyFS3tCIe&h=624e512b&itok=OxP0G_tP",
+        "href": "https://media.production.jlrms.com/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=8Za1iuf0HmFk0ZcrKnDViU87Vnpu9NNy",
+        "download": null
+      },
+      {
+        "title": "Discovery x Tempest",
+        "date": "15 June 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/3ac4e165-fd21-4318-8ab1-eb8fee367b5c/Discovery x Watergate Bay June_26 @ThisIsTimothy-113.jpg?VersionId=IIsNQlHdyq3XXzuAl55TD_PXCI.awV2Q&h=44063f39&itok=GLMrdnfh",
+        "href": "https://media.production.jlrms.com/2026-06-15/image/3ac4e165-fd21-4318-8ab1-eb8fee367b5c/Discovery x Watergate Bay June_26 @ThisIsTimothy-113.jpg?VersionId=Gn1EGVupAdfiPw6RSVZfuy8nSsjpme.E",
+        "download": null
+      },
+      {
+        "title": "Discovery x Tempest",
+        "date": "15 June 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/b16a0b6d-5403-41ff-8ce4-240a260ec209/Discovery x Watergate Bay June_26 @ThisIsTimothy-114.jpg?VersionId=5nFf0ezRyd.ZePYb0VCbfqBFkyXb4QlG&h=24fc7511&itok=i5HDy_FI",
+        "href": "https://media.production.jlrms.com/2026-06-15/image/b16a0b6d-5403-41ff-8ce4-240a260ec209/Discovery x Watergate Bay June_26 @ThisIsTimothy-114.jpg?VersionId=DMN36NS490ofEhQhvLepynmyzMH5nFjg",
+        "download": null
+      },
+      {
+        "title": "Discovery x Tempest",
+        "date": "15 June 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/58d0c6f8-25e2-4710-a14f-a1d3247f0222/Discovery x Watergate Bay June_26 @ThisIsTimothy-110.jpg?VersionId=.BCWCUz8RNiiuMTW2ffIrcW7jgjlQlM1&h=473b2adb&itok=n0HTQNiq",
+        "href": "https://media.production.jlrms.com/2026-06-15/image/58d0c6f8-25e2-4710-a14f-a1d3247f0222/Discovery x Watergate Bay June_26 @ThisIsTimothy-110.jpg?VersionId=pXU5aCPMSnJHdaDSIwZlJ3poo8KDDbd6",
+        "download": null
+      },
+      {
+        "title": "Discovery x Tempest",
+        "date": "15 June 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/bb7c2382-f4cb-46ca-8d92-0c0b7ae632fe/Discovery x Watergate Bay June_26 @ThisIsTimothy-112.jpg?VersionId=j6R6tMPGo81JZlV75wAFFEjtGinjsJ6o&h=9881c18f&itok=tKWJDg9U",
+        "href": "https://media.production.jlrms.com/2026-06-15/image/bb7c2382-f4cb-46ca-8d92-0c0b7ae632fe/Discovery x Watergate Bay June_26 @ThisIsTimothy-112.jpg?VersionId=zrFK3abu3eVM4AI0hfdTAD66DgZ1RND1",
+        "download": null
+      },
+      {
+        "title": "Discovery x Tempest",
+        "date": "15 June 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-15/image/ae49ab3b-a996-40d4-916c-32f2154b82e9/Discovery x Watergate Bay June_26 @ThisIsTimothy-111.jpg?VersionId=z5lBnk.Tr18xP6BrM7rnkrngWBFxZfKC&h=24fc7511&itok=UYF16yAF",
+        "href": "https://media.production.jlrms.com/2026-06-15/image/ae49ab3b-a996-40d4-916c-32f2154b82e9/Discovery x Watergate Bay June_26 @ThisIsTimothy-111.jpg?VersionId=lMiUA03pXxtDcvkrOk9s1gPQZV.qLWwT",
+        "download": null
+      }
+    ],
+    "hero": null
+  }
+}

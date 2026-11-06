@@ -1,0 +1,61 @@
+/*
+ * table-pricing — variant / spec / price table in news article footnotes.
+ * Cell padding, colour and collapse from stardust/prototypes/css/
+ * defender-en-gb-news-2026-07-…-update.css (.article-footnotes__body table / td, th:
+ * padding 10px, #3c3c39, border-collapse) and body type from canon/tokens.css.
+ */
+
+.table-pricing {
+  width: 100%;
+  margin: 15px 0;
+  overflow-x: auto;
+}
+
+.table-pricing table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  color: #3c3c39;
+  font-family: var(--ff-body, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.table-pricing th,
+.table-pricing td {
+  padding: 10px;
+  text-align: right;
+  vertical-align: top;
+}
+
+.table-pricing thead tr {
+  background-color: #eee;
+}
+
+.table-pricing th {
+  font-weight: 400;
+}
+
+.table-pricing tbody tr {
+  border-bottom: 1px solid var(--c-body, #333);
+}
+
+.table-pricing th p,
+.table-pricing td p {
+  margin: 0;
+}
+
+.table-pricing td p + p {
+  margin-top: 0.25em;
+}
+
+.table-pricing.no-header tbody tr:first-child {
+  border-top: 1px solid var(--c-body, #333);
+}
+
+@media (width >= 768px) {
+  .table-pricing table {
+    font-size: 17px;
+    line-height: 27.2px;
+  }
+}

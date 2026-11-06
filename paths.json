@@ -1,0 +1,8 @@
+{
+  "mappings": [
+    "/content/jlr-xwalk/:/"
+  ],
+  "includes": [
+    "/content/jlr-xwalk/"
+  ]
+}

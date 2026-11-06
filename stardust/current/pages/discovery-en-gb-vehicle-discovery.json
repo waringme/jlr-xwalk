@@ -1,0 +1,1402 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:08:32.609Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "discovery-en-gb-vehicle-discovery",
+  "url": "https://media.jlr.com/discovery/en-gb/vehicle/discovery",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:08:32.609Z",
+  "finalUrl": "https://media.jlr.com/discovery/en-gb/vehicle/discovery?bundle=news",
+  "title": "Discovery",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Discovery"
+    },
+    {
+      "tag": "h1",
+      "text": "1701 Results"
+    },
+    {
+      "tag": "h4",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN‑SEAT FAMILY SUV"
+    },
+    {
+      "tag": "h4",
+      "text": "15 May 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY GEARS UP FOR LUXURIOUS ROAD TRIPS WITH NEW TEMPEST AND GEMINI EDITIONS"
+    },
+    {
+      "tag": "h4",
+      "text": "15 May 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY IS AUTOMOTIVE TOP DOG AT GOODWOOF 2025"
+    },
+    {
+      "tag": "h4",
+      "text": "11 July 2024"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY CELEBRATES 35 YEARS OF INGENIOUS VERSATILITY WITH ‘35TH EDITION’, A NEW ENGINE AND A SUMMER PROGRAMME OF UK EVENTS"
+    },
+    {
+      "tag": "h4",
+      "text": "14 October 2021"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover UK introduces New Discovery Metropolitan Edition and 23MY updates to Defender"
+    },
+    {
+      "tag": "h4",
+      "text": "10 November 2020"
+    },
+    {
+      "tag": "h3",
+      "text": "NEW DISCOVERY: EFFICIENT POWERTRAINS, ENHANCED CONNECTIVITY & MORE COMFORT FOR VERSATILE FAMILY SUV"
+    },
+    {
+      "tag": "h4",
+      "text": "17 April 2019"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER LAUNCHES NEW DISCOVERY LANDMARK EDITION"
+    },
+    {
+      "tag": "h4",
+      "text": "25 March 2019"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER HANDS OVER FIRST OF 70 DISCOVERY VEHICLES TO HIGHWAYS ENGLAND"
+    },
+    {
+      "tag": "h4",
+      "text": "17 January 2019"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER UK CELEBRATES 30 YEARS OF DISCOVERY WITH ANNIVERSARY EDITION"
+    },
+    {
+      "tag": "h4",
+      "text": "13 September 2018"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER PARTNERS WITH RAF CHINOOK DISPLAY TEAM"
+    },
+    {
+      "tag": "h4",
+      "text": "13 June 2018"
+    },
+    {
+      "tag": "h3",
+      "text": "NEW ENGINE AND SAFETY TECH FOR LAND ROVER DISCOVERY"
+    },
+    {
+      "tag": "h4",
+      "text": "19 March 2018"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER AND THE PRINCE’S COUNTRYSIDE FUND LAUNCH 2018 BURSARY TO SUPPORT YOUNG RURAL ENTREPRENEURS"
+    },
+    {
+      "tag": "h4",
+      "text": "04 November 2017"
+    },
+    {
+      "tag": "h3",
+      "text": "New Land Rover Discovery is 'Scottish Car of the Year 2017'"
+    },
+    {
+      "tag": "h4",
+      "text": "26 October 2017"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY EXPEDITION BEAMS THE DESERT INTO THE CLASSROOM"
+    },
+    {
+      "tag": "h4",
+      "text": "20 September 2017"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER DISCOVERY TOWS 110‑TONNE ROAD TRAIN ACROSS AUSTRALIAN OUTBACK"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "News (24)",
+    "Images (1594)",
+    "Image Packs (47)",
+    "Video (23)",
+    "Video Packs (7)",
+    "Press Kit (3)",
+    "Tech Specs (3)",
+    "Landmark edition headlines a suite of changes to the D...",
+    "Discovery has strengthened its family appeal by introd...",
+    "Land Rover has strengthened the appeal of the Discover...",
+    "New Discovery combines an exceptional design evolution...",
+    "The Land Rover Discovery has been raising the bar for ...",
+    "Land Rover has handed over the first of a new fleet o...",
+    "Land Rover marks the 30th anniversary of Discovery wit...",
+    "Land Rover will be assisting the famous RAF Chinook Di...",
+    "The new Discovery has cemented its position as the bes...",
+    "Thousands of children will explore the vast Jordanian ...",
+    "The Land Rover Discovery has taken on a 110‑tonne road...",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/discovery/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/discovery/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/discovery/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/discovery/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/discovery/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/discovery/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/discovery/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/discovery/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/discovery/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/discovery/en-gb/contact"
+    },
+    {
+      "label": "Discovery",
+      "href": "https://www.landrover.com/discovery/index.html"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "News",
+      "href": "/discovery/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/discovery/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/discovery/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/discovery/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/discovery/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/discovery/en-gb/tech-specs"
+    },
+    {
+      "label": "Search Discovery",
+      "href": null
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Fstyles%2Fhero_crop%2Fs3%2F2020-11-09%2Fimage%2F6cd98e75-9848-4982-bac9-a6e60d5b9072%2FLR_DISCO_21MY_STATIC_101120_01...jpg%3FVersionId%3Djr8Qc47SFRvtKZL4BJPGz_Mi_5AEWLGN%26h%3Db5a35e91%26itok%3DGBLbD83Q&title=Discovery"
+    },
+    {
+      "label": "News (24)",
+      "href": "#"
+    },
+    {
+      "label": "Images (1594)",
+      "href": "#"
+    },
+    {
+      "label": "Image Packs (47)",
+      "href": "#"
+    },
+    {
+      "label": "Video (23)",
+      "href": "#"
+    },
+    {
+      "label": "Video Packs (7)",
+      "href": "#"
+    },
+    {
+      "label": "Press Kit (3)",
+      "href": "#"
+    },
+    {
+      "label": "Tech Specs (3)",
+      "href": "#"
+    },
+    {
+      "label": "Refine By",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Tags",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "People",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Model Year",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN‑SEAT FAMILY SUV",
+      "href": "/discovery/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2026%2F07%2Fdiscovery-creates-new-landmark-seven-seat-family-suv&title=DISCOVERY%20CREATES%20A%20NEW%20LANDMARK%20FOR%20THE%20SEVEN%E2%80%91SEAT%20FAMILY%20SUV"
+    },
+    {
+      "label": "DISCOVERY GEARS UP FOR LUXURIOUS ROAD TRIPS WITH NEW TEMPEST AND GEMINI EDITIONS",
+      "href": "/discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2025%2F05%2Fdiscovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions&title=DISCOVERY%20GEARS%20UP%20FOR%20LUXURIOUS%20ROAD%20TRIPS%20WITH%20NEW%20TEMPEST%20AND%20GEMINI%20EDITIONS"
+    },
+    {
+      "label": "DISCOVERY IS AUTOMOTIVE TOP DOG AT GOODWOOF 2025",
+      "href": "/discovery/en-gb/news/2025/05/discovery-automotive-top-dog-goodwoof-2025"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2025%2F05%2Fdiscovery-automotive-top-dog-goodwoof-2025&title=DISCOVERY%20IS%20AUTOMOTIVE%20TOP%20DOG%20AT%20GOODWOOF%202025"
+    },
+    {
+      "label": "DISCOVERY CELEBRATES 35 YEARS OF INGENIOUS VERSATILITY WITH ‘35TH EDITION’, A NEW ENGINE AND A SUMMER PROGRAMME OF UK EVENTS",
+      "href": "/discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2024%2F07%2Fdiscovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer&title=DISCOVERY%20CELEBRATES%2035%20YEARS%20OF%20INGENIOUS%20VERSATILITY%20WITH%20%E2%80%9835TH%20EDITION%E2%80%99%2C%20A%20NEW%20ENGINE%20AND%20A%20SUMMER%20PROGRAMME%20OF%20UK%20EVENTS"
+    },
+    {
+      "label": "Land Rover UK introduces New Discovery Metropolitan Edition and 23MY updates to Defender",
+      "href": "/discovery/en-gb/news/2021/10/land-rover-uk-introduces-new-discovery-metropolitan-edition-and-23my-updates-defender"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2021%2F10%2Fland-rover-uk-introduces-new-discovery-metropolitan-edition-and-23my-updates-defender&title=Land%20Rover%20UK%20introduces%20New%20Discovery%20Metropolitan%20Edition%20and%2023MY%20updates%20to%20Defender"
+    },
+    {
+      "label": "NEW DISCOVERY: EFFICIENT POWERTRAINS, ENHANCED CONNECTIVITY & MORE COMFORT FOR VERSATILE FAMILY SUV",
+      "href": "/discovery/en-gb/news/2020/11/new-discovery-efficient-powertrains-enhanced-connectivity-more-comfort-versatile"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2020%2F11%2Fnew-discovery-efficient-powertrains-enhanced-connectivity-more-comfort-versatile&title=NEW%20DISCOVERY%3A%20EFFICIENT%20POWERTRAINS%2C%20ENHANCED%20CONNECTIVITY%20%26%20MORE%20COMFORT%20FOR%20VERSATILE%20FAMILY%20SUV"
+    },
+    {
+      "label": "LAND ROVER LAUNCHES NEW DISCOVERY LANDMARK EDITION",
+      "href": "/discovery/en-gb/news/2019/04/land-rover-launches-new-discovery-landmark-edition"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2019%2F04%2Fland-rover-launches-new-discovery-landmark-edition&title=LAND%20ROVER%20LAUNCHES%20NEW%20DISCOVERY%20LANDMARK%20EDITION"
+    },
+    {
+      "label": "LAND ROVER HANDS OVER FIRST OF 70 DISCOVERY VEHICLES TO HIGHWAYS ENGLAND",
+      "href": "/discovery/en-gb/news/2019/03/land-rover-hands-over-first-70-discovery-vehicles-highways-england"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2019%2F03%2Fland-rover-hands-over-first-70-discovery-vehicles-highways-england&title=LAND%20ROVER%20HANDS%20OVER%20FIRST%20OF%2070%20DISCOVERY%20VEHICLES%20TO%20HIGHWAYS%20ENGLAND"
+    },
+    {
+      "label": "LAND ROVER UK CELEBRATES 30 YEARS OF DISCOVERY WITH ANNIVERSARY EDITION",
+      "href": "/discovery/en-gb/news/2019/01/land-rover-uk-celebrates-30-years-discovery-anniversary-edition"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2019%2F01%2Fland-rover-uk-celebrates-30-years-discovery-anniversary-edition&title=LAND%20ROVER%20UK%20CELEBRATES%2030%20YEARS%20OF%20DISCOVERY%20WITH%20ANNIVERSARY%20EDITION"
+    },
+    {
+      "label": "LAND ROVER PARTNERS WITH RAF CHINOOK DISPLAY TEAM",
+      "href": "/discovery/en-gb/news/2018/09/land-rover-partners-raf-chinook-display-team"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2018%2F09%2Fland-rover-partners-raf-chinook-display-team&title=LAND%20ROVER%20PARTNERS%20WITH%20RAF%20CHINOOK%20DISPLAY%20TEAM"
+    },
+    {
+      "label": "NEW ENGINE AND SAFETY TECH FOR LAND ROVER DISCOVERY",
+      "href": "/discovery/en-gb/news/2018/06/new-engine-and-safety-tech-land-rover-discovery"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2018%2F06%2Fnew-engine-and-safety-tech-land-rover-discovery&title=NEW%20ENGINE%20AND%20SAFETY%20TECH%20FOR%20LAND%20ROVER%20DISCOVERY"
+    },
+    {
+      "label": "LAND ROVER AND THE PRINCE’S COUNTRYSIDE FUND LAUNCH 2018 BURSARY TO SUPPORT YOUNG RURAL ENTREPRENEURS",
+      "href": "/discovery/en-gb/news/2018/03/land-rover-and-princes-countryside-fund-launch-2018-bursary-support-young-rural"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2018%2F03%2Fland-rover-and-princes-countryside-fund-launch-2018-bursary-support-young-rural&title=LAND%20ROVER%20AND%20THE%20PRINCE%E2%80%99S%20COUNTRYSIDE%20FUND%20LAUNCH%202018%20BURSARY%20TO%20SUPPORT%20YOUNG%20RURAL%20ENTREPRENEURS"
+    },
+    {
+      "label": "New Land Rover Discovery is 'Scottish Car of the Year 2017'",
+      "href": "/discovery/en-gb/news/2017/11/new-land-rover-discovery-scottish-car-year-2017"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2017%2F11%2Fnew-land-rover-discovery-scottish-car-year-2017&title=New%20Land%20Rover%20Discovery%20is%20%27Scottish%20Car%20of%20the%20Year%202017%27"
+    },
+    {
+      "label": "DISCOVERY EXPEDITION BEAMS THE DESERT INTO THE CLASSROOM",
+      "href": "/discovery/en-gb/news/2017/10/discovery-expedition-beams-desert-classroom"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2017%2F10%2Fdiscovery-expedition-beams-desert-classroom&title=DISCOVERY%20EXPEDITION%20BEAMS%20THE%20DESERT%20INTO%20THE%20CLASSROOM"
+    },
+    {
+      "label": "LAND ROVER DISCOVERY TOWS 110‑TONNE ROAD TRAIN ACROSS AUSTRALIAN OUTBACK",
+      "href": "/discovery/en-gb/news/2017/09/land-rover-discovery-tows-110-tonne-road-train-across-australian-outback"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2017%2F09%2Fland-rover-discovery-tows-110-tonne-road-train-across-australian-outback&title=LAND%20ROVER%20DISCOVERY%20TOWS%20110%E2%80%91TONNE%20ROAD%20TRAIN%20ACROSS%20AUSTRALIAN%20OUTBACK"
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/discovery/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/discovery/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/discovery/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/discovery/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery?bundle=news#main-content",
+    "https://media.jlr.com/discovery/zh-cn",
+    "https://media.jlr.com/discovery/fr-fr",
+    "https://media.jlr.com/discovery/de-de",
+    "https://media.jlr.com/discovery/",
+    "https://media.jlr.com/discovery/it-it",
+    "https://media.jlr.com/discovery/en-us",
+    "https://media.jlr.com/discovery/es-es",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/discovery/en-gb/cart",
+    "https://media.jlr.com/discovery/en-gb/contact",
+    "https://media.jlr.com/discovery/en-gb/",
+    "https://www.landrover.com/discovery/index.html",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/discovery/en-gb/terms-and-conditions",
+    "https://media.jlr.com/discovery/en-gb/user-licence",
+    "https://media.jlr.com/discovery/en-gb/cookies",
+    "https://media.jlr.com/discovery/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/discovery/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/discovery/en-gb/news",
+    "https://media.jlr.com/discovery/en-gb/image-packs",
+    "https://media.jlr.com/discovery/en-gb/videos",
+    "https://media.jlr.com/discovery/en-gb/directors",
+    "https://media.jlr.com/discovery/en-gb/press-kit",
+    "https://media.jlr.com/discovery/en-gb/tech-specs",
+    "javascript:void(0)",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-sport",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-4",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2Fstyles%2Fhero_crop%2Fs3%2F2020-11-09%2Fimage%2F6cd98e75-9848-4982-bac9-a6e60d5b9072%2FLR_DISCO_21MY_STATIC_101120_01...jpg%3FVersionId%3Djr8Qc47SFRvtKZL4BJPGz_Mi_5AEWLGN%26h%3Db5a35e91%26itok%3DGBLbD83Q&title=Discovery",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery?bundle=news#",
+    "https://media.jlr.com/discovery/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+    "https://media.production.jlrms.com/2026-06/Discovery%2027MY%20UK%20Release.zip?VersionId=CZB4gpGOu5v21TUVPi08pgv4ywu3Hcit",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2026%2F07%2Fdiscovery-creates-new-landmark-seven-seat-family-suv&title=DISCOVERY%20CREATES%20A%20NEW%20LANDMARK%20FOR%20THE%20SEVEN%E2%80%91SEAT%20FAMILY%20SUV",
+    "https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+    "https://media.production.jlrms.com/2025-05/Discovery%2026MY%20Press%20Release%20UK%20Final_0.zip?VersionId=HfpdZ6Kmq3A.88gE2O5lR61UhEYNNsut",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2025%2F05%2Fdiscovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions&title=DISCOVERY%20GEARS%20UP%20FOR%20LUXURIOUS%20ROAD%20TRIPS%20WITH%20NEW%20TEMPEST%20AND%20GEMINI%20EDITIONS",
+    "https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-automotive-top-dog-goodwoof-2025",
+    "https://media.production.jlrms.com/download_archives/d492b668-959c-4174-ac5c-b1a8064c3592/en-gb/discovery-is-automot.zip?VersionId=R86bLymPBeNimmQZfYmg_gjg.IFMIQV_",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2025%2F05%2Fdiscovery-automotive-top-dog-goodwoof-2025&title=DISCOVERY%20IS%20AUTOMOTIVE%20TOP%20DOG%20AT%20GOODWOOF%202025",
+    "https://media.jlr.com/discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+    "https://media.production.jlrms.com/download_archives/4171d821-9977-45a2-bed9-be09bb82f609/en-gb/discovery-celebrates.zip?VersionId=HVmlW0bn2qGN5GkxnNoNhTIqlwlo49Zn",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2024%2F07%2Fdiscovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer&title=DISCOVERY%20CELEBRATES%2035%20YEARS%20OF%20INGENIOUS%20VERSATILITY%20WITH%20%E2%80%9835TH%20EDITION%E2%80%99%2C%20A%20NEW%20ENGINE%20AND%20A%20SUMMER%20PROGRAMME%20OF%20UK%20EVENTS",
+    "https://media.jlr.com/discovery/en-gb/news/2021/10/land-rover-uk-introduces-new-discovery-metropolitan-edition-and-23my-updates-defender",
+    "https://media.production.jlrms.com/download_archives/c7353614-38e2-434b-960c-05f51940eadf/en-gb/land-rover-uk-introd.zip?VersionId=JkcWaI5NWI0qaccxmhAV3i31_iSwjahe",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2021%2F10%2Fland-rover-uk-introduces-new-discovery-metropolitan-edition-and-23my-updates-defender&title=Land%20Rover%20UK%20introduces%20New%20Discovery%20Metropolitan%20Edition%20and%2023MY%20updates%20to%20Defender",
+    "https://media.jlr.com/discovery/en-gb/news/2020/11/new-discovery-efficient-powertrains-enhanced-connectivity-more-comfort-versatile",
+    "https://media.production.jlrms.com/download_archives/b136c162-46a7-4f06-8042-ab20300ae406/en-gb/new-discovery-effici.zip",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2020%2F11%2Fnew-discovery-efficient-powertrains-enhanced-connectivity-more-comfort-versatile&title=NEW%20DISCOVERY%3A%20EFFICIENT%20POWERTRAINS%2C%20ENHANCED%20CONNECTIVITY%20%26%20MORE%20COMFORT%20FOR%20VERSATILE%20FAMILY%20SUV",
+    "https://media.jlr.com/discovery/en-gb/news/2019/04/land-rover-launches-new-discovery-landmark-edition",
+    "https://media.production.jlrms.com/download_archives/2ea954e6-12c1-4b81-8519-c7190da59ca9/land-rover-launches-.zip?VersionId=CInN5wScTVrio8fcWXu_l5butSY4d3Rx",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2019%2F04%2Fland-rover-launches-new-discovery-landmark-edition&title=LAND%20ROVER%20LAUNCHES%20NEW%20DISCOVERY%20LANDMARK%20EDITION",
+    "https://media.jlr.com/discovery/en-gb/news/2019/03/land-rover-hands-over-first-70-discovery-vehicles-highways-england",
+    "https://media.production.jlrms.com/download_archives/f6e04afe-c21f-4216-9be1-58e23e32b080/-land-rover-hands-ov.zip?VersionId=w_bXBuCUvDUb_UxsKJK6bT69VvLlL5ow",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2019%2F03%2Fland-rover-hands-over-first-70-discovery-vehicles-highways-england&title=LAND%20ROVER%20HANDS%20OVER%20FIRST%20OF%2070%20DISCOVERY%20VEHICLES%20TO%20HIGHWAYS%20ENGLAND",
+    "https://media.jlr.com/discovery/en-gb/news/2019/01/land-rover-uk-celebrates-30-years-discovery-anniversary-edition",
+    "https://media.production.jlrms.com/download_archives/a07637f0-f5fd-4e58-ae00-ca3d26764b6f/land-rover-uk-celebr.zip?VersionId=SaaYKkEbCo5SBvQIB7PlZxccWd3q99bU",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2019%2F01%2Fland-rover-uk-celebrates-30-years-discovery-anniversary-edition&title=LAND%20ROVER%20UK%20CELEBRATES%2030%20YEARS%20OF%20DISCOVERY%20WITH%20ANNIVERSARY%20EDITION",
+    "https://media.jlr.com/discovery/en-gb/news/2018/09/land-rover-partners-raf-chinook-display-team",
+    "https://media.production.jlrms.com/download_archives/15d74030-078d-41d9-9e4e-78ff66e6edfa/land-rover-partners-.zip?VersionId=fBf78iI4GBUvrqAjHOEzmMEiH7.8xru8",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2018%2F09%2Fland-rover-partners-raf-chinook-display-team&title=LAND%20ROVER%20PARTNERS%20WITH%20RAF%20CHINOOK%20DISPLAY%20TEAM",
+    "https://media.jlr.com/discovery/en-gb/news/2018/06/new-engine-and-safety-tech-land-rover-discovery",
+    "https://media.production.jlrms.com/download_archives/a3e5e766-0571-4baf-a004-4ec254b18b92/new-engine-and-safet.zip?VersionId=D_wAvQHdlvi8KYOr305_i5cSgtRSTLn0",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2018%2F06%2Fnew-engine-and-safety-tech-land-rover-discovery&title=NEW%20ENGINE%20AND%20SAFETY%20TECH%20FOR%20LAND%20ROVER%20DISCOVERY",
+    "https://media.jlr.com/discovery/en-gb/news/2018/03/land-rover-and-princes-countryside-fund-launch-2018-bursary-support-young-rural",
+    "https://media.production.jlrms.com/download_archives/33bcc6f4-5bdf-4c78-b100-f7db1f5a063b/land-rover-and-the-p.zip?VersionId=8P9WvxHsnMHIncAFI3qr2P7R6x9fXnG4",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2018%2F03%2Fland-rover-and-princes-countryside-fund-launch-2018-bursary-support-young-rural&title=LAND%20ROVER%20AND%20THE%20PRINCE%E2%80%99S%20COUNTRYSIDE%20FUND%20LAUNCH%202018%20BURSARY%20TO%20SUPPORT%20YOUNG%20RURAL%20ENTREPRENEURS",
+    "https://media.jlr.com/discovery/en-gb/news/2017/11/new-land-rover-discovery-scottish-car-year-2017",
+    "https://media.production.jlrms.com/download_archives/72e22ad7-d016-4c8c-9808-8cbda6eff585/new-land-rover-disco.zip?VersionId=y7pZ9ieJJ_jV4iMIAJSdA5Ss_PRH5QC6",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2017%2F11%2Fnew-land-rover-discovery-scottish-car-year-2017&title=New%20Land%20Rover%20Discovery%20is%20%27Scottish%20Car%20of%20the%20Year%202017%27",
+    "https://media.jlr.com/discovery/en-gb/news/2017/10/discovery-expedition-beams-desert-classroom",
+    "https://media.production.jlrms.com/download_archives/11fb4e5e-9fe2-4c32-ab06-6a7b8765d1f1/discovery-expedition.zip?VersionId=HQdTDvNryOxviwVGZCn3VTi4KGwyAMCP",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2017%2F10%2Fdiscovery-expedition-beams-desert-classroom&title=DISCOVERY%20EXPEDITION%20BEAMS%20THE%20DESERT%20INTO%20THE%20CLASSROOM",
+    "https://media.jlr.com/discovery/en-gb/news/2017/09/land-rover-discovery-tows-110-tonne-road-train-across-australian-outback",
+    "https://media.production.jlrms.com/download_archives/4522831c-8779-47c2-8309-09337d3bb480/land-rover-discovery.zip?VersionId=O5tYH_ZXXVaLr5pbrNm6yteOL9SDGsdb",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Fdiscovery%2Fen-gb%2Fnews%2F2017%2F09%2Fland-rover-discovery-tows-110-tonne-road-train-across-australian-outback&title=LAND%20ROVER%20DISCOVERY%20TOWS%20110%E2%80%91TONNE%20ROAD%20TRAIN%20ACROSS%20AUSTRALIAN%20OUTBACK",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/landroverdiscovery/",
+    "https://www.youtube.com/@landroverdiscovery",
+    "https://www.facebook.com/LandRoverDiscovery",
+    "https://x.com/LandRover",
+    "https://uk.linkedin.com/showcase/landroverdiscovery/",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery?bundle=news#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/discovery-logo-dark.svg",
+        "alt": "Discovery logo",
+        "w": 169,
+        "h": 12
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2020-11/New_Discovery_V2.jpg?VersionId=xt2t01p_xpBfNOZ4qO9fi5_h7NpUoHZv&h=05abcc49&itok=uZOp4DoD",
+        "alt": "Discovery",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-06/Discovery-Sport-Thumb.jpg?VersionId=fHBZTomC7l2hICRXfj_VVdLufP.GyYpP&h=05abcc49&itok=19RyO1r9",
+        "alt": "Discovery Sport",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery%20Vision%20Concept.jpg?VersionId=LxyHR6mdtC237_ogFOkOn48fnBhJqfjC&h=05abcc49&itok=iOBZ781U",
+        "alt": "Discovery Vision Concept",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery.jpg?VersionId=idE85EC4N8qlgBPndqMPIj8k3mMu5Gf1&h=05abcc49&itok=0smOB2cA",
+        "alt": "Discovery 4",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/2020-11-09/image/6cd98e75-9848-4982-bac9-a6e60d5b9072/LR_DISCO_21MY_STATIC_101120_01...jpg?VersionId=jr8Qc47SFRvtKZL4BJPGz_Mi_5AEWLGN&h=b5a35e91&itok=GBLbD83Q",
+        "alt": "",
+        "w": 1200,
+        "h": 451
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/2020-11-09/image/6cd98e75-9848-4982-bac9-a6e60d5b9072/LR_DISCO_21MY_STATIC_101120_01...jpg?VersionId=jr8Qc47SFRvtKZL4BJPGz_Mi_5AEWLGN&h=b5a35e91&itok=GBLbD83Q",
+        "alt": "",
+        "w": 1200,
+        "h": 451
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2020-11-09/image/e670aa94-b20b-4b52-a9ad-6fad27dedec1/LR_DISCO_21MY_CORE_101120_02.jpg?VersionId=RGORRkD5EtpmcgKk0DUuU4eR6ZarMGo3&h=57c19e58&itok=etO4QlA9",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2020-11-09/image/89d0f6b8-a8e8-40c5-9b9f-595160548a33/LR_DISCO_21MY_CORE_101120_06.jpg?VersionId=4KrOs7I9mG6Of5I40Xb6i2BdZvG.RwSS&h=57c19e58&itok=BbVSMa9v",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=H25on8HQcEKB6A2DR4S7Sl4EyFS3tCIe&h=624e512b&itok=OxP0G_tP",
+        "alt": "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN‑SEAT FAMILY SUV",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2025-05-14/image/3fa83c45-423c-4da8-ae4e-106b57277373/DISCOVERY_TEMPEST_14052025_03.jpg?VersionId=4I4kEX7JkiEcyfbL94yeX_Y.CVJDy_E6&h=aeedff98&itok=J8lYvzjj",
+        "alt": "DISCOVERY GEARS UP FOR LUXURIOUS ROAD TRIPS WITH NEW TEMPEST AND GEMINI EDITIONS",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2025-05-14/image/4206e703-7a07-46cc-b1c1-1944e83cc955/DISCOVERY%20AT%20GOODWOOF.JPG?VersionId=HJH7fpPaobv2rkdxQzU5iEmXnflnu5NP&h=c33b2c72&itok=jgIGx42O",
+        "alt": "DISCOVERY IS AUTOMOTIVE TOP DOG AT GOODWOOF 2025",
+        "w": 750,
+        "h": 421
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2024-07-31/image/d9cc4cfe-ed76-4b27-877c-1cd3752798a5/L46224UK_303101655_021.jpg?VersionId=0bC1rI5gdB9B3X1w0rF_q28wXz725Nsh&h=16381191&itok=UPBaHx9I",
+        "alt": "DISCOVERY CELEBRATES 35 YEARS OF INGENIOUS VERSATILITY WITH ‘35TH EDITION’, A NEW ENGINE AND A SUMMER PROGRAMME OF UK EVENTS",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2021-10-12/image/8eb43c02-377d-4e8a-8ba1-c81de7ff89da/LR_DISCO_23MY_METROPOLITAN_141021_01.jpg?VersionId=3GdDcz7po..iPrK7xRTuGLNQSRWv5Tax&h=e7586a2a&itok=p5zLaXpE",
+        "alt": "Land Rover UK introduces New Discovery Metropolitan Edition and 23MY updates to Defender",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2020-11-09/image/6cd98e75-9848-4982-bac9-a6e60d5b9072/LR_DISCO_21MY_STATIC_101120_01...jpg?VersionId=fH3hMeX.13QVVu1qPr.cX71ymet18GBr&h=acf63ddf&itok=CScwiRXN",
+        "alt": "NEW DISCOVERY: EFFICIENT POWERTRAINS, ENHANCED CONNECTIVITY & MORE COMFORT FOR VERSATILE FAMILY SUV",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/96cd64fa-0987-4546-a89d-9e23ca8b881e/lrdiscoverlandmark20my17041901.jpg?VersionId=PTflvlbCvo9JiO2fdbbUU3_7_8Q9DqFT&h=ab5caae7&itok=XdUvnKLz",
+        "alt": "LAND ROVER LAUNCHES NEW DISCOVERY LANDMARK EDITION",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/b9ec8fc7-3e71-47d1-b138-69a42306e49b/16936sw9638.jpg?VersionId=Qa7JJ.w9Gop1oV7slCDn907vjZ3ywhsf&h=b031ede4&itok=CtuHvmr7",
+        "alt": "LAND ROVER HANDS OVER FIRST OF 70 DISCOVERY VEHICLES TO HIGHWAYS ENGLAND",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/e796cd7e-09d5-4202-9b0b-0be8d9aaecd5/image1lowrestest.jpg?VersionId=HRyjgVfUaegvn0bQlqvHlmwdRclazpmn&h=13ea208c&itok=3PQAPImL",
+        "alt": "LAND ROVER UK CELEBRATES 30 YEARS OF DISCOVERY WITH ANNIVERSARY EDITION",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/31d1288f-985d-4e79-8c87-cc8615272968/odi20180828558038.jpg?VersionId=Y.54mOu4ca0fCrSQXHBYnIRwndyooabv&h=da5e04f2&itok=pZFmLNMQ",
+        "alt": "LAND ROVER PARTNERS WITH RAF CHINOOK DISPLAY TEAM",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/b1301c41-dd69-4604-bf43-777426397f60/lrdiscovery19my060601.jpg?VersionId=JsklNsv1YaIdbN6ztVlfL8BsqITuSay4&h=f75479b4&itok=LVUuixT6",
+        "alt": "NEW ENGINE AND SAFETY TECH FOR LAND ROVER DISCOVERY",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/975c1a15-66f4-4954-bccd-1cbaaf22f772/leadimage.jpg?VersionId=08sv0sq3w75RuhIIl4JQi9MErVohNj9i&h=34177f07&itok=FKEkLWen",
+        "alt": "LAND ROVER AND THE PRINCE’S COUNTRYSIDE FUND LAUNCH 2018 BURSARY TO SUPPORT YOUNG RURAL ENTREPRENEURS",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/d02b51ef-d948-41c6-ba3f-5fe354af2946/ppascaalandroverdiscovery24.jpg?VersionId=6W3DfTX.xnTXmM2NlN5dTMIfJFS6.t4A&h=1cb87e65&itok=zNCmkOFP",
+        "alt": "New Land Rover Discovery is 'Scottish Car of the Year 2017'",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/e291aabd-cbb6-4c51-a824-2af61edd4703/expeditionleaderfearghalonuillanandgeographyteachmissjguestwithstpetersrcschoolstudents.jpg?VersionId=eLsR4xUMYelfP_DLGAVOCrfZc2_kmFMx&h=162f7867&itok=RGsVmiDx",
+        "alt": "DISCOVERY EXPEDITION BEAMS THE DESERT INTO THE CLASSROOM",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/7ec28340-baed-4030-91db-463b9b24f0c2/lrdiscovery18mytrainpull30081703.jpg?VersionId=_N7BPdEC4wgBsg3aUTh92yEVgNWPwgYs&h=df37c15f&itok=Qxyv4tMH",
+        "alt": "LAND ROVER DISCOVERY TOWS 110‑TONNE ROAD TRAIN ACROSS AUSTRALIAN OUTBACK",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 34,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "× SUBSCRIBE TO OUR NEWSLETTER Name * Email * Contact me by fax only I agree to be emailed * Subscribe"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "206px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 35,
+    "mainTextLen": 5565,
+    "realImageCount": 34,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/discovery/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/discovery/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "media.jlr.com",
+        "path": "/discovery/en-gb/api/facet-data",
+        "query": [
+          "bundle",
+          "bundleFacets",
+          "facets",
+          "isvehicle",
+          "json",
+          "vehicle"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://media.jlr.com/discovery/en-gb/api/facet-data",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c6e052fdd4d20",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/iJZCnZd1",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/iJZCnZd1",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/playlist/av/457cff63/avf/{n}/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 488,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/playlist/av/457cff63/avf/89966758/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MC04MDQ/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 15943893,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 74176,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891298~acl=%2F{uuid}%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/{uuid}/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 6473509,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891298~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698%2F%2A~hmac=0b42880ed065dcbaf1ab8d45e68aab3c6e4c354c3b37c0ddcf731054bd307aac/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=2971ebf36f5109a8359f64c8516e94c2b1917c1e1793887698/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 6
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 3
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1953,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 16,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/discovery-en-gb-vehicle-discovery.png",
+  "renderedHtml": "pages/discovery-en-gb-vehicle-discovery.html",
+  "type": "vehicle-detail",
+  "typeFamily": "listing",
+  "typeBasis": "body.path-vehicle + .vehicle-page",
+  "site": "discovery",
+  "slots": {
+    "index-headline": "Discovery",
+    "result-count": "1701 Results",
+    "filter-controls": {
+      "groups": [
+        "Tags",
+        "People",
+        "Model Year"
+      ],
+      "options": 25,
+      "refineButton": true
+    },
+    "pager": true,
+    "card-grid": [
+      {
+        "title": "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN‑SEAT FAMILY SUV",
+        "date": "01 July 2026",
+        "text": "Landmark edition headlines a suite of changes to the D...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=H25on8HQcEKB6A2DR4S7Sl4EyFS3tCIe&h=624e512b&itok=OxP0G_tP",
+        "href": "/discovery/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY GEARS UP FOR LUXURIOUS ROAD TRIPS WITH NEW TEMPEST AND GEMINI EDITIONS",
+        "date": "15 May 2025",
+        "text": "Discovery has strengthened its family appeal by introd...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2025-05-14/image/3fa83c45-423c-4da8-ae4e-106b57277373/DISCOVERY_TEMPEST_14052025_03.jpg?VersionId=4I4kEX7JkiEcyfbL94yeX_Y.CVJDy_E6&h=aeedff98&itok=J8lYvzjj",
+        "href": "/discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY IS AUTOMOTIVE TOP DOG AT GOODWOOF 2025",
+        "date": "15 May 2025",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2025-05-14/image/4206e703-7a07-46cc-b1c1-1944e83cc955/DISCOVERY AT GOODWOOF.JPG?VersionId=HJH7fpPaobv2rkdxQzU5iEmXnflnu5NP&h=c33b2c72&itok=jgIGx42O",
+        "href": "/discovery/en-gb/news/2025/05/discovery-automotive-top-dog-goodwoof-2025",
+        "download": "https://media.production.jlrms.com/download_archives/d492b668-959c-4174-ac5c-b1a8064c3592/en-gb/discovery-is-automot.zip?VersionId=R86bLymPBeNimmQZfYmg_gjg.IFMIQV_"
+      },
+      {
+        "title": "DISCOVERY CELEBRATES 35 YEARS OF INGENIOUS VERSATILITY WITH ‘35TH EDITION’, A NEW ENGINE AND A SUMMER PROGRAMME OF UK EVENTS",
+        "date": "11 July 2024",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2024-07-31/image/d9cc4cfe-ed76-4b27-877c-1cd3752798a5/L46224UK_303101655_021.jpg?VersionId=0bC1rI5gdB9B3X1w0rF_q28wXz725Nsh&h=16381191&itok=UPBaHx9I",
+        "href": "/discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+        "download": "https://media.production.jlrms.com/download_archives/4171d821-9977-45a2-bed9-be09bb82f609/en-gb/discovery-celebrates.zip?VersionId=HVmlW0bn2qGN5GkxnNoNhTIqlwlo49Zn"
+      },
+      {
+        "title": "Land Rover UK introduces New Discovery Metropolitan Edition and 23MY updates to Defender",
+        "date": "14 October 2021",
+        "text": "Land Rover has strengthened the appeal of the Discover...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2021-10-12/image/8eb43c02-377d-4e8a-8ba1-c81de7ff89da/LR_DISCO_23MY_METROPOLITAN_141021_01.jpg?VersionId=3GdDcz7po..iPrK7xRTuGLNQSRWv5Tax&h=e7586a2a&itok=p5zLaXpE",
+        "href": "/discovery/en-gb/news/2021/10/land-rover-uk-introduces-new-discovery-metropolitan-edition-and-23my-updates-defender",
+        "download": "https://media.production.jlrms.com/download_archives/c7353614-38e2-434b-960c-05f51940eadf/en-gb/land-rover-uk-introd.zip?VersionId=JkcWaI5NWI0qaccxmhAV3i31_iSwjahe"
+      },
+      {
+        "title": "NEW DISCOVERY: EFFICIENT POWERTRAINS, ENHANCED CONNECTIVITY & MORE COMFORT FOR VERSATILE FAMILY SUV",
+        "date": "10 November 2020",
+        "text": "New Discovery combines an exceptional design evolution...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2020-11-09/image/6cd98e75-9848-4982-bac9-a6e60d5b9072/LR_DISCO_21MY_STATIC_101120_01...jpg?VersionId=fH3hMeX.13QVVu1qPr.cX71ymet18GBr&h=acf63ddf&itok=CScwiRXN",
+        "href": "/discovery/en-gb/news/2020/11/new-discovery-efficient-powertrains-enhanced-connectivity-more-comfort-versatile",
+        "download": "https://media.production.jlrms.com/download_archives/b136c162-46a7-4f06-8042-ab20300ae406/en-gb/new-discovery-effici.zip"
+      },
+      {
+        "title": "LAND ROVER LAUNCHES NEW DISCOVERY LANDMARK EDITION",
+        "date": "17 April 2019",
+        "text": "The Land Rover Discovery has been raising the bar for ...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/96cd64fa-0987-4546-a89d-9e23ca8b881e/lrdiscoverlandmark20my17041901.jpg?VersionId=PTflvlbCvo9JiO2fdbbUU3_7_8Q9DqFT&h=ab5caae7&itok=XdUvnKLz",
+        "href": "/discovery/en-gb/news/2019/04/land-rover-launches-new-discovery-landmark-edition",
+        "download": "https://media.production.jlrms.com/download_archives/2ea954e6-12c1-4b81-8519-c7190da59ca9/land-rover-launches-.zip?VersionId=CInN5wScTVrio8fcWXu_l5butSY4d3Rx"
+      },
+      {
+        "title": "LAND ROVER HANDS OVER FIRST OF 70 DISCOVERY VEHICLES TO HIGHWAYS ENGLAND",
+        "date": "25 March 2019",
+        "text": "Land Rover has handed over the first of a new fleet o...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/b9ec8fc7-3e71-47d1-b138-69a42306e49b/16936sw9638.jpg?VersionId=Qa7JJ.w9Gop1oV7slCDn907vjZ3ywhsf&h=b031ede4&itok=CtuHvmr7",
+        "href": "/discovery/en-gb/news/2019/03/land-rover-hands-over-first-70-discovery-vehicles-highways-england",
+        "download": "https://media.production.jlrms.com/download_archives/f6e04afe-c21f-4216-9be1-58e23e32b080/-land-rover-hands-ov.zip?VersionId=w_bXBuCUvDUb_UxsKJK6bT69VvLlL5ow"
+      },
+      {
+        "title": "LAND ROVER UK CELEBRATES 30 YEARS OF DISCOVERY WITH ANNIVERSARY EDITION",
+        "date": "17 January 2019",
+        "text": "Land Rover marks the 30th anniversary of Discovery wit...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/e796cd7e-09d5-4202-9b0b-0be8d9aaecd5/image1lowrestest.jpg?VersionId=HRyjgVfUaegvn0bQlqvHlmwdRclazpmn&h=13ea208c&itok=3PQAPImL",
+        "href": "/discovery/en-gb/news/2019/01/land-rover-uk-celebrates-30-years-discovery-anniversary-edition",
+        "download": "https://media.production.jlrms.com/download_archives/a07637f0-f5fd-4e58-ae00-ca3d26764b6f/land-rover-uk-celebr.zip?VersionId=SaaYKkEbCo5SBvQIB7PlZxccWd3q99bU"
+      },
+      {
+        "title": "LAND ROVER PARTNERS WITH RAF CHINOOK DISPLAY TEAM",
+        "date": "13 September 2018",
+        "text": "Land Rover will be assisting the famous RAF Chinook Di...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/31d1288f-985d-4e79-8c87-cc8615272968/odi20180828558038.jpg?VersionId=Y.54mOu4ca0fCrSQXHBYnIRwndyooabv&h=da5e04f2&itok=pZFmLNMQ",
+        "href": "/discovery/en-gb/news/2018/09/land-rover-partners-raf-chinook-display-team",
+        "download": "https://media.production.jlrms.com/download_archives/15d74030-078d-41d9-9e4e-78ff66e6edfa/land-rover-partners-.zip?VersionId=fBf78iI4GBUvrqAjHOEzmMEiH7.8xru8"
+      },
+      {
+        "title": "NEW ENGINE AND SAFETY TECH FOR LAND ROVER DISCOVERY",
+        "date": "13 June 2018",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/b1301c41-dd69-4604-bf43-777426397f60/lrdiscovery19my060601.jpg?VersionId=JsklNsv1YaIdbN6ztVlfL8BsqITuSay4&h=f75479b4&itok=LVUuixT6",
+        "href": "/discovery/en-gb/news/2018/06/new-engine-and-safety-tech-land-rover-discovery",
+        "download": "https://media.production.jlrms.com/download_archives/a3e5e766-0571-4baf-a004-4ec254b18b92/new-engine-and-safet.zip?VersionId=D_wAvQHdlvi8KYOr305_i5cSgtRSTLn0"
+      },
+      {
+        "title": "LAND ROVER AND THE PRINCE’S COUNTRYSIDE FUND LAUNCH 2018 BURSARY TO SUPPORT YOUNG RURAL ENTREPRENEURS",
+        "date": "19 March 2018",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/975c1a15-66f4-4954-bccd-1cbaaf22f772/leadimage.jpg?VersionId=08sv0sq3w75RuhIIl4JQi9MErVohNj9i&h=34177f07&itok=FKEkLWen",
+        "href": "/discovery/en-gb/news/2018/03/land-rover-and-princes-countryside-fund-launch-2018-bursary-support-young-rural",
+        "download": "https://media.production.jlrms.com/download_archives/33bcc6f4-5bdf-4c78-b100-f7db1f5a063b/land-rover-and-the-p.zip?VersionId=8P9WvxHsnMHIncAFI3qr2P7R6x9fXnG4"
+      },
+      {
+        "title": "New Land Rover Discovery is 'Scottish Car of the Year 2017'",
+        "date": "04 November 2017",
+        "text": "The new Discovery has cemented its position as the bes...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/d02b51ef-d948-41c6-ba3f-5fe354af2946/ppascaalandroverdiscovery24.jpg?VersionId=6W3DfTX.xnTXmM2NlN5dTMIfJFS6.t4A&h=1cb87e65&itok=zNCmkOFP",
+        "href": "/discovery/en-gb/news/2017/11/new-land-rover-discovery-scottish-car-year-2017",
+        "download": "https://media.production.jlrms.com/download_archives/72e22ad7-d016-4c8c-9808-8cbda6eff585/new-land-rover-disco.zip?VersionId=y7pZ9ieJJ_jV4iMIAJSdA5Ss_PRH5QC6"
+      },
+      {
+        "title": "DISCOVERY EXPEDITION BEAMS THE DESERT INTO THE CLASSROOM",
+        "date": "26 October 2017",
+        "text": "Thousands of children will explore the vast Jordanian ...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/e291aabd-cbb6-4c51-a824-2af61edd4703/expeditionleaderfearghalonuillanandgeographyteachmissjguestwithstpetersrcschoolstudents.jpg?VersionId=eLsR4xUMYelfP_DLGAVOCrfZc2_kmFMx&h=162f7867&itok=RGsVmiDx",
+        "href": "/discovery/en-gb/news/2017/10/discovery-expedition-beams-desert-classroom",
+        "download": "https://media.production.jlrms.com/download_archives/11fb4e5e-9fe2-4c32-ab06-6a7b8765d1f1/discovery-expedition.zip?VersionId=HQdTDvNryOxviwVGZCn3VTi4KGwyAMCP"
+      },
+      {
+        "title": "LAND ROVER DISCOVERY TOWS 110‑TONNE ROAD TRAIN ACROSS AUSTRALIAN OUTBACK",
+        "date": "20 September 2017",
+        "text": "The Land Rover Discovery has taken on a 110‑tonne road...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/alf/images/2019-06/7ec28340-baed-4030-91db-463b9b24f0c2/lrdiscovery18mytrainpull30081703.jpg?VersionId=_N7BPdEC4wgBsg3aUTh92yEVgNWPwgYs&h=df37c15f&itok=Qxyv4tMH",
+        "href": "/discovery/en-gb/news/2017/09/land-rover-discovery-tows-110-tonne-road-train-across-australian-outback",
+        "download": "https://media.production.jlrms.com/download_archives/4522831c-8779-47c2-8309-09337d3bb480/land-rover-discovery.zip?VersionId=O5tYH_ZXXVaLr5pbrNm6yteOL9SDGsdb"
+      }
+    ],
+    "hero": null,
+    "vehicle-name": "Discovery",
+    "vehicle-hero": {
+      "image": "https://media.production.jlrms.com/styles/hero_crop/s3/2020-11-09/image/6cd98e75-9848-4982-bac9-a6e60d5b9072/LR_DISCO_21MY_STATIC_101120_01...jpg?VersionId=jr8Qc47SFRvtKZL4BJPGz_Mi_5AEWLGN&h=b5a35e91&itok=GBLbD83Q",
+      "intro": []
+    }
+  }
+}

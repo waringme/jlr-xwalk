@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defenderrally/en-gb/vehicle/defender-d7x-r",
+  "path": "defenderrally/en-gb/vehicle/defender-d7x-r",
+  "timestamp": "2026-11-06T17:17:35.682Z",
+  "title": "Defender Rally",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

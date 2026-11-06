@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/vehicle/range-rover-sport-%282004-2013%29",
+  "path": "classic/en-gb/vehicle/range-rover-sport-2004-2013",
+  "timestamp": "2026-11-06T17:09:38.560Z",
+  "title": "Classic",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

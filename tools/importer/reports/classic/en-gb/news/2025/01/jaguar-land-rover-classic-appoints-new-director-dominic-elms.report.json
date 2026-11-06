@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/news/2025/01/jaguar-land-rover-classic-appoints-new-director-dominic-elms",
+  "path": "classic/en-gb/news/2025/01/jaguar-land-rover-classic-appoints-new-director-dominic-elms",
+  "timestamp": "2026-11-06T10:34:09.739Z",
+  "title": "JAGUAR LAND ROVER CLASSIC APPOINTS NEW DIRECTOR, DOMINIC ELMS | Classic Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "columns-text",
+    "pagination"
+  ]
+}

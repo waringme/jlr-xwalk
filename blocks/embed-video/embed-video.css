@@ -1,0 +1,85 @@
+/* embed-video: embedded video player at full content width (16:9).
+   No direct prototype module; spacing follows the news-article media rhythm
+   (css/defender-en-gb-news-*.css .article-fullimage: 36px top / bottom). */
+
+.embed-video {
+  width: 100%;
+  margin: 36px auto;
+  background-color: var(--c-black, #000);
+}
+
+.embed-video.light {
+  background-color: transparent;
+}
+
+.embed-video .embed-video-frame,
+.embed-video .embed-video-placeholder {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.embed-video .embed-video-frame iframe,
+.embed-video .embed-video-frame video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.embed-video .embed-video-frame video {
+  object-fit: contain;
+  background-color: var(--c-black, #000);
+}
+
+.embed-video .embed-video-placeholder {
+  cursor: pointer;
+}
+
+.embed-video .embed-video-placeholder > * {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.embed-video .embed-video-placeholder picture img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.embed-video .embed-video-placeholder-play button {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  width: 66px;
+  height: 66px;
+  margin: 0;
+  padding: 0;
+  border: 2px solid var(--c-white, #fff);
+  border-radius: 50%;
+  background: rgb(12 18 28 / 50%);
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.embed-video .embed-video-placeholder-play button::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-top: 12px solid transparent;
+  border-bottom: 12px solid transparent;
+  border-left: 18px solid var(--c-white, #fff);
+  transform: translate(-35%, -50%);
+}
+
+.embed-video .embed-video-placeholder-play button:focus-visible,
+.embed-video .embed-video-placeholder:hover .embed-video-placeholder-play button {
+  background: var(--c-ink, #0c121c);
+}

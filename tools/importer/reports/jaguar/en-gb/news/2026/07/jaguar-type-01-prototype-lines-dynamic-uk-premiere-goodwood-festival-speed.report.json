@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar/en-gb/news/2026/07/jaguar-type-01-prototype-lines-dynamic-uk-premiere-goodwood-festival-speed",
+  "path": "jaguar/en-gb/news/2026/07/jaguar-type-01-prototype-lines-dynamic-uk-premiere-goodwood-festival-speed",
+  "timestamp": "2026-11-06T10:51:44.075Z",
+  "title": "JAGUAR TYPE 01 PROTOTYPE LINES UP DYNAMIC UK PREMIERE AT GOODWOOD FESTIVAL OF SPEED | Jaguar 2024 Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

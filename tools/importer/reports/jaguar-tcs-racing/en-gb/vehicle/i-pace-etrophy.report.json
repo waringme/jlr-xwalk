@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-pace-etrophy",
+  "path": "jaguar-tcs-racing/en-gb/vehicle/i-pace-etrophy",
+  "timestamp": "2026-11-06T17:51:30.787Z",
+  "title": "Jaguar Formula E Homepage",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-subnav",
+    "media-subnav"
+  ]
+}

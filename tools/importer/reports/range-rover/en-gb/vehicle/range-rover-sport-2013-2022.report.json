@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-%282013-2022%29",
+  "path": "range-rover/en-gb/vehicle/range-rover-sport-2013-2022",
+  "timestamp": "2026-11-06T17:31:44.922Z",
+  "title": "Range Rover",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news",
+    "pagination",
+    "pagination"
+  ]
+}

@@ -1,0 +1,277 @@
+/* cards-gallery — image/video pack tiles with count badge. Values from stardust/prototypes:
+   tile = .modern-packs__panel (canon/modules.css), grid = .card-grid--3 (canon/modules.css),
+   dark badge = .img-count (css/defender-en-gb-image-packs.css),
+   light badge (alt-2) = .modern-packs__count-wrap (canon/modules.css). */
+
+.cards-gallery > ul {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (width >= 991px) {
+  .cards-gallery > ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.cards-gallery .cards-gallery-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+}
+
+.cards-gallery .cards-gallery-card-image {
+  position: relative;
+  aspect-ratio: 100 / 58.25;
+  overflow: hidden;
+}
+
+.cards-gallery .cards-gallery-image-link {
+  display: block;
+  height: 100%;
+  color: var(--c-ink, #0c121c);
+}
+
+.cards-gallery .cards-gallery-card-image picture,
+.cards-gallery .cards-gallery-card-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* count badge — dark (.img-count) */
+.cards-gallery .cards-gallery-count {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgb(0 0 0 / 70%);
+  color: var(--c-white, #fff);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.cards-gallery .cards-gallery-count-number {
+  margin: 5px 5px 0;
+  font-family: var(--ff-image-count, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.cards-gallery .cards-gallery-count-text {
+  margin: 0 5px 5px;
+  font-family: var(--ff-image-count-text, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+@media (width >= 992px) {
+  .cards-gallery .cards-gallery-count-number {
+    font-size: 28px;
+  }
+}
+
+/* alt-2: light badge (.modern-packs__count-wrap) */
+.cards-gallery.alt-2 .cards-gallery-count {
+  right: 10px;
+  bottom: 18px;
+  justify-content: center;
+  min-width: 70px;
+  padding: 9px;
+  background-color: hsl(0deg 0% 100% / 75%);
+  color: var(--c-ink, #0c121c);
+}
+
+.cards-gallery.alt-2 .cards-gallery-count-number,
+.cards-gallery.alt-2 .cards-gallery-count-text {
+  margin: 0;
+}
+
+.cards-gallery.alt-2 .cards-gallery-count-text {
+  line-height: 1.6;
+}
+
+.cards-gallery .cards-gallery-card-image:hover .cards-gallery-count {
+  box-shadow: 0 0 0 1px hsl(0deg 0% 100% / 90%);
+}
+
+/* text */
+.cards-gallery .cards-gallery-card-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 10px 0;
+}
+
+.cards-gallery .cards-gallery-text {
+  min-height: 120px;
+}
+
+@media (width <= 1100px) {
+  .cards-gallery .cards-gallery-text {
+    min-height: 100px;
+  }
+}
+
+.cards-gallery .cards-gallery-date {
+  display: flex;
+  width: max-content;
+  max-width: 100%;
+  margin: 0 0 8px;
+  padding-bottom: 8px;
+  border-bottom: 0.5px solid var(--c-date-rule, #c4c4c4);
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-card-text, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.cards-gallery .cards-gallery-title {
+  margin: 0 0 5px;
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-card-heading, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.1px;
+}
+
+.cards-gallery .cards-gallery-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.cards-gallery .cards-gallery-title a:hover {
+  text-decoration: underline;
+}
+
+.cards-gallery .cards-gallery-teaser {
+  margin: 0 0 8px;
+  color: var(--c-body, #333);
+  font-family: var(--ff-card-text, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+@media (width >= 1024px) and (width < 1200px) {
+  .cards-gallery .cards-gallery-teaser {
+    display: none;
+  }
+}
+
+/* action toolbar (.modern-packs__btn-wrap + .new-share__btn) */
+.cards-gallery .cards-gallery-footer {
+  display: flex;
+  align-items: center;
+  margin: auto 0 20px;
+}
+
+.cards-gallery .cards-gallery-actions {
+  display: flex;
+  align-items: center;
+  color: var(--c-ink, #0c121c);
+}
+
+.cards-gallery .cards-gallery-action {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 0 4px 0 0;
+  padding: 3px;
+  border: none;
+  background-color: transparent;
+  color: inherit;
+  font-size: 10px;
+  line-height: 1.4286;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.cards-gallery .cards-gallery-action svg {
+  display: block;
+  width: 13px;
+  height: 13px;
+}
+
+.cards-gallery .cards-gallery-favourite[aria-pressed='true'] {
+  opacity: 0.6;
+}
+
+.cards-gallery .cards-gallery-action-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.cards-gallery .cards-gallery-share {
+  position: relative;
+}
+
+.cards-gallery .cards-gallery-share-list {
+  position: absolute;
+  bottom: 24px;
+  left: -6px;
+  z-index: 30;
+  display: none;
+  flex-direction: column;
+  gap: 3px;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  background-color: var(--c-white, #fff);
+  box-shadow: 0 7px 29px 0 hsl(240deg 5% 41% / 20%);
+}
+
+.cards-gallery .cards-gallery-share:hover .cards-gallery-share-list,
+.cards-gallery .cards-gallery-share:focus-within .cards-gallery-share-list,
+.cards-gallery .cards-gallery-share [aria-expanded='true'] + .cards-gallery-share-list {
+  display: flex;
+}
+
+.cards-gallery .cards-gallery-share-link {
+  display: block;
+  padding: 2px 4px;
+  color: var(--c-ink, #0c121c);
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.cards-gallery .cards-gallery-read-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+  color: var(--c-ink, #0c121c);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.cards-gallery .cards-gallery-read-more svg {
+  width: 14px;
+  height: 14px;
+}
+
+/* alt: tiles on a dark section — light text */
+.cards-gallery.alt .cards-gallery-date,
+.cards-gallery.alt .cards-gallery-title,
+.cards-gallery.alt .cards-gallery-teaser,
+.cards-gallery.alt .cards-gallery-actions,
+.cards-gallery.alt .cards-gallery-read-more {
+  color: var(--c-white, #fff);
+}

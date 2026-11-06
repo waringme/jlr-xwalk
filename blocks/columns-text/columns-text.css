@@ -1,0 +1,144 @@
+/* columns-text — contact cards grid (values: stardust/prototypes/css/defender-en-gb-contact.css
+   .contact-regions__grid / .contact-card) and, with .alt, the section heading row + See All
+   (stardust/prototypes/canon/modules.css .modern-news__row / .modern__header / .modern-news__see-all). */
+
+/* ---------- default: contact cards ---------- */
+.columns-text .columns-text-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.columns-text .columns-text-card {
+  padding: 24px;
+  border: 1px solid transparent;
+  background: var(--c-white, #fff);
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-card-text, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.columns-text .columns-text-card p {
+  margin: 0;
+}
+
+.columns-text .columns-text-card p:has(.columns-text-contact) {
+  margin-top: 8px;
+}
+
+.columns-text .columns-text-card p:not(:has(.columns-text-contact)) + p:has(.columns-text-contact) {
+  margin-top: 16px;
+}
+
+.columns-text .columns-text-contact {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--c-ink, #0c121c);
+  font-size: 16px;
+  line-height: 1.6;
+  word-break: break-all;
+}
+
+.columns-text .columns-text-contact:hover {
+  color: rgb(12 18 28 / 80%);
+  text-decoration: underline;
+}
+
+.columns-text .columns-text-contact svg {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+}
+
+@media (width >= 769px) {
+  .columns-text .columns-text-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (width >= 992px) {
+  .columns-text .columns-text-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ---------- alt: section heading row + See All ---------- */
+.columns-text.alt .columns-text-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+  border-bottom: 1px solid var(--c-rule, #aaacae);
+}
+
+.columns-text.alt .columns-text-heading h1,
+.columns-text.alt .columns-text-heading h2,
+.columns-text.alt .columns-text-heading h3,
+.columns-text.alt .columns-text-heading h4,
+.columns-text.alt .columns-text-heading h5,
+.columns-text.alt .columns-text-heading h6 {
+  margin: 20px 0 10px;
+  padding-bottom: 20px;
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-card-heading, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 0.33px;
+  text-transform: uppercase;
+}
+
+.columns-text.alt .columns-text-see-all {
+  margin-left: auto;
+}
+
+.columns-text.alt .columns-text-see-all > * {
+  margin: 0;
+}
+
+.columns-text.alt .columns-text-see-all a {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 12px;
+  border: 1px solid transparent;
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-card-heading, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 1.4286;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  transition: all 0.15s linear;
+}
+
+.columns-text.alt .columns-text-see-all a:hover {
+  color: rgb(12 18 28 / 80%);
+  text-decoration: underline;
+}
+
+.columns-text.alt .columns-text-see-all svg {
+  width: 14px;
+  height: 14px;
+}
+
+@media (width >= 992px) {
+  .columns-text.alt .columns-text-row {
+    margin-bottom: 32px;
+  }
+
+  .columns-text.alt .columns-text-heading h1,
+  .columns-text.alt .columns-text-heading h2,
+  .columns-text.alt .columns-text-heading h3,
+  .columns-text.alt .columns-text-heading h4,
+  .columns-text.alt .columns-text-heading h5,
+  .columns-text.alt .columns-text-heading h6 {
+    font-size: 28px;
+    letter-spacing: 0.58px;
+  }
+}

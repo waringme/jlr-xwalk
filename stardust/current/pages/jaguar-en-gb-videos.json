@@ -1,0 +1,2363 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:16:28.685Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "jaguar-en-gb-videos",
+  "url": "https://media.jlr.com/jaguar/en-gb/videos",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:16:28.685Z",
+  "finalUrl": "https://media.jlr.com/jaguar/en-gb/videos",
+  "title": "New Jaguar 2024 Brand",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Video"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Exterior"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Exterior"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Exterior"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Exterior"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Interior"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Interior"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Interior"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Interior"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Dynamic B‑roll"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Dynamic B‑roll"
+    },
+    {
+      "tag": "h5",
+      "text": "07 October 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01 Technical Assets"
+    },
+    {
+      "tag": "h5",
+      "text": "13 May 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar Type 01"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar Type 01"
+    },
+    {
+      "tag": "h5",
+      "text": "02 February 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Jaguar GT Winter Testing Film"
+    },
+    {
+      "tag": "h1",
+      "text": "Jaguar GT Winter Testing Film"
+    },
+    {
+      "tag": "h5",
+      "text": "12 December 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "Type 00 Window B‑Roll"
+    },
+    {
+      "tag": "h1",
+      "text": "Type 00 Window B‑Roll"
+    },
+    {
+      "tag": "h5",
+      "text": "12 December 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "Type 00 Window Sizzle"
+    },
+    {
+      "tag": "h1",
+      "text": "Type 00 Window Sizzle"
+    },
+    {
+      "tag": "h5",
+      "text": "03 December 2024"
+    },
+    {
+      "tag": "h3",
+      "text": "JAGUAR BRAND FILM"
+    },
+    {
+      "tag": "h1",
+      "text": "JAGUAR BRAND FILM"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "Brand",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Jaguar TCS Racing",
+    "Back to Archive",
+    "Jaguar Type 01 Exterior...",
+    "Jaguar Type 01 Exterior...",
+    "Jaguar Type 01 Interior ...",
+    "Jaguar Type 01 Interior ...",
+    "Jaguar Type 01 Technical Assets...",
+    "Jaguar Type 01 Technical Assets...",
+    "Jaguar Type 01 Technical Assets...",
+    "Jaguar Type 01 Technical Assets...",
+    "Jaguar Type 01 Technical Assets...",
+    "Jaguar Type 01 Technical Assets...",
+    "Jaguar Type 01 Technical Assets...",
+    "Jaguar Type 01 Dynamic B‑roll...",
+    "Jaguar Type 01 Technical Assets...",
+    "Jaguar reveals the name of its luxury four‑door GT ...",
+    "New Jaguar four‑door GT prototypes begin latest round ...",
+    "Type 00 Window B‑Roll...",
+    "Type 00 Window Sizzle...",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Contact Us",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/jaguar/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/jaguar/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/jaguar/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/jaguar/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/jaguar/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/jaguar/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/jaguar/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/jaguar/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/jaguar/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/jaguar/en-gb/contact"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://www.jaguar.com"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Brand",
+      "href": "https://media.jlr.com/jaguar/en-gb"
+    },
+    {
+      "label": "News",
+      "href": "/jaguar/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/jaguar/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/jaguar/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/jaguar/en-gb/directors"
+    },
+    {
+      "label": "Jaguar TCS Racing",
+      "href": "https://media.jlr.com/jaguar-tcs-racing/en-gb"
+    },
+    {
+      "label": "Back to Archive",
+      "href": "https://archive.jaguar.com/en-gb/"
+    },
+    {
+      "label": "Search Jaguar",
+      "href": null
+    },
+    {
+      "label": "Refine By",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Video",
+      "href": "/jaguar/en-gb/videos"
+    },
+    {
+      "label": "Video Packs",
+      "href": "/jaguar/en-gb/video-packs"
+    },
+    {
+      "label": "Broadcast Video",
+      "href": "/jaguar/en-gb/en/broadcast-videos"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Video Format",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Video View",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Tags",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "People",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Model Year",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/3e80d7f3-1120-414a-b264-fa08fc34d538/Jaguar_Type01_Exterior - Gloss - NAS Spec - Broll_2508_ProRes.mp4?VersionId=lBfnQmQfvTo2JzclAlA3HdSVif0VMtiU"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F3e80d7f3-1120-414a-b264-fa08fc34d538%2FJaguar_Type01_Exterior%20-%20Gloss%20-%20NAS%20Spec%20-%20Broll_2508_ProRes.mp4%3FVersionId%3DlBfnQmQfvTo2JzclAlA3HdSVif0VMtiU&title=Jaguar%20Type%2001%20Exterior"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/3e80d7f3-1120-414a-b264-fa08fc34d538/Jaguar_Type01_Exterior - Gloss - NAS Spec - Broll_2508_ProRes.mp4?VersionId=lBfnQmQfvTo2JzclAlA3HdSVif0VMtiU"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F3e80d7f3-1120-414a-b264-fa08fc34d538%2FJaguar_Type01_Exterior%20-%20Gloss%20-%20NAS%20Spec%20-%20Broll_2508_ProRes.mp4%3FVersionId%3DlBfnQmQfvTo2JzclAlA3HdSVif0VMtiU&title=Jaguar%20Type%2001%20Exterior"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/f8e838a4-f827-4d34-a650-c5a0c8c95b98/Jaguar_Type01_Exterior - Satin - EU Spec - Broll_2508 _ProRes.mp4?VersionId=bCN1G56mmUBQQf2xw_ixPvcJIMAM5gT4"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Ff8e838a4-f827-4d34-a650-c5a0c8c95b98%2FJaguar_Type01_Exterior%20-%20Satin%20-%20EU%20Spec%20-%20Broll_2508%20_ProRes.mp4%3FVersionId%3DbCN1G56mmUBQQf2xw_ixPvcJIMAM5gT4&title=Jaguar%20Type%2001%20Exterior"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/f8e838a4-f827-4d34-a650-c5a0c8c95b98/Jaguar_Type01_Exterior - Satin - EU Spec - Broll_2508 _ProRes.mp4?VersionId=bCN1G56mmUBQQf2xw_ixPvcJIMAM5gT4"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Ff8e838a4-f827-4d34-a650-c5a0c8c95b98%2FJaguar_Type01_Exterior%20-%20Satin%20-%20EU%20Spec%20-%20Broll_2508%20_ProRes.mp4%3FVersionId%3DbCN1G56mmUBQQf2xw_ixPvcJIMAM5gT4&title=Jaguar%20Type%2001%20Exterior"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/2249ab13-1a05-4260-9d43-12bb7760fa54/Jaguar_Type01_Interior - Broll_Prores.mp4?VersionId=Gf48bRCtgshLxuOPdyga33hq53xnstk_"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F2249ab13-1a05-4260-9d43-12bb7760fa54%2FJaguar_Type01_Interior%20-%20Broll_Prores.mp4%3FVersionId%3DGf48bRCtgshLxuOPdyga33hq53xnstk_&title=Jaguar%20Type%2001%20Interior"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/2249ab13-1a05-4260-9d43-12bb7760fa54/Jaguar_Type01_Interior - Broll_Prores.mp4?VersionId=Gf48bRCtgshLxuOPdyga33hq53xnstk_"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F2249ab13-1a05-4260-9d43-12bb7760fa54%2FJaguar_Type01_Interior%20-%20Broll_Prores.mp4%3FVersionId%3DGf48bRCtgshLxuOPdyga33hq53xnstk_&title=Jaguar%20Type%2001%20Interior"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/a3941588-2c15-469e-84cb-ad9ad7c49cf2/Jaguar_Type01_Interior - Broll__Prores.mp4?VersionId=M.xvu5HtOp2_xh.wiaWhIcYrdcg9IC0F"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fa3941588-2c15-469e-84cb-ad9ad7c49cf2%2FJaguar_Type01_Interior%20-%20Broll__Prores.mp4%3FVersionId%3DM.xvu5HtOp2_xh.wiaWhIcYrdcg9IC0F&title=Jaguar%20Type%2001%20Interior"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/a3941588-2c15-469e-84cb-ad9ad7c49cf2/Jaguar_Type01_Interior - Broll__Prores.mp4?VersionId=M.xvu5HtOp2_xh.wiaWhIcYrdcg9IC0F"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fa3941588-2c15-469e-84cb-ad9ad7c49cf2%2FJaguar_Type01_Interior%20-%20Broll__Prores.mp4%3FVersionId%3DM.xvu5HtOp2_xh.wiaWhIcYrdcg9IC0F&title=Jaguar%20Type%2001%20Interior"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/60483a6f-e1d4-4478-84b8-377da3fb3d58/Active Spoiler.mp4?VersionId=SiQgO_E5aQpNZw55e7JdPCro6LXOt5fq"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F60483a6f-e1d4-4478-84b8-377da3fb3d58%2FActive%20Spoiler.mp4%3FVersionId%3DSiQgO_E5aQpNZw55e7JdPCro6LXOt5fq&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/60483a6f-e1d4-4478-84b8-377da3fb3d58/Active Spoiler.mp4?VersionId=SiQgO_E5aQpNZw55e7JdPCro6LXOt5fq"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F60483a6f-e1d4-4478-84b8-377da3fb3d58%2FActive%20Spoiler.mp4%3FVersionId%3DSiQgO_E5aQpNZw55e7JdPCro6LXOt5fq&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/c3c48a51-05c7-43a4-b08f-1ecfee3bca0a/Eliptcial Hole_Type 01.mp4?VersionId=hRaCkzXnrcdvVxy_QT7MueLbOwq2fOmj"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fc3c48a51-05c7-43a4-b08f-1ecfee3bca0a%2FEliptcial%20Hole_Type%2001.mp4%3FVersionId%3DhRaCkzXnrcdvVxy_QT7MueLbOwq2fOmj&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/c3c48a51-05c7-43a4-b08f-1ecfee3bca0a/Eliptcial Hole_Type 01.mp4?VersionId=hRaCkzXnrcdvVxy_QT7MueLbOwq2fOmj"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fc3c48a51-05c7-43a4-b08f-1ecfee3bca0a%2FEliptcial%20Hole_Type%2001.mp4%3FVersionId%3DhRaCkzXnrcdvVxy_QT7MueLbOwq2fOmj&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/97676eb0-4cd9-4a0d-9cb1-df22d3ab7c60/Jaguar Type 01_Impossible Panel.mp4?VersionId=JB9tIQ6MdaWrfxzMNbmsTFYkfJOjCMLg"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F97676eb0-4cd9-4a0d-9cb1-df22d3ab7c60%2FJaguar%20Type%2001_Impossible%20Panel.mp4%3FVersionId%3DJB9tIQ6MdaWrfxzMNbmsTFYkfJOjCMLg&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/97676eb0-4cd9-4a0d-9cb1-df22d3ab7c60/Jaguar Type 01_Impossible Panel.mp4?VersionId=JB9tIQ6MdaWrfxzMNbmsTFYkfJOjCMLg"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F97676eb0-4cd9-4a0d-9cb1-df22d3ab7c60%2FJaguar%20Type%2001_Impossible%20Panel.mp4%3FVersionId%3DJB9tIQ6MdaWrfxzMNbmsTFYkfJOjCMLg&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/44c975e8-7aed-4649-8dd4-7a7347beea07/Jaguar Type 01_rear EDU.mp4?VersionId=lidfmoJPJZyUDT.wTu7qKawlevRyePqs"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F44c975e8-7aed-4649-8dd4-7a7347beea07%2FJaguar%20Type%2001_rear%20EDU.mp4%3FVersionId%3DlidfmoJPJZyUDT.wTu7qKawlevRyePqs&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/44c975e8-7aed-4649-8dd4-7a7347beea07/Jaguar Type 01_rear EDU.mp4?VersionId=lidfmoJPJZyUDT.wTu7qKawlevRyePqs"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F44c975e8-7aed-4649-8dd4-7a7347beea07%2FJaguar%20Type%2001_rear%20EDU.mp4%3FVersionId%3DlidfmoJPJZyUDT.wTu7qKawlevRyePqs&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/17a9b15c-b203-4122-9e11-ec257be0ac38/Jaguar Type 01_Tri-Apex Node.mp4?VersionId=aeMlD4hOGv8rlKPcvL5wi0sSDQsIUgZP"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F17a9b15c-b203-4122-9e11-ec257be0ac38%2FJaguar%20Type%2001_Tri-Apex%20Node.mp4%3FVersionId%3DaeMlD4hOGv8rlKPcvL5wi0sSDQsIUgZP&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/17a9b15c-b203-4122-9e11-ec257be0ac38/Jaguar Type 01_Tri-Apex Node.mp4?VersionId=aeMlD4hOGv8rlKPcvL5wi0sSDQsIUgZP"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F17a9b15c-b203-4122-9e11-ec257be0ac38%2FJaguar%20Type%2001_Tri-Apex%20Node.mp4%3FVersionId%3DaeMlD4hOGv8rlKPcvL5wi0sSDQsIUgZP&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/96625e63-d3d2-4f0d-888f-b3cbf37f5d4a/Jaguar_CGI_Propulsion.mov?VersionId=Ql4qFHntAK2cX0q4fLDFrto0Mi889f3b"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F96625e63-d3d2-4f0d-888f-b3cbf37f5d4a%2FJaguar_CGI_Propulsion.mov%3FVersionId%3DQl4qFHntAK2cX0q4fLDFrto0Mi889f3b&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/96625e63-d3d2-4f0d-888f-b3cbf37f5d4a/Jaguar_CGI_Propulsion.mov?VersionId=Ql4qFHntAK2cX0q4fLDFrto0Mi889f3b"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F96625e63-d3d2-4f0d-888f-b3cbf37f5d4a%2FJaguar_CGI_Propulsion.mov%3FVersionId%3DQl4qFHntAK2cX0q4fLDFrto0Mi889f3b&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/d7dc5636-1945-4a03-b207-362aa1ec24f5/Type01_Active_Aero.mp4?VersionId=ygb3DEretmwEDp28zc5hlgB5VVK9pm0P"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fd7dc5636-1945-4a03-b207-362aa1ec24f5%2FType01_Active_Aero.mp4%3FVersionId%3Dygb3DEretmwEDp28zc5hlgB5VVK9pm0P&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/d7dc5636-1945-4a03-b207-362aa1ec24f5/Type01_Active_Aero.mp4?VersionId=ygb3DEretmwEDp28zc5hlgB5VVK9pm0P"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fd7dc5636-1945-4a03-b207-362aa1ec24f5%2FType01_Active_Aero.mp4%3FVersionId%3Dygb3DEretmwEDp28zc5hlgB5VVK9pm0P&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/d1d3c044-7c0e-4948-9061-62be2a57208f/JAGUAR_TYPE01_28GL_B-ROLL_4K_DYNAMIC_SATIN-SILVER_ 3840x2160.mp4?VersionId=18WUbm2nYFQKt3fbpUY8lb0nNE9TGx.Y"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fd1d3c044-7c0e-4948-9061-62be2a57208f%2FJAGUAR_TYPE01_28GL_B-ROLL_4K_DYNAMIC_SATIN-SILVER_%203840x2160.mp4%3FVersionId%3D18WUbm2nYFQKt3fbpUY8lb0nNE9TGx.Y&title=Jaguar%20Type%2001%20Dynamic%20B%E2%80%91roll"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/d1d3c044-7c0e-4948-9061-62be2a57208f/JAGUAR_TYPE01_28GL_B-ROLL_4K_DYNAMIC_SATIN-SILVER_ 3840x2160.mp4?VersionId=18WUbm2nYFQKt3fbpUY8lb0nNE9TGx.Y"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fd1d3c044-7c0e-4948-9061-62be2a57208f%2FJAGUAR_TYPE01_28GL_B-ROLL_4K_DYNAMIC_SATIN-SILVER_%203840x2160.mp4%3FVersionId%3D18WUbm2nYFQKt3fbpUY8lb0nNE9TGx.Y&title=Jaguar%20Type%2001%20Dynamic%20B%E2%80%91roll"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/8a7192c1-e67f-40bd-8ffc-243a1a7ef0d6/Jaguar Type 01_battery.mp4?VersionId=zePHN3xVWwP6OCNiZpJ.txGXv.t8IM.m"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F8a7192c1-e67f-40bd-8ffc-243a1a7ef0d6%2FJaguar%20Type%2001_battery.mp4%3FVersionId%3DzePHN3xVWwP6OCNiZpJ.txGXv.t8IM.m&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Embed Code",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-10-05/video/8a7192c1-e67f-40bd-8ffc-243a1a7ef0d6/Jaguar Type 01_battery.mp4?VersionId=zePHN3xVWwP6OCNiZpJ.txGXv.t8IM.m"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F8a7192c1-e67f-40bd-8ffc-243a1a7ef0d6%2FJaguar%20Type%2001_battery.mp4%3FVersionId%3DzePHN3xVWwP6OCNiZpJ.txGXv.t8IM.m&title=Jaguar%20Type%2001%20Technical%20Assets"
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/2026-05-12/video/79a6050f-85e9-4f46-880c-40bf5945ddb1/Name Reveal.mp4?VersionId=TM.s5PMbF_4jjSEqabRDoYSR_.owL2Oa"
+    },
+    {
+      "label": "Share",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-05-12%2Fvideo%2F79a6050f-85e9-4f46-880c-40bf5945ddb1%2FName%20Reveal.mp4%3FVersionId%3DTM.s5PMbF_4jjSEqabRDoYSR_.owL2Oa&title=Jaguar%20Type%2001"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/jaguar/en-gb/videos#main-content",
+    "https://media.jlr.com/jaguar/zh-cn",
+    "https://media.jlr.com/jaguar/fr-fr",
+    "https://media.jlr.com/jaguar/de-de",
+    "https://media.jlr.com/jaguar/",
+    "https://media.jlr.com/jaguar/it-it",
+    "https://media.jlr.com/jaguar/en-us",
+    "https://media.jlr.com/jaguar/es-es",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/jaguar/en-gb/cart",
+    "https://media.jlr.com/jaguar/en-gb/contact",
+    "https://media.jlr.com/jaguar/en-gb/",
+    "https://www.jaguar.com/",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/jaguar/en-gb/terms-and-conditions",
+    "https://media.jlr.com/jaguar/en-gb/user-licence",
+    "https://media.jlr.com/jaguar/en-gb/cookies",
+    "https://media.jlr.com/jaguar/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/jaguar/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/jaguar/en-gb/news",
+    "https://media.jlr.com/jaguar/en-gb/image-packs",
+    "https://media.jlr.com/jaguar/en-gb/videos",
+    "https://media.jlr.com/jaguar/en-gb/directors",
+    "https://media.jlr.com/jaguar-tcs-racing/en-gb",
+    "https://archive.jaguar.com/en-gb/",
+    "javascript:void(0)",
+    "https://media.jlr.com/jaguar/en-gb/vehicle/type-01",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.jlr.com/jaguar/en-gb/video-packs",
+    "https://media.jlr.com/jaguar/en-gb/en/broadcast-videos",
+    "https://media.production.jlrms.com/2026-10-05/video/3e80d7f3-1120-414a-b264-fa08fc34d538/Jaguar_Type01_Exterior%20-%20Gloss%20-%20NAS%20Spec%20-%20Broll_2508_ProRes.mp4?VersionId=lBfnQmQfvTo2JzclAlA3HdSVif0VMtiU",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F3e80d7f3-1120-414a-b264-fa08fc34d538%2FJaguar_Type01_Exterior%20-%20Gloss%20-%20NAS%20Spec%20-%20Broll_2508_ProRes.mp4%3FVersionId%3DlBfnQmQfvTo2JzclAlA3HdSVif0VMtiU&title=Jaguar%20Type%2001%20Exterior",
+    "https://media.production.jlrms.com/2026-10-05/video/f8e838a4-f827-4d34-a650-c5a0c8c95b98/Jaguar_Type01_Exterior%20-%20Satin%20-%20EU%20Spec%20-%20Broll_2508%20_ProRes.mp4?VersionId=bCN1G56mmUBQQf2xw_ixPvcJIMAM5gT4",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Ff8e838a4-f827-4d34-a650-c5a0c8c95b98%2FJaguar_Type01_Exterior%20-%20Satin%20-%20EU%20Spec%20-%20Broll_2508%20_ProRes.mp4%3FVersionId%3DbCN1G56mmUBQQf2xw_ixPvcJIMAM5gT4&title=Jaguar%20Type%2001%20Exterior",
+    "https://media.production.jlrms.com/2026-10-05/video/2249ab13-1a05-4260-9d43-12bb7760fa54/Jaguar_Type01_Interior%20-%20Broll_Prores.mp4?VersionId=Gf48bRCtgshLxuOPdyga33hq53xnstk_",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F2249ab13-1a05-4260-9d43-12bb7760fa54%2FJaguar_Type01_Interior%20-%20Broll_Prores.mp4%3FVersionId%3DGf48bRCtgshLxuOPdyga33hq53xnstk_&title=Jaguar%20Type%2001%20Interior",
+    "https://media.production.jlrms.com/2026-10-05/video/a3941588-2c15-469e-84cb-ad9ad7c49cf2/Jaguar_Type01_Interior%20-%20Broll__Prores.mp4?VersionId=M.xvu5HtOp2_xh.wiaWhIcYrdcg9IC0F",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fa3941588-2c15-469e-84cb-ad9ad7c49cf2%2FJaguar_Type01_Interior%20-%20Broll__Prores.mp4%3FVersionId%3DM.xvu5HtOp2_xh.wiaWhIcYrdcg9IC0F&title=Jaguar%20Type%2001%20Interior",
+    "https://media.production.jlrms.com/2026-10-05/video/60483a6f-e1d4-4478-84b8-377da3fb3d58/Active%20Spoiler.mp4?VersionId=SiQgO_E5aQpNZw55e7JdPCro6LXOt5fq",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F60483a6f-e1d4-4478-84b8-377da3fb3d58%2FActive%20Spoiler.mp4%3FVersionId%3DSiQgO_E5aQpNZw55e7JdPCro6LXOt5fq&title=Jaguar%20Type%2001%20Technical%20Assets",
+    "https://media.production.jlrms.com/2026-10-05/video/c3c48a51-05c7-43a4-b08f-1ecfee3bca0a/Eliptcial%20Hole_Type%2001.mp4?VersionId=hRaCkzXnrcdvVxy_QT7MueLbOwq2fOmj",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fc3c48a51-05c7-43a4-b08f-1ecfee3bca0a%2FEliptcial%20Hole_Type%2001.mp4%3FVersionId%3DhRaCkzXnrcdvVxy_QT7MueLbOwq2fOmj&title=Jaguar%20Type%2001%20Technical%20Assets",
+    "https://media.production.jlrms.com/2026-10-05/video/97676eb0-4cd9-4a0d-9cb1-df22d3ab7c60/Jaguar%20Type%2001_Impossible%20Panel.mp4?VersionId=JB9tIQ6MdaWrfxzMNbmsTFYkfJOjCMLg",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F97676eb0-4cd9-4a0d-9cb1-df22d3ab7c60%2FJaguar%20Type%2001_Impossible%20Panel.mp4%3FVersionId%3DJB9tIQ6MdaWrfxzMNbmsTFYkfJOjCMLg&title=Jaguar%20Type%2001%20Technical%20Assets",
+    "https://media.production.jlrms.com/2026-10-05/video/44c975e8-7aed-4649-8dd4-7a7347beea07/Jaguar%20Type%2001_rear%20EDU.mp4?VersionId=lidfmoJPJZyUDT.wTu7qKawlevRyePqs",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F44c975e8-7aed-4649-8dd4-7a7347beea07%2FJaguar%20Type%2001_rear%20EDU.mp4%3FVersionId%3DlidfmoJPJZyUDT.wTu7qKawlevRyePqs&title=Jaguar%20Type%2001%20Technical%20Assets",
+    "https://media.production.jlrms.com/2026-10-05/video/17a9b15c-b203-4122-9e11-ec257be0ac38/Jaguar%20Type%2001_Tri-Apex%20Node.mp4?VersionId=aeMlD4hOGv8rlKPcvL5wi0sSDQsIUgZP",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F17a9b15c-b203-4122-9e11-ec257be0ac38%2FJaguar%20Type%2001_Tri-Apex%20Node.mp4%3FVersionId%3DaeMlD4hOGv8rlKPcvL5wi0sSDQsIUgZP&title=Jaguar%20Type%2001%20Technical%20Assets",
+    "https://media.production.jlrms.com/2026-10-05/video/96625e63-d3d2-4f0d-888f-b3cbf37f5d4a/Jaguar_CGI_Propulsion.mov?VersionId=Ql4qFHntAK2cX0q4fLDFrto0Mi889f3b",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F96625e63-d3d2-4f0d-888f-b3cbf37f5d4a%2FJaguar_CGI_Propulsion.mov%3FVersionId%3DQl4qFHntAK2cX0q4fLDFrto0Mi889f3b&title=Jaguar%20Type%2001%20Technical%20Assets",
+    "https://media.production.jlrms.com/2026-10-05/video/d7dc5636-1945-4a03-b207-362aa1ec24f5/Type01_Active_Aero.mp4?VersionId=ygb3DEretmwEDp28zc5hlgB5VVK9pm0P",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fd7dc5636-1945-4a03-b207-362aa1ec24f5%2FType01_Active_Aero.mp4%3FVersionId%3Dygb3DEretmwEDp28zc5hlgB5VVK9pm0P&title=Jaguar%20Type%2001%20Technical%20Assets",
+    "https://media.production.jlrms.com/2026-10-05/video/d1d3c044-7c0e-4948-9061-62be2a57208f/JAGUAR_TYPE01_28GL_B-ROLL_4K_DYNAMIC_SATIN-SILVER_%203840x2160.mp4?VersionId=18WUbm2nYFQKt3fbpUY8lb0nNE9TGx.Y",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2Fd1d3c044-7c0e-4948-9061-62be2a57208f%2FJAGUAR_TYPE01_28GL_B-ROLL_4K_DYNAMIC_SATIN-SILVER_%203840x2160.mp4%3FVersionId%3D18WUbm2nYFQKt3fbpUY8lb0nNE9TGx.Y&title=Jaguar%20Type%2001%20Dynamic%20B%E2%80%91roll",
+    "https://media.production.jlrms.com/2026-10-05/video/8a7192c1-e67f-40bd-8ffc-243a1a7ef0d6/Jaguar%20Type%2001_battery.mp4?VersionId=zePHN3xVWwP6OCNiZpJ.txGXv.t8IM.m",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-10-05%2Fvideo%2F8a7192c1-e67f-40bd-8ffc-243a1a7ef0d6%2FJaguar%20Type%2001_battery.mp4%3FVersionId%3DzePHN3xVWwP6OCNiZpJ.txGXv.t8IM.m&title=Jaguar%20Type%2001%20Technical%20Assets",
+    "https://media.production.jlrms.com/2026-05-12/video/79a6050f-85e9-4f46-880c-40bf5945ddb1/Name%20Reveal.mp4?VersionId=TM.s5PMbF_4jjSEqabRDoYSR_.owL2Oa",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-05-12%2Fvideo%2F79a6050f-85e9-4f46-880c-40bf5945ddb1%2FName%20Reveal.mp4%3FVersionId%3DTM.s5PMbF_4jjSEqabRDoYSR_.owL2Oa&title=Jaguar%20Type%2001",
+    "https://media.production.jlrms.com/2026-01-30/video/cd90e13f-4686-4fb5-bc76-37b658b7e226/Jaguar_GT_Prototype_020226.mp4?VersionId=B9lBps5hrzVht9ZL.cQ5.6Z2mNdDiBQN",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-01-30%2Fvideo%2Fcd90e13f-4686-4fb5-bc76-37b658b7e226%2FJaguar_GT_Prototype_020226.mp4%3FVersionId%3DB9lBps5hrzVht9ZL.cQ5.6Z2mNdDiBQN&title=Jaguar%20GT%20Winter%20Testing%20Film",
+    "https://media.production.jlrms.com/2025-12-12/video/b02d5c3c-e9cf-4c70-8c8c-9142e6b53d2b/Jaguar_Type%2000%20Window%20Display_BRoll.mp4?VersionId=WafPSx6XI_U1tBe9joVnZ1GgDmbpQ48A",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-12-12%2Fvideo%2Fb02d5c3c-e9cf-4c70-8c8c-9142e6b53d2b%2FJaguar_Type%2000%20Window%20Display_BRoll.mp4%3FVersionId%3DWafPSx6XI_U1tBe9joVnZ1GgDmbpQ48A&title=Type%2000%20Window%20B%E2%80%91Roll",
+    "https://media.production.jlrms.com/2025-12-12/video/9de7794b-f670-4fa5-86a9-e5cb10600304/Jaguar_Type%2000%20Window%20Display_Sizzle.mp4?VersionId=i.o26Shoo3RaGd64prHnvKEN8t8LVRp7",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2025-12-12%2Fvideo%2F9de7794b-f670-4fa5-86a9-e5cb10600304%2FJaguar_Type%2000%20Window%20Display_Sizzle.mp4%3FVersionId%3Di.o26Shoo3RaGd64prHnvKEN8t8LVRp7&title=Type%2000%20Window%20Sizzle",
+    "https://media.production.jlrms.com/2024-12-02/video/b6bbf178-4cb8-411c-8197-e54748e6ae9a/JAGUAR_BRAND_FILM_021224.mov?VersionId=bdnCs7ncdzw4DRxX0Cx45IndjJvuNqxk",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2024-12-02%2Fvideo%2Fb6bbf178-4cb8-411c-8197-e54748e6ae9a%2FJAGUAR_BRAND_FILM_021224.mov%3FVersionId%3DbdnCs7ncdzw4DRxX0Cx45IndjJvuNqxk&title=JAGUAR%20BRAND%20FILM",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://twitter.com/JaguarUK",
+    "https://twitter.com/JaguarUKPR",
+    "https://www.youtube.com/user/jaguaruk",
+    "https://www.instagram.com/jaguarukpr",
+    "https://media.jlr.com/jaguar/en-gb/videos#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/jaguar/en-gb/videos#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/jaguar-logo-dark.svg",
+        "alt": "jaguar.com logo",
+        "w": 146,
+        "h": 18
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-10-04/image/990c1187-baa2-4d32-b3ce-1c2e40f92df8/Design_Face.jpg?VersionId=iGLlMcK8GGXClr.sgAzIWIS6ofDXR.mb&h=b8cffeee&itok=mOByv1p7",
+        "alt": "Type 01",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208744485-70c731c9e5d3658d47d97e1da496195efaf7a09d702ed974dbb7a0736c5b1f84-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208745753-6ce6b8864f0041dcac1a70bc3069bd31988c762172800d76d0f44cfb5aaa0cff-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208746786-a33dceb376a91fc5970ee4f968b6badd99c22b3cc0c7102a3775898bec796d24-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208746252-8d875f8e502daab5c571359e1d131e4ad951b8c301df3d08114dada323226a64-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208750651-eb2685fb4b808eb9c9321417d59f4452af331d48a980c3de428b0e5a14925392-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208617159-c17ea5390df810b76727fdb8ddc451f612f7f2d72fcea037e488e5c3d69f37e0-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208617067-bdc60002344cc2ace9d38107fa53b2f39a369396f895bdbc4dc731f5270c5030-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208748356-9b500dfccf3b2bf8c041646688300df7b9192b1b550c9304786bb2c0f04d5fbb-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208616946-33143ff5afb52e6f91c09e808d5712498c1fa4608c4a5136753b8ca5b5e384ee-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208747126-8e35d94a053e8df96682a5c13e13ed421294aea45c09de098f1c924f579a0a16-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208616641-a071f82fea0d2ee8e0304cd9c2ad301f74a4e029693ffcc66b77a6de16498bdc-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208743388-30f63288e063929d5b31f33fdfcb3b414133616b6d7188145c7db4f9d8a6562f-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2208617158-b1c8fd3820c05fb64312410e4dfd8fb71f9a6e6b3ddf24a22709c52bf4924f53-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2156491968-3a24e69c42f7d5599982654b29db65c8757007d893add2c5bf8778eddc5b7be4-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/2115090174-671475d3f00ddbbec90f4473e64d3b589714d51bdf1941ee2a0a3a3bc3c98651-d_960x540?&r=pad&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/1956882896-b8e26ebcc47a9d772f75be0de26b28074ccc01620e950c0d64a321334b5ef85d-d_960x540?r=pad",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/logo-black-2025.svg",
+        "alt": "",
+        "w": 171,
+        "h": 150
+      }
+    ],
+    "allImgCount": 30,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "Jaguar Type 01 Exterior Embed Code Download Share Jaguar Type 01 Exterior...",
+      "Jaguar Type 01 Exterior Embed Code Download Share Jaguar Type 01 Exterior...",
+      "Jaguar Type 01 Interior Embed Code Download Share Jaguar Type 01 Interior ...",
+      "Jaguar Type 01 Interior Embed Code Download Share Jaguar Type 01 Interior ...",
+      "Jaguar Type 01 Technical Assets Embed Code Download Share Jaguar Type 01 Technical Assets...",
+      "Jaguar Type 01 Technical Assets Embed Code Download Share Jaguar Type 01 Technical Assets...",
+      "Jaguar Type 01 Technical Assets Embed Code Download Share Jaguar Type 01 Technical Assets...",
+      "Jaguar Type 01 Technical Assets Embed Code Download Share Jaguar Type 01 Technical Assets...",
+      "Jaguar Type 01 Technical Assets Embed Code Download Share Jaguar Type 01 Technical Assets..."
+    ],
+    "videos": [],
+    "iframes": [
+      {
+        "src": "https://player.vimeo.com/video/1233115966?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Exterior"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233116020?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Exterior"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233109499?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Interior"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233109623?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Interior"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233161477?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Technical Assets"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233056559?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Technical Assets"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233056446?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Technical Assets"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233056378?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Technical Assets"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233056340?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Technical Assets"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233056301?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Technical Assets"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233056160?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Technical Assets"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233118135?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "JAGUAR_TYPE01_28GL_B-ROLL_4K_DYNAMIC_SATIN-SILVER_ 3840x2160.mp4"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1233056484?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01 Technical Assets"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1191474366?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar Type 01"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1160233576?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar GT Winter Testing Film"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1145896301?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar_Type 00 Window Display_BRoll.mp4"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1145896384?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "Jaguar_Type 00 Window Display_Sizzle.mp4"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1035377899?badge=0&autopause=0&player_id=0&app_id=138872",
+        "title": "JAGUAR BRAND FILM"
+      }
+    ]
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "222px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 19,
+    "mainTextLen": 5957,
+    "realImageCount": 30,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/jaguar/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/jaguar/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 36,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c79254fc0e056",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D043b34a8b8727bd25cfb6b1292615b4d9c2a27b01793888156%2F%2A~hmac=ddc3ca055178c4aa77aeb9a0af748bd8592ae7b5d5c09ecbc63c4ba524350b69/{uuid}/psid=043b34a8b8727bd25cfb6b1292615b4d9c2a27b01793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 847,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F5e730d4d-5551-4d46-a597-fa933029c80c%2Fpsid%3D043b34a8b8727bd25cfb6b1292615b4d9c2a27b01793888156%2F%2A~hmac=ddc3ca055178c4aa77aeb9a0af748bd8592ae7b5d5c09ecbc63c4ba524350b69/5e730d4d-5551-4d46-a597-fa933029c80c/psid=043b34a8b8727bd25cfb6b1292615b4d9c2a27b01793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D83a6e6340ede887eb154116700f2c4af3f3b37651793888156%2F%2A~hmac=af963393af27f2a662717c2b937dedbb0f9ff909e19a58e0d391697beae7d4e9/{uuid}/psid=83a6e6340ede887eb154116700f2c4af3f3b37651793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 841,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F59d7c34c-8e37-4672-a882-2f3bd360e7cd%2Fpsid%3D83a6e6340ede887eb154116700f2c4af3f3b37651793888156%2F%2A~hmac=af963393af27f2a662717c2b937dedbb0f9ff909e19a58e0d391697beae7d4e9/59d7c34c-8e37-4672-a882-2f3bd360e7cd/psid=83a6e6340ede887eb154116700f2c4af3f3b37651793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D22cf0b0b08e2a0828fd4c7f8fdd457c37d3b4c0c1793888156%2F%2A~hmac=79e47be5473d5059f82c903c5f14ea826497446e2f0cce5d184089f951b7f050/{uuid}/psid=22cf0b0b08e2a0828fd4c7f8fdd457c37d3b4c0c1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 710,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F61fca3f4-f1e9-44f9-9383-c8ba6d5a804f%2Fpsid%3D22cf0b0b08e2a0828fd4c7f8fdd457c37d3b4c0c1793888156%2F%2A~hmac=79e47be5473d5059f82c903c5f14ea826497446e2f0cce5d184089f951b7f050/61fca3f4-f1e9-44f9-9383-c8ba6d5a804f/psid=22cf0b0b08e2a0828fd4c7f8fdd457c37d3b4c0c1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D979bb3888edda09d39d7ff3b31335c037e4a5cf11793888156%2F%2A~hmac=10d49b0777e8d61d97ee2e1819eb7944e1dc960e44e7cb481d0cdfbe80e84317/{uuid}/psid=979bb3888edda09d39d7ff3b31335c037e4a5cf11793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 847,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F5e730d4d-5551-4d46-a597-fa933029c80c%2Fpsid%3D979bb3888edda09d39d7ff3b31335c037e4a5cf11793888156%2F%2A~hmac=10d49b0777e8d61d97ee2e1819eb7944e1dc960e44e7cb481d0cdfbe80e84317/5e730d4d-5551-4d46-a597-fa933029c80c/psid=979bb3888edda09d39d7ff3b31335c037e4a5cf11793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D5833e23f1ea3f134ac03584ae502dd14f07d4d131793888156%2F%2A~hmac=7cd615aa5686ea6e81e5d6bf751c1885c068135bb5c93037c77cb38a49ec1268/{uuid}/psid=5833e23f1ea3f134ac03584ae502dd14f07d4d131793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 841,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F59d7c34c-8e37-4672-a882-2f3bd360e7cd%2Fpsid%3D5833e23f1ea3f134ac03584ae502dd14f07d4d131793888156%2F%2A~hmac=7cd615aa5686ea6e81e5d6bf751c1885c068135bb5c93037c77cb38a49ec1268/59d7c34c-8e37-4672-a882-2f3bd360e7cd/psid=5833e23f1ea3f134ac03584ae502dd14f07d4d131793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D75d8448a37a10b8cf3f9f2ef7b043a443900151c1793888156%2F%2A~hmac=6514b368ebde46a15c5fa4d67e0fcacd4d579d5d03586579aec417418b38fbfb/{uuid}/psid=75d8448a37a10b8cf3f9f2ef7b043a443900151c1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 844,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F0d56b1c7-24a8-45a3-a4df-c52f19ee84dc%2Fpsid%3D75d8448a37a10b8cf3f9f2ef7b043a443900151c1793888156%2F%2A~hmac=6514b368ebde46a15c5fa4d67e0fcacd4d579d5d03586579aec417418b38fbfb/0d56b1c7-24a8-45a3-a4df-c52f19ee84dc/psid=75d8448a37a10b8cf3f9f2ef7b043a443900151c1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D73641263b9f6e15fddda3d6292815d13498ac27d1793888156%2F%2A~hmac=e2721e66a46507a5ba4cc1ac7c1c47f78cfdf59cf037d433872f76e6ecfe25f7/{uuid}/psid=73641263b9f6e15fddda3d6292815d13498ac27d1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 850,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F5f4b1e62-1e41-49f2-ade9-11552c85040c%2Fpsid%3D73641263b9f6e15fddda3d6292815d13498ac27d1793888156%2F%2A~hmac=e2721e66a46507a5ba4cc1ac7c1c47f78cfdf59cf037d433872f76e6ecfe25f7/5f4b1e62-1e41-49f2-ade9-11552c85040c/psid=73641263b9f6e15fddda3d6292815d13498ac27d1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3Da761a95f5a6ea9bef28142bca9674728090a8e451793888156%2F%2A~hmac=635340adb7bf8bf70beada4e3dbbb94add9f4c26fbbddba0ce655c13a8224956/{uuid}/psid=a761a95f5a6ea9bef28142bca9674728090a8e451793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 705,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Fac775be2-541b-4fa8-90c2-525f1457ccc5%2Fpsid%3Da761a95f5a6ea9bef28142bca9674728090a8e451793888156%2F%2A~hmac=635340adb7bf8bf70beada4e3dbbb94add9f4c26fbbddba0ce655c13a8224956/ac775be2-541b-4fa8-90c2-525f1457ccc5/psid=a761a95f5a6ea9bef28142bca9674728090a8e451793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D6a80f227a3d08c58f2ce5348ff8e231387b83bb21793888156%2F%2A~hmac=d94866c058b500bd7067203a0ce2901c88e97cf6529837aab2324c0f8217a53c/{uuid}/psid=6a80f227a3d08c58f2ce5348ff8e231387b83bb21793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 853,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F89a2c001-91f2-4889-847d-b252671e76ab%2Fpsid%3D6a80f227a3d08c58f2ce5348ff8e231387b83bb21793888156%2F%2A~hmac=d94866c058b500bd7067203a0ce2901c88e97cf6529837aab2324c0f8217a53c/89a2c001-91f2-4889-847d-b252671e76ab/psid=6a80f227a3d08c58f2ce5348ff8e231387b83bb21793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3Dfe859d57e3bc96322b23cdff60507635a67a0fa01793888156%2F%2A~hmac=5468ca8c36b30292b19ff06e1b0f8ca29c228e3424d8c43e7861a52530ebef6b/{uuid}/psid=fe859d57e3bc96322b23cdff60507635a67a0fa01793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 851,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F38d24794-231b-4de4-8a84-0b407af1d958%2Fpsid%3Dfe859d57e3bc96322b23cdff60507635a67a0fa01793888156%2F%2A~hmac=5468ca8c36b30292b19ff06e1b0f8ca29c228e3424d8c43e7861a52530ebef6b/38d24794-231b-4de4-8a84-0b407af1d958/psid=fe859d57e3bc96322b23cdff60507635a67a0fa01793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D258a0a63a41fb829058dfb600fd0636f744ccc1c1793888156%2F%2A~hmac=01b319dae88ce8ce6ade6ce94191f71bf1abda2d690b31121d0688b197ccfb21/{uuid}/psid=258a0a63a41fb829058dfb600fd0636f744ccc1c1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 837,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F1226d3d6-aa5b-43be-bc96-c3b675980ea3%2Fpsid%3D258a0a63a41fb829058dfb600fd0636f744ccc1c1793888156%2F%2A~hmac=01b319dae88ce8ce6ade6ce94191f71bf1abda2d690b31121d0688b197ccfb21/1226d3d6-aa5b-43be-bc96-c3b675980ea3/psid=258a0a63a41fb829058dfb600fd0636f744ccc1c1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D0567cd2d2da7880c9c09cac67f0623db8e9fbecf1793888156%2F%2A~hmac=6df282f9331aff6f496da8abeaf78ed4a7e443e6d89db96d88b8b396af0e92bc/{uuid}/psid=0567cd2d2da7880c9c09cac67f0623db8e9fbecf1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 837,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Faa9b18a8-138b-4cb9-b4a7-3b7f0b7998bb%2Fpsid%3D0567cd2d2da7880c9c09cac67f0623db8e9fbecf1793888156%2F%2A~hmac=6df282f9331aff6f496da8abeaf78ed4a7e443e6d89db96d88b8b396af0e92bc/aa9b18a8-138b-4cb9-b4a7-3b7f0b7998bb/psid=0567cd2d2da7880c9c09cac67f0623db8e9fbecf1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "skyfire.vimeocdn.com",
+        "path": "/1793891756-0xc755d9d2122288e0aa310f21d1f68989d07756c7/{uuid}/psid=b61fa70e03cf42166707c4287af7c31e12bc28961793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/vnd.apple.mpegurl",
+        "status": 200,
+        "bytes": 694,
+        "hits": 1,
+        "example": "https://skyfire.vimeocdn.com/1793891756-0xc755d9d2122288e0aa310f21d1f68989d07756c7/52ab1300-b0db-445d-bef5-96ccd338b69a/psid=b61fa70e03cf42166707c4287af7c31e12bc28961793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "skyfire.vimeocdn.com",
+        "path": "/1793891756-0xf83d661e9d52147b1f61b87542a314ccc6ad3d49/{uuid}/psid=fbd43d8986baf7c7ae566b906a1db3c7b5f045571793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/vnd.apple.mpegurl",
+        "status": 200,
+        "bytes": 706,
+        "hits": 1,
+        "example": "https://skyfire.vimeocdn.com/1793891756-0xf83d661e9d52147b1f61b87542a314ccc6ad3d49/476d5415-0403-4d5d-b603-2ad16c09b9a1/psid=fbd43d8986baf7c7ae566b906a1db3c7b5f045571793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D2980b0934c92cbdaa0356894b063ccb35f68680f1793888156%2F%2A~hmac=10bb0d3de60c0cb713d4fe77ec2c414a5f97c1acbf792f926f91e37922dab2bc/{uuid}/psid=2980b0934c92cbdaa0356894b063ccb35f68680f1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 710,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F61fca3f4-f1e9-44f9-9383-c8ba6d5a804f%2Fpsid%3D2980b0934c92cbdaa0356894b063ccb35f68680f1793888156%2F%2A~hmac=10bb0d3de60c0cb713d4fe77ec2c414a5f97c1acbf792f926f91e37922dab2bc/61fca3f4-f1e9-44f9-9383-c8ba6d5a804f/psid=2980b0934c92cbdaa0356894b063ccb35f68680f1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "skyfire.vimeocdn.com",
+        "path": "/1793891756-0xa2c315b13c66ec3cf444d1fe81de8234862a8d2b/{uuid}/psid=26014f1c48adf9775e9454e5fa5a5059c01a65281793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/vnd.apple.mpegurl",
+        "status": 200,
+        "bytes": 706,
+        "hits": 1,
+        "example": "https://skyfire.vimeocdn.com/1793891756-0xa2c315b13c66ec3cf444d1fe81de8234862a8d2b/476d5415-0403-4d5d-b603-2ad16c09b9a1/psid=26014f1c48adf9775e9454e5fa5a5059c01a65281793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D0a207f5a763d5258a3b62219a285ba5811fb30891793888156%2F%2A~hmac=9c7455a66007e5a4951ea834d591a01be8ac4418a5beaa455f7a7780c6e8c607/{uuid}/psid=0a207f5a763d5258a3b62219a285ba5811fb30891793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 856,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Fcbe637c7-c43b-4260-936c-412353147151%2Fpsid%3D0a207f5a763d5258a3b62219a285ba5811fb30891793888156%2F%2A~hmac=9c7455a66007e5a4951ea834d591a01be8ac4418a5beaa455f7a7780c6e8c607/cbe637c7-c43b-4260-936c-412353147151/psid=0a207f5a763d5258a3b62219a285ba5811fb30891793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D0d55d53226f8c19c11bed23afcfccd1875a270911793888156%2F%2A~hmac=f9e45271e17e294c4716eb5e34b90601e6a113f482ca80dd15ab01dd326af80c/{uuid}/psid=0d55d53226f8c19c11bed23afcfccd1875a270911793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 710,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F41fb2497-40d8-4c09-bff2-8ea7f6ad0863%2Fpsid%3D0d55d53226f8c19c11bed23afcfccd1875a270911793888156%2F%2A~hmac=f9e45271e17e294c4716eb5e34b90601e6a113f482ca80dd15ab01dd326af80c/41fb2497-40d8-4c09-bff2-8ea7f6ad0863/psid=0d55d53226f8c19c11bed23afcfccd1875a270911793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D900c79d076918e0b1a5ee730c4ccb757427673861793888156%2F%2A~hmac=33d1ec581e457ad442ebdf0e2c87c0c2e38b426b5a2b04415601f3c5722ae232/{uuid}/psid=900c79d076918e0b1a5ee730c4ccb757427673861793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 856,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Fcbe637c7-c43b-4260-936c-412353147151%2Fpsid%3D900c79d076918e0b1a5ee730c4ccb757427673861793888156%2F%2A~hmac=33d1ec581e457ad442ebdf0e2c87c0c2e38b426b5a2b04415601f3c5722ae232/cbe637c7-c43b-4260-936c-412353147151/psid=900c79d076918e0b1a5ee730c4ccb757427673861793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D4cc03acda8fee4010abe9861dad5411dbc583cad1793888156%2F%2A~hmac=f48a8041cfbab126bdcc7361ddcb6078e3059b51bc993395a78ae3676e826e11/{uuid}/psid=4cc03acda8fee4010abe9861dad5411dbc583cad1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 710,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Fb93a77cf-86ce-42c7-9db4-930c736a2280%2Fpsid%3D4cc03acda8fee4010abe9861dad5411dbc583cad1793888156%2F%2A~hmac=f48a8041cfbab126bdcc7361ddcb6078e3059b51bc993395a78ae3676e826e11/b93a77cf-86ce-42c7-9db4-930c736a2280/psid=4cc03acda8fee4010abe9861dad5411dbc583cad1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3Dbd673e9ae938410ad93bb9a42f2f9580dd28b2b41793888156%2F%2A~hmac=0644877d95a20bc1b48823d88f28e1aedc51d181519fe91527a5af7b49e584d2/{uuid}/psid=bd673e9ae938410ad93bb9a42f2f9580dd28b2b41793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 860,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Fc987a869-a7e1-47d2-b646-67fc361a9545%2Fpsid%3Dbd673e9ae938410ad93bb9a42f2f9580dd28b2b41793888156%2F%2A~hmac=0644877d95a20bc1b48823d88f28e1aedc51d181519fe91527a5af7b49e584d2/c987a869-a7e1-47d2-b646-67fc361a9545/psid=bd673e9ae938410ad93bb9a42f2f9580dd28b2b41793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D8d713c61f50c3c2345293cb5a46f6190b70303481793888156%2F%2A~hmac=c5fd0a37fa71fa97d3d21cece4f6ac7bb0a6c9a44d204c2ec5e0e67229f1fef6/{uuid}/psid=8d713c61f50c3c2345293cb5a46f6190b70303481793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 705,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Fac775be2-541b-4fa8-90c2-525f1457ccc5%2Fpsid%3D8d713c61f50c3c2345293cb5a46f6190b70303481793888156%2F%2A~hmac=c5fd0a37fa71fa97d3d21cece4f6ac7bb0a6c9a44d204c2ec5e0e67229f1fef6/ac775be2-541b-4fa8-90c2-525f1457ccc5/psid=8d713c61f50c3c2345293cb5a46f6190b70303481793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D0f452672ce452ef3c790048519adf2ecb6f622171793888156%2F%2A~hmac=2fb1d1839201df8b6c188c2b23326dfc4f88a38b1bd32b7c6f758570cf2e14f4/{uuid}/psid=0f452672ce452ef3c790048519adf2ecb6f622171793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 710,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F41fb2497-40d8-4c09-bff2-8ea7f6ad0863%2Fpsid%3D0f452672ce452ef3c790048519adf2ecb6f622171793888156%2F%2A~hmac=2fb1d1839201df8b6c188c2b23326dfc4f88a38b1bd32b7c6f758570cf2e14f4/41fb2497-40d8-4c09-bff2-8ea7f6ad0863/psid=0f452672ce452ef3c790048519adf2ecb6f622171793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D5651414eaffa38c166800cd4f66caafb5e3064101793888156%2F%2A~hmac=4187be073b3efd2cb1543ac0538fa112b7d785cb0664ac07d91aa19ecab4bf97/{uuid}/psid=5651414eaffa38c166800cd4f66caafb5e3064101793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 703,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F370b6593-67d5-4bf7-a670-da5692af89d9%2Fpsid%3D5651414eaffa38c166800cd4f66caafb5e3064101793888156%2F%2A~hmac=4187be073b3efd2cb1543ac0538fa112b7d785cb0664ac07d91aa19ecab4bf97/370b6593-67d5-4bf7-a670-da5692af89d9/psid=5651414eaffa38c166800cd4f66caafb5e3064101793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3Dd20421a7df1c271a688dc30dcd5df03e936fbc4a1793888156%2F%2A~hmac=32f98c8d6265932c31a1857dd019d726a672f10645903646f7f456abd048e61a/{uuid}/psid=d20421a7df1c271a688dc30dcd5df03e936fbc4a1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 837,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Faa9b18a8-138b-4cb9-b4a7-3b7f0b7998bb%2Fpsid%3Dd20421a7df1c271a688dc30dcd5df03e936fbc4a1793888156%2F%2A~hmac=32f98c8d6265932c31a1857dd019d726a672f10645903646f7f456abd048e61a/aa9b18a8-138b-4cb9-b4a7-3b7f0b7998bb/psid=d20421a7df1c271a688dc30dcd5df03e936fbc4a1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3Dd0643b2b565c35779ee69e7579dd3437e180899b1793888156%2F%2A~hmac=db1d4d867509855f3d86db10fa902980671051574cdc5991b6f2c4f1ca76716f/{uuid}/psid=d0643b2b565c35779ee69e7579dd3437e180899b1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 712,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F8bdb1466-97c4-41a9-93c0-60caeedfe38a%2Fpsid%3Dd0643b2b565c35779ee69e7579dd3437e180899b1793888156%2F%2A~hmac=db1d4d867509855f3d86db10fa902980671051574cdc5991b6f2c4f1ca76716f/8bdb1466-97c4-41a9-93c0-60caeedfe38a/psid=d0643b2b565c35779ee69e7579dd3437e180899b1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D6289661168603357fb63c9c24cbc74614d0b57181793888156%2F%2A~hmac=9ca6867cb2cabff9bc3f5dd66c767f76be96f781b8db486ed2d8d4f0297d0d46/{uuid}/psid=6289661168603357fb63c9c24cbc74614d0b57181793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 712,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F8bdb1466-97c4-41a9-93c0-60caeedfe38a%2Fpsid%3D6289661168603357fb63c9c24cbc74614d0b57181793888156%2F%2A~hmac=9ca6867cb2cabff9bc3f5dd66c767f76be96f781b8db486ed2d8d4f0297d0d46/8bdb1466-97c4-41a9-93c0-60caeedfe38a/psid=6289661168603357fb63c9c24cbc74614d0b57181793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D4e6b3e12479d5bf5706473f7da4151e9d543ec4f1793888156%2F%2A~hmac=1569b7659016083578cfcb8f67d6a768f7796571688d8ca2f4893b599814a2e8/{uuid}/psid=4e6b3e12479d5bf5706473f7da4151e9d543ec4f1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 851,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F38d24794-231b-4de4-8a84-0b407af1d958%2Fpsid%3D4e6b3e12479d5bf5706473f7da4151e9d543ec4f1793888156%2F%2A~hmac=1569b7659016083578cfcb8f67d6a768f7796571688d8ca2f4893b599814a2e8/38d24794-231b-4de4-8a84-0b407af1d958/psid=4e6b3e12479d5bf5706473f7da4151e9d543ec4f1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D4f790e1096abd70dc706b5e0cae8643aaf8b094d1793888156%2F%2A~hmac=d5d31892d5f17746aaa8d138e38a894032bc949c3039f09ec9b1eb344693e60c/{uuid}/psid=4f790e1096abd70dc706b5e0cae8643aaf8b094d1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 703,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F370b6593-67d5-4bf7-a670-da5692af89d9%2Fpsid%3D4f790e1096abd70dc706b5e0cae8643aaf8b094d1793888156%2F%2A~hmac=d5d31892d5f17746aaa8d138e38a894032bc949c3039f09ec9b1eb344693e60c/370b6593-67d5-4bf7-a670-da5692af89d9/psid=4f790e1096abd70dc706b5e0cae8643aaf8b094d1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D1fc1e40bf7d6858f9487f0e2283495309bee55cb1793888156%2F%2A~hmac=c26e139fa3937d145927fa5e8ae866ebb41eed5fcb60bfb2a75a6814619ff05a/{uuid}/psid=1fc1e40bf7d6858f9487f0e2283495309bee55cb1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 860,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Fc987a869-a7e1-47d2-b646-67fc361a9545%2Fpsid%3D1fc1e40bf7d6858f9487f0e2283495309bee55cb1793888156%2F%2A~hmac=c26e139fa3937d145927fa5e8ae866ebb41eed5fcb60bfb2a75a6814619ff05a/c987a869-a7e1-47d2-b646-67fc361a9545/psid=1fc1e40bf7d6858f9487f0e2283495309bee55cb1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D4f1b12be2545c0c84889439c5c6552d8b99ba1e91793888156%2F%2A~hmac=47fea5d0be0104c8d914a738de0b0881764e096b2a68e908cd8781272eebce02/{uuid}/psid=4f1b12be2545c0c84889439c5c6552d8b99ba1e91793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 853,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F89a2c001-91f2-4889-847d-b252671e76ab%2Fpsid%3D4f1b12be2545c0c84889439c5c6552d8b99ba1e91793888156%2F%2A~hmac=47fea5d0be0104c8d914a738de0b0881764e096b2a68e908cd8781272eebce02/89a2c001-91f2-4889-847d-b252671e76ab/psid=4f1b12be2545c0c84889439c5c6552d8b99ba1e91793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3Daba8cc75a35d2dae3564efa86fea6c430f3a8d261793888156%2F%2A~hmac=48253ddb2ddd0a092b6f11e4881710dc00d03daef2dc09ea87ee0344e524d5db/{uuid}/psid=aba8cc75a35d2dae3564efa86fea6c430f3a8d261793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 837,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F1226d3d6-aa5b-43be-bc96-c3b675980ea3%2Fpsid%3Daba8cc75a35d2dae3564efa86fea6c430f3a8d261793888156%2F%2A~hmac=48253ddb2ddd0a092b6f11e4881710dc00d03daef2dc09ea87ee0344e524d5db/1226d3d6-aa5b-43be-bc96-c3b675980ea3/psid=aba8cc75a35d2dae3564efa86fea6c430f3a8d261793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D5a10957ba72ef44bf1f3e893f5dabfa4774991c11793888156%2F%2A~hmac=f5d30e841c785e14aa53a6f9e27dc02f0fec0ab8b1665d14f0fc2ef6fb7f2e06/{uuid}/psid=5a10957ba72ef44bf1f3e893f5dabfa4774991c11793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 850,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2F5f4b1e62-1e41-49f2-ade9-11552c85040c%2Fpsid%3D5a10957ba72ef44bf1f3e893f5dabfa4774991c11793888156%2F%2A~hmac=f5d30e841c785e14aa53a6f9e27dc02f0fec0ab8b1665d14f0fc2ef6fb7f2e06/5f4b1e62-1e41-49f2-ade9-11552c85040c/psid=5a10957ba72ef44bf1f3e893f5dabfa4774991c11793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891756~acl=%2F{uuid}%2Fpsid%3D263b53ac50bff4dba335407e2fa58391c9d0275a1793888156%2F%2A~hmac=0b455f4a9a7f1588978a3e30736c74e88e1942d551407b87acdbbb804efa2f83/{uuid}/psid=263b53ac50bff4dba335407e2fa58391c9d0275a1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 710,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891756~acl=%2Fb93a77cf-86ce-42c7-9db4-930c736a2280%2Fpsid%3D263b53ac50bff4dba335407e2fa58391c9d0275a1793888156%2F%2A~hmac=0b455f4a9a7f1588978a3e30736c74e88e1942d551407b87acdbbb804efa2f83/b93a77cf-86ce-42c7-9db4-930c736a2280/psid=263b53ac50bff4dba335407e2fa58391c9d0275a1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "skyfire.vimeocdn.com",
+        "path": "/1793891756-0x1654170dab66bb197f6920ad1d5e2668acf40e5c/{uuid}/psid=13c6727d6f624de2fed3ff147a578306b50420eb1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/vnd.apple.mpegurl",
+        "status": 200,
+        "bytes": 694,
+        "hits": 1,
+        "example": "https://skyfire.vimeocdn.com/1793891756-0x1654170dab66bb197f6920ad1d5e2668acf40e5c/52ab1300-b0db-445d-bef5-96ccd338b69a/psid=13c6727d6f624de2fed3ff147a578306b50420eb1793888156/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/playlist/av/457cff63/avf/{n}/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 488,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/playlist/av/457cff63/avf/89966758/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/nVUlMXSc",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/nVUlMXSc",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MC04MDQ/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891754~acl=%2F{uuid}%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/{uuid}/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 15943893,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891754~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D781f79e6da9023db96b940b96016df4d67c101241793888154%2F%2A~hmac=83224ea4b14974f33b936d3eb0cfd34ec3f6266b41f84345abcb66efe6980df8/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=781f79e6da9023db96b940b96016df4d67c101241793888154/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 146
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 74
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1950,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "data-social-popup-open",
+        "href": null
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JaguarUK"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JaguarUKPR"
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1",
+      "https://player.vimeo.com/video/1233115966?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233115966?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233116020?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233116020?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233109499?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233109499?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233109623?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233109623?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233161477?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233161477?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056559?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056559?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056446?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056446?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056378?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056378?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056340?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056340?badge=0&autopause=0&player_id=0&app_id=138872",
+      "https://player.vimeo.com/video/1233056301?badge=0&autopause=0&player_id=0&app_id=138872"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 49,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/jaguar-en-gb-videos.png",
+  "renderedHtml": "pages/jaguar-en-gb-videos.html",
+  "type": "media-listing",
+  "typeFamily": "listing",
+  "typeBasis": "body.path-videos + .new-grid",
+  "typeVariant": "videos",
+  "site": "jaguar",
+  "slots": {
+    "index-headline": "Video",
+    "result-count": null,
+    "filter-controls": {
+      "groups": [
+        "Vehicles",
+        "Current",
+        "Video Format",
+        "Video View",
+        "Tags",
+        "People",
+        "Model Year"
+      ],
+      "options": 13,
+      "refineButton": true
+    },
+    "pager": true,
+    "card-grid": [
+      {
+        "title": "Jaguar Type 01 Exterior",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208744485-70c731c9e5d3658d47d97e1da496195efaf7a09d702ed974dbb7a0736c5b1f84-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/3e80d7f3-1120-414a-b264-fa08fc34d538/Jaguar_Type01_Exterior - Gloss - NAS Spec - Broll_2508_ProRes.mp4?VersionId=lBfnQmQfvTo2JzclAlA3HdSVif0VMtiU",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Exterior",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208745753-6ce6b8864f0041dcac1a70bc3069bd31988c762172800d76d0f44cfb5aaa0cff-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/f8e838a4-f827-4d34-a650-c5a0c8c95b98/Jaguar_Type01_Exterior - Satin - EU Spec - Broll_2508 _ProRes.mp4?VersionId=bCN1G56mmUBQQf2xw_ixPvcJIMAM5gT4",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Interior",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208746786-a33dceb376a91fc5970ee4f968b6badd99c22b3cc0c7102a3775898bec796d24-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/2249ab13-1a05-4260-9d43-12bb7760fa54/Jaguar_Type01_Interior - Broll_Prores.mp4?VersionId=Gf48bRCtgshLxuOPdyga33hq53xnstk_",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Interior",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208746252-8d875f8e502daab5c571359e1d131e4ad951b8c301df3d08114dada323226a64-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/a3941588-2c15-469e-84cb-ad9ad7c49cf2/Jaguar_Type01_Interior - Broll__Prores.mp4?VersionId=M.xvu5HtOp2_xh.wiaWhIcYrdcg9IC0F",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Technical Assets",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208750651-eb2685fb4b808eb9c9321417d59f4452af331d48a980c3de428b0e5a14925392-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/60483a6f-e1d4-4478-84b8-377da3fb3d58/Active Spoiler.mp4?VersionId=SiQgO_E5aQpNZw55e7JdPCro6LXOt5fq",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Technical Assets",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208617159-c17ea5390df810b76727fdb8ddc451f612f7f2d72fcea037e488e5c3d69f37e0-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/c3c48a51-05c7-43a4-b08f-1ecfee3bca0a/Eliptcial Hole_Type 01.mp4?VersionId=hRaCkzXnrcdvVxy_QT7MueLbOwq2fOmj",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Technical Assets",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208617067-bdc60002344cc2ace9d38107fa53b2f39a369396f895bdbc4dc731f5270c5030-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/97676eb0-4cd9-4a0d-9cb1-df22d3ab7c60/Jaguar Type 01_Impossible Panel.mp4?VersionId=JB9tIQ6MdaWrfxzMNbmsTFYkfJOjCMLg",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Technical Assets",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208748356-9b500dfccf3b2bf8c041646688300df7b9192b1b550c9304786bb2c0f04d5fbb-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/44c975e8-7aed-4649-8dd4-7a7347beea07/Jaguar Type 01_rear EDU.mp4?VersionId=lidfmoJPJZyUDT.wTu7qKawlevRyePqs",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Technical Assets",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208616946-33143ff5afb52e6f91c09e808d5712498c1fa4608c4a5136753b8ca5b5e384ee-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/17a9b15c-b203-4122-9e11-ec257be0ac38/Jaguar Type 01_Tri-Apex Node.mp4?VersionId=aeMlD4hOGv8rlKPcvL5wi0sSDQsIUgZP",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Technical Assets",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208747126-8e35d94a053e8df96682a5c13e13ed421294aea45c09de098f1c924f579a0a16-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/96625e63-d3d2-4f0d-888f-b3cbf37f5d4a/Jaguar_CGI_Propulsion.mov?VersionId=Ql4qFHntAK2cX0q4fLDFrto0Mi889f3b",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Technical Assets",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208616641-a071f82fea0d2ee8e0304cd9c2ad301f74a4e029693ffcc66b77a6de16498bdc-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/d7dc5636-1945-4a03-b207-362aa1ec24f5/Type01_Active_Aero.mp4?VersionId=ygb3DEretmwEDp28zc5hlgB5VVK9pm0P",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Dynamic B‑roll",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208743388-30f63288e063929d5b31f33fdfcb3b414133616b6d7188145c7db4f9d8a6562f-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/d1d3c044-7c0e-4948-9061-62be2a57208f/JAGUAR_TYPE01_28GL_B-ROLL_4K_DYNAMIC_SATIN-SILVER_ 3840x2160.mp4?VersionId=18WUbm2nYFQKt3fbpUY8lb0nNE9TGx.Y",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01 Technical Assets",
+        "date": "07 October 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2208617158-b1c8fd3820c05fb64312410e4dfd8fb71f9a6e6b3ddf24a22709c52bf4924f53-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-10-05/video/8a7192c1-e67f-40bd-8ffc-243a1a7ef0d6/Jaguar Type 01_battery.mp4?VersionId=zePHN3xVWwP6OCNiZpJ.txGXv.t8IM.m",
+        "download": null
+      },
+      {
+        "title": "Jaguar Type 01",
+        "date": "13 May 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2156491968-3a24e69c42f7d5599982654b29db65c8757007d893add2c5bf8778eddc5b7be4-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-05-12/video/79a6050f-85e9-4f46-880c-40bf5945ddb1/Name Reveal.mp4?VersionId=TM.s5PMbF_4jjSEqabRDoYSR_.owL2Oa",
+        "download": null
+      },
+      {
+        "title": "Jaguar GT Winter Testing Film",
+        "date": "02 February 2026",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/2115090174-671475d3f00ddbbec90f4473e64d3b589714d51bdf1941ee2a0a3a3bc3c98651-d_960x540?&r=pad&region=us",
+        "href": "https://media.production.jlrms.com/2026-01-30/video/cd90e13f-4686-4fb5-bc76-37b658b7e226/Jaguar_GT_Prototype_020226.mp4?VersionId=B9lBps5hrzVht9ZL.cQ5.6Z2mNdDiBQN",
+        "download": null
+      },
+      {
+        "title": "Type 00 Window B‑Roll",
+        "date": "12 December 2025",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "href": "https://media.production.jlrms.com/2025-12-12/video/b02d5c3c-e9cf-4c70-8c8c-9142e6b53d2b/Jaguar_Type 00 Window Display_BRoll.mp4?VersionId=WafPSx6XI_U1tBe9joVnZ1GgDmbpQ48A",
+        "download": null
+      },
+      {
+        "title": "Type 00 Window Sizzle",
+        "date": "12 December 2025",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "href": "https://media.production.jlrms.com/2025-12-12/video/9de7794b-f670-4fa5-86a9-e5cb10600304/Jaguar_Type 00 Window Display_Sizzle.mp4?VersionId=i.o26Shoo3RaGd64prHnvKEN8t8LVRp7",
+        "download": null
+      },
+      {
+        "title": "JAGUAR BRAND FILM",
+        "date": "03 December 2024",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/1956882896-b8e26ebcc47a9d772f75be0de26b28074ccc01620e950c0d64a321334b5ef85d-d_960x540?r=pad",
+        "href": "https://media.production.jlrms.com/2024-12-02/video/b6bbf178-4cb8-411c-8197-e54748e6ae9a/JAGUAR_BRAND_FILM_021224.mov?VersionId=bdnCs7ncdzw4DRxX0Cx45IndjJvuNqxk",
+        "download": null
+      }
+    ],
+    "hero": null
+  }
+}

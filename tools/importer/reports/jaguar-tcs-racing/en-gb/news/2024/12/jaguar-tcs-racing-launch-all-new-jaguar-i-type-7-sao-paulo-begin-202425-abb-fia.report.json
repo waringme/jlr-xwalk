@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/12/jaguar-tcs-racing-launch-all-new-jaguar-i-type-7-sao-paulo-begin-202425-abb-fia",
+  "path": "jaguar-tcs-racing/en-gb/news/2024/12/jaguar-tcs-racing-launch-all-new-jaguar-i-type-7-sao-paulo-begin-202425-abb-fia",
+  "timestamp": "2026-11-06T10:57:47.177Z",
+  "title": "JAGUAR TCS RACING LAUNCH ALL-NEW JAGUAR I-TYPE 7 IN SÃO PAULO TO BEGIN 2024/25 ABB FIA FORMULA E WORLD CHAMPIONSHIP CAMPAIGN | Jaguar TCS Racing Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

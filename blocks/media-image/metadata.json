@@ -1,0 +1,56 @@
+{
+  "variantName": "media-image",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "image"
+  },
+  "contentPattern": "One row per image. Each row: cell 1 image (picture), cell 2 asset title (plain text, optional; falls back to the image alt), cell 3 download links (High-Res / Low-Res; optional). Download, favourite (add to cart) and share actions are generated from the title and links via media-actions.",
+  "options": [
+    {
+      "class": "thumbnail",
+      "label": "Thumbnail"
+    },
+    {
+      "class": "strip",
+      "label": "Strip"
+    },
+    {
+      "class": "gallery",
+      "label": "Gallery"
+    },
+    {
+      "class": "strip-2",
+      "label": "Strip 2"
+    }
+  ],
+  "optionNotes": {
+    "default": "Full-width hero image on black (max 500px tall) with the vertical download / favourite / share rail on the right edge.",
+    "thumbnail": "Plain image; the first link in the row wraps the image as its target.",
+    "strip": "Three-up row of 1.4:1 photos; a title and actions bar slides up on hover / focus.",
+    "gallery": "1 / 2 / 3 column grid of 16:9 tiles with an actions overlay on hover / focus.",
+    "strip-2": "Same as strip."
+  },
+  "memberVariantIds": [
+    "v_be2ece735fa7",
+    "v_96e1a62758c6",
+    "v_eeb5250a8988",
+    "v_d8cfb078c743",
+    "v_a6acd685a62e-1"
+  ],
+  "usage": {
+    "description": "Press-release and image-pack pages: the article hero photo with its action rail, a row of downloadable press photos, image-pack grids and image thumbnails.",
+    "pagesUsing": [
+      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+      "/defender/en-gb/vehicle/defender-110"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-11-06T16:40:15Z"
+  },
+  "reuseGuidance": "Use for any downloadable press image or set of images. For an image paired with article text use columns-press-image; for an image with an overlapping caption card use image-caption.",
+  "prototypeCounterpart": "stardust/prototypes css/defender-en-gb-news-*.css (.article-hero__image, .article-media, .article-three) and css/defender-en-gb-image-packs-defender-110-namib-orange.css (.img-pack-expand-body, .img-pack-block)"
+}

@@ -1,0 +1,19 @@
+{
+  "variantName": "columns-newsletter",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "heading + button"
+  },
+  "contentPattern": "One row, two cells. Cell 1: brand logo image. Cell 2: heading/label (\"Subscribe to our newsletter\") and the Subscribe link.",
+  "options": [],
+  "memberVariantIds": [
+    "v_09a5d2ea1986"
+  ],
+  "usage": "Newsletter sign-up band shown above the footer on every page; logo left, label and Subscribe button right on desktop, stacked and centred on mobile.",
+  "reuseGuidance": "Appears site-wide; consider placing it in the footer fragment rather than authoring it per page."
+}

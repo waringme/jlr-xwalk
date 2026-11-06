@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv",
+  "path": "range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv",
+  "timestamp": "2026-11-06T10:58:37.766Z",
+  "title": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV | Range Rover Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

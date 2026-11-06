@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+  "path": "defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+  "timestamp": "2026-11-06T10:32:05.099Z",
+  "title": "TOUGH LUXURY: NEW DEFENDER VERTEX LEADS DESIGN AND ACCESSORY UPDATE | Defender Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

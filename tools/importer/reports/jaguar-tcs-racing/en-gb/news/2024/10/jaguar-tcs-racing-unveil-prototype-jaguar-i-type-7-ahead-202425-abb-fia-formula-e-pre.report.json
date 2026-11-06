@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/10/jaguar-tcs-racing-unveil-prototype-jaguar-i-type-7-ahead-202425-abb-fia-formula-e-pre",
+  "path": "jaguar-tcs-racing/en-gb/news/2024/10/jaguar-tcs-racing-unveil-prototype-jaguar-i-type-7-ahead-202425-abb-fia-formula-e-pre",
+  "timestamp": "2026-11-06T10:55:59.840Z",
+  "title": "JAGUAR TCS RACING UNVEIL PROTOTYPE JAGUAR I-TYPE 7 AHEAD OF 2024/25 ABB FIA FORMULA E PRE-SEASON TESTING | Jaguar TCS Racing Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

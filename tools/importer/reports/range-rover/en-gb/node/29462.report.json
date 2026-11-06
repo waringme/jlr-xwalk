@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/range-rover/en-gb/node/29462",
+  "path": "range-rover/en-gb/node/29462",
+  "timestamp": "2026-11-06T10:59:46.311Z",
+  "title": "THE PHILOSOPHY OF REDUCTION | Range Rover Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "quote-centered"
+  ]
+}

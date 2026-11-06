@@ -1,0 +1,68 @@
+{
+  "live": "replica/motion/defender-en-gb-contact-china-3-360.json",
+  "build": "replica/motion/defender-en-gb-contact-china-3-360-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 7,
+    "parity": 6,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 1,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "hover",
+      "name": ".contact-detail__support a",
+      "state": "parity",
+      "note": "self.color; n/a",
+      "line": "motion hover .contact-detail__support a: parity (self.color; n/a)"
+    },
+    {
+      "cls": "hover",
+      "name": ".contact-detail__heading",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .contact-detail__heading: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "32 event(s) on live, 88 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (32 event(s) on live, 88 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "32 event(s) on live, 88 on build, 300ms",
+      "line": "motion transition margin-top: parity (32 event(s) on live, 88 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "2 event(s) on live, 8 on build, 500ms",
+      "line": "motion transition top: parity (2 event(s) on live, 8 on build, 500ms)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 4× on live, 7× on build",
+      "line": "motion class bottom-shadow: parity (added 4× on live, 7× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 2× on live, 7× on build",
+      "line": "motion class shrink: parity (added 2× on live, 7× on build)"
+    }
+  ]
+}

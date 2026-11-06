@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar-tcs-racing/en-gb/vehicle/i-type-3",
+  "path": "jaguar-tcs-racing/en-gb/vehicle/i-type-3",
+  "timestamp": "2026-11-06T17:53:21.131Z",
+  "title": "Jaguar Formula E Homepage",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defenderrally/en-gb/news/2026/01/defender-ready-debut-dakar-rally-2026-world-rally-raid-championship-begins",
+  "path": "defenderrally/en-gb/news/2026/01/defender-ready-debut-dakar-rally-2026-world-rally-raid-championship-begins",
+  "timestamp": "2026-11-06T10:42:32.484Z",
+  "title": "DEFENDER READY FOR DEBUT IN DAKAR RALLY AS 2026 WORLD RALLY-RAID CHAMPIONSHIP BEGINS | Defender Rally Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+  "path": "discovery/en-gb/news/2025/05/discovery-gears-luxurious-road-trips-new-tempest-and-gemini-editions",
+  "timestamp": "2026-11-06T10:47:08.652Z",
+  "title": "DISCOVERY GEARS UP FOR LUXURIOUS ROAD TRIPS WITH NEW TEMPEST AND GEMINI EDITIONS | Discovery Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

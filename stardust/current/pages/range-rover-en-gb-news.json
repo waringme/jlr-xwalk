@@ -1,0 +1,1468 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:17:43.995Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "range-rover-en-gb-news",
+  "url": "https://media.jlr.com/range-rover/en-gb/news",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:17:43.995Z",
+  "finalUrl": "https://media.jlr.com/range-rover/en-gb/news",
+  "title": "Range Rover",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM"
+    },
+    {
+      "tag": "h1",
+      "text": "Latest News"
+    },
+    {
+      "tag": "h4",
+      "text": "02 September 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV"
+    },
+    {
+      "tag": "h4",
+      "text": "22 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER PREVIEWS FIFTH MEMBER OF THE FAMILY: INTRODUCING RANGE ROVER GT"
+    },
+    {
+      "tag": "h4",
+      "text": "16 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "INTRODUCING RANGE ROVER SPORT ELECTRIC: THE PINNACLE OF SPORTING LUXURY"
+    },
+    {
+      "tag": "h4",
+      "text": "07 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "A CURATED SEASON: RANGE ROVER INTRODUCES THE BRITISH SUMMERTIME COLLECTION"
+    },
+    {
+      "tag": "h4",
+      "text": "02 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER ELECTRIC TO MAKE PUBLIC DEBUT AT GOODWOOD FESTIVAL OF SPEED 2026"
+    },
+    {
+      "tag": "h4",
+      "text": "01 July 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER SPORT WINS BEST LARGE PREMIUM SUV AT AUTO EXPRESS NEW CAR AWARDS 2026"
+    },
+    {
+      "tag": "h4",
+      "text": "13 May 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER OPENS THE BRITISH SUMMER SEASON AT RHS CHELSEA FLOWER SHOW 2026"
+    },
+    {
+      "tag": "h4",
+      "text": "29 April 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER UNVEILS EXCLUSIVE LONDON‑INSPIRED EDITIONS, HONOURING THE CAPITAL’S COVETED NEIGHBOURHOODS"
+    },
+    {
+      "tag": "h4",
+      "text": "29 April 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER SV ULTRA: THE PINNACLE OF RANGE ROVER LUXURY AND TECHNOLOGY"
+    },
+    {
+      "tag": "h4",
+      "text": "15 April 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "BORN TO LEAD: RANGE ROVER SPORT TWENTY EDITION MARKS TWO DECADES OF SPORTING LUXURY WITH ATTITUDE"
+    },
+    {
+      "tag": "h4",
+      "text": "01 April 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER CELEBRATES LONDON’S CREATIVE LEADERSHIP WITH THE MASTERY MARKET"
+    },
+    {
+      "tag": "h4",
+      "text": "04 March 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "RANGE ROVER SPORT SV ULTIMATE EDITION: CURATED PERFORMANCE, REFINED"
+    },
+    {
+      "tag": "h4",
+      "text": "19 February 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "WHERE BRITISH CRAFT FLOURISHES: RANGE ROVER ANNOUNCES PARTNERSHIP WITH RHS CHELSEA FLOWER SHOW 2026, CELEBRATING CREATIVE LEADERSHIP"
+    },
+    {
+      "tag": "h4",
+      "text": "16 December 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "MAGNIFICENT LUSTRE: RANGE ROVER DEVELOPS MIRROR‑LIKE PAINT FINISH FOR BESPOKE CLIENTS"
+    },
+    {
+      "tag": "h4",
+      "text": "06 August 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "NEW RANGE ROVER SPORT SV CARBON COMPLETES DYNAMIC LUXURY PERFORMANCE FLAGSHIP LINE‑UP"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "Brand",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "More dynamic, more responsive and available to order w...",
+    "30 September 2026",
+    "Range Rover, The Original Luxury SUV, is now available...",
+    "Range Rover has confirmed the forthcoming arrival of i...",
+    "Range Rover has today revealed an exclusive series of ...",
+    "New Range Rover SV Ultra is the pinnacle of Range Rove...",
+    "Range Rover marks two decades of sporting luxury with ...",
+    "Range Rover celebrates the launch of its London‑inspir...",
+    "Range Rover has developed a new hand‑crafted mirror‑fi...",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/range-rover/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/range-rover/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/range-rover/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/range-rover/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/range-rover/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/range-rover/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/range-rover/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/range-rover/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/range-rover/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/range-rover/en-gb/contact"
+    },
+    {
+      "label": "rangerover.com",
+      "href": "https://www.rangerover.com"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Brand",
+      "href": "/range-rover/en-gb/node/29462"
+    },
+    {
+      "label": "News",
+      "href": "/range-rover/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/range-rover/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/range-rover/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/range-rover/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/range-rover/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/range-rover/en-gb/tech-specs"
+    },
+    {
+      "label": "Search Range Rover",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/526a849d-6dd8-461e-890b-127ff3c87320/en/range-rover-sport-el.zip?VersionId=dHPkIIUZKuro41Ls.hgktZoID4diAcca"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F09%2Frange-rover-sport-electric-tuned-visceral-dynamism&title=RANGE%20ROVER%20SPORT%20ELECTRIC%3A%20TUNED%20FOR%20VISCERAL%20DYNAMISM"
+    },
+    {
+      "label": "Find out more",
+      "href": "/range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism"
+    },
+    {
+      "label": "Refine By",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Tags",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "People",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Model Year",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV",
+      "href": "/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F09%2Frange-rover-electric-new-era-original-luxury-suv&title=RANGE%20ROVER%20ELECTRIC%3A%20A%20NEW%20ERA%20FOR%20THE%20ORIGINAL%20LUXURY%20SUV"
+    },
+    {
+      "label": "RANGE ROVER PREVIEWS FIFTH MEMBER OF THE FAMILY: INTRODUCING RANGE ROVER GT",
+      "href": "/range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Frange-rover-previews-fifth-member-family-introducing-range-rover-gt&title=RANGE%20ROVER%20PREVIEWS%20FIFTH%20MEMBER%20OF%20THE%20FAMILY%3A%20INTRODUCING%20RANGE%20ROVER%20GT"
+    },
+    {
+      "label": "INTRODUCING RANGE ROVER SPORT ELECTRIC: THE PINNACLE OF SPORTING LUXURY",
+      "href": "/range-rover/en-gb/news/2026/07/introducing-range-rover-sport-electric-pinnacle-sporting-luxury"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Fintroducing-range-rover-sport-electric-pinnacle-sporting-luxury&title=INTRODUCING%20RANGE%20ROVER%20SPORT%20ELECTRIC%3A%20THE%20PINNACLE%20OF%20SPORTING%20LUXURY"
+    },
+    {
+      "label": "A CURATED SEASON: RANGE ROVER INTRODUCES THE BRITISH SUMMERTIME COLLECTION",
+      "href": "/range-rover/en-gb/news/2026/07/curated-season-range-rover-introduces-british-summertime-collection"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Fcurated-season-range-rover-introduces-british-summertime-collection&title=A%20CURATED%20SEASON%3A%20RANGE%20ROVER%20INTRODUCES%20THE%20BRITISH%20SUMMERTIME%20COLLECTION"
+    },
+    {
+      "label": "RANGE ROVER ELECTRIC TO MAKE PUBLIC DEBUT AT GOODWOOD FESTIVAL OF SPEED 2026",
+      "href": "/range-rover/en-gb/news/2026/07/range-rover-electric-make-public-debut-goodwood-festival-speed-2026"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Frange-rover-electric-make-public-debut-goodwood-festival-speed-2026&title=RANGE%20ROVER%20ELECTRIC%20TO%20MAKE%20PUBLIC%20DEBUT%20AT%20GOODWOOD%20FESTIVAL%20OF%20SPEED%202026"
+    },
+    {
+      "label": "RANGE ROVER SPORT WINS BEST LARGE PREMIUM SUV AT AUTO EXPRESS NEW CAR AWARDS 2026",
+      "href": "/range-rover/en-gb/news/2026/07/range-rover-sport-wins-best-large-premium-suv-auto-express-new-car-awards-2026"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Frange-rover-sport-wins-best-large-premium-suv-auto-express-new-car-awards-2026&title=RANGE%20ROVER%20SPORT%20WINS%20BEST%20LARGE%20PREMIUM%20SUV%20AT%20AUTO%20EXPRESS%20NEW%20CAR%20AWARDS%202026"
+    },
+    {
+      "label": "RANGE ROVER OPENS THE BRITISH SUMMER SEASON AT RHS CHELSEA FLOWER SHOW 2026",
+      "href": "/range-rover/en-gb/news/2026/05/range-rover-opens-british-summer-season-rhs-chelsea-flower-show-2026"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F05%2Frange-rover-opens-british-summer-season-rhs-chelsea-flower-show-2026&title=RANGE%20ROVER%20OPENS%20THE%20BRITISH%20SUMMER%20SEASON%20AT%20RHS%20CHELSEA%20FLOWER%20SHOW%202026"
+    },
+    {
+      "label": "RANGE ROVER UNVEILS EXCLUSIVE LONDON‑INSPIRED EDITIONS, HONOURING THE CAPITAL’S COVETED NEIGHBOURHOODS",
+      "href": "/range-rover/en-gb/news/2026/04/range-rover-unveils-exclusive-london-inspired-editions-honouring-capitals-coveted"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F04%2Frange-rover-unveils-exclusive-london-inspired-editions-honouring-capitals-coveted&title=RANGE%20ROVER%20UNVEILS%20EXCLUSIVE%20LONDON%E2%80%91INSPIRED%20EDITIONS%2C%20HONOURING%20THE%20CAPITAL%E2%80%99S%20COVETED%20NEIGHBOURHOODS"
+    },
+    {
+      "label": "RANGE ROVER SV ULTRA: THE PINNACLE OF RANGE ROVER LUXURY AND TECHNOLOGY",
+      "href": "/range-rover/en-gb/news/2026/04/range-rover-sv-ultra-pinnacle-range-rover-luxury-and-technology"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F04%2Frange-rover-sv-ultra-pinnacle-range-rover-luxury-and-technology&title=RANGE%20ROVER%20SV%20ULTRA%3A%20THE%20PINNACLE%20OF%20RANGE%20ROVER%20LUXURY%20AND%20TECHNOLOGY"
+    },
+    {
+      "label": "BORN TO LEAD: RANGE ROVER SPORT TWENTY EDITION MARKS TWO DECADES OF SPORTING LUXURY WITH ATTITUDE",
+      "href": "/range-rover/en-gb/news/2026/04/born-lead-range-rover-sport-twenty-edition-marks-two-decades-sporting-luxury-attitude"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F04%2Fborn-lead-range-rover-sport-twenty-edition-marks-two-decades-sporting-luxury-attitude&title=BORN%20TO%20LEAD%3A%20RANGE%20ROVER%20SPORT%20TWENTY%20EDITION%20MARKS%20TWO%20DECADES%20OF%20SPORTING%20LUXURY%20WITH%20ATTITUDE"
+    },
+    {
+      "label": "RANGE ROVER CELEBRATES LONDON’S CREATIVE LEADERSHIP WITH THE MASTERY MARKET",
+      "href": "/range-rover/en-gb/news/2026/04/range-rover-celebrates-londons-creative-leadership-mastery-market"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F04%2Frange-rover-celebrates-londons-creative-leadership-mastery-market&title=RANGE%20ROVER%20CELEBRATES%20LONDON%E2%80%99S%20CREATIVE%20LEADERSHIP%20WITH%20THE%20MASTERY%20MARKET"
+    },
+    {
+      "label": "RANGE ROVER SPORT SV ULTIMATE EDITION: CURATED PERFORMANCE, REFINED",
+      "href": "/range-rover/en-gb/news/2026/03/range-rover-sport-sv-ultimate-edition-curated-performance-refined"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F03%2Frange-rover-sport-sv-ultimate-edition-curated-performance-refined&title=RANGE%20ROVER%20SPORT%20SV%20ULTIMATE%20EDITION%3A%20CURATED%20PERFORMANCE%2C%20REFINED"
+    },
+    {
+      "label": "WHERE BRITISH CRAFT FLOURISHES: RANGE ROVER ANNOUNCES PARTNERSHIP WITH RHS CHELSEA FLOWER SHOW 2026, CELEBRATING CREATIVE LEADERSHIP",
+      "href": "/range-rover/en-gb/news/2026/02/where-british-craft-flourishes-range-rover-announces-partnership-rhs-chelsea-flower"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F02%2Fwhere-british-craft-flourishes-range-rover-announces-partnership-rhs-chelsea-flower&title=WHERE%20BRITISH%20CRAFT%20FLOURISHES%3A%20RANGE%20ROVER%20ANNOUNCES%20PARTNERSHIP%20WITH%20RHS%20CHELSEA%20FLOWER%20SHOW%202026%2C%20CELEBRATING%20CREATIVE%20LEADERSHIP"
+    },
+    {
+      "label": "MAGNIFICENT LUSTRE: RANGE ROVER DEVELOPS MIRROR‑LIKE PAINT FINISH FOR BESPOKE CLIENTS",
+      "href": "/range-rover/en-gb/news/2025/12/magnificent-lustre-range-rover-develops-mirror-paint-finish-bespoke-clients"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2025%2F12%2Fmagnificent-lustre-range-rover-develops-mirror-paint-finish-bespoke-clients&title=MAGNIFICENT%20LUSTRE%3A%20RANGE%20ROVER%20DEVELOPS%20MIRROR%E2%80%91LIKE%20PAINT%20FINISH%20FOR%20BESPOKE%20CLIENTS"
+    },
+    {
+      "label": "NEW RANGE ROVER SPORT SV CARBON COMPLETES DYNAMIC LUXURY PERFORMANCE FLAGSHIP LINE‑UP",
+      "href": "/range-rover/en-gb/news/2025/08/new-range-rover-sport-sv-carbon-completes-dynamic-luxury-performance-flagship-line"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2025%2F08%2Fnew-range-rover-sport-sv-carbon-completes-dynamic-luxury-performance-flagship-line&title=NEW%20RANGE%20ROVER%20SPORT%20SV%20CARBON%20COMPLETES%20DYNAMIC%20LUXURY%20PERFORMANCE%20FLAGSHIP%20LINE%E2%80%91UP"
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/range-rover/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/range-rover/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/range-rover/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/range-rover/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/range-rover/en-gb/news#main-content",
+    "https://media.jlr.com/range-rover/zh-cn",
+    "https://media.jlr.com/range-rover/fr-fr",
+    "https://media.jlr.com/range-rover/de-de",
+    "https://media.jlr.com/range-rover/",
+    "https://media.jlr.com/range-rover/it-it",
+    "https://media.jlr.com/range-rover/en-us",
+    "https://media.jlr.com/range-rover/es-es",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/range-rover/en-gb/cart",
+    "https://media.jlr.com/range-rover/en-gb/contact",
+    "https://media.jlr.com/range-rover/en-gb/",
+    "https://www.rangerover.com/",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/range-rover/en-gb/terms-and-conditions",
+    "https://media.jlr.com/range-rover/en-gb/user-licence",
+    "https://media.jlr.com/range-rover/en-gb/cookies",
+    "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/range-rover/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/range-rover/en-gb/node/29462",
+    "https://media.jlr.com/range-rover/en-gb/news",
+    "https://media.jlr.com/range-rover/en-gb/image-packs",
+    "https://media.jlr.com/range-rover/en-gb/videos",
+    "https://media.jlr.com/range-rover/en-gb/directors",
+    "https://media.jlr.com/range-rover/en-gb/press-kit",
+    "https://media.jlr.com/range-rover/en-gb/tech-specs",
+    "javascript:void(0)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-gt",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-electric",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-electric",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sv",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-sv",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-lrx",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range_e",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-stormer",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-(2012-2021)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-(2013-2022)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque-(2010-2018)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography-dynamic",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sentinel",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-svr",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.production.jlrms.com/download_archives/526a849d-6dd8-461e-890b-127ff3c87320/en/range-rover-sport-el.zip?VersionId=dHPkIIUZKuro41Ls.hgktZoID4diAcca",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F09%2Frange-rover-sport-electric-tuned-visceral-dynamism&title=RANGE%20ROVER%20SPORT%20ELECTRIC%3A%20TUNED%20FOR%20VISCERAL%20DYNAMISM",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv",
+    "https://media.production.jlrms.com/download_archives/aa5b7eaf-658d-46b2-917e-e0afde77b297/en/range-rover-electric.zip?VersionId=uzePX4updJdaZfmWlGn8f1F3qjOaIDmI",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F09%2Frange-rover-electric-new-era-original-luxury-suv&title=RANGE%20ROVER%20ELECTRIC%3A%20A%20NEW%20ERA%20FOR%20THE%20ORIGINAL%20LUXURY%20SUV",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt",
+    "https://media.production.jlrms.com/download_archives/f4d3b91b-ed59-4e0c-9634-aa3556b3c7f1/en/range-rover-previews.zip?VersionId=AURkAk2VSNHP_lC8FHBsI7KoSLcsZC9t",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Frange-rover-previews-fifth-member-family-introducing-range-rover-gt&title=RANGE%20ROVER%20PREVIEWS%20FIFTH%20MEMBER%20OF%20THE%20FAMILY%3A%20INTRODUCING%20RANGE%20ROVER%20GT",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/07/introducing-range-rover-sport-electric-pinnacle-sporting-luxury",
+    "https://media.production.jlrms.com/2026-07/RANGE%20ROVER%20SPORT%20ELECTRIC%20THE%20PINNACLE%20OF%20SPORTING%20LUXURY_0.zip?VersionId=QQnnNodZQ.LHfs8sdOG53iQ0HlY7soxl",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Fintroducing-range-rover-sport-electric-pinnacle-sporting-luxury&title=INTRODUCING%20RANGE%20ROVER%20SPORT%20ELECTRIC%3A%20THE%20PINNACLE%20OF%20SPORTING%20LUXURY",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/07/curated-season-range-rover-introduces-british-summertime-collection",
+    "https://media.production.jlrms.com/download_archives/fae81d65-acf8-4166-8075-6ef53756ab6c/en/a-curated-season-ran.zip?VersionId=AHbryhm0PzIaMHJKibrEqUzz0kXmBkFv",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Fcurated-season-range-rover-introduces-british-summertime-collection&title=A%20CURATED%20SEASON%3A%20RANGE%20ROVER%20INTRODUCES%20THE%20BRITISH%20SUMMERTIME%20COLLECTION",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/07/range-rover-electric-make-public-debut-goodwood-festival-speed-2026",
+    "https://media.production.jlrms.com/download_archives/003c97a9-2d02-48a5-9a1f-112ce1aa7d1f/en-gb/range-rover-electric.zip?VersionId=AoV4WY4LTeuQHj_sH8yG8_zAJlbJb8x9",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Frange-rover-electric-make-public-debut-goodwood-festival-speed-2026&title=RANGE%20ROVER%20ELECTRIC%20TO%20MAKE%20PUBLIC%20DEBUT%20AT%20GOODWOOD%20FESTIVAL%20OF%20SPEED%202026",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/07/range-rover-sport-wins-best-large-premium-suv-auto-express-new-car-awards-2026",
+    "https://media.production.jlrms.com/download_archives/3c3cbfa9-2ca7-4659-b090-2dcb84094d16/en-gb/range-rover-sport-wi.zip?VersionId=hU8RPK2FKXKvi_.kai_fdfWxe6x685nb",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F07%2Frange-rover-sport-wins-best-large-premium-suv-auto-express-new-car-awards-2026&title=RANGE%20ROVER%20SPORT%20WINS%20BEST%20LARGE%20PREMIUM%20SUV%20AT%20AUTO%20EXPRESS%20NEW%20CAR%20AWARDS%202026",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/05/range-rover-opens-british-summer-season-rhs-chelsea-flower-show-2026",
+    "https://media.production.jlrms.com/download_archives/3b69ea6a-259f-4f3b-8da1-3bb32f43c9ce/en-gb/range-rover-opens-th.zip?VersionId=PwU27lOkfYrInjC6qchlBBL4QAfAt0SI",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F05%2Frange-rover-opens-british-summer-season-rhs-chelsea-flower-show-2026&title=RANGE%20ROVER%20OPENS%20THE%20BRITISH%20SUMMER%20SEASON%20AT%20RHS%20CHELSEA%20FLOWER%20SHOW%202026",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/04/range-rover-unveils-exclusive-london-inspired-editions-honouring-capitals-coveted",
+    "https://media.production.jlrms.com/2026-04/Range%20Rover%20London%20Editions%20-%20Updated%20UK%20Press%20Release%20-%20Westminster%20Edition.zip?VersionId=XD4tHY9Q46JdXIn5XS30TCzw0jgd3ddG",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F04%2Frange-rover-unveils-exclusive-london-inspired-editions-honouring-capitals-coveted&title=RANGE%20ROVER%20UNVEILS%20EXCLUSIVE%20LONDON%E2%80%91INSPIRED%20EDITIONS%2C%20HONOURING%20THE%20CAPITAL%E2%80%99S%20COVETED%20NEIGHBOURHOODS",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/04/range-rover-sv-ultra-pinnacle-range-rover-luxury-and-technology",
+    "https://media.production.jlrms.com/2026-04/RANGE%20ROVER%20SV%20ULTRA%20-%20THE%20PINNACLE%20OF%20RANGE%20ROVER%20LUXURY%20-%20UK.zip?VersionId=eBEmKx6lBiH9_hDYJ59FCS7F7V3eMtr2",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F04%2Frange-rover-sv-ultra-pinnacle-range-rover-luxury-and-technology&title=RANGE%20ROVER%20SV%20ULTRA%3A%20THE%20PINNACLE%20OF%20RANGE%20ROVER%20LUXURY%20AND%20TECHNOLOGY",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/04/born-lead-range-rover-sport-twenty-edition-marks-two-decades-sporting-luxury-attitude",
+    "https://media.production.jlrms.com/2026-04/Range%20Rover%20Sport%20TWENTY%20Edition%20-%20Press%20Release%20-%20UK.zip?VersionId=NBPswxVPRRnbx5qQHigHxNhCdPXp9k1Y",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F04%2Fborn-lead-range-rover-sport-twenty-edition-marks-two-decades-sporting-luxury-attitude&title=BORN%20TO%20LEAD%3A%20RANGE%20ROVER%20SPORT%20TWENTY%20EDITION%20MARKS%20TWO%20DECADES%20OF%20SPORTING%20LUXURY%20WITH%20ATTITUDE",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/04/range-rover-celebrates-londons-creative-leadership-mastery-market",
+    "https://media.production.jlrms.com/download_archives/8f43df64-0859-4fe9-9792-5687d02c9dcf/en/range-rover-celebrat.zip?VersionId=nbzT8UvAvJbIJZEn7HFPNeaZq2sMzS0M",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F04%2Frange-rover-celebrates-londons-creative-leadership-mastery-market&title=RANGE%20ROVER%20CELEBRATES%20LONDON%E2%80%99S%20CREATIVE%20LEADERSHIP%20WITH%20THE%20MASTERY%20MARKET",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/03/range-rover-sport-sv-ultimate-edition-curated-performance-refined",
+    "https://media.production.jlrms.com/download_archives/5fb6b5e2-5d9e-442b-a0ec-039f50485e1f/en-gb/range-rover-sport-sv.zip?VersionId=2HujeXRT0i4FBsu_5qZSgW4lSDth9fhD",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F03%2Frange-rover-sport-sv-ultimate-edition-curated-performance-refined&title=RANGE%20ROVER%20SPORT%20SV%20ULTIMATE%20EDITION%3A%20CURATED%20PERFORMANCE%2C%20REFINED",
+    "https://media.jlr.com/range-rover/en-gb/news/2026/02/where-british-craft-flourishes-range-rover-announces-partnership-rhs-chelsea-flower",
+    "https://media.production.jlrms.com/download_archives/bba20b57-1079-49eb-9560-00abae92d3f1/en-gb/where-british-craft-.zip?VersionId=dvkp9V4bdS77s_uw2LfJ7_RbmMH8xLVy",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2026%2F02%2Fwhere-british-craft-flourishes-range-rover-announces-partnership-rhs-chelsea-flower&title=WHERE%20BRITISH%20CRAFT%20FLOURISHES%3A%20RANGE%20ROVER%20ANNOUNCES%20PARTNERSHIP%20WITH%20RHS%20CHELSEA%20FLOWER%20SHOW%202026%2C%20CELEBRATING%20CREATIVE%20LEADERSHIP",
+    "https://media.jlr.com/range-rover/en-gb/news/2025/12/magnificent-lustre-range-rover-develops-mirror-paint-finish-bespoke-clients",
+    "https://media.production.jlrms.com/download_archives/9409088b-fa46-4a96-a2ce-6cb2b88e7ab4/en/-magnificent-lustre-.zip?VersionId=VqYx9GEdqj1_lMbakGOTCJtNaHkJqn.5",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2025%2F12%2Fmagnificent-lustre-range-rover-develops-mirror-paint-finish-bespoke-clients&title=MAGNIFICENT%20LUSTRE%3A%20RANGE%20ROVER%20DEVELOPS%20MIRROR%E2%80%91LIKE%20PAINT%20FINISH%20FOR%20BESPOKE%20CLIENTS",
+    "https://media.jlr.com/range-rover/en-gb/news/2025/08/new-range-rover-sport-sv-carbon-completes-dynamic-luxury-performance-flagship-line",
+    "https://media.production.jlrms.com/2025-08/Range%20Rover%20Sport%20SV%20Carbon%20-%20UK.zip?VersionId=f8lQ.x1S1ErLUtkL3I3W7tAZ52jVUXkk",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.jlr.com%2Frange-rover%2Fen-gb%2Fnews%2F2025%2F08%2Fnew-range-rover-sport-sv-carbon-completes-dynamic-luxury-performance-flagship-line&title=NEW%20RANGE%20ROVER%20SPORT%20SV%20CARBON%20COMPLETES%20DYNAMIC%20LUXURY%20PERFORMANCE%20FLAGSHIP%20LINE%E2%80%91UP",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/rangerover/",
+    "https://www.tiktok.com/@rangerover",
+    "https://www.youtube.com/@rangerover",
+    "https://www.facebook.com/RangeRover",
+    "https://x.com/RangeRover",
+    "https://media.jlr.com/range-rover/en-gb/news#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/range-rover/en-gb/news#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/range-rover-logo-dark.svg",
+        "alt": "rangerover.com logo",
+        "w": 282,
+        "h": 15
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-07-21/image/955f4f23-2a92-489e-a704-e58b02460e58/RR_GT_SIDE-PROFILE.jpg?VersionId=OxtLBRYFqNzgFea8CDuf2Q_MpzbDchQC&h=73b948f7&itok=gO4yszST",
+        "alt": "Range Rover GT",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-10/New_Range-Rover-Thumb.jpg?VersionId=inxFW5X8jN9ZoK8ROpLTfLE5l32B4cfI&h=05abcc49&itok=3Y42K7YN",
+        "alt": "Range Rover",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-09-09/image/ab23c903-5ad6-4476-aa3f-a89878f1adcb/RANGE%20ROVER%20ELECTRIC%20FRONT%203-4%2002_09_26.jpg?VersionId=4VBMR9djupCAxmgObc1BhIErIxS_WwdL&h=5784c3b3&itok=nvc9WXhR",
+        "alt": "Range Rover Electric",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2022-05/New-Range-Rover-Sport-Thumb.jpg?VersionId=N26RdkiHNC8xU90dw1eZE4esCCuBqQtx&h=05abcc49&itok=1wx3Ojzt",
+        "alt": "Range Rover Sport",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-09-30/image/d1353e4a-9d51-4e43-a696-cc682970a5e0/RRS_Electric_27MY_Exterior_02_300926.jpg?VersionId=.BEXL42TQHMz57nJiOJZJ0CBxH0CQgQk&h=f33571a9&itok=kYESJDLC",
+        "alt": "Range Rover Sport Electric",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-02/New-Range-Rover-Velar.jpg?VersionId=4d.ZVAGxbJHzklUxvb_D80gbr1mLObXf&h=05abcc49&itok=HU7uZL8i",
+        "alt": "Range Rover Velar",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-06/RR_EVQ_24MY_Thumb.jpg?VersionId=RSRlvgoK6PY7uVXaxqNxk2F3c4YlaoE4&h=05abcc49&itok=lfP4eQvm",
+        "alt": "Range Rover Evoque",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-10/New-Range-Rover-SV-Thumb.jpg?VersionId=hzCo5NxoKwyoystB13IOTjVXBVAS990K&h=05abcc49&itok=z6RyR9AM",
+        "alt": "Range Rover SV",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-05/RRS_24MY_SV_Thumb.jpg?VersionId=Tk0s7bjDeUL7dhNZU7OYSH8S5ijBoYLS&h=05abcc49&itok=OX8agsPS",
+        "alt": "Range Rover Sport SV",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20LRX.jpg?VersionId=wOH.KyIYV88QN4WdEh8BThNKruViCmCY&h=05abcc49&itok=-hX9c8De",
+        "alt": "Range Rover LRX",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range_e.jpg?VersionId=wO0j0iuHcqVO5M9jFf5YX1e7aVQeM8Q_&h=05abcc49&itok=qx4rMCzU",
+        "alt": "Range_e",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Stormer.jpg?VersionId=BpBsgukXQaGzOMzrjC4uFzJOFkS40hfs&h=05abcc49&itok=O13QvliE",
+        "alt": "Range Stormer",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover.jpg?VersionId=ICZiiXDtTXcNYiWUiB2OX1mOMTvUmVoL&h=05abcc49&itok=3u0_52Mj",
+        "alt": "Range Rover (2012-2021)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Sport.jpg?VersionId=VR2mVTYPFyQW3Atp_Ip9QtOZnI_vn5Tf&h=05abcc49&itok=a-pCM92U",
+        "alt": "Range Rover Sport (2013-2022)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Evoque.jpg?VersionId=MuhaxD2agXT94jngZ_jykwT0Mj4NHoFj&h=05abcc49&itok=Tk8LYnJ-",
+        "alt": "Range Rover Evoque (2010-2018)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/SVAD_Thumb.jpg?VersionId=LQynAAi48Y9QUu_6p4UQSZPm5JfKCB9l&h=05abcc49&itok=cnNj6mAw",
+        "alt": "Range Rover SVAutobiography Dynamic",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/RANGE%20ROVER%20VELAR%20SVAUTOBIOGRAPHY%20DYNAMIC%20EDITION.jpg?VersionId=78jeyVsd8XAfEdByTEVZWT6wDob3pGGm&h=05abcc49&itok=VmLIJGmy",
+        "alt": "Range Rover Velar SVAutobiography Dynamic Edition",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Sentinel.jpg?VersionId=dVPCeZXYzw6BLteAzQX_iZKMpc2No9rA&h=05abcc49&itok=-1dGzv8c",
+        "alt": "Range Rover Sentinel",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/RRSVA_Thumb.jpg?VersionId=MXE87z7BhotNbr1Mb8PQQP2_.P4XJLO7&h=05abcc49&itok=Q_dZjIUn",
+        "alt": "Range Rover SVAutobiography",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/SVR_Thumb_0.jpg?VersionId=X2UTly7Ygqkm4FKhnoQxdoOHP2dXPoK5&h=05abcc49&itok=sUoAabXm",
+        "alt": "Range Rover Sport SVR",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/hero_crop/s3/2026-09-30/image/d1353e4a-9d51-4e43-a696-cc682970a5e0/RRS_Electric_27MY_Exterior_02_300926.jpg?VersionId=2CZUs3woXPqitsqKnX2aatGARBXpUY8Q&h=4e24db91&itok=A-p5OdR8",
+        "alt": "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+        "w": 1200,
+        "h": 451
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-08-26/image/f6066e53-e4f7-492e-b9a0-207408cef021/RANGE%20ROVER%20ELECTRIC%20FRONT%203-4%2002_09_26_1.jpg?VersionId=sE9W0lYYn1uWCcPoUjRtBVhl5qanFTaq&h=2895bf45&itok=gwNhRfFm",
+        "alt": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-07-21/image/955f4f23-2a92-489e-a704-e58b02460e58/RR_GT_SIDE-PROFILE.jpg?VersionId=6reCLukLO21qt9Yo5NQrhHr8ydvbL.WH&h=920929c4&itok=PPmYTwhL",
+        "alt": "RANGE ROVER PREVIEWS FIFTH MEMBER OF THE FAMILY: INTRODUCING RANGE ROVER GT",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-07-14/image/a985adeb-ad6d-4146-8084-fa9849f36bc5/L46127GL_303105424_018%20_EXTENDED%20-%20RGB%20version%20for%20Social%20(2).jpg?VersionId=.xDsh3xiEx0F.KTuVD6S.a9W7JjXGb9p&h=5122c666&itok=Nwtl28uP",
+        "alt": "INTRODUCING RANGE ROVER SPORT ELECTRIC: THE PINNACLE OF SPORTING LUXURY",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-07-05/image/8c79d7e4-c045-4402-8e13-5081b50ad66e/RR_BST_Collection_09_070726.jpg?VersionId=_u.MXLuH05NmIWMi7M6oPbs0HuiGX29h&h=604c9973&itok=Vxhd_UPO",
+        "alt": "A CURATED SEASON: RANGE ROVER INTRODUCES THE BRITISH SUMMERTIME COLLECTION",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2023-12-12/image/c4c99787-73f0-496e-a08a-43cbbe22ba3b/RR_BEV_Announcement_131223_13.jpg?VersionId=po3Ts08uqcS.f8RyT33Va4HtfdpcPIIY&h=344d9e2e&itok=ecSlP5aK",
+        "alt": "RANGE ROVER ELECTRIC TO MAKE PUBLIC DEBUT AT GOODWOOD FESTIVAL OF SPEED 2026",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-14/image/34940d8f-4c1d-454e-9192-62fcefe3264e/RANGE%20ROVER%20SPORT%20BATTERSEA%20EDITION%20SIDE%20PROFILE%20150426.jpg?VersionId=yp3sS_BrycknAZFGMvLdhcjieYWNigZg&h=583e3e84&itok=ww-038Qx",
+        "alt": "RANGE ROVER SPORT WINS BEST LARGE PREMIUM SUV AT AUTO EXPRESS NEW CAR AWARDS 2026",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-05-18/image/f02a15d7-25ed-4bc0-b107-cfa9b657aad3/RR%20Cloister%20RHS%20Chelsea%20May%20HERO%20IMAGE.jpg?VersionId=y5hs.DKmli0.k6P.lHtS2DdgghbqjJDl&h=cd951706&itok=rsCmznGe",
+        "alt": "RANGE ROVER OPENS THE BRITISH SUMMER SEASON AT RHS CHELSEA FLOWER SHOW 2026",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-14/image/54daa6f0-808e-4b79-a44e-115a0fa3db7e/RANGE%20ROVER%20SPORT%20BATTERSEA%20EDITION%20LIFESTYLE%20150426.jpg?VersionId=qs7sabpyMdWO_dD7YN6btdPj0RMWxhgy&h=583e3e84&itok=1bz2Jdfe",
+        "alt": "RANGE ROVER UNVEILS EXCLUSIVE LONDON‑INSPIRED EDITIONS, HONOURING THE CAPITAL’S COVETED NEIGHBOURHOODS",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-27/image/0d53abbf-320c-48e4-b368-ecd048066ae3/RR_SV_Ultra_27MY_Exterior_01_290426.jpg?VersionId=f.UQHrlI28R6zWAIVMMh.eNvQThRqcfx&h=398a5b5d&itok=PJMnhDSY",
+        "alt": "RANGE ROVER SV ULTRA: THE PINNACLE OF RANGE ROVER LUXURY AND TECHNOLOGY",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-10/image/29ef9e63-2efa-48ea-b99d-4c3c67470ea2/RANGE_ROVER_SPORT_TWENTY_EDITION_FRONT34_150426.jpg?VersionId=gnsq_g761ssbA7NOxFbBmylMJ85rWLjv&h=9ca66e23&itok=XwP-AUG-",
+        "alt": "BORN TO LEAD: RANGE ROVER SPORT TWENTY EDITION MARKS TWO DECADES OF SPORTING LUXURY WITH ATTITUDE",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-01/image/f4280402-6271-42c6-b353-db68bdfae839/RANGE_ROVER_MASTERY_MARKET_310326.jpg?VersionId=4Kf8qu64JssrV7y1Jst531_QqU5INTjm&h=9ba0cb75&itok=l8-utWiX",
+        "alt": "RANGE ROVER CELEBRATES LONDON’S CREATIVE LEADERSHIP WITH THE MASTERY MARKET",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2026-03-02/image/a5a2ddda-b22b-4908-ae62-7b2e831a51d9/Velocity%20Blue%20Exterior%205.jpg?VersionId=FsnEkbRsUYQPlFGg3q7jHbIw98je7ZCq&h=00ae86ae&itok=x9Ro2dpH",
+        "alt": "RANGE ROVER SPORT SV ULTIMATE EDITION: CURATED PERFORMANCE, REFINED",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2025-06-17/image/6a81af12-16c1-433a-9558-a7fcb640093d/L460_25MY_GL_303104898_Wimbledon_side_profile_car_RGB.jpg?VersionId=K3eB.oPpETCi3htF8SCApxttIj1duiH6&h=dd317585&itok=wqp3Ueao",
+        "alt": "WHERE BRITISH CRAFT FLOURISHES: RANGE ROVER ANNOUNCES PARTNERSHIP WITH RHS CHELSEA FLOWER SHOW 2026, CELEBRATING CREATIVE LEADERSHIP",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2025-12-16/image/42ebc94c-cc7e-4f11-bb7b-e437b9eb27b4/RR_SV_COMISSIONING_SUITE_170523_12.jpg?VersionId=DQbFL7ouaG3YJMUscFMOSBcpR1cQQyWd&h=5e3f3d14&itok=uocbD6Cf",
+        "alt": "MAGNIFICENT LUSTRE: RANGE ROVER DEVELOPS MIRROR‑LIKE PAINT FINISH FOR BESPOKE CLIENTS",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/widescreen/s3/2025-08-04/image/21237d82-fb2d-49f9-8b5e-2a78b5c9b476/RRS_SV_Carbon_F34_16x9_8K_SH001_v2_PR.jpg?VersionId=6J.XssKFeiSUtjJuhVSr5knENPaCt72u&h=e611d878&itok=mow-mkEU",
+        "alt": "NEW RANGE ROVER SPORT SV CARBON COMPLETES DYNAMIC LUXURY PERFORMANCE FLAGSHIP LINE‑UP",
+        "w": 750,
+        "h": 422
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 47,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "× SUBSCRIBE TO OUR NEWSLETTER Name * Email * Contact me by fax only I agree to be emailed * Subscribe"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "206px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 35,
+    "mainTextLen": 6638,
+    "realImageCount": 47,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/range-rover/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/range-rover/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c7b99d8854f46",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/playlist/av/457cff63/avf/{n}/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 488,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/playlist/av/457cff63/avf/89966758/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MC04MDQ/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 15943893,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 74176,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891855~acl=%2F{uuid}%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/{uuid}/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 6473509,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891855~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3De49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255%2F%2A~hmac=e2e7729348472d7439f42d119a1a6fa01626f03d02c6da526b5c6b0bd319c2f0/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=e49c5e0aee3f27ea3b4f37006d00cd53c18039d11793888255/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/quiQEXyW",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/quiQEXyW",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 5
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 3
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1941,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 16,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/range-rover-en-gb-news.png",
+  "renderedHtml": "pages/range-rover-en-gb-news.html",
+  "type": "media-listing",
+  "typeFamily": "listing",
+  "typeBasis": "body.path-news + .new-grid",
+  "typeVariant": "news",
+  "site": "range-rover",
+  "slots": {
+    "index-headline": "Latest News",
+    "result-count": null,
+    "filter-controls": {
+      "groups": [
+        "Vehicles",
+        "Current",
+        "SV",
+        "CONCEPT",
+        "Past",
+        "Classic",
+        "Tags",
+        "People",
+        "Model Year"
+      ],
+      "options": 67,
+      "refineButton": true
+    },
+    "pager": true,
+    "card-grid": [
+      {
+        "title": "RANGE ROVER ELECTRIC: A NEW ERA FOR THE ORIGINAL LUXURY SUV",
+        "date": "02 September 2026",
+        "text": "Range Rover, The Original Luxury SUV, is now available...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-08-26/image/f6066e53-e4f7-492e-b9a0-207408cef021/RANGE ROVER ELECTRIC FRONT 3-4 02_09_26_1.jpg?VersionId=sE9W0lYYn1uWCcPoUjRtBVhl5qanFTaq&h=2895bf45&itok=gwNhRfFm",
+        "href": "/range-rover/en-gb/news/2026/09/range-rover-electric-new-era-original-luxury-suv",
+        "download": "https://media.production.jlrms.com/download_archives/aa5b7eaf-658d-46b2-917e-e0afde77b297/en/range-rover-electric.zip?VersionId=uzePX4updJdaZfmWlGn8f1F3qjOaIDmI"
+      },
+      {
+        "title": "RANGE ROVER PREVIEWS FIFTH MEMBER OF THE FAMILY: INTRODUCING RANGE ROVER GT",
+        "date": "22 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-07-21/image/955f4f23-2a92-489e-a704-e58b02460e58/RR_GT_SIDE-PROFILE.jpg?VersionId=6reCLukLO21qt9Yo5NQrhHr8ydvbL.WH&h=920929c4&itok=PPmYTwhL",
+        "href": "/range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt",
+        "download": "https://media.production.jlrms.com/download_archives/f4d3b91b-ed59-4e0c-9634-aa3556b3c7f1/en/range-rover-previews.zip?VersionId=AURkAk2VSNHP_lC8FHBsI7KoSLcsZC9t"
+      },
+      {
+        "title": "INTRODUCING RANGE ROVER SPORT ELECTRIC: THE PINNACLE OF SPORTING LUXURY",
+        "date": "16 July 2026",
+        "text": "Range Rover has confirmed the forthcoming arrival of i...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-07-14/image/a985adeb-ad6d-4146-8084-fa9849f36bc5/L46127GL_303105424_018 _EXTENDED - RGB version for Social (2).jpg?VersionId=.xDsh3xiEx0F.KTuVD6S.a9W7JjXGb9p&h=5122c666&itok=Nwtl28uP",
+        "href": "/range-rover/en-gb/news/2026/07/introducing-range-rover-sport-electric-pinnacle-sporting-luxury",
+        "download": null
+      },
+      {
+        "title": "A CURATED SEASON: RANGE ROVER INTRODUCES THE BRITISH SUMMERTIME COLLECTION",
+        "date": "07 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-07-05/image/8c79d7e4-c045-4402-8e13-5081b50ad66e/RR_BST_Collection_09_070726.jpg?VersionId=_u.MXLuH05NmIWMi7M6oPbs0HuiGX29h&h=604c9973&itok=Vxhd_UPO",
+        "href": "/range-rover/en-gb/news/2026/07/curated-season-range-rover-introduces-british-summertime-collection",
+        "download": "https://media.production.jlrms.com/download_archives/fae81d65-acf8-4166-8075-6ef53756ab6c/en/a-curated-season-ran.zip?VersionId=AHbryhm0PzIaMHJKibrEqUzz0kXmBkFv"
+      },
+      {
+        "title": "RANGE ROVER ELECTRIC TO MAKE PUBLIC DEBUT AT GOODWOOD FESTIVAL OF SPEED 2026",
+        "date": "02 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2023-12-12/image/c4c99787-73f0-496e-a08a-43cbbe22ba3b/RR_BEV_Announcement_131223_13.jpg?VersionId=po3Ts08uqcS.f8RyT33Va4HtfdpcPIIY&h=344d9e2e&itok=ecSlP5aK",
+        "href": "/range-rover/en-gb/news/2026/07/range-rover-electric-make-public-debut-goodwood-festival-speed-2026",
+        "download": "https://media.production.jlrms.com/download_archives/003c97a9-2d02-48a5-9a1f-112ce1aa7d1f/en-gb/range-rover-electric.zip?VersionId=AoV4WY4LTeuQHj_sH8yG8_zAJlbJb8x9"
+      },
+      {
+        "title": "RANGE ROVER SPORT WINS BEST LARGE PREMIUM SUV AT AUTO EXPRESS NEW CAR AWARDS 2026",
+        "date": "01 July 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-14/image/34940d8f-4c1d-454e-9192-62fcefe3264e/RANGE ROVER SPORT BATTERSEA EDITION SIDE PROFILE 150426.jpg?VersionId=yp3sS_BrycknAZFGMvLdhcjieYWNigZg&h=583e3e84&itok=ww-038Qx",
+        "href": "/range-rover/en-gb/news/2026/07/range-rover-sport-wins-best-large-premium-suv-auto-express-new-car-awards-2026",
+        "download": "https://media.production.jlrms.com/download_archives/3c3cbfa9-2ca7-4659-b090-2dcb84094d16/en-gb/range-rover-sport-wi.zip?VersionId=hU8RPK2FKXKvi_.kai_fdfWxe6x685nb"
+      },
+      {
+        "title": "RANGE ROVER OPENS THE BRITISH SUMMER SEASON AT RHS CHELSEA FLOWER SHOW 2026",
+        "date": "13 May 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-05-18/image/f02a15d7-25ed-4bc0-b107-cfa9b657aad3/RR Cloister RHS Chelsea May HERO IMAGE.jpg?VersionId=y5hs.DKmli0.k6P.lHtS2DdgghbqjJDl&h=cd951706&itok=rsCmznGe",
+        "href": "/range-rover/en-gb/news/2026/05/range-rover-opens-british-summer-season-rhs-chelsea-flower-show-2026",
+        "download": "https://media.production.jlrms.com/download_archives/3b69ea6a-259f-4f3b-8da1-3bb32f43c9ce/en-gb/range-rover-opens-th.zip?VersionId=PwU27lOkfYrInjC6qchlBBL4QAfAt0SI"
+      },
+      {
+        "title": "RANGE ROVER UNVEILS EXCLUSIVE LONDON‑INSPIRED EDITIONS, HONOURING THE CAPITAL’S COVETED NEIGHBOURHOODS",
+        "date": "29 April 2026",
+        "text": "Range Rover has today revealed an exclusive series of ...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-14/image/54daa6f0-808e-4b79-a44e-115a0fa3db7e/RANGE ROVER SPORT BATTERSEA EDITION LIFESTYLE 150426.jpg?VersionId=qs7sabpyMdWO_dD7YN6btdPj0RMWxhgy&h=583e3e84&itok=1bz2Jdfe",
+        "href": "/range-rover/en-gb/news/2026/04/range-rover-unveils-exclusive-london-inspired-editions-honouring-capitals-coveted",
+        "download": null
+      },
+      {
+        "title": "RANGE ROVER SV ULTRA: THE PINNACLE OF RANGE ROVER LUXURY AND TECHNOLOGY",
+        "date": "29 April 2026",
+        "text": "New Range Rover SV Ultra is the pinnacle of Range Rove...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-27/image/0d53abbf-320c-48e4-b368-ecd048066ae3/RR_SV_Ultra_27MY_Exterior_01_290426.jpg?VersionId=f.UQHrlI28R6zWAIVMMh.eNvQThRqcfx&h=398a5b5d&itok=PJMnhDSY",
+        "href": "/range-rover/en-gb/news/2026/04/range-rover-sv-ultra-pinnacle-range-rover-luxury-and-technology",
+        "download": null
+      },
+      {
+        "title": "BORN TO LEAD: RANGE ROVER SPORT TWENTY EDITION MARKS TWO DECADES OF SPORTING LUXURY WITH ATTITUDE",
+        "date": "15 April 2026",
+        "text": "Range Rover marks two decades of sporting luxury with ...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-10/image/29ef9e63-2efa-48ea-b99d-4c3c67470ea2/RANGE_ROVER_SPORT_TWENTY_EDITION_FRONT34_150426.jpg?VersionId=gnsq_g761ssbA7NOxFbBmylMJ85rWLjv&h=9ca66e23&itok=XwP-AUG-",
+        "href": "/range-rover/en-gb/news/2026/04/born-lead-range-rover-sport-twenty-edition-marks-two-decades-sporting-luxury-attitude",
+        "download": null
+      },
+      {
+        "title": "RANGE ROVER CELEBRATES LONDON’S CREATIVE LEADERSHIP WITH THE MASTERY MARKET",
+        "date": "01 April 2026",
+        "text": "Range Rover celebrates the launch of its London‑inspir...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-04-01/image/f4280402-6271-42c6-b353-db68bdfae839/RANGE_ROVER_MASTERY_MARKET_310326.jpg?VersionId=4Kf8qu64JssrV7y1Jst531_QqU5INTjm&h=9ba0cb75&itok=l8-utWiX",
+        "href": "/range-rover/en-gb/news/2026/04/range-rover-celebrates-londons-creative-leadership-mastery-market",
+        "download": "https://media.production.jlrms.com/download_archives/8f43df64-0859-4fe9-9792-5687d02c9dcf/en/range-rover-celebrat.zip?VersionId=nbzT8UvAvJbIJZEn7HFPNeaZq2sMzS0M"
+      },
+      {
+        "title": "RANGE ROVER SPORT SV ULTIMATE EDITION: CURATED PERFORMANCE, REFINED",
+        "date": "04 March 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2026-03-02/image/a5a2ddda-b22b-4908-ae62-7b2e831a51d9/Velocity Blue Exterior 5.jpg?VersionId=FsnEkbRsUYQPlFGg3q7jHbIw98je7ZCq&h=00ae86ae&itok=x9Ro2dpH",
+        "href": "/range-rover/en-gb/news/2026/03/range-rover-sport-sv-ultimate-edition-curated-performance-refined",
+        "download": "https://media.production.jlrms.com/download_archives/5fb6b5e2-5d9e-442b-a0ec-039f50485e1f/en-gb/range-rover-sport-sv.zip?VersionId=2HujeXRT0i4FBsu_5qZSgW4lSDth9fhD"
+      },
+      {
+        "title": "WHERE BRITISH CRAFT FLOURISHES: RANGE ROVER ANNOUNCES PARTNERSHIP WITH RHS CHELSEA FLOWER SHOW 2026, CELEBRATING CREATIVE LEADERSHIP",
+        "date": "19 February 2026",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2025-06-17/image/6a81af12-16c1-433a-9558-a7fcb640093d/L460_25MY_GL_303104898_Wimbledon_side_profile_car_RGB.jpg?VersionId=K3eB.oPpETCi3htF8SCApxttIj1duiH6&h=dd317585&itok=wqp3Ueao",
+        "href": "/range-rover/en-gb/news/2026/02/where-british-craft-flourishes-range-rover-announces-partnership-rhs-chelsea-flower",
+        "download": "https://media.production.jlrms.com/download_archives/bba20b57-1079-49eb-9560-00abae92d3f1/en-gb/where-british-craft-.zip?VersionId=dvkp9V4bdS77s_uw2LfJ7_RbmMH8xLVy"
+      },
+      {
+        "title": "MAGNIFICENT LUSTRE: RANGE ROVER DEVELOPS MIRROR‑LIKE PAINT FINISH FOR BESPOKE CLIENTS",
+        "date": "16 December 2025",
+        "text": "Range Rover has developed a new hand‑crafted mirror‑fi...",
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2025-12-16/image/42ebc94c-cc7e-4f11-bb7b-e437b9eb27b4/RR_SV_COMISSIONING_SUITE_170523_12.jpg?VersionId=DQbFL7ouaG3YJMUscFMOSBcpR1cQQyWd&h=5e3f3d14&itok=uocbD6Cf",
+        "href": "/range-rover/en-gb/news/2025/12/magnificent-lustre-range-rover-develops-mirror-paint-finish-bespoke-clients",
+        "download": "https://media.production.jlrms.com/download_archives/9409088b-fa46-4a96-a2ce-6cb2b88e7ab4/en/-magnificent-lustre-.zip?VersionId=VqYx9GEdqj1_lMbakGOTCJtNaHkJqn.5"
+      },
+      {
+        "title": "NEW RANGE ROVER SPORT SV CARBON COMPLETES DYNAMIC LUXURY PERFORMANCE FLAGSHIP LINE‑UP",
+        "date": "06 August 2025",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/widescreen/s3/2025-08-04/image/21237d82-fb2d-49f9-8b5e-2a78b5c9b476/RRS_SV_Carbon_F34_16x9_8K_SH001_v2_PR.jpg?VersionId=6J.XssKFeiSUtjJuhVSr5knENPaCt72u&h=e611d878&itok=mow-mkEU",
+        "href": "/range-rover/en-gb/news/2025/08/new-range-rover-sport-sv-carbon-completes-dynamic-luxury-performance-flagship-line",
+        "download": null
+      }
+    ],
+    "hero": {
+      "title": "RANGE ROVER SPORT ELECTRIC: TUNED FOR VISCERAL DYNAMISM",
+      "date": "30 September 2026",
+      "text": "More dynamic, more responsive and available to order w...",
+      "image": null,
+      "href": "/range-rover/en-gb/news/2026/09/range-rover-sport-electric-tuned-visceral-dynamism",
+      "download": null
+    }
+  }
+}

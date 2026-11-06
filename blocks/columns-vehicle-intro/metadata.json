@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-vehicle-intro",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "heading + list + link",
+    "purpose": "model name heading beside the model-year links, on one keyline"
+  },
+  "contentPattern": {
+    "structure": "one row, two cells: model name heading | model-year links (list or paragraphs of links); an image-only cell renders as a media column",
+    "rows": [
+      {
+        "cells": [
+          "heading",
+          "links"
+        ]
+      }
+    ]
+  },
+  "options": [],
+  "memberVariantIds": [
+    "v_6ff7e12d6562"
+  ],
+  "usage": {
+    "pagesFound": 65,
+    "description": "heading + list + link",
+    "note": "fixed pair: model name heading beside a wide photo",
+    "pagesUsing": [
+      "/defender/en-gb/vehicle/defender-110"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-06T16:40:15Z"
+  },
+  "reuseGuidance": "Use for vehicle/model intro rows with year switchers. Not for article text beside an image (columns-press-image)."
+}

@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography",
+  "path": "range-rover/en-gb/vehicle/range-rover-svautobiography",
+  "timestamp": "2026-11-06T17:37:41.401Z",
+  "title": "Range Rover",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

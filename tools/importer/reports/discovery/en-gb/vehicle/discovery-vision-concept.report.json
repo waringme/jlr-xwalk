@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept",
+  "path": "discovery/en-gb/vehicle/discovery-vision-concept",
+  "timestamp": "2026-11-06T18:00:08.680Z",
+  "title": "Discovery",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-gallery",
+    "pagination",
+    "pagination"
+  ]
+}

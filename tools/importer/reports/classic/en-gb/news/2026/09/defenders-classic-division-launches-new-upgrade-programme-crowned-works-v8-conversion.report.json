@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion",
+  "path": "classic/en-gb/news/2026/09/defenders-classic-division-launches-new-upgrade-programme-crowned-works-v8-conversion",
+  "timestamp": "2026-11-06T10:38:14.016Z",
+  "title": "DEFENDER'S CLASSIC DIVISION LAUNCHES NEW UPGRADE PROGRAMME, CROWNED BY WORKS V8 CONVERSION | Classic Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

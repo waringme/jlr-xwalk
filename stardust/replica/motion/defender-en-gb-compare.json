@@ -1,0 +1,257 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb.json",
+  "build": "stardust/replica/motion/defender-en-gb-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 1,
+  "counts": {
+    "behaviors": 34,
+    "parity": 24,
+    "missing": 1,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 8,
+    "advisory": 1
+  },
+  "verdicts": [
+    {
+      "cls": "widget",
+      "name": "button.fullscreen-nav-trigger",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget button.fullscreen-nav-trigger: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": "button.navigation-tools__link--culture",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget button.navigation-tools__link--culture: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": "a.dropdown-toggle[aria-haspopup] → .main-nav__item--desktop > a.dropdown-toggle",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget a.dropdown-toggle[aria-haspopup] → .main-nav__item--desktop > a.dropdown-toggle: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": "button.menu-search-expandable__button",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget button.menu-search-expandable__button: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": "button.new-share__trigger",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget button.new-share__trigger: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".slick-dots li:nth-child(3) button",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .slick-dots li:nth-child(3) button: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "hover",
+      "name": "button.new-share__trigger",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover button.new-share__trigger: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".new-card",
+      "state": "unobserved",
+      "note": "live probe not found",
+      "line": "motion hover .new-card: unobserved on live — not required (live probe not found)"
+    },
+    {
+      "cls": "entrance",
+      "name": "fadeIn",
+      "state": "parity",
+      "note": "fired on 1 element(s)",
+      "line": "motion entrance fadeIn: parity (fired on 1 element(s))"
+    },
+    {
+      "cls": "entrance",
+      "name": "market-switcher-chevron-bounce",
+      "state": "parity",
+      "note": "fired on 1 element(s)",
+      "line": "motion entrance market-switcher-chevron-bounce: parity (fired on 1 element(s))"
+    },
+    {
+      "cls": "entrance",
+      "name": "slideDown",
+      "state": "parity",
+      "note": "fired on 1 element(s)",
+      "line": "motion entrance slideDown: parity (fired on 1 element(s))"
+    },
+    {
+      "cls": "transition",
+      "name": "background-color",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition background-color: parity (2 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-left-color",
+      "state": "parity",
+      "note": "1 event(s) on live, 2 on build, 150ms",
+      "line": "motion transition border-left-color: parity (1 event(s) on live, 2 on build, 150ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-right-color",
+      "state": "parity",
+      "note": "1 event(s) on live, 2 on build, 150ms",
+      "line": "motion transition border-right-color: parity (1 event(s) on live, 2 on build, 150ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "border-top-color",
+      "state": "parity",
+      "note": "1 event(s) on live, 2 on build, 150ms",
+      "line": "motion transition border-top-color: parity (1 event(s) on live, 2 on build, 150ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "56 event(s) on live, 32 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (56 event(s) on live, 32 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "56 event(s) on live, 32 on build, 300ms",
+      "line": "motion transition margin-top: parity (56 event(s) on live, 32 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "max-height",
+      "state": "parity",
+      "note": "2 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition max-height: parity (2 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "opacity",
+      "state": "parity",
+      "note": "10 event(s) on live, 10 on build, 500ms",
+      "line": "motion transition opacity: parity (10 event(s) on live, 10 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "7 event(s) on live, 4 on build, 500ms",
+      "line": "motion transition top: parity (7 event(s) on live, 4 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition transform: parity (1 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "visibility",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition visibility: parity (1 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "width",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 300ms",
+      "line": "motion transition width: parity (2 event(s) on live, 2 on build, 300ms)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 8× on live, 2× on build",
+      "line": "motion class bottom-shadow: parity (added 8× on live, 2× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "is-open",
+      "state": "parity",
+      "note": "added 2× on live, 1× on build",
+      "line": "motion class is-open: parity (added 2× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "menu-search-expandable--open",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class menu-search-expandable--open: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "menu-search-expandable__input--open",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class menu-search-expandable__input--open: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "navigation-tools__switcher--active",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class navigation-tools__switcher--active: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "open",
+      "state": "parity",
+      "note": "added 2× on live, 2× on build",
+      "line": "motion class open: parity (added 2× on live, 2× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 4× on live, 2× on build",
+      "line": "motion class shrink: parity (added 4× on live, 2× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "slick-active",
+      "state": "parity",
+      "note": "added 12× on live, 16× on build",
+      "line": "motion class slick-active: parity (added 12× on live, 16× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "slick-current",
+      "state": "parity",
+      "note": "added 4× on live, 8× on build",
+      "line": "motion class slick-current: parity (added 4× on live, 8× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "is-active",
+      "state": "advisory",
+      "note": "added 4× on build, never on live — check it drives no invented behavior",
+      "line": "motion class is-active: extra on build — advisory (added 4× on build, never on live — check it drives no invented behavior)"
+    },
+    {
+      "cls": "media",
+      "name": "auto-advance",
+      "state": "missing",
+      "note": "3 class mutation(s) fired unpoked on live (timer-driven rotation), none on build",
+      "line": "motion media auto-advance: MISSING on build (3 class mutation(s) fired unpoked on live (timer-driven rotation), none on build)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "variantName": "media-actions",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "link + button"
+  },
+  "contentPattern": "Single-instance toolbar. Row 1 (optional): asset title as plain text. Row 2: one or more download links (one link = direct Download button; two or more, e.g. High-Res / Low-Res, = Download menu). The favourite (add to cart) toggle and the share popover (Facebook, X, LinkedIn, email built from the page URL) are generated, not authored.",
+  "options": [
+    {
+      "class": "alt",
+      "label": "Alt"
+    },
+    {
+      "class": "titled-bar",
+      "label": "Titled Bar"
+    },
+    {
+      "class": "light",
+      "label": "Light"
+    }
+  ],
+  "optionNotes": {
+    "alt": "Favourite (add to cart) star only.",
+    "titled-bar": "Dark translucent bar with the asset title on the left and white outline Download, favourite and share on the right.",
+    "light": "Share control only."
+  },
+  "memberVariantIds": [
+    "v_0e50758efe25",
+    "v_7f7fad5b8cd8",
+    "v_61c5d58e4989",
+    "v_2f49ded0f4af"
+  ],
+  "usage": {
+    "description": "Press-release and asset pages: the Download / favourite / share toolbar under an article title, a lone favourite star, an asset title bar with actions, or a lone share control.",
+    "pagesUsing": [
+      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-06T09:20:59Z"
+  },
+  "reuseGuidance": "Use wherever an asset or press release needs download, favourite and share actions. Other blocks (media-image, columns-press-image) import buildActions() from this block to render the same toolbar; do not re-implement it.",
+  "prototypeCounterpart": "stardust/prototypes canon/modules.css (.card-actions, .new-share__btn, .new-share__wrapper--card, .action-icons) and css/defender-en-gb-news-*.css (.article-info__actions, .btn-solid, .article-media__bar)"
+}

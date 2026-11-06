@@ -1,0 +1,33 @@
+{
+  "live": "replica/motion/defender-en-gb-contact-china-3.json",
+  "build": "replica/motion/defender-en-gb-contact-china-3-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 2,
+    "parity": 1,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 1,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "hover",
+      "name": ".contact-detail__support a",
+      "state": "parity",
+      "note": "self.color; n/a",
+      "line": "motion hover .contact-detail__support a: parity (self.color; n/a)"
+    },
+    {
+      "cls": "hover",
+      "name": ".contact-detail__heading",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .contact-detail__heading: dead on live — not required (no measured hover diff)"
+    }
+  ]
+}

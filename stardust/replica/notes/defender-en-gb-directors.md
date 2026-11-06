@@ -1,0 +1,26 @@
+# defender-en-gb-directors — replica gate notes (grid-overview)
+
+## author (2026-11-05)
+- 20:53 author unit start
+- 20:55 captured outline (.work/defender-en-gb-directors/outline.mjs): .view-main > people-listing title strip (h1 + plc-header intro) + view-peoples ceo_block (2 cards) + wrapper strip (11 cards) + empty frontline strip; 3 hidden empty .modal[role=dialog] in main (→ GATE_STITCH_TIMEOUT=600 likely)
+- 20:58 content transcribed: .work/defender-en-gb-directors/extract-content.mjs -> content.json (title, intro link /defender/en-gb/plc, grids [2, 11] = 13 cards = 13 h4/h5 in page JSON; outer/name hrefs differ on 5 cards — kept verbatim); live measure 1440+360 -> .work/defender-en-gb-directors/live-measure.txt; CSS lifted (main.css .people-listing* @280k-283k: page-header ::before 1px/::after 5px 240w rule, portrait 116.1%, tw-grid 2/3@991/4@1200 gap 24, panel mb 36, wysiwyg mb 36 + plc-header -30)
+- 20:59 generator .work/defender-en-gb-directors/build-page.mjs (canon page-template.html read-only, main replaced, People sub-nav active, title/meta as live) + css/defender-en-gb-directors.css -> proposed.html written
+- 21:00 measure --against #1: title strip collapsed (floated .col-md-12 page-header, canon .container has no clearfix) -> page CSS container clearfix; newsletter Δy +15 (.form-group mb) -> 0; .view-main Δy -5 nav-height timing -> js/defender-en-gb-directors.js fonts.ready resync (same as image-packs)
+- 21:01 measure --against #2: 1440 all boxes Δ0 (grid-2 Δw +2 = substitute font fork of title text), scrollHeight Δ-1; 360 all Δy -1 (nav-height 156/155 jitter), scrollHeight Δ-1; overflow 0 both
+- 21:02 bookkeeping: state -> prototyped; progress.json types.grid-overview entry; units.json += people-card (n 13); journal section appended. No canon changes/requests. --main for gate: .view-main. Live has 3 hidden .modal[role=dialog] in main (+2 elsewhere) -> use GATE_STITCH_TIMEOUT=600 + run-bg --timeout 1500 per coordinator decision. author unit DONE
+STATUS: iter1
+- 21:02 iter1 launched pixel-only (contract round shape) 1440+360 via run-bg (defender-en-gb-directors-{1440,360}-iter1, slots 2, hook, GATE_STITCH_TIMEOUT=600, --timeout 1500, --main .view-main)
+- 21:04 iter1 RESULT: 1440 pixel 1.07 % PASS, Δh +1 (live 3110 / build 3109), overflow ok; 360 pixel 2.22 % PASS, Δh 0 (4489/4489), overflow ok
+- 21:05 live top-band crops 1440+360: no market dialog, no consent banner. Running content-diff 1440+360 (direct, timeout 200)
+- 21:05 content-diff iter1: 1440 + 360 0 structural 🔴, text nodes 48/48 main + 10/10 chrome, 13/13 img; 3 🟡 ICON DIFF = hidden modal 'Download Biography' jlrnew-download glyph U+E90B -> page CSS glyph added (hidden, pixel-neutral); content-diff-iter1b 1440: Findings none. progress.json grid-overview gates updated (iterations 1440:1, 360:1)
+STATUS: motion (both widths PASS iter1; first run the remaining confirmation probes on the iter1b prototype — visual-diff, chrome-parity --region 'header=#main-nav|#main-nav', clip-probe, cap-probe at 1440+360, timeout 240 each; then motion-observe live: card hover .people-listing-holder / read-more / intro link)
+- 21:06 unit (remaining probes + motion) start
+- 21:07 launched run-bg probes (slots 2, hook): visual-diff + chrome-parity (--region header) 1440/360, cap-probe -> *-iter1b.txt; clip-probe build-only run direct
+- 21:08 probes iter1b RESULT: cap-probe PASS (0/4 rows). visual-diff 1440+360: 3 SURFACE flags = empty hidden-modal h1.white (live #fff, build #333) -> page CSS .view-main .modal .white #fff (main.css @283763; hidden, pixel-neutral) -> re-run visual-diff iter1c. chrome-parity 1440: footer parity; header 21 = font-sub Δx/Δw forks + hidden market-list Δx +12 (canon-chrome residual, same class as defender-en-gb iter3c / image-packs). 360: header bg white→transparent (existing canon request) + font forks; footer uniform Δy -5 (offset above footer, nav-height sample timing class; no internal footer delta)
+- 21:09 launched clip-probe 1440/360 (build, --plain) -> clip-probe-iter1c.txt; motion-observe live 1440 (hover card / read-more / h4 a / plc-header a) + 360 (hover card / read-more / plc-header a) -> motion/defender-en-gb-directors{,-360}.json; no click pokes (cards are plain links; person modals have no trigger in DOM)
+- 21:10 clip-probe 1440+360 Clipped: 0; visual-diff iter1c 1440 build red flags none. motion live: 0 animations/videos/widgets; hover card -> portrait a color #0c121c -> rgba(12,18,28,.8) (generic a:hover, image-only link, no visible change); .plc-header a color change @1440; h4 a / read-more no change; build observe launched same pokes
+- 21:10 motion-compare 1440: 6 parity, 2 MISSING (hover .people-listing-holder: live portrait a color -> rgba(12,18,28,.8) via global a:hover @60470, canon has none) -> page CSS .people-listing-holder > a:hover + canon request appended; re-observe build 1440+360
+- 21:11 motion-compare after fix: 1440 8 parity/0 missing/0 extra; 360 6 parity/0 missing/0 extra (-> motion/defender-en-gb-directors{,-360}-compare.json). Launching pixel round motion1 1440+360
+- 21:11 motion1 RESULT: 1440 1.07 % PASS Δh +1 overflow ok; 360 2.22 % PASS Δh 0 overflow ok (= gated values)
+- 21:12 bookkeeping: progress.json grid-overview gates/residuals/motion/canonRequests=1 merged; journal section appended. motion unit DONE
+STATUS: DONE

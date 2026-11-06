@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/classic/en-gb/news/2026/06/colour-changing-classic-defender-v8-family-introduces-new-double-cab-option",
+  "path": "classic/en-gb/news/2026/06/colour-changing-classic-defender-v8-family-introduces-new-double-cab-option",
+  "timestamp": "2026-11-06T10:37:54.972Z",
+  "title": "COLOUR-CHANGING CLASSIC DEFENDER V8 FAMILY INTRODUCES NEW DOUBLE CAB OPTION | Classic Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

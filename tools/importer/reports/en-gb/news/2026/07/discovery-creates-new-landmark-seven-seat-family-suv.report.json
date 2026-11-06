@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+  "path": "en-gb/news/2026/07/discovery-creates-new-landmark-seven-seat-family-suv",
+  "timestamp": "2026-11-06T10:49:52.660Z",
+  "title": "DISCOVERY CREATES A NEW LANDMARK FOR THE SEVEN-SEAT FAMILY SUV | Media Landing Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

@@ -1,0 +1,134 @@
+/* social-links: "JOIN THE CONVERSATION:" label + square social icon links.
+   Values from stardust/prototypes/canon/modules.css (.social-bar, .social-bar__home .media-links). */
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0 32px;
+  background: var(--c-white, #fff);
+}
+
+.social-links .social-links-label {
+  display: inline-block;
+  margin: 0 20px 10px 0;
+  color: var(--c-body, #333);
+  font-family: var(--ff-hero-text, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 1.6;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.social-links .social-links-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social-links .social-links-link {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  margin: 0 10px 10px 0;
+  padding: 6px 12px;
+  border: 1px solid transparent;
+  background-color: var(--c-ink, #0c121c);
+  color: var(--c-white, #fff);
+  font-size: 14px;
+  line-height: 1.4286;
+  text-decoration: none;
+  transition: background-color 0.15s linear;
+}
+
+.social-links .social-links-link svg {
+  display: block;
+  flex: 0 0 auto;
+  width: 16px;
+  height: 16px;
+}
+
+.social-links .social-links-link .social-links-text {
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.social-links .social-links-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  border: 0;
+  white-space: nowrap;
+}
+
+.social-links .social-links-instagram:hover,
+.social-links .social-links-instagram:focus {
+  background-color: #e1306c;
+}
+
+.social-links .social-links-facebook:hover,
+.social-links .social-links-facebook:focus {
+  background-color: #4267b2;
+}
+
+.social-links .social-links-x:hover,
+.social-links .social-links-x:focus {
+  background-color: #1da1f2;
+}
+
+.social-links .social-links-tiktok:hover,
+.social-links .social-links-tiktok:focus {
+  background-color: #fe2c55;
+}
+
+.social-links .social-links-youtube:hover,
+.social-links .social-links-youtube:focus {
+  background-color: #b00;
+}
+
+.social-links .social-links-rss:hover,
+.social-links .social-links-rss:focus {
+  background-color: #f60;
+}
+
+.social-links .social-links-linkedin:hover,
+.social-links .social-links-linkedin:focus {
+  background-color: #0a66c2;
+}
+
+@media (width >= 991px) {
+  .social-links .social-links-list {
+    row-gap: 10px;
+  }
+
+  .social-links .social-links-link {
+    margin: 0 10px 0 0;
+  }
+
+  .social-links .social-links-label {
+    margin-bottom: 0;
+  }
+}
+
+@media (width >= 1000px) {
+  .social-links {
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+  }
+
+  .social-links .social-links-list {
+    justify-content: flex-start;
+  }
+}

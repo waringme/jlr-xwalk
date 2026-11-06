@@ -1,0 +1,309 @@
+/* media-actions: download / favourite (cart) / share toolbar.
+   Values from stardust/prototypes canon/modules.css (.card-actions, .new-share__*, .action-icons)
+   and the news-article page css (.article-info__actions, .btn-solid, .article-media__bar).
+   Order: layout rules for every layout first, interaction states last
+   (keeps stylelint no-descending-specificity satisfied). */
+
+.media-actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  color: var(--c-black, #000);
+  font-family: var(--ff-body, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+}
+
+.media-actions.block {
+  margin: 0 0 10px;
+}
+
+.media-actions .media-actions-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  vertical-align: top;
+}
+
+.media-actions svg {
+  display: block;
+  width: 13px;
+  height: 13px;
+}
+
+.media-actions button {
+  margin: 0;
+  font: inherit;
+  cursor: pointer;
+}
+
+/* ---------- download (.btn-solid) ---------- */
+.media-actions .media-actions-download {
+  position: relative;
+}
+
+.media-actions .media-actions-download-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 32px;
+  padding: 5px;
+  border: 2px solid var(--c-ink, #0c121c);
+  border-radius: 0;
+  background-color: var(--c-ink, #0c121c);
+  color: var(--c-white, #fff);
+  font-size: 12px;
+  line-height: 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.media-actions .media-actions-download-menu {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  min-width: 160px;
+  margin: 0;
+  padding: 5px 0;
+  list-style: none;
+  background: var(--c-white, #fff);
+  text-align: left;
+}
+
+.media-actions .media-actions-download-item {
+  display: block;
+  padding: 3px 20px;
+  color: var(--c-body, #333);
+  font-size: 14px;
+  line-height: 1.4286;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+/* ---------- favourite (.cart-btn) and share trigger (.new-share__btn) ---------- */
+.media-actions .media-actions-favourite,
+.media-actions .media-actions-share-trigger {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 19px;
+  height: 16px;
+  margin: 0 4px 0 0;
+  padding: 3px;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font-size: 10px;
+  line-height: 1.4286;
+  transition: all 0.3s ease-in-out;
+}
+
+.media-actions .media-actions-favourite svg,
+.media-actions .media-actions-share-trigger svg {
+  width: 12px;
+  height: 12px;
+}
+
+/* share popover (.new-share__wrapper--card + .new-share__container) */
+.media-actions .media-actions-share {
+  position: relative;
+}
+
+.media-actions .media-actions-share-list {
+  position: absolute;
+  bottom: 24px;
+  left: -6px;
+  z-index: 30;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  width: 35px;
+  height: 0;
+  margin: 0;
+  padding: 2px 0 0;
+  overflow: hidden;
+  list-style: none;
+  background-color: var(--c-white, #fff);
+  box-shadow: 0 7px 29px 0 hsl(240deg 5% 41% / 20%);
+  transition: height 0.3s ease-in-out;
+}
+
+.media-actions .media-actions-share-link {
+  display: block;
+  padding: 0 1.5px;
+  color: var(--c-white, #fff);
+  text-decoration: none;
+}
+
+.media-actions .media-actions-share-link span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: rgb(1 102 255);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.media-actions .media-actions-share-facebook span {
+  background-color: rgb(24 119 242);
+}
+
+.media-actions .media-actions-share-x span {
+  background-color: rgb(0 0 0);
+}
+
+.media-actions .media-actions-share-linkedin span {
+  background-color: rgb(0 119 181);
+}
+
+/* ---------- titled bar (.article-media__bar) ---------- */
+.media-actions.titled-bar {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 18px;
+  background: rgb(0 0 0 / 70%);
+  color: var(--c-white, #fff);
+}
+
+.media-actions .media-actions-title {
+  margin: 10px 0;
+  color: var(--c-white, #fff);
+  font-family: var(--ff-heading, NeusaNeu-Medium, "NeusaNeu-Medium Sub", sans-serif);
+  font-weight: var(--fw-heading, 500);
+  font-size: 16px;
+  line-height: 20.8px;
+}
+
+.media-actions.titled-bar .media-actions-download-button {
+  border-color: var(--c-white, #fff);
+  background: transparent;
+  color: var(--c-white, #fff);
+  text-transform: none;
+}
+
+/* ---------- vertical rail on a hero image (.action-icons) ---------- */
+.media-actions.rail {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 3;
+  display: block;
+  width: 41px;
+  transform: translateY(-50%);
+}
+
+.media-actions.rail .media-actions-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
+}
+
+.media-actions.rail .media-actions-download-button,
+.media-actions.rail .media-actions-favourite,
+.media-actions.rail .media-actions-share-trigger {
+  justify-content: center;
+  width: 41px;
+  height: 41px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: var(--c-white, #fff);
+  color: var(--c-black, #000);
+  font-size: 12px;
+  transition: all 0.5s ease;
+}
+
+.media-actions.rail .media-actions-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.media-actions.rail .media-actions-download-menu {
+  inset: 0 45px auto auto;
+}
+
+.media-actions.rail .media-actions-share-list {
+  inset: 0 45px auto auto;
+  flex-direction: row;
+  align-items: center;
+  width: 0;
+  height: 45px;
+  padding: 6px 0;
+  box-shadow: none;
+  transition: width 0.3s ease-in-out;
+}
+
+@media (width >= 768px) {
+  .media-actions .media-actions-title {
+    font-size: 20px;
+    line-height: 26px;
+  }
+}
+
+@media (width >= 992px) {
+  .media-actions.titled-bar .media-actions-title {
+    width: calc(100% * 5 / 12 - 18px);
+  }
+}
+
+/* ---------- interaction states ---------- */
+.media-actions .media-actions-download-button:hover,
+.media-actions .media-actions-download-button:focus-visible {
+  background-color: var(--c-white, #fff);
+  color: var(--c-ink, #0c121c);
+}
+
+.media-actions.titled-bar .media-actions-download-button:hover,
+.media-actions.titled-bar .media-actions-download-button:focus-visible {
+  border-color: transparent;
+  background-color: var(--c-white, #fff);
+  color: var(--c-black, #000);
+}
+
+.media-actions.rail .media-actions-download-button:hover,
+.media-actions.rail .media-actions-download-button:focus-visible,
+.media-actions.rail .media-actions-favourite:hover,
+.media-actions.rail .media-actions-favourite:focus-visible,
+.media-actions.rail .media-actions-share-trigger:hover,
+.media-actions.rail .media-actions-share-trigger:focus-visible {
+  background: var(--c-ink, #0c121c);
+  color: var(--c-white, #fff);
+}
+
+.media-actions .media-actions-download-item:hover,
+.media-actions .media-actions-download-item:focus-visible {
+  background: var(--c-hover, #e9ecec);
+}
+
+.media-actions .media-actions-favourite[aria-pressed='true'] {
+  color: var(--c-rule, #aaacae);
+}
+
+.media-actions .media-actions-download.is-open .media-actions-download-menu {
+  display: block;
+}
+
+.media-actions .media-actions-share:hover .media-actions-share-list,
+.media-actions .media-actions-share:focus-within .media-actions-share-list,
+.media-actions .media-actions-share.is-open .media-actions-share-list {
+  height: 142px;
+}
+
+.media-actions.rail .media-actions-share:hover .media-actions-share-list,
+.media-actions.rail .media-actions-share:focus-within .media-actions-share-list,
+.media-actions.rail .media-actions-share.is-open .media-actions-share-list {
+  width: 144px;
+  height: 45px;
+}

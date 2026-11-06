@@ -1,0 +1,1222 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:09:27.554Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-gb-image-packs-discovery-landmark-edition",
+  "url": "https://media.jlr.com/en-gb/image-packs/discovery-landmark-edition",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:09:27.554Z",
+  "finalUrl": "https://media.jlr.com/en-gb/image-packs/discovery-landmark-edition",
+  "title": "DISCOVERY LANDMARK EDITION | Media Landing Newsroom",
+  "description": "The Land Rover Discovery welcomes a new family member with the introduction of the feature‑packed Landmark edition.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "DISCOVERY LANDMARK EDITION"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/en-gb/contact"
+    },
+    {
+      "label": "Search All Brands",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/deb40ad9-dce6-412d-882e-14a57f62a06f/en/discovery-landmark.zip?VersionId=aqglyQ19EFVKvwonBqustf_nVZ4r.jSL"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/en-gb/image-packs/discovery-landmark-edition#main-content",
+    "https://media.jlr.com/zh-cn",
+    "https://media.jlr.com/fr-fr",
+    "https://media.jlr.com/de-de",
+    "https://media.jlr.com/",
+    "https://media.jlr.com/it-it",
+    "https://media.jlr.com/en-us",
+    "https://media.jlr.com/es-es",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/en-gb/cart",
+    "https://media.jlr.com/en-gb/contact",
+    "https://media.jlr.com/en-gb/",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/en-gb/terms-and-conditions",
+    "https://media.jlr.com/en-gb/user-licence",
+    "https://media.jlr.com/en-gb/cookies",
+    "https://media.jlr.com/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.production.jlrms.com/download_archives/deb40ad9-dce6-412d-882e-14a57f62a06f/en/discovery-landmark.zip?VersionId=aqglyQ19EFVKvwonBqustf_nVZ4r.jSL",
+    "https://media.production.jlrms.com/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=8Za1iuf0HmFk0ZcrKnDViU87Vnpu9NNy",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=vcvk8Gr5JA.fWfrs5xDL51KcouJ.9CJM&itok=AlfU5v7D",
+    "https://media.production.jlrms.com/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=VYw9IIvytx9aTNo8heTCp.pQ.k9kk3De",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=OwJsqZ2VrDaK.wKZac0oiSyNY3nliU8o&itok=ChKq1N14",
+    "https://media.production.jlrms.com/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=tFuuNhfMudbfuQwC9_Mt2cLwVXbk6Fct",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=I0B1myPfuPXeODMGVBz8VdPa5rGCcq3R&itok=WldRKPUQ",
+    "https://media.production.jlrms.com/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=s2w0GTVxP607_QnMxeKIkO9SQVRn9mb9",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=ku1UezePiU8Wp5c3Czarz7gV2IgCf5vT&itok=us5w2mts",
+    "https://media.production.jlrms.com/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=rLWmGSTowKJbT.8I74RGr27Y_QmUkM4P",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=S2xixa9WCACDVVKwmaLTLebgxZzq8rcd&itok=2K3HirTW",
+    "https://media.production.jlrms.com/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=5lUXcGmZdDHhfZNuAZ8qMY68IAW7Oier",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=XpQm39nfoNjUggkgu0G52ohbslwcTLk2&itok=0QGh5G5Q",
+    "https://media.production.jlrms.com/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=AhNC2LrKfZWs6DeWqJ1rtUnyYVM1yXxr",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=ngDDcoZ0c4SwP_5Y36LiY5Zy.3dyG1Oi&itok=8RB8HpDj",
+    "https://media.production.jlrms.com/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=dj6mNn5QDk89nYSWZHC33TVkOvLMjSN5",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=K0VOsB7sMG8QHadkD32v1IsQMAFiIWIx&itok=bEAvBQ2U",
+    "https://media.production.jlrms.com/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=g1k1CYXQGq3uz1831ALjQ_YMc4qSvK0O",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=1akFMEV4pq80Rz.moLdofScuPef03z6P&itok=qVoSMDdN",
+    "https://media.production.jlrms.com/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=x6UVbQP.Lq.Fj_MsB5JKrwEGDSXjdMv5",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=ehFUlYvK4zrDQB30LH0rw4w4v5M.iCUL&itok=iROYFs3U",
+    "https://media.production.jlrms.com/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=pR.jOHMnDwjU5pOhs8FFtKEvfm9jT3Nc",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=xOFG9v1mMGZTzq8Qqi5v9bo3eh7_Ss9a&itok=nkZapGff",
+    "https://media.production.jlrms.com/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=j2nAZIWOXeL8wB1NqyDhoKHtofXzmnF2",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=l7Iffwk5NpppyKnx7Ku2p3iwEebN5yeX&itok=mvA30Jz6",
+    "https://media.production.jlrms.com/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=mFQDDP7eV9PTHNBFfg01C5HjnWXgMhYt",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=XwWd4g.qx4Cn13RNFSzQJeXms4U52Ccg&itok=NJ0iQbIq",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ff4afd39c-80e1-4e0a-a932-2738c1268dc1%2FDISCOVERY_LANDMARK_STUDIO_130526_01.jpg%3FVersionId%3D8Za1iuf0HmFk0ZcrKnDViU87Vnpu9NNy&title=DISCOVERY%20LANDMARK%20-%20STUDIO",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F936d97f8-5106-46e9-99db-e68fff7295af%2FDISCOVERY_LANDMARK_STUDIO_130526_02.jpg%3FVersionId%3DVYw9IIvytx9aTNo8heTCp.pQ.k9kk3De&title=DISCOVERY%20LANDMARK%20-%20STUDIO",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fb87f5bf3-7702-4449-8502-e9eeca89bce5%2FDISCOVERY_LANDMARK_STUDIO_130526_03.jpg%3FVersionId%3DtFuuNhfMudbfuQwC9_Mt2cLwVXbk6Fct&title=DISCOVERY%20LANDMARK%20-%20STUDIO",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F5fa2ced4-0aea-4e41-a0dc-5d7e87071012%2FDISCOVERY_LANDMARK_STUDIO_130526_04.jpg%3FVersionId%3Ds2w0GTVxP607_QnMxeKIkO9SQVRn9mb9&title=DISCOVERY%20LANDMARK%20-%20STUDIO",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F676a29e2-a121-4e2d-a005-f33982d1473e%2FDISCOVERY_LANDMARK_STUDIO_130526_05.jpg%3FVersionId%3DrLWmGSTowKJbT.8I74RGr27Y_QmUkM4P&title=DISCOVERY%20LANDMARK%20-%20STUDIO",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fea3e268b-b9c5-46ae-bbfe-4ac259e39fdd%2FDISCOVERY_LANDMARK_STUDIO_130526_06.jpg%3FVersionId%3D5lUXcGmZdDHhfZNuAZ8qMY68IAW7Oier&title=DISCOVERY%20LANDMARK%20-%20STUDIO",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ff29e0b29-9881-4724-be27-301873bb597d%2FDISCOVERY_LANDMARK_DETAIL_130526_01.jpg%3FVersionId%3DAhNC2LrKfZWs6DeWqJ1rtUnyYVM1yXxr&title=DISCOVERY%20LANDMARK%20-%20DETAIL",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F7cfdc912-2543-45bc-8fb9-92c9ddaf12f0%2FDISCOVERY_LANDMARK_DETAIL_130526_02.jpg%3FVersionId%3Ddj6mNn5QDk89nYSWZHC33TVkOvLMjSN5&title=DISCOVERY%20LANDMARK%20-%20DETAIL",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fc6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d%2FDISCOVERY_LANDMARK_DETAIL_130526_03.jpg%3FVersionId%3Dg1k1CYXQGq3uz1831ALjQ_YMc4qSvK0O&title=DISCOVERY%20LANDMARK%20-%20DETAIL",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Fd9dc6dfb-805b-4a41-bcc8-07eecb2d3df0%2FDISCOVERY_LANDMARK_DETAIL_130526_04.jpg%3FVersionId%3Dx6UVbQP.Lq.Fj_MsB5JKrwEGDSXjdMv5&title=DISCOVERY%20LANDMARK%20-%20DETAIL",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F8723a913-bdc2-44e4-b706-3b5fd72bd4e8%2FDISCOVERY_LANDMARK_DETAIL_130526_05.jpg%3FVersionId%3DpR.jOHMnDwjU5pOhs8FFtKEvfm9jT3Nc&title=DISCOVERY%20LANDMARK%20-%20DETAIL",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2F812ef279-b708-4e16-9ed7-85903f7d119a%2FDISCOVERY_LANDMARK_DETAIL_130526_06.jpg%3FVersionId%3Dj2nAZIWOXeL8wB1NqyDhoKHtofXzmnF2&title=DISCOVERY%20LANDMARK%20-%20DETAIL",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-06-30%2Fimage%2Ffaa674d6-fec0-45c1-8597-f8226d498c84%2FDISCOVERY_LANDMARK_DETAIL_130526_07.jpg%3FVersionId%3DmFQDDP7eV9PTHNBFfg01C5HjnWXgMhYt&title=DISCOVERY%20LANDMARK%20-%20DETAIL",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.facebook.com/RangeRover",
+    "https://www.facebook.com/Defender",
+    "https://www.facebook.com/LandRoverDiscovery",
+    "https://www.facebook.com/JaguarRacing",
+    "https://x.com/RangeRover",
+    "https://x.com/defender",
+    "https://twitter.com/JaguarUK",
+    "https://twitter.com/JaguarUKPR",
+    "https://x.com/Defender",
+    "https://twitter.com/JaguarRacing",
+    "https://twitter.com/JLR_News",
+    "https://www.youtube.com/@rangerover",
+    "https://www.youtube.com/@defender",
+    "https://www.youtube.com/@landroverdiscovery",
+    "https://www.youtube.com/user/jaguaruk",
+    "https://www.youtube.com/@JaguarTCSRacing",
+    "https://uk.linkedin.com/showcase/landroverdiscovery/",
+    "https://www.instagram.com/rangerover/",
+    "https://www.instagram.com/defender/",
+    "https://www.instagram.com/landroverdiscovery/",
+    "https://www.instagram.com/jaguarukpr",
+    "https://www.instagram.com/jaguarracing",
+    "https://www.tiktok.com/@rangerover",
+    "https://www.tiktok.com/@defender",
+    "https://x.com/LandRover",
+    "https://www.tiktok.com/@jaguarracing",
+    "https://media.jlr.com/en-gb/image-packs/discovery-landmark-edition#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/en-gb/image-packs/discovery-landmark-edition#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/corporate-logo-gray.svg",
+        "alt": "JLR logo",
+        "w": 171,
+        "h": 150
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=vgiFKaH2uKoqJ7y963x25axbd8.8Sgv8&h=ac5154fe&itok=FotTm5bb",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=IBXX2nH7RXZxMiaQqy4yPMGuWlM0D_rv&h=32975dc6&itok=lnnEI8Ru",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=c0JRZm5L_dVRl4pHYTfXK0wPWy.tVIAr&h=80fb4c59&itok=9ixfmHnG",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=v1YST6KQtckqnP8peX7jT42m3RpEXTqD&h=09ebb01d&itok=KVKaZ1AE",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=WMst5v1RzuwE4wQcfYb.ULZV26TP4_eT&h=2406deb0&itok=J0VTgOw_",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=QKG7LGNLOdVGAdrtZ9PF4SHnvwlFTObu&h=ca835250&itok=BIi2vQS5",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=_gmOFlyLFxNaZ3hz4HBb6.GZimbU6YTh&h=290e5029&itok=M2d34KZ9",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=VnZky43vZKgt2CvMbsghcgmq5dlcrwic&h=290e5029&itok=RG_I-RPS",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=KUrzmuJ6MYh45HCUYuB1FswtJdCRjWpW&h=2406deb0&itok=G7Tb2_nC",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=Ain5_jUqUVttxHkKDQpXEqqvM8C4CLN1&h=1bcc1d25&itok=bmBkx3wY",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=MT8OQ8hOScOd93q6qvt1X7RGjJPKJJpf&h=aa98d42f&itok=UHvdwtW0",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=wIITlLr3RlArcFwaHH37BqUbmeYH2Hwc&h=2406deb0&itok=p7yMr92D",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=Ve70S7iGDwz6vOxzGh36XQIkZYZ5qtNR&h=aa98d42f&itok=JyF_OO10",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      }
+    ],
+    "allImgCount": 22,
+    "cssBackgrounds": [
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=vgiFKaH2uKoqJ7y963x25axbd8.8Sgv8&h=ac5154fe&itok=FotTm5bb",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=IBXX2nH7RXZxMiaQqy4yPMGuWlM0D_rv&h=32975dc6&itok=lnnEI8Ru",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=c0JRZm5L_dVRl4pHYTfXK0wPWy.tVIAr&h=80fb4c59&itok=9ixfmHnG",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=v1YST6KQtckqnP8peX7jT42m3RpEXTqD&h=09ebb01d&itok=KVKaZ1AE",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=WMst5v1RzuwE4wQcfYb.ULZV26TP4_eT&h=2406deb0&itok=J0VTgOw_",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=QKG7LGNLOdVGAdrtZ9PF4SHnvwlFTObu&h=ca835250&itok=BIi2vQS5",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=_gmOFlyLFxNaZ3hz4HBb6.GZimbU6YTh&h=290e5029&itok=M2d34KZ9",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=VnZky43vZKgt2CvMbsghcgmq5dlcrwic&h=290e5029&itok=RG_I-RPS",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=KUrzmuJ6MYh45HCUYuB1FswtJdCRjWpW&h=2406deb0&itok=G7Tb2_nC",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=Ain5_jUqUVttxHkKDQpXEqqvM8C4CLN1&h=1bcc1d25&itok=bmBkx3wY",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=MT8OQ8hOScOd93q6qvt1X7RGjJPKJJpf&h=aa98d42f&itok=UHvdwtW0",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=wIITlLr3RlArcFwaHH37BqUbmeYH2Hwc&h=2406deb0&itok=p7yMr92D",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=Ve70S7iGDwz6vOxzGh36XQIkZYZ5qtNR&h=aa98d42f&itok=JyF_OO10"
+    ],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "Image: DISCOVERY LANDMARK - STUDIO Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - STUDIO Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - STUDIO Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - STUDIO Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - STUDIO Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - STUDIO Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - DETAIL Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - DETAIL Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - DETAIL Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - DETAIL Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - DETAIL Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - DETAIL Download options High resolutions Low resolutions Share Image: DISCOVERY LANDMARK - DETAIL Download options High resolutions Low resolutions Share"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "156px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "156px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 4,
+    "mainTextLen": 5067,
+    "realImageCount": 22,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c6f797fe6e056",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/playlist/av/457cff63/avf/{n}/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 488,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/playlist/av/457cff63/avf/89966758/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MC04MDQ/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 15943893,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 74176,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/zq9935TJ",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/zq9935TJ",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891358~acl=%2F{uuid}%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/{uuid}/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 6473509,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891358~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D11974948b508c46cb8b68f1a5237a347fa3dd0861793887758%2F%2A~hmac=f5e0d8a852a8527af38f505c65862844fcf7544edf2ade6bf7ca60bff7218f92/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=11974948b508c46cb8b68f1a5237a347fa3dd0861793887758/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 4
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 3
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1893,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 3,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "data-social-popup-open",
+        "href": null
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/RangeRover"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/Defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/LandRoverDiscovery"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/Defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://www.facebook.com/JaguarRacing"
+      },
+      {
+        "marker": "data-social-popup-open",
+        "href": null
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://x.com/RangeRover"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://x.com/defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JaguarUK"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JaguarUKPR"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://x.com/Defender"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JaguarRacing"
+      },
+      {
+        "marker": "social-popup__row",
+        "href": "https://twitter.com/JLR_News"
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 16,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-gb-image-packs-discovery-landmark-edition.png",
+  "renderedHtml": "pages/en-gb-image-packs-discovery-landmark-edition.html",
+  "type": "media-pack-detail",
+  "typeFamily": "listing",
+  "typeBasis": "body.page-node-type-image-packs",
+  "typeVariant": "image-pack",
+  "site": "main",
+  "slots": {
+    "pack-title": "DISCOVERY LANDMARK EDITION",
+    "count": "13",
+    "count-label": "Images",
+    "items": [
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=vgiFKaH2uKoqJ7y963x25axbd8.8Sgv8&h=ac5154fe&itok=FotTm5bb",
+        "title": "Image: DISCOVERY LANDMARK - STUDIO",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=8Za1iuf0HmFk0ZcrKnDViU87Vnpu9NNy"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/f4afd39c-80e1-4e0a-a932-2738c1268dc1/DISCOVERY_LANDMARK_STUDIO_130526_01.jpg?VersionId=vcvk8Gr5JA.fWfrs5xDL51KcouJ.9CJM&itok=AlfU5v7D"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=IBXX2nH7RXZxMiaQqy4yPMGuWlM0D_rv&h=32975dc6&itok=lnnEI8Ru",
+        "title": "Image: DISCOVERY LANDMARK - STUDIO",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=VYw9IIvytx9aTNo8heTCp.pQ.k9kk3De"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/936d97f8-5106-46e9-99db-e68fff7295af/DISCOVERY_LANDMARK_STUDIO_130526_02.jpg?VersionId=OwJsqZ2VrDaK.wKZac0oiSyNY3nliU8o&itok=ChKq1N14"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=c0JRZm5L_dVRl4pHYTfXK0wPWy.tVIAr&h=80fb4c59&itok=9ixfmHnG",
+        "title": "Image: DISCOVERY LANDMARK - STUDIO",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=tFuuNhfMudbfuQwC9_Mt2cLwVXbk6Fct"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/b87f5bf3-7702-4449-8502-e9eeca89bce5/DISCOVERY_LANDMARK_STUDIO_130526_03.jpg?VersionId=I0B1myPfuPXeODMGVBz8VdPa5rGCcq3R&itok=WldRKPUQ"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=v1YST6KQtckqnP8peX7jT42m3RpEXTqD&h=09ebb01d&itok=KVKaZ1AE",
+        "title": "Image: DISCOVERY LANDMARK - STUDIO",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=s2w0GTVxP607_QnMxeKIkO9SQVRn9mb9"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/5fa2ced4-0aea-4e41-a0dc-5d7e87071012/DISCOVERY_LANDMARK_STUDIO_130526_04.jpg?VersionId=ku1UezePiU8Wp5c3Czarz7gV2IgCf5vT&itok=us5w2mts"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=WMst5v1RzuwE4wQcfYb.ULZV26TP4_eT&h=2406deb0&itok=J0VTgOw_",
+        "title": "Image: DISCOVERY LANDMARK - STUDIO",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=rLWmGSTowKJbT.8I74RGr27Y_QmUkM4P"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/676a29e2-a121-4e2d-a005-f33982d1473e/DISCOVERY_LANDMARK_STUDIO_130526_05.jpg?VersionId=S2xixa9WCACDVVKwmaLTLebgxZzq8rcd&itok=2K3HirTW"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=QKG7LGNLOdVGAdrtZ9PF4SHnvwlFTObu&h=ca835250&itok=BIi2vQS5",
+        "title": "Image: DISCOVERY LANDMARK - STUDIO",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=5lUXcGmZdDHhfZNuAZ8qMY68IAW7Oier"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/ea3e268b-b9c5-46ae-bbfe-4ac259e39fdd/DISCOVERY_LANDMARK_STUDIO_130526_06.jpg?VersionId=XpQm39nfoNjUggkgu0G52ohbslwcTLk2&itok=0QGh5G5Q"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=_gmOFlyLFxNaZ3hz4HBb6.GZimbU6YTh&h=290e5029&itok=M2d34KZ9",
+        "title": "Image: DISCOVERY LANDMARK - DETAIL",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=AhNC2LrKfZWs6DeWqJ1rtUnyYVM1yXxr"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/f29e0b29-9881-4724-be27-301873bb597d/DISCOVERY_LANDMARK_DETAIL_130526_01.jpg?VersionId=ngDDcoZ0c4SwP_5Y36LiY5Zy.3dyG1Oi&itok=8RB8HpDj"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=VnZky43vZKgt2CvMbsghcgmq5dlcrwic&h=290e5029&itok=RG_I-RPS",
+        "title": "Image: DISCOVERY LANDMARK - DETAIL",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=dj6mNn5QDk89nYSWZHC33TVkOvLMjSN5"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/7cfdc912-2543-45bc-8fb9-92c9ddaf12f0/DISCOVERY_LANDMARK_DETAIL_130526_02.jpg?VersionId=K0VOsB7sMG8QHadkD32v1IsQMAFiIWIx&itok=bEAvBQ2U"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=KUrzmuJ6MYh45HCUYuB1FswtJdCRjWpW&h=2406deb0&itok=G7Tb2_nC",
+        "title": "Image: DISCOVERY LANDMARK - DETAIL",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=g1k1CYXQGq3uz1831ALjQ_YMc4qSvK0O"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/c6aad7e5-fb5d-4b67-a2e0-5a867c5b5f1d/DISCOVERY_LANDMARK_DETAIL_130526_03.jpg?VersionId=1akFMEV4pq80Rz.moLdofScuPef03z6P&itok=qVoSMDdN"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=Ain5_jUqUVttxHkKDQpXEqqvM8C4CLN1&h=1bcc1d25&itok=bmBkx3wY",
+        "title": "Image: DISCOVERY LANDMARK - DETAIL",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=x6UVbQP.Lq.Fj_MsB5JKrwEGDSXjdMv5"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/d9dc6dfb-805b-4a41-bcc8-07eecb2d3df0/DISCOVERY_LANDMARK_DETAIL_130526_04.jpg?VersionId=ehFUlYvK4zrDQB30LH0rw4w4v5M.iCUL&itok=iROYFs3U"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=MT8OQ8hOScOd93q6qvt1X7RGjJPKJJpf&h=aa98d42f&itok=UHvdwtW0",
+        "title": "Image: DISCOVERY LANDMARK - DETAIL",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=pR.jOHMnDwjU5pOhs8FFtKEvfm9jT3Nc"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/8723a913-bdc2-44e4-b706-3b5fd72bd4e8/DISCOVERY_LANDMARK_DETAIL_130526_05.jpg?VersionId=xOFG9v1mMGZTzq8Qqi5v9bo3eh7_Ss9a&itok=nkZapGff"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=wIITlLr3RlArcFwaHH37BqUbmeYH2Hwc&h=2406deb0&itok=p7yMr92D",
+        "title": "Image: DISCOVERY LANDMARK - DETAIL",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=j2nAZIWOXeL8wB1NqyDhoKHtofXzmnF2"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/812ef279-b708-4e16-9ed7-85903f7d119a/DISCOVERY_LANDMARK_DETAIL_130526_06.jpg?VersionId=l7Iffwk5NpppyKnx7Ku2p3iwEebN5yeX&itok=mvA30Jz6"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=Ve70S7iGDwz6vOxzGh36XQIkZYZ5qtNR&h=aa98d42f&itok=JyF_OO10",
+        "title": "Image: DISCOVERY LANDMARK - DETAIL",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=mFQDDP7eV9PTHNBFfg01C5HjnWXgMhYt"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-06-30/image/faa674d6-fec0-45c1-8597-f8226d498c84/DISCOVERY_LANDMARK_DETAIL_130526_07.jpg?VersionId=XwWd4g.qx4Cn13RNFSzQJeXms4U52Ccg&itok=NJ0iQbIq"
+          }
+        ]
+      }
+    ],
+    "videoIds": [],
+    "pack-downloads": [
+      "https://media.production.jlrms.com/download_archives/deb40ad9-dce6-412d-882e-14a57f62a06f/en/discovery-landmark.zip?VersionId=aqglyQ19EFVKvwonBqustf_nVZ4r.jSL"
+    ]
+  }
+}

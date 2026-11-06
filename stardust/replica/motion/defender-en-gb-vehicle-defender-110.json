@@ -1,0 +1,1978 @@
+{
+  "url": "https://media.jlr.com/defender/en-gb/vehicle/defender-110",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".new-grid__refine-btn",
+      "frames": [
+        {
+          "t": 32299.80000001192,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 32608,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 33102.60000002384,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 33402,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".new-grid__sidebar-link",
+      "frames": [
+        {
+          "t": 34804.20000001788,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 35013.60000002384,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 35403.60000002384,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 35612.70000001788,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".hero-thumbnail-two",
+      "frames": [
+        {
+          "t": 36804.40000000596,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 37007,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 37303.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 37510.20000001788,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".new-grid__pager-btn[rel=next]",
+      "frames": [
+        {
+          "t": 38913.90000000596,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 39205.90000000596,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 39608.10000002384,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 40000.60000002384,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".card-grid > *",
+      "error": "not found"
+    },
+    {
+      "sel": ".new-card__title a",
+      "error": "not found"
+    },
+    {
+      "sel": ".vehicle-tab-menu li a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.3s linear"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "0.3s linear"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".new-grid__refine-btn",
+      "changed": [
+        "self.color",
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgba(12, 18, 28, 0.8)",
+          "background": "rgb(233, 236, 236)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".new-grid__sidebar-link",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(12, 18, 28, 0.8)",
+          "boxShadow": "rgb(0, 0, 255) 0px 0px 0px 6px",
+          "opacity": "1",
+          "transition": "outline-color, box-shadow"
+        },
+        "subs": [
+          {
+            "el": "i.fa.fa-angle-right",
+            "transform": "matrix(0, 1, -1, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "transform 0.2s ease-in-out"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(12, 18, 28, 0.8)",
+          "boxShadow": "rgb(0, 0, 255) 0px 0px 0px 6px",
+          "opacity": "1",
+          "transition": "outline-color, box-shadow"
+        },
+        "subs": [
+          {
+            "el": "i.fa.fa-angle-right",
+            "transform": "matrix(0, 1, -1, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "transform 0.2s ease-in-out"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".new-grid__pager-btn",
+      "changed": [
+        "self.color",
+        "i.fa.jlrnew-arrow_left.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(12, 18, 28)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "color 0.2s ease-in-out"
+        },
+        "subs": [
+          {
+            "el": "i.fa.jlrnew-arrow_left",
+            "transform": "none",
+            "color": "rgb(12, 18, 28)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(196, 196, 196)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "color 0.2s ease-in-out"
+        },
+        "subs": [
+          {
+            "el": "i.fa.jlrnew-arrow_left",
+            "transform": "none",
+            "color": "rgb(196, 196, 196)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".hero-thumbnail-one img",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(51, 51, 51)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [
+      {
+        "name": "load8",
+        "el": "div.new-grid__content.tw-flex.tw-flex-col > div.tab-content > div.connie > div > div.jlr-loader",
+        "txt": "Loading...",
+        "y": 1465
+      }
+    ],
+    "transitions": [
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 800,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1675,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 2400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 2400,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1200,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 627,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 627,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.vehicle-page > div.wrapper.strip.nav-search-bg > div.container.search-page.search-content > div.new-grid__row > div.new-grid__sidebar-panel.new-grid__sidebar-panel--open",
+        "y": 627,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "width",
+        "el": "div.vehicle-page > div.wrapper.strip.nav-search-bg > div.container.search-page.search-content > div.new-grid__row > div.new-grid__sidebar-panel.new-grid__sidebar-panel--open",
+        "y": 627,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "width",
+        "el": "div.vehicle-page > div.wrapper.strip.nav-search-bg > div.container.search-page.search-content > div.new-grid__row > div.new-grid__content.tw-flex.tw-flex-col",
+        "y": 627,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > ul.list-group > li.new-grid__sidebar-item > a.small.collapsible.refine-item > i.fa.fa-angle-right.pull-right",
+        "y": 724,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "height",
+        "el": "div.new-grid__sidebar-inner > div > ul.list-group > li.new-grid__sidebar-item > ul.collapse-me.collapse-me--trans",
+        "y": 724,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 3964,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 3964,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 1465,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy.lazy-blur.tw-w-full",
+        "y": 1465,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy.lazy-blur.tw-w-full",
+        "y": 1465,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 611,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 611,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "filter",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 611,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 611,
+        "dur": "0.25s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 724,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 724,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "color",
+        "el": "div.bottom-pager.pull-right > div.search-pager.new-grid__pager > ul.js-pager__items.new-grid__pager-items > li.pull-left.new-grid__pager-item > a.btn.js-pager__btn.new-grid__pager-btn",
+        "y": 1554,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "color",
+        "el": "div.bottom-pager.pull-right > div.search-pager.new-grid__pager > ul.js-pager__items.new-grid__pager-items > li.pull-left.new-grid__pager-item > a.btn.js-pager__btn.new-grid__pager-btn",
+        "y": 1554,
+        "dur": "0.2s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li.dropdown.hidden-xs.hidden-sm > a.dropdown-toggle.mega-init.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--at-start.main-nav--at-end > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 289,
+        "dur": "0.3s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 400
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 400
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1200
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1200
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1200
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1200
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1600
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2000
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 2400
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 2400
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 2400
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 627
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 627
+      },
+      {
+        "added": [
+          "new-grid__sidebar-panel--open"
+        ],
+        "el": "div.vehicle-page > div.wrapper.strip.nav-search-bg > div.container.search-page.search-content > div.new-grid__row > div.new-grid__sidebar-panel.new-grid__sidebar-panel--open",
+        "y": 627
+      },
+      {
+        "added": [
+          "new-grid__sidebar-panel--open"
+        ],
+        "el": "div.vehicle-page > div.wrapper.strip.nav-search-bg > div.container.search-page.search-content > div.new-grid__row > div.new-grid__sidebar-panel.new-grid__sidebar-panel--open",
+        "y": 627
+      },
+      {
+        "added": [
+          "new-grid__content--with-sidebar"
+        ],
+        "el": "div.vehicle-page > div.wrapper.strip.nav-search-bg > div.container.search-page.search-content > div.new-grid__row > div.new-grid__content.tw-flex.tw-flex-col",
+        "y": 627
+      },
+      {
+        "added": [
+          "active-facet"
+        ],
+        "el": "div.new-grid__sidebar-inner > div > ul.list-group > li.new-grid__sidebar-item > a.small.collapsible.refine-item",
+        "y": 724
+      },
+      {
+        "added": [
+          "collapse-me--trans"
+        ],
+        "el": "div.new-grid__sidebar-inner > div > ul.list-group > li.new-grid__sidebar-item > ul.collapse-me.collapse-me--trans",
+        "y": 724
+      },
+      {
+        "added": [
+          "collapse-me--open"
+        ],
+        "el": "div.new-grid__sidebar-inner > div > ul.list-group > li.new-grid__sidebar-item > ul.collapse-me.collapse-me--open",
+        "y": 724
+      },
+      {
+        "added": [
+          "collapse-me--open"
+        ],
+        "el": "div.new-grid__sidebar-inner > div > ul.list-group > li.new-grid__sidebar-item > ul.collapse-me.collapse-me--open",
+        "y": 724
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 3964
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 3964
+      },
+      {
+        "added": [
+          "lazy-ready"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465
+      },
+      {
+        "added": [
+          "lazy-ready"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465
+      },
+      {
+        "added": [
+          "lazy-ready"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy.lazy-blur.tw-w-full",
+        "y": 1465
+      },
+      {
+        "added": [
+          "lazy-ready"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy.lazy-blur.tw-w-full",
+        "y": 1465
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 1465
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 611
+      },
+      {
+        "added": [
+          "lazy-loaded"
+        ],
+        "el": "div.card-grid.tw-grid.tw-grid-cols-1 > div.news-box.item.modern-news__panel > a.modern-news__image-wrap > div.tw-aspect-video.tw-overflow-hidden.lazy-skeleton > img.lazy-blur.tw-w-full.tw-h-full",
+        "y": 611
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 724
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 724
+      }
+    ]
+  }
+}

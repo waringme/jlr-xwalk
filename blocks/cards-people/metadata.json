@@ -1,0 +1,19 @@
+{
+  "variantName": "cards-people",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "link + image + heading"
+  },
+  "contentPattern": "One row per person. Cell 1: portrait image. Cell 2: name as a heading (h3/h4), role/title as a paragraph, and the link to the bio page (link text e.g. \"Read more\"; it also links the portrait and name).",
+  "options": [],
+  "memberVariantIds": [
+    "v_7ea703f4da23"
+  ],
+  "usage": "Leadership / directors listing pages: a grid of portrait cards (2 columns mobile, 3 at 991px, 4 at 1200px) each linking to a person bio page.",
+  "reuseGuidance": "Use for any grid of people cards with portrait, name, role and bio link. For news or media tiles use cards-news or cards-gallery instead."
+}

@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defenderrally/en-gb/news/2026/01/defender-rally-make-history-debut-dakar-victory",
+  "path": "defenderrally/en-gb/news/2026/01/defender-rally-make-history-debut-dakar-victory",
+  "timestamp": "2026-11-06T10:42:03.905Z",
+  "title": "DEFENDER RALLY MAKE HISTORY WITH DEBUT DAKAR VICTORY | Defender Rally Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

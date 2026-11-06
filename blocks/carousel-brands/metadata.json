@@ -1,0 +1,27 @@
+{
+  "variantName": "carousel-brands",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "link + image"
+  },
+  "contentPattern": {
+    "rows": "One row per brand tile.",
+    "cells": [
+      "Background image (picture)",
+      "Brand logo image (picture; optional — the link text is shown instead when missing)",
+      "Link to the brand sub-site (link text = brand name)"
+    ]
+  },
+  "options": [],
+  "memberVariantIds": [
+    "v_29ea78b0384d"
+  ],
+  "usage": "Corporate landing: horizontal scrolling strip of tall brand tiles linking to each brand sub-site, with previous/next buttons.",
+  "reuseGuidance": "Use for a scrollable row of image tiles that each link somewhere. For a fading news slider use carousel-featured-news.",
+  "designReference": "Values lifted from stardust/prototypes (canon/modules.css and per-page css) where a counterpart exists."
+}

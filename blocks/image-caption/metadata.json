@@ -1,0 +1,18 @@
+{
+  "variantName": "image-caption",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": false,
+    "imagePattern": "large",
+    "structure": "image + heading + text"
+  },
+  "contentPattern": "Row 1: one full-width image. Row 2: caption rich text (optional heading plus paragraph). On desktop (992px and up) the caption sits in a white card offset one column from the left, overlapping the bottom of the image, with a short rule beneath; below 992px the card stacks under the image.",
+  "options": [],
+  "memberVariantIds": ["v_43f5b657c84f"],
+  "usage": "News articles: a large interior or exterior photo with a descriptive caption card overlapping its lower-left corner.",
+  "reuseGuidance": "Use only for a single photo with an overlapping caption. For downloadable press images use media-image; for text beside an image use columns-press-image.",
+  "prototypeCounterpart": "none (no prototype module); text values follow css/defender-en-gb-news-*.css .article-text p"
+}

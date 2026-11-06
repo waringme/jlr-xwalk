@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defenderrally/en-gb/news/2026/08/defender-dakar-road-legal-evolution-dakar-rally-winner",
+  "path": "defenderrally/en-gb/news/2026/08/defender-dakar-road-legal-evolution-dakar-rally-winner",
+  "timestamp": "2026-11-06T10:43:29.071Z",
+  "title": "DEFENDER DAKAR: A ROAD-LEGAL EVOLUTION OF THE DAKAR RALLY WINNER | Defender Rally Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

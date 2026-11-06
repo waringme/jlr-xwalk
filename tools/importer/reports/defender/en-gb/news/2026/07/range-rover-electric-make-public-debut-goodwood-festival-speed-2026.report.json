@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defender/en-gb/news/2026/07/range-rover-electric-make-public-debut-goodwood-festival-speed-2026",
+  "path": "defender/en-gb/news/2026/07/range-rover-electric-make-public-debut-goodwood-festival-speed-2026",
+  "timestamp": "2026-11-06T10:39:29.676Z",
+  "title": "RANGE ROVER ELECTRIC TO MAKE PUBLIC DEBUT AT GOODWOOD FESTIVAL OF SPEED 2026 | Defender Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

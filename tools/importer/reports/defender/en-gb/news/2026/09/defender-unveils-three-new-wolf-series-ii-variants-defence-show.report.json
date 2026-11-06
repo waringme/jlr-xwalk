@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show",
+  "path": "defender/en-gb/news/2026/09/defender-unveils-three-new-wolf-series-ii-variants-defence-show",
+  "timestamp": "2026-11-06T10:40:39.511Z",
+  "title": "DEFENDER UNVEILS THREE NEW WOLF SERIES II VARIANTS AT DEFENCE SHOW | Defender Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

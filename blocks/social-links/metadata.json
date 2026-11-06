@@ -1,0 +1,28 @@
+{
+  "variantName": "social-links",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "link"
+  },
+  "contentPattern": "Optional first row with text only: the label (e.g. \"Join the conversation:\"). Then one row per social link (single cell holding the link; link text is the accessible name). Network icons are chosen from the link hostname (Instagram, YouTube, Facebook, TikTok, LinkedIn, X/Twitter; RSS for feed URLs).",
+  "options": [],
+  "memberVariantIds": [
+    "v_96b9bb1f2306",
+    "v_96b9bb1f2306-1",
+    "v_96b9bb1f2306-2"
+  ],
+  "usage": {
+    "description": "Join the conversation strip with square dark social icon buttons, right-aligned on desktop.",
+    "pagesUsing": [
+      "/defender/en-gb"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-06T08:48:34Z"
+  },
+  "reuseGuidance": "Use wherever social follow links are needed; add or remove link rows freely, unknown hosts render as text buttons."
+}

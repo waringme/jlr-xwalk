@@ -1,0 +1,89 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb-directors.json",
+  "build": "stardust/replica/motion/defender-en-gb-directors-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 10,
+    "parity": 8,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 2,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "header",
+      "name": "scroll-morph",
+      "state": "dead",
+      "note": "header static across the scroll traversal on both sides",
+      "line": "motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)"
+    },
+    {
+      "cls": "hover",
+      "name": ".people-listing-holder",
+      "state": "parity",
+      "note": "a.color, img.color; n/a",
+      "line": "motion hover .people-listing-holder: parity (a.color, img.color; n/a)"
+    },
+    {
+      "cls": "hover",
+      "name": ".people-listing-holder",
+      "state": "parity",
+      "note": "a.color, img.color; n/a",
+      "line": "motion hover .people-listing-holder: parity (a.color, img.color; n/a)"
+    },
+    {
+      "cls": "hover",
+      "name": ".people-listing-holder h4 a",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .people-listing-holder h4 a: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".plc-header a",
+      "state": "parity",
+      "note": "self.color; n/a",
+      "line": "motion hover .plc-header a: parity (self.color; n/a)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "48 event(s) on live, 32 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (48 event(s) on live, 32 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "48 event(s) on live, 32 on build, 300ms",
+      "line": "motion transition margin-top: parity (48 event(s) on live, 32 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "6 event(s) on live, 4 on build, 500ms",
+      "line": "motion transition top: parity (6 event(s) on live, 4 on build, 500ms)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 6× on live, 2× on build",
+      "line": "motion class bottom-shadow: parity (added 6× on live, 2× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 3× on live, 2× on build",
+      "line": "motion class shrink: parity (added 3× on live, 2× on build)"
+    }
+  ]
+}

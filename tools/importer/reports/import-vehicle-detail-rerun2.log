@@ -1,0 +1,19 @@
+[Bulk Import] Starting run with:
+  Import script: /backups/waringme/jlr-xwalk/repo/tools/importer/import-vehicle-detail.bundle.js
+  URLs file:     /tmp/vd-rangee.txt
+  Output dir:    /backups/waringme/jlr-xwalk/repo/content
+  URL count:     1
+  BD snapshots:  /backups/waringme/jlr-xwalk/repo/tools/importer/bd-snapshots (reused on block before Bright Data)
+
+✅ OpenFeature: resolved playwright-server-url flag (provider: GO Feature Flag, customerHash: 2730f8f1cf3601c55c81f3b4, url: (empty - local Chromium)) [reason: DEFAULT, errorCode: none]
+⚠️ OpenFeature: playwright-server-url evaluation did not confirm a provider value (reason: DEFAULT, errorCode: none); the URL may be an environment default.
+⚠️ No remote Playwright server resolved (provider: GO Feature Flag, customerHash: 2730f8f1cf3601c55c81f3b4); local Chromium requires an installed browser. Browserless deployments need GO_FEATURE_FLAG_ENDPOINT and the playwright-server-url flag.
+  Browser:       Chromium (bundled) [Chrome unavailable: browserType.launch: Chromium distribution 'chrome' is not found at /opt/google/chrome/chrome
+Run "npx playwright install chrome"]
+[1/1] Starting https://media.jlr.com/range-rover/en-gb/vehicle/range_e
+[Browser Console] Allow attribute will take precedence over 'allowfullscreen'.
+[1/1] ⚠️  Content completeness 71.7% (below 90.0%) — possible dropped content
+[1/1] ✅ Saved content to range-rover/en-gb/vehicle/range-e
+[Bulk Import] Completed. Success: 1/1, Reused: 0, Failures: 0
+[Excel Export] Found 115 report file(s). Compiling to Excel...
+[Excel Export] ✅ Compiled 115 reports to: /backups/waringme/jlr-xwalk/repo/tools/importer/reports/import-vehicle-detail.report.xlsx

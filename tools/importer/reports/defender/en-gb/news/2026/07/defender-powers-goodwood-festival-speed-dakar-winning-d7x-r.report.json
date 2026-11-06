@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defender/en-gb/news/2026/07/defender-powers-goodwood-festival-speed-dakar-winning-d7x-r",
+  "path": "defender/en-gb/news/2026/07/defender-powers-goodwood-festival-speed-dakar-winning-d7x-r",
+  "timestamp": "2026-11-06T10:38:33.933Z",
+  "title": "DEFENDER POWERS UP GOODWOOD FESTIVAL OF SPEED WITH DAKAR-WINNING D7X-R | Defender Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "pagination"
+  ]
+}

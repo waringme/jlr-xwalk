@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt",
+  "path": "range-rover/en-gb/news/2026/07/range-rover-previews-fifth-member-family-introducing-range-rover-gt",
+  "timestamp": "2026-11-06T10:58:15.170Z",
+  "title": "RANGE ROVER PREVIEWS FIFTH MEMBER OF THE FAMILY: INTRODUCING RANGE ROVER GT | Range Rover Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

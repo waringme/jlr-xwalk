@@ -1,0 +1,97 @@
+/* quote-centered — centred pull quote (values: stardust/prototypes/css/
+   defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update.css
+   .article-quote / .article-quote__text / .article-quote__cite). The source's icon-font quote
+   glyphs are drawn as typographic quotation marks (no self-hosted brand or icon fonts). */
+
+.quote-centered {
+  margin-top: 60px;
+  margin-bottom: 50px;
+  padding-top: 26px;
+}
+
+.quote-centered figure {
+  margin: 0;
+}
+
+.quote-centered blockquote {
+  position: relative;
+  margin: 0 10px 10px;
+  padding: 0 10px;
+  border: none;
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-body, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 17.5px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.quote-centered blockquote::before,
+.quote-centered blockquote::after {
+  position: absolute;
+  color: var(--c-ink, #0c121c);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 3em;
+  line-height: 100%;
+}
+
+.quote-centered blockquote::before {
+  content: "\201C";
+  top: -34px;
+  left: -10px;
+}
+
+.quote-centered blockquote::after {
+  content: "\201D";
+  right: -10px;
+  bottom: -24px;
+}
+
+.quote-centered .quote-centered-quotation p {
+  display: inline-block;
+  margin: 0;
+  padding: 28px 0;
+  color: #555;
+  font-size: 17px;
+  line-height: 23px;
+}
+
+.quote-centered .quote-centered-attribution {
+  text-align: center;
+}
+
+.quote-centered .quote-centered-name,
+.quote-centered .quote-centered-role {
+  display: block;
+  margin: 0 0 10px;
+  color: #9e9fa3;
+  font-family: var(--ff-heading, NeusaNeu-Medium, "NeusaNeu-Medium Sub", sans-serif);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: var(--fw-heading, 500);
+  line-height: 20.8px;
+}
+
+@media (width >= 768px) {
+  .quote-centered .quote-centered-quotation p {
+    padding: 0 80px;
+    font-size: 20px;
+    line-height: 32px;
+  }
+
+  .quote-centered .quote-centered-name,
+  .quote-centered .quote-centered-role {
+    font-size: 20px;
+    line-height: 26px;
+  }
+}
+
+@media (width >= 992px) {
+  .quote-centered blockquote {
+    margin-left: calc((100% + 36px) / 12 + 10px);
+    margin-right: calc((100% + 36px) / 12 + 10px);
+  }
+
+  .quote-centered blockquote::after {
+    bottom: -34px;
+  }
+}

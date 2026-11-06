@@ -1,0 +1,3 @@
+- [ ] defender-en-gb-image-packs: add card hover overlay (CSS @126157) + pixel round
+- [ ] defender-en-gb-vehicle-defender-110: motion-observe 360 Refine-By slide-in
+- [ ] defender-en-gb-image-packs-defender-110-namib-orange: tile hover overlay (same mechanics as listing, CSS pseudo-element) + motion-observe the tile Download dropdown

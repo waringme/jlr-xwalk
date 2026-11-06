@@ -1,0 +1,117 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb-image-packs-defender-110-namib-orange.json",
+  "build": "stardust/replica/motion/defender-en-gb-image-packs-defender-110-namib-orange-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 14,
+    "parity": 8,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 5,
+    "advisory": 1
+  },
+  "verdicts": [
+    {
+      "cls": "widget",
+      "name": ".img-pack-block",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .img-pack-block: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".view-large-img",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .view-large-img: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".image-pack-slide__close",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .image-pack-slide__close: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".new-share__trigger",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .new-share__trigger: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "hover",
+      "name": ".img-pack-block",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .img-pack-block: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "entrance",
+      "name": "hvr-icon-push",
+      "state": "parity",
+      "note": "fired on 1 element(s)",
+      "line": "motion entrance hvr-icon-push: parity (fired on 1 element(s))"
+    },
+    {
+      "cls": "transition",
+      "name": "color",
+      "state": "parity",
+      "note": "1 event(s) on live, 1 on build, 300ms",
+      "line": "motion transition color: parity (1 event(s) on live, 1 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "16 event(s) on live, 16 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (16 event(s) on live, 16 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "16 event(s) on live, 16 on build, 300ms",
+      "line": "motion transition margin-top: parity (16 event(s) on live, 16 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 500ms",
+      "line": "motion transition top: parity (2 event(s) on live, 2 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "opacity",
+      "state": "advisory",
+      "note": "1 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion",
+      "line": "motion transition opacity: extra on build — advisory (1 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 2× on live, 1× on build",
+      "line": "motion class bottom-shadow: parity (added 2× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "hide",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class hide: parity (added 1× on live, 1× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 1× on live, 1× on build",
+      "line": "motion class shrink: parity (added 1× on live, 1× on build)"
+    }
+  ]
+}

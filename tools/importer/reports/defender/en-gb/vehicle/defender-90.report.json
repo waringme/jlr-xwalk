@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defender/en-gb/vehicle/defender-90",
+  "path": "defender/en-gb/vehicle/defender-90",
+  "timestamp": "2026-11-06T17:16:40.926Z",
+  "title": "Defender",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-image",
+    "media-image",
+    "columns-vehicle-intro",
+    "columns-vehicle-intro",
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

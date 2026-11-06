@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sentinel",
+  "path": "range-rover/en-gb/vehicle/range-rover-sentinel",
+  "timestamp": "2026-11-06T17:30:50.102Z",
+  "title": "Range Rover",
+  "template": "vehicle-detail",
+  "blocks": [
+    "media-subnav",
+    "media-subnav",
+    "cards-news",
+    "cards-news"
+  ]
+}

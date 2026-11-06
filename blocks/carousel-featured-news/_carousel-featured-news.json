@@ -1,0 +1,70 @@
+{
+  "definitions": [
+    {
+      "title": "Carousel Featured News",
+      "id": "carousel-featured-news",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Carousel Featured News",
+              "filter": "carousel-featured-news"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Carousel Featured News Item",
+      "id": "carousel-featured-news-item",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Carousel Featured News Item",
+              "model": "carousel-featured-news-item"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "carousel-featured-news-item",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "media_image",
+          "label": "Background Image",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "media_imageAlt",
+          "value": "",
+          "label": "Background Image Alt"
+        },
+        {
+          "component": "richtext",
+          "name": "content_text",
+          "value": "",
+          "label": "Text",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "carousel-featured-news",
+      "components": [
+        "carousel-featured-news-item"
+      ]
+    }
+  ]
+}

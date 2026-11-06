@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/jaguar-tcs-racing/en-gb/news/2024/10/jamie-chadwick-and-lilou-wadoux-drive-jaguar-tcs-racing-womens-test",
+  "path": "jaguar-tcs-racing/en-gb/news/2024/10/jamie-chadwick-and-lilou-wadoux-drive-jaguar-tcs-racing-womens-test",
+  "timestamp": "2026-11-06T10:56:53.706Z",
+  "title": "JAMIE CHADWICK AND LILOU WADOUX TO DRIVE FOR JAGUAR TCS RACING IN WOMEN’S TEST | Jaguar TCS Racing Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "quote-centered",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "pagination"
+  ]
+}

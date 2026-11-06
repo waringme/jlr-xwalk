@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defenderrally/en-gb",
+  "path": "defenderrally/en-gb",
+  "timestamp": "2026-11-06T09:08:06.063Z",
+  "title": "Defender Rally",
+  "template": "brand-landing",
+  "blocks": [
+    "carousel-featured-news",
+    "carousel-featured-news",
+    "social-links",
+    "social-links",
+    "cards-news",
+    "cards-gallery",
+    "cards-gallery"
+  ]
+}

@@ -1,0 +1,1627 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:09:10.707Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "discovery-en-gb-video-packs",
+  "url": "https://media.jlr.com/discovery/en-gb/video-packs",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:09:10.707Z",
+  "finalUrl": "https://media.jlr.com/discovery/en-gb/video-packs",
+  "title": "Discovery",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Video Packs"
+    },
+    {
+      "tag": "h2",
+      "text": "1"
+    },
+    {
+      "tag": "h4",
+      "text": "Video"
+    },
+    {
+      "tag": "h5",
+      "text": "15 May 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY GEMINI B‑ROLL"
+    },
+    {
+      "tag": "h4",
+      "text": "DISCOVERY GEMINI B‑ROLL"
+    },
+    {
+      "tag": "h2",
+      "text": "2"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "15 May 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "DISCOVERY TEMPEST B‑ROLL"
+    },
+    {
+      "tag": "h4",
+      "text": "DISCOVERY TEMPEST B‑ROLL"
+    },
+    {
+      "tag": "h2",
+      "text": "3"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "14 June 2023"
+    },
+    {
+      "tag": "h3",
+      "text": "FILM AND B‑ROLL ‑ DISCOVERY SPORT 24MY"
+    },
+    {
+      "tag": "h4",
+      "text": "FILM AND B‑ROLL ‑ DISCOVERY SPORT 24MY"
+    },
+    {
+      "tag": "h2",
+      "text": "5"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "10 November 2020"
+    },
+    {
+      "tag": "h3",
+      "text": "NEW LAND ROVER DISCOVERY ‑ FILM"
+    },
+    {
+      "tag": "h4",
+      "text": "NEW LAND ROVER DISCOVERY ‑ FILM"
+    },
+    {
+      "tag": "h2",
+      "text": "4"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "22 July 2020"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER DISCOVERY SUPPORTS LANDMARK RESCUE AS MOUNTAINS REOPEN ‑ VIDEO"
+    },
+    {
+      "tag": "h4",
+      "text": "LAND ROVER DISCOVERY SUPPORTS LANDMARK RESCUE AS MOUNTAINS REOPEN ‑ VIDEO"
+    },
+    {
+      "tag": "h2",
+      "text": "6"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "21 May 2019"
+    },
+    {
+      "tag": "h3",
+      "text": "INTRODUCING THE NEW DISCOVERY SPORT ‑ FILMS"
+    },
+    {
+      "tag": "h4",
+      "text": "INTRODUCING THE NEW DISCOVERY SPORT ‑ FILMS"
+    },
+    {
+      "tag": "h2",
+      "text": "2"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "12 September 2017"
+    },
+    {
+      "tag": "h3",
+      "text": "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY"
+    },
+    {
+      "tag": "h4",
+      "text": "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY"
+    },
+    {
+      "tag": "h2",
+      "text": "1"
+    },
+    {
+      "tag": "h4",
+      "text": "Video"
+    },
+    {
+      "tag": "h5",
+      "text": "12 September 2017"
+    },
+    {
+      "tag": "h3",
+      "text": "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY"
+    },
+    {
+      "tag": "h4",
+      "text": "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY"
+    },
+    {
+      "tag": "h2",
+      "text": "3"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "26 April 2017"
+    },
+    {
+      "tag": "h3",
+      "text": "Land Rover and The Prince’s Countryside Fund launch 2017 Bursary supporting young rural entrepreneurs"
+    },
+    {
+      "tag": "h4",
+      "text": "Land Rover and The Prince’s Countryside Fund launch 2017 Bursary supporting young rural entrepreneurs"
+    },
+    {
+      "tag": "h2",
+      "text": "5"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "28 September 2016"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER REVEALS NEW DISCOVERY"
+    },
+    {
+      "tag": "h4",
+      "text": "LAND ROVER REVEALS NEW DISCOVERY"
+    },
+    {
+      "tag": "h2",
+      "text": "2"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "14 September 2016"
+    },
+    {
+      "tag": "h3",
+      "text": "SECRET NEW DISCOVERY KEPT UNDER WRAPS WITH THE HELP OF CHILD’S PLAY…"
+    },
+    {
+      "tag": "h4",
+      "text": "SECRET NEW DISCOVERY KEPT UNDER WRAPS WITH THE HELP OF CHILD’S PLAY…"
+    },
+    {
+      "tag": "h2",
+      "text": "0"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "07 September 2016"
+    },
+    {
+      "tag": "h3",
+      "text": "LAND ROVER PUTS WORLD‑FIRST INTELLIGENT SEAT FOLD TECHNOLOGY TO EXTREME TEST… REMOTELY"
+    },
+    {
+      "tag": "h4",
+      "text": "LAND ROVER PUTS WORLD‑FIRST INTELLIGENT SEAT FOLD TECHNOLOGY TO EXTREME TEST… REMOTELY"
+    },
+    {
+      "tag": "h2",
+      "text": "0"
+    },
+    {
+      "tag": "h4",
+      "text": "Videos"
+    },
+    {
+      "tag": "h5",
+      "text": "16 June 2016"
+    },
+    {
+      "tag": "h3",
+      "text": "SEMI‑AUTONOMOUS TECH HELPS LAND ROVER DISCOVERY SPORT PULL 100‑TONNE TRAIN"
+    },
+    {
+      "tag": "h4",
+      "text": "SEMI‑AUTONOMOUS TECH HELPS LAND ROVER DISCOVERY SPORT PULL 100‑TONNE TRAIN"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/discovery/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/discovery/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/discovery/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/discovery/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/discovery/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/discovery/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/discovery/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/discovery/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/discovery/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/discovery/en-gb/contact"
+    },
+    {
+      "label": "Discovery",
+      "href": "https://www.landrover.com/discovery/index.html"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "News",
+      "href": "/discovery/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/discovery/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/discovery/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/discovery/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/discovery/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/discovery/en-gb/tech-specs"
+    },
+    {
+      "label": "Search Discovery",
+      "href": null
+    },
+    {
+      "label": "Refine By",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Video",
+      "href": "/discovery/en-gb/videos"
+    },
+    {
+      "label": "Video Packs",
+      "href": "/discovery/en-gb/video-packs"
+    },
+    {
+      "label": "Broadcast Video",
+      "href": "/discovery/en-gb/en/broadcast-videos"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Video Format",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Video View",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Tags",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "People",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Model Year",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "1 Video 15 May 2025 DISCOVERY GEMINI B‑ROLL Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/1c9ced65-51fc-430e-9464-9bddaddc94a5/en/discovery-gemini-b-r.zip?VersionId=uiwTJ4DwmSrcVuwJS_ltSeGI72Uq7IbI"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fdiscovery-gemini-b-roll&title=DISCOVERY%20GEMINI%20B%E2%80%91ROLL"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/1c9ced65-51fc-430e-9464-9bddaddc94a5/en/discovery-gemini-b-r.zip?VersionId=uiwTJ4DwmSrcVuwJS_ltSeGI72Uq7IbI"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fdiscovery-gemini-b-roll&title=DISCOVERY%20GEMINI%20B%E2%80%91ROLL"
+    },
+    {
+      "label": "2 Videos 15 May 2025 DISCOVERY TEMPEST B‑ROLL Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/ff24142b-3d18-47d2-900a-a76cf4162101/en/discovery-tempest-b-.zip?VersionId=BQfp0aDRx573ASKgYKLOcQM.6BxCdwiw"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fdiscovery-tempest-b-roll&title=DISCOVERY%20TEMPEST%20B%E2%80%91ROLL"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/ff24142b-3d18-47d2-900a-a76cf4162101/en/discovery-tempest-b-.zip?VersionId=BQfp0aDRx573ASKgYKLOcQM.6BxCdwiw"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fdiscovery-tempest-b-roll&title=DISCOVERY%20TEMPEST%20B%E2%80%91ROLL"
+    },
+    {
+      "label": "3 Videos 14 June 2023 FILM AND B‑ROLL ‑ DISCOVERY SPORT 24MY Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/44c67622-f2f7-435e-9eb4-49c571ec3a53/en/film-and-b-roll-disc.zip?VersionId=Zw4kpV4ZkFhKPSGjGXqHaWAfwhi3q2cK"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Ffilm-and-b-roll-discovery-sport-24my&title=FILM%20AND%20B%E2%80%91ROLL%20%E2%80%91%20DISCOVERY%20SPORT%2024MY"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/44c67622-f2f7-435e-9eb4-49c571ec3a53/en/film-and-b-roll-disc.zip?VersionId=Zw4kpV4ZkFhKPSGjGXqHaWAfwhi3q2cK"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Ffilm-and-b-roll-discovery-sport-24my&title=FILM%20AND%20B%E2%80%91ROLL%20%E2%80%91%20DISCOVERY%20SPORT%2024MY"
+    },
+    {
+      "label": "5 Videos 10 November 2020 NEW LAND ROVER DISCOVERY ‑ FILM Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/3aee9e7e-df1b-4f54-81b9-02e8e05a58f2/en/new-land-rover-disco.zip"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fnew-land-rover-discovery-film&title=NEW%20LAND%20ROVER%20DISCOVERY%20%E2%80%91%20FILM"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/3aee9e7e-df1b-4f54-81b9-02e8e05a58f2/en/new-land-rover-disco.zip"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fnew-land-rover-discovery-film&title=NEW%20LAND%20ROVER%20DISCOVERY%20%E2%80%91%20FILM"
+    },
+    {
+      "label": "4 Videos 22 July 2020 LAND ROVER DISCOVERY SUPPORTS LANDMARK RESCUE AS MOUNTAINS REOPEN ‑ VIDEO Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/7e47030b-3e0f-44c2-8f6b-429af5289824/land-rover-discovery.zip"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-discovery-supports-landmark-rescue-mountains-reopen-video&title=LAND%20ROVER%20DISCOVERY%20SUPPORTS%20LANDMARK%20RESCUE%20AS%20MOUNTAINS%20REOPEN%20%E2%80%91%20VIDEO"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/7e47030b-3e0f-44c2-8f6b-429af5289824/land-rover-discovery.zip"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-discovery-supports-landmark-rescue-mountains-reopen-video&title=LAND%20ROVER%20DISCOVERY%20SUPPORTS%20LANDMARK%20RESCUE%20AS%20MOUNTAINS%20REOPEN%20%E2%80%91%20VIDEO"
+    },
+    {
+      "label": "6 Videos 21 May 2019 INTRODUCING THE NEW DISCOVERY SPORT ‑ FILMS Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/cd92dfa5-2dbc-4bd1-9cdb-8115a0acfca2/introducing-the-new-.zip?VersionId=buh7jdDoQ5ikGWB7TBHN6qVyRGMS4oLs"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fintroducing-new-discovery-sport-films-0&title=INTRODUCING%20THE%20NEW%20DISCOVERY%20SPORT%20%E2%80%91%20FILMS"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/cd92dfa5-2dbc-4bd1-9cdb-8115a0acfca2/introducing-the-new-.zip?VersionId=buh7jdDoQ5ikGWB7TBHN6qVyRGMS4oLs"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fintroducing-new-discovery-sport-films-0&title=INTRODUCING%20THE%20NEW%20DISCOVERY%20SPORT%20%E2%80%91%20FILMS"
+    },
+    {
+      "label": "2 Videos 12 September 2017 ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/f245b69c-b528-4aa1-a53e-62c21a1e02db/ultimate-all-terrain.zip?VersionId=QYkPCRXmaxY1_kFskaNt7s6BMlwxHMPn"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fultimate-all-terrain-discovery-svx-heads-updated-discovery-family-0&title=ULTIMATE%20ALL%E2%80%91TERRAIN%20DISCOVERY%20SVX%20HEADS%20UP%20UPDATED%20DISCOVERY%20FAMILY"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/f245b69c-b528-4aa1-a53e-62c21a1e02db/ultimate-all-terrain.zip?VersionId=QYkPCRXmaxY1_kFskaNt7s6BMlwxHMPn"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fultimate-all-terrain-discovery-svx-heads-updated-discovery-family-0&title=ULTIMATE%20ALL%E2%80%91TERRAIN%20DISCOVERY%20SVX%20HEADS%20UP%20UPDATED%20DISCOVERY%20FAMILY"
+    },
+    {
+      "label": "1 Video 12 September 2017 ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/d7ca927b-6a3f-44eb-9700-e622c3e98f70/ultimate-all-terrain.zip?VersionId=6o2Eqe2V9l4kbsyYzUWic.uCQrr5.7tE"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fultimate-all-terrain-discovery-svx-heads-updated-discovery-family&title=ULTIMATE%20ALL%E2%80%91TERRAIN%20DISCOVERY%20SVX%20HEADS%20UP%20UPDATED%20DISCOVERY%20FAMILY"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/d7ca927b-6a3f-44eb-9700-e622c3e98f70/ultimate-all-terrain.zip?VersionId=6o2Eqe2V9l4kbsyYzUWic.uCQrr5.7tE"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fultimate-all-terrain-discovery-svx-heads-updated-discovery-family&title=ULTIMATE%20ALL%E2%80%91TERRAIN%20DISCOVERY%20SVX%20HEADS%20UP%20UPDATED%20DISCOVERY%20FAMILY"
+    },
+    {
+      "label": "3 Videos 26 April 2017 Land Rover and The Prince’s Countryside Fund launch 2017 Bursary supporting young rural entrepreneurs Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/72961f80-f7aa-4c2a-af08-8efdbbfc2ac8/land-rover-and-the-p.zip?VersionId=qb89YWogdWI5VjjA8CKdhNPL5uBY_.z5"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-and-princes-countryside-fund-launch-2017-bursary-supporting-young-rural&title=Land%20Rover%20and%20The%20Prince%E2%80%99s%20Countryside%20Fund%20launch%202017%20Bursary%20supporting%20young%20rural%20entrepreneurs"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/72961f80-f7aa-4c2a-af08-8efdbbfc2ac8/land-rover-and-the-p.zip?VersionId=qb89YWogdWI5VjjA8CKdhNPL5uBY_.z5"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-and-princes-countryside-fund-launch-2017-bursary-supporting-young-rural&title=Land%20Rover%20and%20The%20Prince%E2%80%99s%20Countryside%20Fund%20launch%202017%20Bursary%20supporting%20young%20rural%20entrepreneurs"
+    },
+    {
+      "label": "5 Videos 28 September 2016 LAND ROVER REVEALS NEW DISCOVERY Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/a851edb6-f769-4d75-8517-23eb18b23143/-land-rover-reveals-.zip?VersionId=R_MZ_sZtqc9xjAl8Pj8IO0i7aiSbup4J"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-reveals-new-discovery&title=LAND%20ROVER%20REVEALS%20NEW%20DISCOVERY"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/a851edb6-f769-4d75-8517-23eb18b23143/-land-rover-reveals-.zip?VersionId=R_MZ_sZtqc9xjAl8Pj8IO0i7aiSbup4J"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-reveals-new-discovery&title=LAND%20ROVER%20REVEALS%20NEW%20DISCOVERY"
+    },
+    {
+      "label": "2 Videos 14 September 2016 SECRET NEW DISCOVERY KEPT UNDER WRAPS WITH THE HELP OF CHILD’S PLAY… Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/11ba36fd-455f-4425-9743-677fa98af8f4/secret-new-discovery.zip?VersionId=MA5nroiSBNnMZhoo6KKZubx4PiF_Jgzn"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fsecret-new-discovery-kept-under-wraps-help-childs-play&title=SECRET%20NEW%20DISCOVERY%20KEPT%20UNDER%20WRAPS%20WITH%20THE%20HELP%20OF%20CHILD%E2%80%99S%20PLAY%E2%80%A6"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/11ba36fd-455f-4425-9743-677fa98af8f4/secret-new-discovery.zip?VersionId=MA5nroiSBNnMZhoo6KKZubx4PiF_Jgzn"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fsecret-new-discovery-kept-under-wraps-help-childs-play&title=SECRET%20NEW%20DISCOVERY%20KEPT%20UNDER%20WRAPS%20WITH%20THE%20HELP%20OF%20CHILD%E2%80%99S%20PLAY%E2%80%A6"
+    },
+    {
+      "label": "0 Videos 07 September 2016 LAND ROVER PUTS WORLD‑FIRST INTELLIGENT SEAT FOLD TECHNOLOGY TO EXTREME TEST… REMOTELY Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/e31d8c05-c475-4052-9006-6be4e614f865/land-rover-puts-worl.zip?VersionId=ydb.nEU457MSHF_3bNGsXAmn2Yh3KMh2"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-puts-world-first-intelligent-seat-fold-technology-extreme-test-remotely&title=LAND%20ROVER%20PUTS%20WORLD%E2%80%91FIRST%20INTELLIGENT%20SEAT%20FOLD%20TECHNOLOGY%20TO%20EXTREME%20TEST%E2%80%A6%20REMOTELY"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/e31d8c05-c475-4052-9006-6be4e614f865/land-rover-puts-worl.zip?VersionId=ydb.nEU457MSHF_3bNGsXAmn2Yh3KMh2"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-puts-world-first-intelligent-seat-fold-technology-extreme-test-remotely&title=LAND%20ROVER%20PUTS%20WORLD%E2%80%91FIRST%20INTELLIGENT%20SEAT%20FOLD%20TECHNOLOGY%20TO%20EXTREME%20TEST%E2%80%A6%20REMOTELY"
+    },
+    {
+      "label": "0 Videos 16 June 2016 SEMI‑AUTONOMOUS TECH HELPS LAND ROVER DISCOVERY SPORT PULL 100‑TONNE TRAIN Download SHARE",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/1bb73a28-95ed-48bc-a300-be64e83f7426/semi-autonomous-tech.zip?VersionId=7xtjlJQnaUaZKTvqRwrntCXJPTSelIix"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fsemi-autonomous-tech-helps-land-rover-discovery-sport-pull-100-tonne-train&title=SEMI%E2%80%91AUTONOMOUS%20TECH%20HELPS%20LAND%20ROVER%20DISCOVERY%20SPORT%20PULL%20100%E2%80%91TONNE%20TRAIN"
+    },
+    {
+      "label": "Download all",
+      "href": "https://media.production.jlrms.com/download_archives/1bb73a28-95ed-48bc-a300-be64e83f7426/semi-autonomous-tech.zip?VersionId=7xtjlJQnaUaZKTvqRwrntCXJPTSelIix"
+    },
+    {
+      "label": "SHARE",
+      "href": "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fsemi-autonomous-tech-helps-land-rover-discovery-sport-pull-100-tonne-train&title=SEMI%E2%80%91AUTONOMOUS%20TECH%20HELPS%20LAND%20ROVER%20DISCOVERY%20SPORT%20PULL%20100%E2%80%91TONNE%20TRAIN"
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/discovery/en-gb/video-packs#main-content",
+    "https://media.jlr.com/discovery/zh-cn",
+    "https://media.jlr.com/discovery/fr-fr",
+    "https://media.jlr.com/discovery/de-de",
+    "https://media.jlr.com/discovery/",
+    "https://media.jlr.com/discovery/it-it",
+    "https://media.jlr.com/discovery/en-us",
+    "https://media.jlr.com/discovery/es-es",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/discovery/en-gb/cart",
+    "https://media.jlr.com/discovery/en-gb/contact",
+    "https://media.jlr.com/discovery/en-gb/",
+    "https://www.landrover.com/discovery/index.html",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/discovery/en-gb/terms-and-conditions",
+    "https://media.jlr.com/discovery/en-gb/user-licence",
+    "https://media.jlr.com/discovery/en-gb/cookies",
+    "https://media.jlr.com/discovery/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/discovery/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/discovery/en-gb/news",
+    "https://media.jlr.com/discovery/en-gb/image-packs",
+    "https://media.jlr.com/discovery/en-gb/videos",
+    "https://media.jlr.com/discovery/en-gb/directors",
+    "https://media.jlr.com/discovery/en-gb/press-kit",
+    "https://media.jlr.com/discovery/en-gb/tech-specs",
+    "javascript:void(0)",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-sport",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-vision-concept",
+    "https://media.jlr.com/discovery/en-gb/vehicle/discovery-4",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.jlr.com/discovery/en-gb/video-packs",
+    "https://media.jlr.com/discovery/en-gb/en/broadcast-videos",
+    "https://media.production.jlrms.com/download_archives/1c9ced65-51fc-430e-9464-9bddaddc94a5/en/discovery-gemini-b-r.zip?VersionId=uiwTJ4DwmSrcVuwJS_ltSeGI72Uq7IbI",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fdiscovery-gemini-b-roll&title=DISCOVERY%20GEMINI%20B%E2%80%91ROLL",
+    "https://media.production.jlrms.com/download_archives/ff24142b-3d18-47d2-900a-a76cf4162101/en/discovery-tempest-b-.zip?VersionId=BQfp0aDRx573ASKgYKLOcQM.6BxCdwiw",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fdiscovery-tempest-b-roll&title=DISCOVERY%20TEMPEST%20B%E2%80%91ROLL",
+    "https://media.production.jlrms.com/download_archives/44c67622-f2f7-435e-9eb4-49c571ec3a53/en/film-and-b-roll-disc.zip?VersionId=Zw4kpV4ZkFhKPSGjGXqHaWAfwhi3q2cK",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Ffilm-and-b-roll-discovery-sport-24my&title=FILM%20AND%20B%E2%80%91ROLL%20%E2%80%91%20DISCOVERY%20SPORT%2024MY",
+    "https://media.production.jlrms.com/download_archives/3aee9e7e-df1b-4f54-81b9-02e8e05a58f2/en/new-land-rover-disco.zip",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fnew-land-rover-discovery-film&title=NEW%20LAND%20ROVER%20DISCOVERY%20%E2%80%91%20FILM",
+    "https://media.production.jlrms.com/download_archives/7e47030b-3e0f-44c2-8f6b-429af5289824/land-rover-discovery.zip",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-discovery-supports-landmark-rescue-mountains-reopen-video&title=LAND%20ROVER%20DISCOVERY%20SUPPORTS%20LANDMARK%20RESCUE%20AS%20MOUNTAINS%20REOPEN%20%E2%80%91%20VIDEO",
+    "https://media.production.jlrms.com/download_archives/cd92dfa5-2dbc-4bd1-9cdb-8115a0acfca2/introducing-the-new-.zip?VersionId=buh7jdDoQ5ikGWB7TBHN6qVyRGMS4oLs",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fintroducing-new-discovery-sport-films-0&title=INTRODUCING%20THE%20NEW%20DISCOVERY%20SPORT%20%E2%80%91%20FILMS",
+    "https://media.production.jlrms.com/download_archives/f245b69c-b528-4aa1-a53e-62c21a1e02db/ultimate-all-terrain.zip?VersionId=QYkPCRXmaxY1_kFskaNt7s6BMlwxHMPn",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fultimate-all-terrain-discovery-svx-heads-updated-discovery-family-0&title=ULTIMATE%20ALL%E2%80%91TERRAIN%20DISCOVERY%20SVX%20HEADS%20UP%20UPDATED%20DISCOVERY%20FAMILY",
+    "https://media.production.jlrms.com/download_archives/d7ca927b-6a3f-44eb-9700-e622c3e98f70/ultimate-all-terrain.zip?VersionId=6o2Eqe2V9l4kbsyYzUWic.uCQrr5.7tE",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fultimate-all-terrain-discovery-svx-heads-updated-discovery-family&title=ULTIMATE%20ALL%E2%80%91TERRAIN%20DISCOVERY%20SVX%20HEADS%20UP%20UPDATED%20DISCOVERY%20FAMILY",
+    "https://media.production.jlrms.com/download_archives/72961f80-f7aa-4c2a-af08-8efdbbfc2ac8/land-rover-and-the-p.zip?VersionId=qb89YWogdWI5VjjA8CKdhNPL5uBY_.z5",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-and-princes-countryside-fund-launch-2017-bursary-supporting-young-rural&title=Land%20Rover%20and%20The%20Prince%E2%80%99s%20Countryside%20Fund%20launch%202017%20Bursary%20supporting%20young%20rural%20entrepreneurs",
+    "https://media.production.jlrms.com/download_archives/a851edb6-f769-4d75-8517-23eb18b23143/-land-rover-reveals-.zip?VersionId=R_MZ_sZtqc9xjAl8Pj8IO0i7aiSbup4J",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-reveals-new-discovery&title=LAND%20ROVER%20REVEALS%20NEW%20DISCOVERY",
+    "https://media.production.jlrms.com/download_archives/11ba36fd-455f-4425-9743-677fa98af8f4/secret-new-discovery.zip?VersionId=MA5nroiSBNnMZhoo6KKZubx4PiF_Jgzn",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fsecret-new-discovery-kept-under-wraps-help-childs-play&title=SECRET%20NEW%20DISCOVERY%20KEPT%20UNDER%20WRAPS%20WITH%20THE%20HELP%20OF%20CHILD%E2%80%99S%20PLAY%E2%80%A6",
+    "https://media.production.jlrms.com/download_archives/e31d8c05-c475-4052-9006-6be4e614f865/land-rover-puts-worl.zip?VersionId=ydb.nEU457MSHF_3bNGsXAmn2Yh3KMh2",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fland-rover-puts-world-first-intelligent-seat-fold-technology-extreme-test-remotely&title=LAND%20ROVER%20PUTS%20WORLD%E2%80%91FIRST%20INTELLIGENT%20SEAT%20FOLD%20TECHNOLOGY%20TO%20EXTREME%20TEST%E2%80%A6%20REMOTELY",
+    "https://media.production.jlrms.com/download_archives/1bb73a28-95ed-48bc-a300-be64e83f7426/semi-autonomous-tech.zip?VersionId=7xtjlJQnaUaZKTvqRwrntCXJPTSelIix",
+    "https://www.addtoany.com/share#url=%2Fdiscovery%2Fen-gb%2Fvideo-pack%2Fsemi-autonomous-tech-helps-land-rover-discovery-sport-pull-100-tonne-train&title=SEMI%E2%80%91AUTONOMOUS%20TECH%20HELPS%20LAND%20ROVER%20DISCOVERY%20SPORT%20PULL%20100%E2%80%91TONNE%20TRAIN",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/landroverdiscovery/",
+    "https://www.youtube.com/@landroverdiscovery",
+    "https://www.facebook.com/LandRoverDiscovery",
+    "https://x.com/LandRover",
+    "https://uk.linkedin.com/showcase/landroverdiscovery/",
+    "https://media.jlr.com/discovery/en-gb/video-packs#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/discovery/en-gb/video-packs#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/discovery-logo-dark.svg",
+        "alt": "Discovery logo",
+        "w": 169,
+        "h": 12
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2020-11/New_Discovery_V2.jpg?VersionId=xt2t01p_xpBfNOZ4qO9fi5_h7NpUoHZv&h=05abcc49&itok=uZOp4DoD",
+        "alt": "Discovery",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-06/Discovery-Sport-Thumb.jpg?VersionId=fHBZTomC7l2hICRXfj_VVdLufP.GyYpP&h=05abcc49&itok=19RyO1r9",
+        "alt": "Discovery Sport",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery%20Vision%20Concept.jpg?VersionId=LxyHR6mdtC237_ogFOkOn48fnBhJqfjC&h=05abcc49&itok=iOBZ781U",
+        "alt": "Discovery Vision Concept",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Discovery.jpg?VersionId=idE85EC4N8qlgBPndqMPIj8k3mMu5Gf1&h=05abcc49&itok=0smOB2cA",
+        "alt": "Discovery 4",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/5e9d6bdc-f629-4db1-af61-35339b3667b9/DS_24MY_REVEAL_FILM_PHEV_KM_HD_H264_16X9_140623.jpg?VersionId=iigL2k08qTte85ggPP95Bec6brIpB9UE&itok=CRJtG95H",
+        "alt": "",
+        "w": 650,
+        "h": 366
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/5e9d6bdc-f629-4db1-af61-35339b3667b9/DS_24MY_REVEAL_FILM_PHEV_KM_HD_H264_16X9_140623.jpg?VersionId=iigL2k08qTte85ggPP95Bec6brIpB9UE&itok=CRJtG95H",
+        "alt": "",
+        "w": 650,
+        "h": 366
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/67310b2e-e5dc-4c65-90ea-7e1d62d223f2/LR_DISCO_21MY_FILM_3MIN_101120_0.jpg?VersionId=IobqR4AAmmCk34cfsoUk1_VMIfOWgtnW&itok=xO2dWkup",
+        "alt": "",
+        "w": 650,
+        "h": 366
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/67310b2e-e5dc-4c65-90ea-7e1d62d223f2/LR_DISCO_21MY_FILM_3MIN_101120_0.jpg?VersionId=IobqR4AAmmCk34cfsoUk1_VMIfOWgtnW&itok=xO2dWkup",
+        "alt": "",
+        "w": 650,
+        "h": 366
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/e9f10781-a66b-4705-971d-c54be8ace198/%20LAND%20ROVER%20DISCOVERY%20SUPPORTS%20LANDMARK%20RESCUE%20AS%20MOUNTAINS%20REOPEN.jpg?VersionId=FhUaOutazX36OnaXmpgvWfp_HKlwEDBc&itok=1J6rr2qA",
+        "alt": "",
+        "w": 650,
+        "h": 366
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/e9f10781-a66b-4705-971d-c54be8ace198/%20LAND%20ROVER%20DISCOVERY%20SUPPORTS%20LANDMARK%20RESCUE%20AS%20MOUNTAINS%20REOPEN.jpg?VersionId=FhUaOutazX36OnaXmpgvWfp_HKlwEDBc&itok=1J6rr2qA",
+        "alt": "",
+        "w": 650,
+        "h": 366
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/794065710-b28a287a0340db36c41bc4dbbc6e7d220099fd174a694a9bface1a86d7b17aad-d_960x540?r=pad",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://i.vimeocdn.com/video/794065710-b28a287a0340db36c41bc4dbbc6e7d220099fd174a694a9bface1a86d7b17aad-d_960x540?r=pad",
+        "alt": "",
+        "w": 960,
+        "h": 540
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Ultimate_all-terrain_Discovery_SVX_-_The_Destination.jpg?VersionId=xsyHBwyfO_JtNI.Rb8Ie72sFt2xJ8zcI&itok=4Jvfu9d1",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Ultimate_all-terrain_Discovery_SVX_-_The_Destination.jpg?VersionId=xsyHBwyfO_JtNI.Rb8Ie72sFt2xJ8zcI&itok=4Jvfu9d1",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Ultimate_all-terrain_Discovery_SVX_-_The_Destination.jpg?VersionId=xsyHBwyfO_JtNI.Rb8Ie72sFt2xJ8zcI&itok=4Jvfu9d1",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Ultimate_all-terrain_Discovery_SVX_-_The_Destination.jpg?VersionId=xsyHBwyfO_JtNI.Rb8Ie72sFt2xJ8zcI&itok=4Jvfu9d1",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Land_Rover_and_The_Prince%E2%80%99s_Countryside_Fund_launch_2017_Bursary__supporting_young_rural_entrepreneurs_%28Final%29.jpg?VersionId=rtYdriDYfwuLLWkrnhGsqxFhWE_A3CTp&itok=MKi5U0Vq",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Land_Rover_and_The_Prince%E2%80%99s_Countryside_Fund_launch_2017_Bursary__supporting_young_rural_entrepreneurs_%28Final%29.jpg?VersionId=rtYdriDYfwuLLWkrnhGsqxFhWE_A3CTp&itok=MKi5U0Vq",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/newdiscoverycaddogfilmweb.jpg?VersionId=jbpMyxK4bIXFkdE.pxts5ntxzk0Ft9Go&itok=hvpcxwov",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/landroverdiscoverykidscamo1web.jpg?VersionId=XGjWNRQri_aW0mJ1cMexj7ghNjX1bj4U&itok=jbcSQQd3",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 41,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "DISCOVERY GEMINI B‑ROLL Download all SHARE Back",
+      "DISCOVERY TEMPEST B‑ROLL Download all SHARE Back",
+      "FILM AND B‑ROLL ‑ DISCOVERY SPORT 24MY Download all SHARE Back",
+      "NEW LAND ROVER DISCOVERY ‑ FILM Download all SHARE Back",
+      "LAND ROVER DISCOVERY SUPPORTS LANDMARK RESCUE AS MOUNTAINS REOPEN ‑ VIDEO Download all SHARE Back",
+      "INTRODUCING THE NEW DISCOVERY SPORT ‑ FILMS Download all SHARE Back",
+      "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY Download all SHARE Back",
+      "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY Download all SHARE Back",
+      "Land Rover and The Prince’s Countryside Fund launch 2017 Bursary supporting young rural entrepreneurs Download all SHARE Back"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "222px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 37,
+    "mainTextLen": 6955,
+    "realImageCount": 35,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/discovery/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/discovery/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c6ef2ac5c4f46",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/o0PDNmdX",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/o0PDNmdX",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891336~acl=%2F{uuid}%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/{uuid}/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9MjE5NDU4NS00MTQ0Nzc1/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 1950191,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891336~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3D39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736%2F%2A~hmac=de7b56b742403341e9a820eff0ec334981db6a20a89a5e0c2208dee623d42e5f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=39bfcb2b3184ea6422a4a57d290efe9ac56771961793887736/v2/range/prot/cmFuZ2U9MjE5NDU4NS00MTQ0Nzc1/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 5
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 3
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1942,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 12,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/discovery-en-gb-video-packs.png",
+  "renderedHtml": "pages/discovery-en-gb-video-packs.html",
+  "type": "media-listing",
+  "typeFamily": "listing",
+  "typeBasis": "body.path-video-packs + .new-grid",
+  "typeVariant": "video-packs",
+  "site": "discovery",
+  "slots": {
+    "index-headline": "Video Packs",
+    "result-count": null,
+    "filter-controls": {
+      "groups": [
+        "Vehicles",
+        "Current",
+        "Video Format",
+        "Video View",
+        "Tags",
+        "People",
+        "Model Year"
+      ],
+      "options": 19,
+      "refineButton": true
+    },
+    "pager": false,
+    "card-grid": [
+      {
+        "title": "DISCOVERY GEMINI B‑ROLL",
+        "date": "15 May 2025",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/1c9ced65-51fc-430e-9464-9bddaddc94a5/en/discovery-gemini-b-r.zip?VersionId=uiwTJ4DwmSrcVuwJS_ltSeGI72Uq7IbI"
+      },
+      {
+        "title": "DISCOVERY GEMINI B‑ROLL",
+        "date": "15 May 2025",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "DISCOVERY TEMPEST B‑ROLL",
+        "date": "15 May 2025",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/ff24142b-3d18-47d2-900a-a76cf4162101/en/discovery-tempest-b-.zip?VersionId=BQfp0aDRx573ASKgYKLOcQM.6BxCdwiw"
+      },
+      {
+        "title": "DISCOVERY TEMPEST B‑ROLL",
+        "date": "15 May 2025",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/default-2308240_960x540?&region=us",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "FILM AND B‑ROLL ‑ DISCOVERY SPORT 24MY",
+        "date": "14 June 2023",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/5e9d6bdc-f629-4db1-af61-35339b3667b9/DS_24MY_REVEAL_FILM_PHEV_KM_HD_H264_16X9_140623.jpg?VersionId=iigL2k08qTte85ggPP95Bec6brIpB9UE&itok=CRJtG95H",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/44c67622-f2f7-435e-9eb4-49c571ec3a53/en/film-and-b-roll-disc.zip?VersionId=Zw4kpV4ZkFhKPSGjGXqHaWAfwhi3q2cK"
+      },
+      {
+        "title": "FILM AND B‑ROLL ‑ DISCOVERY SPORT 24MY",
+        "date": "14 June 2023",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/5e9d6bdc-f629-4db1-af61-35339b3667b9/DS_24MY_REVEAL_FILM_PHEV_KM_HD_H264_16X9_140623.jpg?VersionId=iigL2k08qTte85ggPP95Bec6brIpB9UE&itok=CRJtG95H",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "NEW LAND ROVER DISCOVERY ‑ FILM",
+        "date": "10 November 2020",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/67310b2e-e5dc-4c65-90ea-7e1d62d223f2/LR_DISCO_21MY_FILM_3MIN_101120_0.jpg?VersionId=IobqR4AAmmCk34cfsoUk1_VMIfOWgtnW&itok=xO2dWkup",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/3aee9e7e-df1b-4f54-81b9-02e8e05a58f2/en/new-land-rover-disco.zip"
+      },
+      {
+        "title": "NEW LAND ROVER DISCOVERY ‑ FILM",
+        "date": "10 November 2020",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/67310b2e-e5dc-4c65-90ea-7e1d62d223f2/LR_DISCO_21MY_FILM_3MIN_101120_0.jpg?VersionId=IobqR4AAmmCk34cfsoUk1_VMIfOWgtnW&itok=xO2dWkup",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "LAND ROVER DISCOVERY SUPPORTS LANDMARK RESCUE AS MOUNTAINS REOPEN ‑ VIDEO",
+        "date": "22 July 2020",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/e9f10781-a66b-4705-971d-c54be8ace198/%20LAND%20ROVER%20DISCOVERY%20SUPPORTS%20LANDMARK%20RESCUE%20AS%20MOUNTAINS%20REOPEN.jpg?VersionId=FhUaOutazX36OnaXmpgvWfp_HKlwEDBc&itok=1J6rr2qA",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/7e47030b-3e0f-44c2-8f6b-429af5289824/land-rover-discovery.zip"
+      },
+      {
+        "title": "LAND ROVER DISCOVERY SUPPORTS LANDMARK RESCUE AS MOUNTAINS REOPEN ‑ VIDEO",
+        "date": "22 July 2020",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/broadcast-videos/thumbnails/e9f10781-a66b-4705-971d-c54be8ace198/%20LAND%20ROVER%20DISCOVERY%20SUPPORTS%20LANDMARK%20RESCUE%20AS%20MOUNTAINS%20REOPEN.jpg?VersionId=FhUaOutazX36OnaXmpgvWfp_HKlwEDBc&itok=1J6rr2qA",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "INTRODUCING THE NEW DISCOVERY SPORT ‑ FILMS",
+        "date": "21 May 2019",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/794065710-b28a287a0340db36c41bc4dbbc6e7d220099fd174a694a9bface1a86d7b17aad-d_960x540?r=pad",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/cd92dfa5-2dbc-4bd1-9cdb-8115a0acfca2/introducing-the-new-.zip?VersionId=buh7jdDoQ5ikGWB7TBHN6qVyRGMS4oLs"
+      },
+      {
+        "title": "INTRODUCING THE NEW DISCOVERY SPORT ‑ FILMS",
+        "date": "21 May 2019",
+        "text": null,
+        "image": "https://i.vimeocdn.com/video/794065710-b28a287a0340db36c41bc4dbbc6e7d220099fd174a694a9bface1a86d7b17aad-d_960x540?r=pad",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY",
+        "date": "12 September 2017",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Ultimate_all-terrain_Discovery_SVX_-_The_Destination.jpg?VersionId=xsyHBwyfO_JtNI.Rb8Ie72sFt2xJ8zcI&itok=4Jvfu9d1",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/f245b69c-b528-4aa1-a53e-62c21a1e02db/ultimate-all-terrain.zip?VersionId=QYkPCRXmaxY1_kFskaNt7s6BMlwxHMPn"
+      },
+      {
+        "title": "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY",
+        "date": "12 September 2017",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Ultimate_all-terrain_Discovery_SVX_-_The_Destination.jpg?VersionId=xsyHBwyfO_JtNI.Rb8Ie72sFt2xJ8zcI&itok=4Jvfu9d1",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY",
+        "date": "12 September 2017",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Ultimate_all-terrain_Discovery_SVX_-_The_Destination.jpg?VersionId=xsyHBwyfO_JtNI.Rb8Ie72sFt2xJ8zcI&itok=4Jvfu9d1",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/d7ca927b-6a3f-44eb-9700-e622c3e98f70/ultimate-all-terrain.zip?VersionId=6o2Eqe2V9l4kbsyYzUWic.uCQrr5.7tE"
+      },
+      {
+        "title": "ULTIMATE ALL‑TERRAIN DISCOVERY SVX HEADS UP UPDATED DISCOVERY FAMILY",
+        "date": "12 September 2017",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Ultimate_all-terrain_Discovery_SVX_-_The_Destination.jpg?VersionId=xsyHBwyfO_JtNI.Rb8Ie72sFt2xJ8zcI&itok=4Jvfu9d1",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "Land Rover and The Prince’s Countryside Fund launch 2017 Bursary supporting young rural entrepreneurs",
+        "date": "26 April 2017",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Land_Rover_and_The_Prince%E2%80%99s_Countryside_Fund_launch_2017_Bursary__supporting_young_rural_entrepreneurs_%28Final%29.jpg?VersionId=rtYdriDYfwuLLWkrnhGsqxFhWE_A3CTp&itok=MKi5U0Vq",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/72961f80-f7aa-4c2a-af08-8efdbbfc2ac8/land-rover-and-the-p.zip?VersionId=qb89YWogdWI5VjjA8CKdhNPL5uBY_.z5"
+      },
+      {
+        "title": "Land Rover and The Prince’s Countryside Fund launch 2017 Bursary supporting young rural entrepreneurs",
+        "date": "26 April 2017",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/Land_Rover_and_The_Prince%E2%80%99s_Countryside_Fund_launch_2017_Bursary__supporting_young_rural_entrepreneurs_%28Final%29.jpg?VersionId=rtYdriDYfwuLLWkrnhGsqxFhWE_A3CTp&itok=MKi5U0Vq",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "LAND ROVER REVEALS NEW DISCOVERY",
+        "date": "28 September 2016",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/newdiscoverycaddogfilmweb.jpg?VersionId=jbpMyxK4bIXFkdE.pxts5ntxzk0Ft9Go&itok=hvpcxwov",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/a851edb6-f769-4d75-8517-23eb18b23143/-land-rover-reveals-.zip?VersionId=R_MZ_sZtqc9xjAl8Pj8IO0i7aiSbup4J"
+      },
+      {
+        "title": "LAND ROVER REVEALS NEW DISCOVERY",
+        "date": "28 September 2016",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/newdiscoverycaddogfilmweb.jpg?VersionId=jbpMyxK4bIXFkdE.pxts5ntxzk0Ft9Go&itok=hvpcxwov",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "SECRET NEW DISCOVERY KEPT UNDER WRAPS WITH THE HELP OF CHILD’S PLAY…",
+        "date": "14 September 2016",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/landroverdiscoverykidscamo1web.jpg?VersionId=XGjWNRQri_aW0mJ1cMexj7ghNjX1bj4U&itok=jbcSQQd3",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/11ba36fd-455f-4425-9743-677fa98af8f4/secret-new-discovery.zip?VersionId=MA5nroiSBNnMZhoo6KKZubx4PiF_Jgzn"
+      },
+      {
+        "title": "SECRET NEW DISCOVERY KEPT UNDER WRAPS WITH THE HELP OF CHILD’S PLAY…",
+        "date": "14 September 2016",
+        "text": null,
+        "image": "https://media.production.jlrms.com/styles/max_650x650/s3/wistia/thumbnails/landroverdiscoverykidscamo1web.jpg?VersionId=XGjWNRQri_aW0mJ1cMexj7ghNjX1bj4U&itok=jbcSQQd3",
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "LAND ROVER PUTS WORLD‑FIRST INTELLIGENT SEAT FOLD TECHNOLOGY TO EXTREME TEST… REMOTELY",
+        "date": "07 September 2016",
+        "text": null,
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NMS0v7DwAEnwIzU3mAGwAAAABJRU5ErkJggg==",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/e31d8c05-c475-4052-9006-6be4e614f865/land-rover-puts-worl.zip?VersionId=ydb.nEU457MSHF_3bNGsXAmn2Yh3KMh2"
+      },
+      {
+        "title": "LAND ROVER PUTS WORLD‑FIRST INTELLIGENT SEAT FOLD TECHNOLOGY TO EXTREME TEST… REMOTELY",
+        "date": "07 September 2016",
+        "text": null,
+        "image": null,
+        "href": "/#facebook",
+        "download": null
+      },
+      {
+        "title": "SEMI‑AUTONOMOUS TECH HELPS LAND ROVER DISCOVERY SPORT PULL 100‑TONNE TRAIN",
+        "date": "16 June 2016",
+        "text": null,
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NMS0v7DwAEnwIzU3mAGwAAAABJRU5ErkJggg==",
+        "href": "/#facebook",
+        "download": "https://media.production.jlrms.com/download_archives/1bb73a28-95ed-48bc-a300-be64e83f7426/semi-autonomous-tech.zip?VersionId=7xtjlJQnaUaZKTvqRwrntCXJPTSelIix"
+      },
+      {
+        "title": "SEMI‑AUTONOMOUS TECH HELPS LAND ROVER DISCOVERY SPORT PULL 100‑TONNE TRAIN",
+        "date": "16 June 2016",
+        "text": null,
+        "image": null,
+        "href": "/#facebook",
+        "download": null
+      }
+    ],
+    "hero": null
+  }
+}

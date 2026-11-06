@@ -1,0 +1,8 @@
+- 2026-11-05T22:48:39Z start: read summaries
+- 2026-11-05T22:49:15Z FINDING: origin unit geometry shared across widths (same origin.at/docH in 1440+360 units.json) except news
+- 2026-11-05T22:49:39Z patched project copy scripts/diff/unit-geometry.mjs:255 cache key -> <slug>-units-<width> (orig /tmp/ua/unit-geometry.mjs.orig)
+- 2026-11-05T22:51:30Z contact: live .contact-card-wrapper is display:contents -> use > a.contact-card
+- 2026-11-05T22:54:21Z resume: agent restarted, reading state
+- 2026-11-05T22:54:53Z verified: unit-geometry patch = L255 cacheKey + L44 help text only (orig re-copied to /tmp/ua from plugin tree); contact fix NOT yet in units.json; server restarted
+- 2026-11-05T22:55:55Z SCRIPT ADAPTATION recorded in progress.json scriptAdaptations[]: stardust/scripts/diff/unit-geometry.mjs:255 width-keyed origin cache (instrument measured falsely; invalidates prior units columns; flag upstream)
+- 2026-11-05T22:56:52Z step1: probing candidate selectors (contact a.contact-card; namib/news desktop|mobile unions; vehicle li.new-grid__sidebar-item) at both widths

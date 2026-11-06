@@ -1,0 +1,68 @@
+{
+  "live": "stardust/replica/motion/defender-en-gb-mobile-vehicle-menu-360.json",
+  "build": "stardust/replica/motion/defender-en-gb-mobile-vehicle-menu-360-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 0,
+  "counts": {
+    "behaviors": 7,
+    "parity": 6,
+    "missing": 0,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 0,
+    "advisory": 1
+  },
+  "verdicts": [
+    {
+      "cls": "hover",
+      "name": ".vehicle-mobile-menu .mobile-menu a",
+      "state": "parity",
+      "note": "h3.color, img.color, self.color; n/a",
+      "line": "motion hover .vehicle-mobile-menu .mobile-menu a: parity (h3.color, img.color, self.color; n/a)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-bottom",
+      "state": "parity",
+      "note": "200 event(s) on live, 184 on build, 300ms",
+      "line": "motion transition margin-bottom: parity (200 event(s) on live, 184 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "margin-top",
+      "state": "parity",
+      "note": "199 event(s) on live, 184 on build, 300ms",
+      "line": "motion transition margin-top: parity (199 event(s) on live, 184 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "top",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 500ms",
+      "line": "motion transition top: parity (2 event(s) on live, 2 on build, 500ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "advisory",
+      "note": "1 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion",
+      "line": "motion transition transform: extra on build — advisory (1 event(s) on build, none on live — a build-only transitioned property; incidental unless a live line names the motion)"
+    },
+    {
+      "cls": "class",
+      "name": "bottom-shadow",
+      "state": "parity",
+      "note": "added 26× on live, 16× on build",
+      "line": "motion class bottom-shadow: parity (added 26× on live, 16× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "shrink",
+      "state": "parity",
+      "note": "added 13× on live, 16× on build",
+      "line": "motion class shrink: parity (added 13× on live, 16× on build)"
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+/* content-detail archetype — news article (defender-en-gb-news-…-vertex-…-accessory-update).
+   Values lifted from the live theme stylesheet (main.css, offsets @…) and resolved computed values of the
+   captured settled DOM (stardust/.work/<slug>/lift-{1440,360}.txt). Canon (tokens / chrome / modules) is
+   imported read-only; everything here is scoped under .page-news / .related-content-packs / .article-pager.
+   Bootstrap geometry: container content W (1140 @≥1200), its .row R = W + 36. */
+
+.icon-arrow_left::before { content: "\e905"; }
+
+/* bootstrap 3 sup/sub (normalize): keep superscripts from opening the line box */
+.page-news sup, .page-news sub { position: relative; font-size: 75%; line-height: 0; vertical-align: baseline; }
+.page-news sup { top: -.5em; }
+.page-news sub { bottom: -.25em; }
+
+/* bootstrap .container / .row clearfix (display: table pseudo-elements) keep child margins inside */
+.page-news .container, .related-content-packs .container, .article-pager .container,
+.page-news .article-text__body, .page-news .article-titleblock__body { display: flow-root; }
+
+/* ---------- hero image + action toolbar (.image-holder @104561, @263052) ---------- */
+.page-news .article-hero { position: relative; }
+.page-news .article-hero__image {
+  position: relative; max-height: 500px; overflow: hidden;
+  background-color: #000; text-align: center;
+}
+.page-news .article-hero__image img { width: auto; max-width: 100%; max-height: 500px; margin: auto; }
+.page-news .action-icons-wrapper { position: static; z-index: 10; }
+
+/* ---------- info box: title / date / teaser / actions (.news-type …) ---------- */
+.page-news .article-info {
+  margin: 0 0 3%;
+  padding: 3% 18px 0;                              /* .title-holder 3% of the row */
+  background-color: var(--c-white);
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .page-news .article-info { padding: 2.5% calc(100% / 12 + 18px) 0; }   /* col-md-10 offset-1 */
+}
+.page-news .article-info__title {
+  margin: 20px 0 10px;
+  color: #777; font-family: var(--ff-heading); font-weight: 500;
+  font-size: 16px; line-height: 20.8px;
+}
+@media (min-width: 768px) { .page-news .article-info__title { font-size: 20px; line-height: 26px; } }
+.page-news .article-info__date {
+  margin: 3% 0 10px; padding-top: 1%;              /* .news-type .date-holder @135100 */
+  color: #000; font-size: 18px; line-height: 28.8px;
+}
+.page-news .article-info__teaser {
+  margin: -12.7px 0 5%;                            /* .news-type .upper-title-description @135138/@228256: -9%,
+                                                      net offset measured on live (teaser top = h1 top + 101 @360) */
+  padding: 7% 0 1%;                                /* the source's empty <p> spacers (1% + 5% + 1% / 1%) */
+  color: #000; font-family: var(--ff-heading); font-weight: 500;
+  font-size: 18px; line-height: 28.8px;
+}
+.page-news .article-info__teaser p { margin: 0; line-height: 28.8px; }
+@media (min-width: 992px) {
+  .page-news .article-info__teaser { margin-top: -1%; }   /* net of -9% in the floated col: live teaser top = h1 top + 96 @1440 */
+  .page-news .article-info__teaser-col { margin-left: auto; margin-right: auto; width: calc((100% + 36px) * 2 / 3 - 36px); }
+}
+.page-news .article-info__actions { display: inline-flex; align-items: center; gap: 4px; vertical-align: top; }
+.page-news .btn-solid {
+  display: inline-block; height: 32px; padding: 5px;
+  border: 2px solid var(--c-ink); background-color: var(--c-ink); color: var(--c-white);
+  font-size: 12px; line-height: 18px; text-transform: uppercase; white-space: nowrap;
+}
+.page-news .btn-solid:hover { background-color: var(--c-white); color: var(--c-ink); }
+.page-news .article-info .cart-btn, .page-news .article-info .new-share__btn,
+.related-content-packs .cart-btn {
+  position: relative; display: flex; align-items: center; justify-content: center;
+  width: 19px; height: 16px; margin: 0 4px 0 0; padding: 3px;
+  border: 0; background: transparent; font-size: 10px; line-height: 14.2857px; cursor: pointer;
+}
+
+/* ---------- body text (.wysiwyg @152937, .page-news .wysiwyg ul @238649) ---------- */
+.page-news .article-text { margin-bottom: 36px; word-break: break-word; }
+.page-news .article-text p { margin: 15px 0; color: #555; font-size: 18px; line-height: 28.8px; }
+.page-news .article-text a, .page-news .article-footnotes a { color: var(--c-ink); text-decoration: underline; }
+.page-news .article-text a:hover, .page-news .article-footnotes a:hover { color: rgba(12, 18, 28, .8); }
+.page-news .article-text strong, .page-news .article-text b { font-family: var(--ff-heading); font-weight: 500; }
+.page-news .article-text ul { margin: 15px 0; padding: 30px; background: none; }
+.page-news .article-text li {
+  position: relative; margin: 0 0 15px 15px; padding-left: 18px;
+  list-style: none; color: #000; font-size: 18px; line-height: 19px;
+}
+.page-news .article-text li:last-child { margin-bottom: 0; }
+.page-news .article-text li::before {
+  content: ""; position: absolute; top: 50%; left: 0;
+  width: 5px; height: 5px; margin-top: -2.5px; background: #000;
+}
+.page-news .article-strip .strip-body-copy { min-height: 1px; margin-bottom: 36px; }
+
+/* ---------- pull quote (.blockquote-template @151915/@162755) ---------- */
+.page-news .article-quote { margin-top: 60px; margin-bottom: 50px; padding-top: 26px; }
+.page-news .article-quote__text {
+  position: relative; margin: 0 10px 10px; padding: 0 10px; border: none;
+  color: var(--c-ink); font-size: 17.5px; line-height: 28px; text-align: center;
+}
+@media (min-width: 992px) {
+  .page-news .article-quote__text { margin-left: calc((100% + 36px) / 12 + 10px); margin-right: calc((100% + 36px) / 12 + 10px); }
+}
+.page-news .article-quote__text::before, .page-news .article-quote__text::after {
+  position: absolute; font-family: var(--f-icons); font-size: 3em; line-height: 100%;
+}
+.page-news .article-quote__text::before { content: "W"; top: -34px; left: -10px; }   /* left: 18px of the col */
+.page-news .article-quote__text::after { content: "Q"; right: -10px; bottom: -24px; }
+@media (min-width: 992px) { .page-news .article-quote__text::after { bottom: -34px; } }
+.page-news .article-quote__text p {
+  display: inline-block; margin: 0; padding: 28px 0;
+  color: #555; font-size: 17px; line-height: 23px;
+}
+@media (min-width: 768px) {
+  .page-news .article-quote__text p { padding: 0 80px; font-size: 20px; line-height: 32px; }
+}
+.page-news .article-quote__cite {
+  margin: 0 0 10px; color: #9e9fa3; text-align: center;
+  font-size: 16px; line-height: 20.8px;
+}
+@media (min-width: 768px) { .page-news .article-quote__cite { font-size: 20px; line-height: 26px; } }
+
+/* ---------- sub-heading (.subheading-template @152435, .subheading .heading @164216) ---------- */
+.page-news .article-subheading { margin-top: 30px; margin-bottom: 0; }
+.page-news .article-subheading__row { display: flow-root; margin: 0 -18px; }
+.page-news .article-subheading__aside { padding: 0 18px; }
+.page-news .article-subheading__title {
+  position: relative; margin: 0 18px 24px; padding: 40px 0;
+  color: #000; font-size: 22px; line-height: 30.8px;
+}
+.page-news .article-subheading__title::before {
+  content: ""; position: absolute; top: 0; left: 0; width: 50%; height: 0; border-bottom: 1px solid #000;
+}
+.page-news .article-subheading__title::after {
+  content: ""; position: absolute; bottom: 0; left: 0; width: 50%; height: 0; border-bottom: 4px solid #000;
+}
+.page-news .article-subheading__aside { min-height: 1px; }
+.page-news .article-subheading__aside p { margin: 0 0 10px; }
+@media (min-width: 768px) { .page-news .article-subheading__title { font-size: 30px; line-height: 42px; } }
+@media (min-width: 992px) {
+  .page-news .article-subheading__title { float: left; width: calc(100% * 5 / 12 - 36px); }
+  .page-news .article-subheading__aside { float: left; width: calc(100% * 5 / 12); margin-left: calc(100% / 12); }
+}
+
+/* ---------- media figure with hover bar (.hover-prt @70812/@162020/@162414) ---------- */
+.page-news .article-media { position: relative; margin: 0; overflow: hidden; }
+.page-news .article-media::before { content: ""; display: block; height: 0; padding-top: 71.4035087719%; }
+.page-news .article-media > img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }
+.page-news .article-media__bar {
+  position: absolute; left: 0; right: 0; bottom: -1px; z-index: 10;
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  padding: 18px; background: rgba(0, 0, 0, .7); color: var(--c-white);
+  transform: translateY(100%); transition: all .2s ease;
+}
+.page-news .article-media:hover .article-media__bar { transform: translateY(0); transition: all .5s ease; }
+.page-news .article-media__title { margin: 10px 0; color: var(--c-white); font-size: 16px; line-height: 20.8px; }
+@media (min-width: 768px) { .page-news .article-media__title { font-size: 20px; line-height: 26px; } }
+@media (min-width: 992px) { .page-news .article-media__title { width: calc(100% * 5 / 12 - 18px); } }
+.page-news .article-media__actions { display: inline-flex; align-items: center; gap: 4px; }
+.page-news .article-media .dropdown { position: relative; }
+.page-news .btn-transparent {
+  display: block; height: 32px; padding: 5px;
+  border: 2px solid var(--c-white); background: transparent; color: var(--c-white);
+  font-size: 12px; line-height: 18px; text-transform: uppercase; cursor: pointer;
+}
+/* live hover-bar Download toggle reads mixed-case (content-diff: body, not eyebrow) */
+.page-news .article-media .dropdown-toggle { text-transform: none; }
+@media (min-width: 992px) {
+  .page-news .article-media__title--c6 { width: calc(100% * 6 / 12 - 18px); }
+  .page-news .article-media__title--c7 { width: calc(100% * 7 / 12 - 18px); }
+}
+.page-news .dropdown-menu {
+  position: absolute; bottom: 100%; left: 0; z-index: 1000; display: none;
+  min-width: 160px; padding: 5px 0; background: var(--c-white); text-align: left;
+}
+.page-news .dropdown.open .dropdown-menu { display: block; }
+.page-news .dropdown-menu a { display: block; padding: 3px 20px; color: #333; font-size: 14px; line-height: 1.42857; }
+.page-news .article-media .cart-btn, .page-news .article-media .new-share__btn {
+  position: relative; display: flex; align-items: center; justify-content: center;
+  width: 19px; height: 16px; margin: 0 4px 0 0; padding: 3px;
+  border: 0; background: transparent; color: var(--c-white); font-size: 10px; cursor: pointer;
+}
+
+/* image + text panel (.lightback; col-sm-8 / col-sm-4, .panel-box .panel-body) */
+.page-news .article-split__row { display: flow-root; }
+.page-news .article-split__panel { padding: 15px; }
+.page-news .article-split__panel p { margin: 0 0 10px; color: #555; font-size: 18px; line-height: 28.8px; }
+@media (min-width: 768px) {
+  .page-news .article-split__media { float: left; width: calc(100% * 2 / 3); }
+  .page-news .article-split__panel { float: left; width: calc(100% / 3); }
+}
+
+/* full-width image (.full-image-video @152815) and three-up (.three-flush) */
+.page-news .article-fullimage, .page-news .article-three { margin-top: 36px; margin-bottom: 36px; }
+.page-news .article-three__row { display: flow-root; }
+@media (min-width: 768px) { .page-news .article-three__media { float: left; width: calc(100% / 3); } }
+
+/* centred grey block (.title-block-template @152147/@152275) */
+.page-news .article-titleblock { margin-top: 60px; margin-bottom: 0; word-break: break-word; }
+.page-news .article-titleblock__body {
+  padding: 30px calc((100% + 36px) / 12); background: #f6f6f6; text-align: center;
+}
+@media (min-width: 992px) { .page-news .article-titleblock__body { padding-left: calc((100% + 36px) / 6); padding-right: calc((100% + 36px) / 6); } }
+.page-news .article-titleblock__body p { margin: 15px 0; color: #555; font-size: 20px; line-height: 32px; }
+
+/* ---------- footnotes: further information / notes to editors (.additional-information) ---------- */
+.page-news .article-footnotes { border-top: 1px solid #eee; }
+.page-news .article-footnotes .container { font-size: 17px; line-height: 27.2px; color: #333; }
+.page-news .article-footnotes__row { display: flow-root; }
+.page-news .article-footnotes__col { position: relative; padding: 0 18px; }
+.page-news .article-footnotes__col--first { padding-bottom: 50px; }
+@media (min-width: 768px) {
+  .page-news .article-footnotes__col { float: left; width: 50%; }
+  .page-news .article-footnotes__col--first { border-right: 1px solid #eee; }
+}
+.page-news .foot-titles {
+  margin: 20px 0 10px; color: #333;
+  font-size: 22px; line-height: 26.4px;
+}
+@media (min-width: 768px) { .page-news .foot-titles { font-size: 30px; line-height: 36px; } }
+.page-news .foot-titles::after {
+  content: ""; display: block; height: 1px; margin-top: 2%; margin-bottom: 3%; background: rgba(0, 0, 0, .5);
+}
+.page-news .article-footnotes__body p { margin: 0 0 10px; color: #555; font-size: 17px; line-height: 27.2px; }
+.page-news .article-footnotes__body table { width: 100%; margin: 15px 0; border-collapse: collapse; border-spacing: 0; color: #3c3c39; }
+.page-news .article-footnotes__body td, .page-news .article-footnotes__body th { padding: 10px; vertical-align: top; }
+
+/* ---------- related image packs (.related-content-packs, .jlr-tabs @254280) ---------- */
+.related-content-packs { background-color: var(--c-ink); }
+.related-content-packs > .container { padding-left: 0; padding-right: 0; }
+.related-content-packs .jlr-tabs__list { padding: 60px 0 20px; text-align: center; }
+.related-content-packs .jlr-tabs__item { display: inline-block; margin: 0 10px; color: var(--c-white); cursor: pointer; }
+.related-content-packs .title-underline { margin: 10px 0; color: var(--c-white); font-size: 16px; line-height: 20.8px; }
+@media (min-width: 768px) { .related-content-packs .title-underline { font-size: 20px; line-height: 26px; } }
+.related-content-packs .title-underline::after {
+  content: ""; position: relative; top: 6px; display: block; width: 100%; height: 2px;
+  background-color: var(--c-white); opacity: 0; visibility: hidden; transition: opacity .6s, visibility .6s;
+}
+.related-content-packs .jlr-tabs__item--active .title-underline::after,
+.related-content-packs .jlr-tabs__item:hover .title-underline::after { opacity: 1; visibility: visible; }
+.related-content-packs .gallerywrapper { display: flow-root; }
+@media (min-width: 992px) { .related-content-packs .gallerywrapper { padding-bottom: 6.6px; } }
+.related-content-packs .gallery-item.hidden-xs { float: left; width: calc(100% / 3); padding: 0 18px; line-height: 25.6px; }
+.related-content-packs .gallery-contents {
+  position: relative; display: inline-block; width: 100%;   /* baseline: the 6.6 px line-box gap under each card is live */
+  background-color: var(--c-white); cursor: pointer; overflow: hidden;
+}
+.related-content-packs .gallery-media { position: relative; height: 0; padding-bottom: 71%; overflow: hidden; }
+.related-content-packs .gallery-media__img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; }
+.related-content-packs .img-count {
+  position: absolute; right: 15px; bottom: 15px; z-index: 2;
+  background: rgba(0, 0, 0, .7); color: var(--c-white); text-align: center; text-transform: uppercase;
+}
+.related-content-packs .img-count .bt-image-count { margin: 5px 5px 0; color: var(--c-white); font-family: var(--ff-image-count); font-weight: 400; font-size: 26px; line-height: 1.2; }
+@media (min-width: 992px) { .related-content-packs .img-count .bt-image-count { font-size: 28px; } }
+.related-content-packs .img-count .bt-image-count-text { margin: 0 5px 5px; color: var(--c-white); font-family: var(--ff-image-count-text); font-weight: 400; font-size: 14px; line-height: 1.3; }
+.related-content-packs .gallery-contents .overlay {
+  position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: space-between;
+  padding: 12px; background: rgba(0, 0, 0, .5); color: var(--c-white); opacity: 0;   /* @126282: no rest transition */
+}
+.related-content-packs .gallery-contents:hover .overlay, .related-content-packs .gallery-contents:focus-within .overlay { opacity: 1; transition: all .5s linear; }   /* @126157 */
+.related-content-packs .overlay .bt-gallery-date { margin: 0 0 10px; color: var(--c-white); font-size: 14px; line-height: 1.3; }
+.related-content-packs .overlay .bt-gallery-title { margin: 0; color: var(--c-white); font-family: var(--ff-card-heading); font-size: 16px; line-height: 1.3; }
+.related-content-packs .bt-gallery-overlay-desc {
+  max-height: 80px; overflow: hidden; margin: 8px 0 0; color: var(--c-white); font-size: 14px; line-height: 1.4;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+}
+.related-content-packs .gallery-actions { display: flex; align-items: center; gap: 4px; }
+.related-content-packs .btn-transparent {
+  display: inline-block; height: 32px; padding: 5px; border: 2px solid var(--c-white);
+  background: transparent; color: var(--c-white); font-size: 12px; line-height: 18px; text-transform: uppercase;
+}
+/* pack expander dialogs — closed state as live: laid out but clipped to h0 (main.css@199095 +
+   bootstrap .row gutter → 1212 at 1440 off the relative .jlr-tabs__block-wrapper). Values from
+   lift.mjs on the captured DOM (gallery-expander-contents @252515, head tw-* utilities, grid
+   tw-grid-cols-1 sm:2 md:3 gap-4, tiles @357646–@359053, viewer @359362–@360726). */
+.related-content-packs .jlr-tabs__block-wrapper { position: relative; }
+.related-content-packs .gallery-expander {
+  position: absolute; left: 0; right: 0; height: 0; overflow: hidden;
+  margin: 0 -18px; background-color: transparent; line-height: 25.6px;
+}
+.related-content-packs .gallery-expander-contents { position: relative; height: 100%; background-color: var(--c-white); color: var(--c-white); }
+.related-content-packs .img-pack-expand { position: relative; display: block; }
+.related-content-packs .img-pack-expand-head {
+  position: sticky; top: 0; z-index: 2; display: flex; align-items: center; gap: 24px;
+  margin: 0 0 24px; padding: 40px 0 16px; border-bottom: 1px solid rgb(209, 213, 219);
+  background-color: var(--c-white); color: var(--c-black);
+}
+.related-content-packs .gallery-trigger-close {
+  position: absolute; top: 0; right: 0; z-index: 30; width: 34px; height: 34px; padding: 10px;
+  border: 0; background-color: var(--c-white); color: var(--c-black);
+  font-size: 14px; font-weight: 700; line-height: 14px; opacity: 1; cursor: pointer;
+}
+.related-content-packs .bt-expanded-title {
+  flex: 0 1 60%; margin: 0; color: var(--c-black);
+  font-size: 20px; line-height: 24px; letter-spacing: .58px;
+}
+.related-content-packs .expander-actions { display: flex; flex: 0 1 40%; align-items: stretch; justify-content: flex-end; gap: 8px; color: var(--c-black); }
+.related-content-packs .expander-actions > * { display: inline-flex; align-items: center; height: 40px; margin: 0; }
+.related-content-packs .expander-actions__btn {
+  display: flex; align-items: center; gap: 6px; padding: 0 14px; border: 1px solid var(--c-black);
+  color: var(--c-black); font-size: 14px; line-height: 14px; letter-spacing: .7px; text-transform: uppercase;
+}
+.related-content-packs .expander-actions .new-share__btn--border { justify-content: center; box-sizing: border-box; width: 40px; padding: 0 10px; border: 1px solid var(--c-black); }
+.related-content-packs .img-pack-expand-body { display: grid; grid-template-columns: repeat(1, minmax(0, 1fr)); gap: 16px; }
+@media (min-width: 640px) { .related-content-packs .img-pack-expand-body { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 768px) { .related-content-packs .img-pack-expand-body { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.related-content-packs .img-pack-block {
+  position: relative; overflow: hidden; aspect-ratio: 16 / 9; padding: 0;
+  cursor: pointer; font-size: 15px; line-height: 24px;
+}
+.related-content-packs .img-pack-block .image-back {
+  position: absolute; inset: 0; background-color: #1e1e1e;
+  background-position: 50%; background-repeat: no-repeat; background-size: cover;
+}
+.related-content-packs .image-pack-hover-effect {
+  position: absolute; inset: 0; overflow: hidden; color: var(--c-white); opacity: 0; transition: opacity .3s ease;
+}
+.related-content-packs .img-pack-block:hover .image-pack-hover-effect,
+.related-content-packs .img-pack-block:focus-within .image-pack-hover-effect { opacity: 1; }
+.related-content-packs .image-pack-hover-effect .left {
+  display: flex; align-items: center; justify-content: center; height: 80%;
+  background-color: rgba(0, 0, 0, .6); cursor: pointer;
+}
+.related-content-packs .image-pack-hover-effect .holder { text-align: center; }
+.related-content-packs .image-pack-hover-effect .dropdown { position: relative; }
+.related-content-packs .image-pack-hover-effect .dropdown-toggle {
+  height: 34px; padding: 5px; border: 2px solid var(--c-white);
+  font-size: 14px; line-height: 20px; text-transform: none; white-space: nowrap; cursor: pointer;
+}
+.related-content-packs .image-pack-hover-effect .right {
+  display: flex; align-items: center; justify-content: center; height: 20%;
+  background-color: rgba(0, 0, 0, .8); cursor: pointer;
+  font-size: 12px; line-height: 19.2px; letter-spacing: .6px; text-align: center; text-transform: uppercase;
+}
+.related-content-packs .image-pack-hover-effect .right:hover,
+.related-content-packs .image-pack-hover-effect .right:focus { background-color: var(--c-black); }
+.related-content-packs .gallery-expander .dropdown-menu { display: none; min-width: 140px; }
+.related-content-packs .gallery-expander .dropdown.open > .dropdown-menu { display: block; }
+.related-content-packs .image-pack-slide { position: relative; display: flex; flex-direction: column; background-color: var(--c-white); }
+.related-content-packs .image-pack-slide.hide, .related-content-packs .image-slide__head.hide { display: none; }
+.related-content-packs .image-pack-slide__close { align-self: flex-start; padding: 8px 0; border: 0; background: transparent; color: var(--c-black); cursor: pointer; }
+.related-content-packs .image-slide__head {
+  display: flex; align-items: center; gap: 16px; padding: 16px 60px 16px 24px;
+  background-color: #1e1e1e; color: var(--c-white);
+}
+.related-content-packs .image-slide__title { flex: 1 1 auto; margin: 0; color: var(--c-white); font-size: 14px; line-height: 1.4; text-transform: none; }
+.related-content-packs .image-slide__actions { flex: 0 0 auto; color: var(--c-white); }
+.related-content-packs .image-slide__download { position: relative; padding: 0; border: 0; }
+.related-content-packs .image-slide__download > .btn {
+  display: inline-flex; align-items: center; gap: 6px; height: 100%; padding: 0 14px; border: 1px solid;
+  background: transparent; color: inherit; font-size: 12px; line-height: 1; letter-spacing: .05em; text-transform: uppercase; cursor: pointer;
+}
+.related-content-packs .image-slide__download-menu {
+  position: absolute; top: calc(100% + 4px); left: 0; min-width: 100%; margin: 0; padding: 0;
+  border: 1px solid var(--c-black); background-color: var(--c-white); box-shadow: 0 6px 20px rgba(0, 0, 0, .15);
+}
+.related-content-packs .image-slide__download-menu > li + li { border-top: 1px solid var(--c-black); }
+.related-content-packs .image-slide__download-item {
+  display: block; padding: 12px 18px; background-color: var(--c-white); color: var(--c-black);
+  font-size: 14px; line-height: 1.2; text-transform: none; white-space: nowrap;
+}
+.related-content-packs .slider-image-pack { margin: 0; padding: 0; list-style: none; }
+.related-content-packs .image-expand { width: 100%; height: 760px; padding: 0; }
+.related-content-packs .image-holder { width: 100%; height: 100%; background-position: 50%; background-repeat: no-repeat; background-size: cover; }
+
+/* mobile related-pack slider (below 992: drp-slider, one slide in view). Settled live @360
+   (iter3 chain probe, gates/…-360/related-live-iter3.txt + 4 of 6 settled runs + gate live.png):
+   once the tabs JS activates .jlr-tabs__block--active the block-wrapper is IN FLOW, h443 =
+   .image-pack (overflow hidden) holding the 407 px card + 36 px below it; .related-content-packs
+   h566. The out-of-flow h124 state seen at author time is a pre-init race, not the design. */
+@media (max-width: 991px) {
+  .related-content-packs .jlr-tabs__block-wrapper { position: relative; }
+  .related-content-packs .related-slider {
+    position: relative; margin: 0 20px; padding: 0 18px 36px; overflow: hidden;
+  }
+}
+.icon-arrow_left::before { content: "\e905"; }
+/* live .drp-slider__nav: abs w284 h40 margin 183.5px 0 @360, buttons display:none (live-360-slider.txt) */
+.related-content-packs .related-slider__nav { position: absolute; top: 0; left: 18px; width: calc(100% - 36px); height: 40px; margin: 183.5px 0; }
+.related-content-packs .related-slider__btn { display: none; width: 35px; height: 35px; padding: 1px 6px; border: 0; background: rgba(255, 255, 255, .8); }
+/* live .drp-slider__wrapper position relative + --trans left .6s (@245411/@245638), inline left 0% */
+.related-content-packs .related-slider__track { position: relative; left: 0%; display: flex; transition: left .6s; }
+.related-content-packs .related-slider__slide { position: relative; flex: 0 0 100%; min-width: 0; padding: 0 1px; }
+.related-content-packs .related-slider__slide > a { display: block; }
+.related-content-packs .related-slider__slide .img-count { right: 16px; }
+.related-content-packs .related-slider__body { padding: 15px; background: var(--c-white); }
+.related-content-packs .related-slider__body .date { margin: 0; color: var(--c-ink); font-size: 16px; line-height: 20.8px; }
+.related-content-packs .related-slider__body .text-wrapper { height: 100px; }
+.related-content-packs .related-slider__body .title { margin: 10px 0 5px; color: var(--c-ink); font-size: 16px; line-height: 20.8px; }
+.related-content-packs .related-slider .gallery-actions { height: 46px; }
+.related-content-packs .related-slider .cart-btn, .related-content-packs .related-slider .new-share__btn { color: #000; }
+
+/* ---------- previous / next (.pager-btn-group @352307) ---------- */
+.article-pager { position: relative; }
+@media (max-width: 767px) { .article-pager { margin-bottom: 18px; } }
+.article-pager .pager-btn-group { margin: 30px 0; text-align: center; }
+.article-pager .btn-outline {
+  position: relative; display: inline-block; width: 130px; height: 36px; padding: 6px 10px 4px;
+  border: 1px solid var(--c-ink); background: var(--c-white); color: var(--c-ink);
+  font-size: 18px; line-height: 24px; text-align: center; vertical-align: middle;
+}
+.article-pager .btn-outline:hover { background: var(--c-ink); color: var(--c-white); }
+
+/* ---------- motion (observed live 1440, motion/<slug>.json) ---------- */
+/* pack card trigger click → .gallery-item.active: the expander becomes the fixed modal
+   (main.css@354932) and its images render (@148531); card shadow @60830 */
+.related-content-packs .gallery-item.gallery-box.active .gallery-expander {
+  position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 15;
+  width: 100%; height: auto; max-height: 80vh; margin: auto; padding: 30px 120px;
+  overflow: auto; background: #fff; box-shadow: 0 10px 30px rgba(0, 0, 0, .25);
+}
+.related-content-packs .gallery-item.active .gallery-contents { box-shadow: 0 4px 0 0 #0c121c; }
+.related-content-packs .gallery-box.active .image-pack-expand-contents img { display: block; }
+/* figure hover-bar Download toggle hover/focus (main.css@120415); its dropdown opens on click
+   (.dropdown.open, js) */
+.page-news .article-media .btn-transparent:hover, .page-news .article-media .btn-transparent:focus { background-color: #fff; border-color: transparent; color: #000; }
+/* close + download icon push (main.css@71789–@72193, hvr-icon-push) */
+@keyframes hvr-icon-push { 50% { transform: scale(.5); } }
+.view-main button .hvr-icon-push {
+  display: inline-block; position: relative; transform: translateZ(0);
+  backface-visibility: hidden; -moz-osx-font-smoothing: grayscale; transition-duration: .3s;
+}
+.view-main button .hvr-icon-push::before {
+  transform: translateZ(0); transition-duration: .3s; transition-property: transform; transition-timing-function: ease-out;
+}
+.view-main button:hover .hvr-icon-push::before, .view-main button:focus .hvr-icon-push::before {
+  animation-name: hvr-icon-push; animation-duration: .3s; animation-timing-function: linear; animation-iteration-count: 1;
+}

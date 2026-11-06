@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf",
+  "path": "defender/en-gb/news/2026/09/defender-reveals-next-generation-military-vehicle-modern-era-introducing-defender-wolf",
+  "timestamp": "2026-11-06T10:40:23.290Z",
+  "title": "DEFENDER REVEALS NEXT-GENERATION MILITARY VEHICLE FOR THE MODERN ERA - INTRODUCING DEFENDER WOLF II | Defender Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-image",
+    "media-actions",
+    "quote-centered",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

@@ -1,0 +1,187 @@
+/* media-image: downloadable press image(s).
+   Values from stardust/prototypes css/defender-en-gb-news-*.css (.article-hero__image,
+   .article-media, .article-three) and css/defender-en-gb-image-packs-defender-110-namib-orange.css
+   (.img-pack-expand-body, .img-pack-block, .image-pack-hover-effect). */
+
+.media-image {
+  margin: 0;
+}
+
+.media-image .media-image-list {
+  display: block;
+}
+
+.media-image .media-image-item {
+  position: relative;
+  margin: 0;
+}
+
+.media-image .media-image-frame picture,
+.media-image .media-image-frame img {
+  display: block;
+}
+
+/* ---------- default: hero image with action rail (.article-hero) ---------- */
+.media-image .media-image-frame {
+  position: relative;
+  max-height: 500px;
+  overflow: hidden;
+  background-color: var(--c-black, #000);
+  text-align: center;
+}
+
+.media-image .media-image-frame img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 500px;
+  margin: auto;
+}
+
+/* ---------- thumbnail ---------- */
+.media-image.thumbnail .media-image-frame {
+  max-height: none;
+  background: none;
+  text-align: left;
+}
+
+.media-image.thumbnail .media-image-frame img {
+  width: 100%;
+  max-height: none;
+  object-fit: cover;
+}
+
+.media-image.thumbnail .media-image-link {
+  display: block;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.media-image.thumbnail .media-image-link:hover {
+  opacity: 0.5;
+}
+
+/* ---------- strip / strip-2: figures with hover bar (.article-media / .article-three) ---------- */
+.media-image.strip,
+.media-image.strip-2 {
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
+.media-image.strip .media-image-list,
+.media-image.strip-2 .media-image-list {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.media-image.strip .media-image-item,
+.media-image.strip-2 .media-image-item {
+  overflow: hidden;
+}
+
+.media-image.strip .media-image-frame,
+.media-image.strip-2 .media-image-frame {
+  max-height: none;
+  padding-top: 71.4035%;
+}
+
+.media-image.strip .media-image-frame img,
+.media-image.strip-2 .media-image-frame img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-height: none;
+  object-fit: cover;
+}
+
+.media-image.strip .media-image-caption,
+.media-image.strip-2 .media-image-caption {
+  position: absolute;
+  right: 0;
+  bottom: -1px;
+  left: 0;
+  z-index: 10;
+  transform: translateY(100%);
+  transition: all 0.2s ease;
+}
+
+.media-image.strip .media-image-item:hover .media-image-caption,
+.media-image.strip .media-image-item:focus-within .media-image-caption,
+.media-image.strip-2 .media-image-item:hover .media-image-caption,
+.media-image.strip-2 .media-image-item:focus-within .media-image-caption {
+  transform: translateY(0);
+  transition: all 0.5s ease;
+}
+
+.media-image.strip .media-actions.titled-bar .media-actions-title,
+.media-image.strip-2 .media-actions.titled-bar .media-actions-title {
+  width: 100%;
+}
+
+@media (width >= 768px) {
+  .media-image.strip .media-image-list,
+  .media-image.strip-2 .media-image-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* ---------- gallery: 1 / 2 / 3 column grid of 16:9 tiles (.img-pack-expand-body) ---------- */
+.media-image.gallery .media-image-list {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
+}
+
+.media-image.gallery .media-image-item {
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.media-image.gallery .media-image-frame {
+  position: absolute;
+  inset: 0;
+  max-height: none;
+  background-color: #1e1e1e;
+}
+
+.media-image.gallery .media-image-frame img {
+  width: 100%;
+  height: 100%;
+  max-height: none;
+  object-fit: cover;
+}
+
+.media-image.gallery .media-image-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(0 0 0 / 60%);
+  color: var(--c-white, #fff);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.media-image.gallery .media-image-item:hover .media-image-overlay,
+.media-image.gallery .media-image-item:focus-within .media-image-overlay {
+  opacity: 1;
+}
+
+.media-image.gallery .media-image-overlay .media-actions {
+  color: var(--c-white, #fff);
+}
+
+@media (width >= 640px) {
+  .media-image.gallery .media-image-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (width >= 768px) {
+  .media-image.gallery .media-image-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}

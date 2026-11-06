@@ -1,0 +1,200 @@
+/*
+ * canon/tokens.css — media.jlr.com replica: lifted tokens, font stacks, base layer.
+ * Source: the shared Drupal theme (themes/custom/jlr_media/css/main.css + libraries.css,
+ * bootstrap 3 base). Values are lifted from those sheets; brand deltas are per body class.
+ *
+ * Box model: the source ships bootstrap's universal `* { box-sizing: border-box }`
+ * (libraries.css L1698) — every container family below is border-box, as the source.
+ *
+ * Fonts: every brand face is a licensed commercial kit → NOT hosted. Each brand family name
+ * stays FIRST in its stack; a metric-matched open substitute (canon/fonts, OFL, latin subset)
+ * follows. Mapping measured in Chromium (cap height, x-height, advance width of three strings)
+ * against the captured woff2/otf files — stardust/.work/defender/font-metrics.json.
+ * Icon fonts: jlr-media-site-new (the site's own icon font) and Font Awesome 4.7 (OFL) are
+ * self-hosted as captured.
+ */
+
+/* ---------- substitute faces (one @font-face per brand family name, weight pinned) ---------- */
+@font-face { font-family: "NeusaNeu-Light Sub"; src: url(fonts/Urbanist-latin.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "NeusaNeu-Regular Sub"; src: url(fonts/Urbanist-latin.woff2) format("woff2"); font-weight: 520; font-display: swap; }
+@font-face { font-family: "NeusaNeu-Medium Sub"; src: url(fonts/Urbanist-latin.woff2) format("woff2"); font-weight: 620; font-display: swap; }
+@font-face { font-family: "NeusaNeu-Bold Sub"; src: url(fonts/Urbanist-latin.woff2) format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "NeusaNeu-WideBold Sub"; src: url(fonts/GolosText-latin.woff2) format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "JLREmeric-Regular Sub"; src: url(fonts/HankenGrotesk-latin.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "jlr_emeric_extralight Sub"; src: url(fonts/HankenGrotesk-latin.woff2) format("woff2"); font-weight: 300; font-display: swap; }
+@font-face { font-family: "jlr_emeric_semibold Sub"; src: url(fonts/HankenGrotesk-latin.woff2) format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "HelveticaNowText-Light Sub"; src: url(fonts/PublicSans-latin.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "HelveticaNowText-Regular Sub"; src: url(fonts/PublicSans-latin.woff2) format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "HelveticaNowText-Medium Sub"; src: url(fonts/PublicSans-latin.woff2) format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "AvenirNext-Regular Sub"; src: url(fonts/NunitoSans-latin.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "AvenirRegular Sub"; src: url(fonts/NunitoSans-latin.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "AvenirMedium Sub"; src: url(fonts/NunitoSans-latin.woff2) format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "AvenirDemi Sub"; src: url(fonts/NunitoSans-latin.woff2) format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "AvenirBold Sub"; src: url(fonts/NunitoSans-latin.woff2) format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "LandRoverWeb-Light Sub"; src: url(fonts/Urbanist-latin.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "LandRoverWeb-Medium Sub"; src: url(fonts/Urbanist-latin.woff2) format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "LandRoverWeb-Demi Sub"; src: url(fonts/Urbanist-latin.woff2) format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "LandRoverWeb-Bold Sub"; src: url(fonts/Urbanist-latin.woff2) format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "JaguarExuberantLight Sub"; src: url(fonts/WixMadeforText-400-latin.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "JaguarExuberantRegular Sub"; src: url(fonts/WixMadeforText-500-latin.woff2) format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "JaguarExuberantBold Sub"; src: url(fonts/WixMadeforText-700-latin.woff2) format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "JaguarModernWeb-Bold Sub"; src: url(fonts/Montserrat-latin.woff2) format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "ProximaNova-Regular Sub"; src: url(fonts/Outfit-latin.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "ProximaNova-SemiBold Sub"; src: url(fonts/HankenGrotesk-latin.woff2) format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "ProximaNova-Bold Sub"; src: url(fonts/Figtree-latin.woff2) format("woff2"); font-weight: 600; font-display: swap; }
+
+/* ---------- icon fonts (self-hosted as captured) ---------- */
+@font-face { font-family: jlr-media-site-new; src: url(fonts/jlr-media-site-new.woff) format("woff"); font-weight: 400; font-style: normal; }
+@font-face { font-family: FontAwesome; src: url(fonts/fontawesome-webfont.woff2) format("woff2"); font-weight: 400; font-style: normal; }
+
+:root {
+  /* colour (main.css) */
+  --c-ink: #0c121c;          /* text, buttons, badges */
+  --c-body: #333;            /* bootstrap body text */
+  --c-black: #000;
+  --c-white: #fff;
+  --c-hover: #e9ecec;        /* nav hover, keylines */
+  --c-lightgrey: #f6f6f6;    /* .modern-lightgrey band */
+  --c-rule: #aaacae;         /* section-heading underline, hero date rule, dots */
+  --c-date-rule: #c4c4c4;    /* card date underline */
+  --c-btn-border: #4c4a4d;   /* hero Find Out More */
+  --c-search-rule: rgba(12, 18, 28, .5);
+
+  /* brand family stacks — brand name first, open substitute second */
+  --f-emeric: JLREmeric-Regular, "JLREmeric-Regular Sub", sans-serif;
+  --f-emeric-xl: jlr_emeric_extralight, "jlr_emeric_extralight Sub", sans-serif;
+  --f-emeric-sb: jlr_emeric_semibold, "jlr_emeric_semibold Sub", sans-serif;
+  --f-neusa: NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif;
+  --f-neusa-medium: NeusaNeu-Medium, "NeusaNeu-Medium Sub", sans-serif;
+  --f-neusa-light: NeusaNeu-Light, "NeusaNeu-Light Sub", sans-serif;
+  --f-neusa-bold: NeusaNeu-Bold, "NeusaNeu-Bold Sub", sans-serif;
+  --f-helvetica: HelveticaNowText-Regular, "HelveticaNowText-Regular Sub", Helvetica, Arial, sans-serif;
+  --f-helvetica-light: HelveticaNowText-Light, "HelveticaNowText-Light Sub", Helvetica, Arial, sans-serif;
+  --f-helvetica-medium: HelveticaNowText-Medium, "HelveticaNowText-Medium Sub", Helvetica, Arial, sans-serif;
+  --f-avenir: AvenirNext-Regular, "AvenirNext-Regular Sub", Helvetica, Arial, sans-serif;
+  --f-icons: jlr-media-site-new;
+  --f-fa: FontAwesome;
+
+  /* typographic roles = the source's bt-* classes (generic theme defaults; brands override below) */
+  --ff-body: var(--f-emeric-xl);
+  --ff-heading: var(--f-emeric);          /* h1–h6, bt-vehicle-* */
+  --ff-hero-title: var(--f-emeric);
+  --ff-hero-text: var(--f-emeric-xl);     /* bt-hero-text, bt-hero-date */
+  --ff-hero-button: var(--f-emeric);
+  --ff-card-heading: var(--f-emeric);     /* bt-card-heading, bt-component-heading(-link) */
+  --ff-card-text: var(--f-emeric-xl);     /* bt-card-date, bt-card-description */
+  --ff-footer-header: var(--f-emeric);
+  --ff-footer-link: var(--f-emeric-xl);
+  --ff-newsletter-button: var(--f-emeric);
+  --ff-nav-link: var(--f-emeric-xl);
+  --ff-image-count: var(--f-emeric);
+  --ff-image-count-text: var(--f-emeric-xl);
+  --fw-hero-title: 400;
+  --fw-heading: 400;
+  --fw-footer-header: 400;
+
+  /* container model (libraries.css .container; DESIGN.json breakpoints: content caps at 1176) */
+  --gutter: 18px;
+  --container: 100%;
+
+  /* fixed header: --nav-height / --shrink-offset are rewritten by chrome.js exactly as the
+     source's main.js does (js-nav-height offsetHeight, .menu-search offsetTop) */
+  --nav-height: 205px;
+}
+
+/* brand: Defender (main.css body.defender …) */
+body.defender {
+  --ff-body: var(--f-neusa);
+  --ff-heading: var(--f-neusa-medium);
+  --fw-heading: 500;
+  --ff-hero-title: var(--f-neusa-medium);
+  --fw-hero-title: 500;
+  --ff-hero-text: var(--f-neusa);
+  --ff-hero-button: var(--f-neusa);
+  --ff-card-heading: var(--f-neusa);
+  --ff-card-text: var(--f-neusa);
+  --ff-footer-header: var(--f-neusa-medium);
+  --fw-footer-header: 500;
+  --ff-footer-link: var(--f-neusa);
+  --ff-newsletter-button: var(--f-neusa);
+  --ff-nav-link: var(--f-neusa);
+  --ff-image-count: var(--f-neusa);
+  --ff-image-count-text: var(--f-neusa);
+}
+
+@media (min-width: 768px) { :root { --container: 756px; } }
+@media (min-width: 992px) { :root { --container: 976px; } }
+@media (min-width: 1200px) { :root { --container: 1176px; } }
+
+/* ---------- base (bootstrap 3 + main.css) ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { font-size: 16px; -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: transparent; overflow-x: hidden; }
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: var(--ff-body);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--c-body);
+  background: var(--c-white);
+}
+a { color: var(--c-ink); text-decoration: none; background-color: transparent; cursor: pointer; word-break: break-word; }
+a:hover { color: rgba(12, 18, 28, .8); } /* main.css @60470 (global, right after a{}) */
+p { margin: 0 0 10px; line-height: 1.6; }
+h1, h2, h3, h4, h5, h6 { font-family: var(--ff-heading); font-weight: var(--fw-heading); line-height: 1.1; color: inherit; }
+h1, h2, h3 { margin-top: 20px; margin-bottom: 10px; }
+h4, h5, h6 { margin-top: 10px; margin-bottom: 10px; }
+h1 { font-size: 36px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; }
+ul { margin: 0; padding: 0; list-style: none; }
+img { border: 0; vertical-align: middle; }
+button { font: inherit; color: inherit; }
+.img-responsive { display: block; height: auto; width: 100%; max-width: 100%; }
+.sr-only, .visually-hidden {
+  position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;
+}
+.skip-link:focus { position: static; width: auto; height: auto; margin: 0; clip: auto; overflow: visible; }
+
+.container {
+  width: var(--container);
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
+}
+
+/* icon glyphs ([class^=jlrnew-] in main.css) */
+.icon {
+  display: inline-block;
+  font-family: var(--f-icons) !important;
+  font-style: normal; font-weight: 400; font-variant: normal; line-height: 1; text-transform: none;
+  -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; speak: none;
+}
+.icon--fa { font-family: var(--f-fa) !important; }
+.icon--lg { font-size: 1.33333em; line-height: .75em; vertical-align: -15%; }
+.icon--fw { width: 1.28571em; text-align: center; }
+.icon--3x { font-size: 3em; }
+.icon-arrow_right::before { content: "\e906"; }
+.icon-close::before { content: "\e909"; }
+.icon-download::before { content: "\e90b"; }
+.icon-facebook::before { content: "\e90f"; }
+.icon-globe::before { content: "\e914"; }
+.icon-mediacart::before { content: "\e919"; }
+.icon-phone::before { content: "\e91f"; }
+.icon-rss::before { content: "\e926"; }
+.icon-search::before { content: "\e927"; }
+.icon-share::before { content: "\e929"; }
+.icon-tiktok::before { content: "\e933"; }
+.icon-up::before { content: "\e92e"; }
+.icon-youtube::before { content: "\e931"; }
+.icon-arrow_down::before { content: "E"; }
+.icon-twitter { font-size: 18px; line-height: 12px; }
+.icon-twitter::before { content: url("https://media.jlr.com/themes/custom/jlr_media/images/icons/twitter-x.svg"); }
+.icon-instagram::before { content: "\f16d"; }
+.icon-angle-right::before { content: "\f105"; }
+
+/* responsive visibility (bootstrap hidden-xs / hidden-sm / hidden-md / hidden-lg) */
+@media (max-width: 767px) { .hidden-xs { display: none !important; } }
+@media (min-width: 768px) and (max-width: 991px) { .hidden-sm { display: none !important; } }
+@media (min-width: 992px) and (max-width: 1199px) { .hidden-md { display: none !important; } }
+@media (min-width: 1200px) { .hidden-lg { display: none !important; } }

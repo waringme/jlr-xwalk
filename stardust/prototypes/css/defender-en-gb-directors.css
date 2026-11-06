@@ -1,0 +1,98 @@
+/* defender-en-gb-directors — grid-overview archetype (people-card-grid: grey band, ruled title,
+   intro line, rows of portrait cards). Page-specific modules only; tokens / chrome / shared modules
+   come from canon/. Values lifted from main.css (@offsets) + libraries.css (Lnnn) and the live computed
+   boxes (measure.mjs @1440/@360, .work/defender-en-gb-directors/live-measure.txt). */
+
+/* ---------- Bootstrap 3 grid pieces used by the view (libraries.css L2415–L3160) ---------- */
+.view-main .row { margin-left: -18px; margin-right: -18px; }
+.view-main .row::before, .view-main .row::after { content: " "; display: table; }  /* L2420 */
+.view-main .row::after { clear: both; }
+.view-main [class*="col-"] { position: relative; min-height: 1px; padding-left: 18px; padding-right: 18px; }
+@media (min-width: 768px) {
+  .view-main .col-sm-12 { float: left; width: 100%; }
+}
+@media (min-width: 992px) {
+  .view-main .col-md-10, .view-main .col-md-12 { float: left; }
+  .view-main .col-md-10 { width: 83.3333333333%; }
+  .view-main .col-md-12 { width: 100%; }
+  .view-main .col-md-offset-1 { margin-left: 8.3333333333%; }
+}
+.view-main .container::before, .view-main .container::after { content: " "; display: table; }  /* libraries .container clearfix */
+.view-main .container::after { clear: both; }
+.view-main .form-group { margin-bottom: 0; }           /* live computed 0 (L3940 15px overridden: newsletter Δy +15 otherwise) */
+.view-main .text-center { text-align: center; }        /* L1985 */
+.view-main .modal { display: none; }                   /* L7658 (closed person modal shells) */
+
+/* ---------- people listing bands (main.css @280306–@283491) ---------- */
+.people-listing { margin: 0; }                                         /* @280338 -no-margin */
+.people-listing .wrapper { background: #e9e9eb; }                      /* @281530 */
+.view-main .strip { position: relative; }                              /* @107491 */
+.people-section-title { margin-bottom: 0; }                            /* @283453 */
+.people-section-frontline { padding-bottom: 25px; }                    /* @283491 */
+@media (max-width: 769px) {                                            /* @280479 */
+  .people-listing.people-listing-pad-top-mob .rr-lightcoolgrey:first-child { padding-top: 70px; }
+}
+.people-listing .people-listing--central .row.center { text-align: center; }  /* @280951 */
+
+/* ---------- title block: rule + h1 + intro (page-header ::before 1px / ::after 5px) ---------- */
+.people-listing .basic-page-top { margin-top: 0; }                     /* @281299 */
+.people-listing .page-header {                                         /* @282042 + L2135 padding */
+  position: relative; border: none; padding-bottom: 9px;
+  margin: -10px 0 45px;                                                /* @281344 */
+}
+@media (min-width: 769px) { .people-listing .basic-page-top .page-header { margin-top: 85px; } }  /* @281449 */
+.people-listing .page-header::before, .people-listing .page-header::after {   /* @282168 */
+  content: ""; position: absolute; left: 50%; width: 240px; margin-left: -120px; background: #000;
+}
+.people-listing .page-header::before { top: 0; height: 1px; }          /* @282115 */
+.people-listing .page-header::after { bottom: 0; height: 5px; }        /* @282324 */
+.people-listing h1.page-title {                                        /* @100010 margin, @132044 colour, @11864 size */
+  margin: 30px 0; color: #777;
+  font-size: 30px; line-height: 1.2;
+}
+@media (max-width: 991px) { .people-listing h1.page-title { font-size: 22px; } }  /* @11953 */
+.people-listing .plc-header { margin-bottom: -30px; padding-top: 30px; }          /* @307962 */
+.people-listing .wysiwyg { margin-bottom: 36px; }                                  /* @152893 */
+.people-listing .content .wysiwyg a { color: var(--c-ink); text-decoration: underline; }  /* @60539 */
+.people-listing .content .wysiwyg a:hover { color: rgba(12, 18, 28, .8); }               /* @60625 */
+
+/* ---------- people-card-grid (tw-grid 2 / 3 @991 / 4 @1200, gap 24) ---------- */
+.people-listing .tw-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+@media (min-width: 991px) { .people-listing .tw-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }   /* @381048 */
+@media (min-width: 1200px) { .people-listing .tw-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }  /* @382204 */
+
+.people-listing-holder {                                               /* .panel @104335, .panel-white @238428, @281676 */
+  margin-bottom: 36px;
+  background-color: #fff; color: #000;
+  border: none; border-radius: 0; box-shadow: none;
+  text-align: left;
+}
+.people-listing .portrait-ratio { position: relative; height: 0; padding-bottom: 116.1%; }   /* @281843 */
+.people-listing .portrait-ratio img {                                                         /* @281924 */
+  position: absolute; top: 0; left: 0; right: 0; margin: auto;
+  max-width: 100%; max-height: 100%; width: 100%; height: auto;
+}
+.people-listing-holder .panel-body { padding: 15px; }
+.people-listing-holder .text-wrapper { height: auto; min-height: 100px; }                    /* @282379 */
+.people-listing-holder h4.h5, .people-listing-holder h5.h6 {                                 /* @282489 */
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden;
+  margin: 10px 0; line-height: 1.3;                                                            /* @12003 */
+  font-family: var(--ff-heading); font-weight: var(--fw-heading); text-transform: none;
+}
+.people-listing-holder h4.h5 { font-size: 16px; }                                            /* @282445 */
+.people-listing-holder h5.h6 { font-size: 14px; }                                            /* @282632 */
+.people-listing-holder a.read-more { color: #9e9fa3; font-size: 14px; margin: 0; text-transform: uppercase; }  /* @282676 */
+.people-listing-holder a.read-more:hover { text-decoration: none; }                          /* @78689 */
+.people-listing-holder a.read-more small { font-size: 1em; }                                 /* @282801 */
+.people-listing-holder a.read-more .fa {                                                     /* .fa / .fa-lg / .fa-fw, @282749 */
+  display: inline-block; font: normal normal normal 11px/1 var(--f-fa);
+  font-size: 11px; line-height: .75em; vertical-align: -15%;
+  width: 1.2857142857em; text-align: center;
+  text-rendering: auto; -webkit-font-smoothing: antialiased;
+}
+.people-listing-holder a.read-more .fa-angle-right::before { content: "\f105"; }             /* @211059 */
+
+/* hidden person-modal shell: Download Biography glyph ([class^=jlrnew-] icon font, jlrnew-download U+E90B) */
+.view-main .modal .jlrnew-download { font-family: var(--f-icons) !important; font-style: normal; }
+.view-main .modal .jlrnew-download::before { content: "\e90b"; }
+.view-main .modal .white { color: #fff; }                /* main.css @283763 .white (hidden modal h1/h6) */

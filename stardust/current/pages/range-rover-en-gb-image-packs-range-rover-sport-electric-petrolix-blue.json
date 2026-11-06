@@ -1,0 +1,1303 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:17:18.442Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "range-rover-en-gb-image-packs-range-rover-sport-electric-petrolix-blue",
+  "url": "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-sport-electric-petrolix-blue",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:17:18.442Z",
+  "finalUrl": "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-sport-electric-petrolix-blue",
+  "title": "RANGE ROVER SPORT ELECTRIC: PETROLIX BLUE | Range Rover Media Newsroom",
+  "description": "PEAK TO PEAK CHALLENGE",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "RANGE ROVER SPORT ELECTRIC: PETROLIX BLUE"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "Brand",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/range-rover/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/range-rover/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/range-rover/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/range-rover/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/range-rover/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/range-rover/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/range-rover/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/range-rover/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/range-rover/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/range-rover/en-gb/contact"
+    },
+    {
+      "label": "rangerover.com",
+      "href": "https://www.rangerover.com"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Brand",
+      "href": "/range-rover/en-gb/node/29462"
+    },
+    {
+      "label": "News",
+      "href": "/range-rover/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/range-rover/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/range-rover/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/range-rover/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/range-rover/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/range-rover/en-gb/tech-specs"
+    },
+    {
+      "label": "Search Range Rover",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": "https://media.production.jlrms.com/download_archives/ff83be3d-21ab-49ea-b7cb-069d8e82e96b/en/range-rover-sport-el.zip?VersionId=fXkbZT1pMksTTOl70q6L7oChD1ejXmRb"
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Download",
+      "href": null
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/range-rover/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/range-rover/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/range-rover/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/range-rover/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-sport-electric-petrolix-blue#main-content",
+    "https://media.jlr.com/range-rover/zh-cn",
+    "https://media.jlr.com/range-rover/fr-fr",
+    "https://media.jlr.com/range-rover/de-de",
+    "https://media.jlr.com/range-rover/",
+    "https://media.jlr.com/range-rover/it-it",
+    "https://media.jlr.com/range-rover/en-us",
+    "https://media.jlr.com/range-rover/es-es",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/range-rover/en-gb/cart",
+    "https://media.jlr.com/range-rover/en-gb/contact",
+    "https://media.jlr.com/range-rover/en-gb/",
+    "https://www.rangerover.com/",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/range-rover/en-gb/terms-and-conditions",
+    "https://media.jlr.com/range-rover/en-gb/user-licence",
+    "https://media.jlr.com/range-rover/en-gb/cookies",
+    "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/range-rover/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/range-rover/en-gb/node/29462",
+    "https://media.jlr.com/range-rover/en-gb/news",
+    "https://media.jlr.com/range-rover/en-gb/image-packs",
+    "https://media.jlr.com/range-rover/en-gb/videos",
+    "https://media.jlr.com/range-rover/en-gb/directors",
+    "https://media.jlr.com/range-rover/en-gb/press-kit",
+    "https://media.jlr.com/range-rover/en-gb/tech-specs",
+    "javascript:void(0)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-gt",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-electric",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-electric",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sv",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-sv",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-lrx",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range_e",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-stormer",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-(2012-2021)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-(2013-2022)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque-(2010-2018)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography-dynamic",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sentinel",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-svr",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://media.production.jlrms.com/download_archives/ff83be3d-21ab-49ea-b7cb-069d8e82e96b/en/range-rover-sport-el.zip?VersionId=fXkbZT1pMksTTOl70q6L7oChD1ejXmRb",
+    "https://media.production.jlrms.com/2026-09-29/image/8adfe543-95db-49f7-bdde-115f5a1b4843/Range%20Rover%20Sport%20Electric%2027MY%20Carrera%20marble%20300927.jpg?VersionId=RXNN6A7P9IljC98CY.dFI4fZZM1Xqstf",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/8adfe543-95db-49f7-bdde-115f5a1b4843/Range%20Rover%20Sport%20Electric%2027MY%20Carrera%20marble%20300927.jpg?VersionId=5lW0scrqINENz.jNl2oEeBOiWMmpIli3&itok=pgKuv4vI",
+    "https://media.production.jlrms.com/2026-09-29/image/92594a4a-c822-41d4-8012-d2aed020a643/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile2%20300927.jpg?VersionId=HJjlcTfqThzP51LgcmLXZT1UBq9plouE",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/92594a4a-c822-41d4-8012-d2aed020a643/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile2%20300927.jpg?VersionId=muUobCeQmvTMBJBrOH0nuUlf_isOR.5Z&itok=y6tXYNkE",
+    "https://media.production.jlrms.com/2026-09-29/image/4cd81d23-c4ac-4950-af87-aaf24db17a00/Range%20Rover%20Sport%20Electric%20300926.jpg?VersionId=fgMtsGGni_gMAQFXsD5N2j2OqlYV9PI6",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/4cd81d23-c4ac-4950-af87-aaf24db17a00/Range%20Rover%20Sport%20Electric%20300926.jpg?VersionId=YsaGb4cnTGLW1Cnnw7RZl6vNzXR4eIwA&itok=KzUgSQWR",
+    "https://media.production.jlrms.com/2026-09-29/image/91fd0a28-753b-4ed9-b0d7-b3781b0bce1d/Range%20Rover%20Sport%20Electric%2027MY%20300927.jpg?VersionId=h4z6VqeZboEaOu3yWUazVqoywKXKicez",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/91fd0a28-753b-4ed9-b0d7-b3781b0bce1d/Range%20Rover%20Sport%20Electric%2027MY%20300927.jpg?VersionId=QjDAx48L38XpCf5o2jGrIvYZiWpkP7SI&itok=fi6VdBHF",
+    "https://media.production.jlrms.com/2026-09-29/image/a763dc96-e265-4f9c-a388-6ce68cc75b7e/Range%20Rover%20Sport%20Electric%2027MY%20detail%20300927.jpg?VersionId=3YlLaG7OBL0QtKWVoKg_mTZRbQ1ySy32",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/a763dc96-e265-4f9c-a388-6ce68cc75b7e/Range%20Rover%20Sport%20Electric%2027MY%20detail%20300927.jpg?VersionId=viWGqfOF3N84bjOzijvZT3fPvhqbJkZc&itok=VlndqUzO",
+    "https://media.production.jlrms.com/2026-09-29/image/4803eba6-0a87-42e7-a942-daf530c9466b/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%202%20300927.jpg?VersionId=C4ubUG3xAdCC8PEj8XRGyTu3kA43.cdo",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/4803eba6-0a87-42e7-a942-daf530c9466b/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%202%20300927.jpg?VersionId=7OYxyyZMBiXy0vAaxcLJXDPjTsLCv08k&itok=4QfuKzEc",
+    "https://media.production.jlrms.com/2026-09-29/image/d248a942-93ea-4b42-ab86-8d2e22ca1284/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%20300927.jpg?VersionId=8dR2eUhg0Yf8mdkwGP.qNxTd5.Trzjgw",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/d248a942-93ea-4b42-ab86-8d2e22ca1284/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%20300927.jpg?VersionId=Q2ZKVrSY0IxmlGTn30HWlot0BdEEPgGQ&itok=7VZzAjIp",
+    "https://media.production.jlrms.com/2026-09-29/image/92a076a5-d513-4e41-a256-89e7fdeb87c9/Range%20Rover%20Sport%20Electric%2027MY%20Front%2034%20300927.jpg?VersionId=SD8HAPsHU65nZ3SorWu5G6eipi4ZQnTH",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/92a076a5-d513-4e41-a256-89e7fdeb87c9/Range%20Rover%20Sport%20Electric%2027MY%20Front%2034%20300927.jpg?VersionId=uDYUBQSCoUao57p0Z0AZlNYCzwbiQUMp&itok=nIRV_U1V",
+    "https://media.production.jlrms.com/2026-09-29/image/3983360d-9bce-4b85-81a7-38774df3391f/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg?VersionId=l7S9VY7CmDsSsI1FfEtJeqd7PA2ZpDMI",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/3983360d-9bce-4b85-81a7-38774df3391f/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg?VersionId=7FAZPFKHskXGcDP7rAC5vmHN8HpkWWSM&itok=DH2n3Wec",
+    "https://media.production.jlrms.com/2026-09-29/image/2409b3bd-088d-404b-b5ee-c9a2c34999a2/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile%20300927.jpg?VersionId=WbgbW.vzusVvOo9TIphxoUcqNk1yo7Dm",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/2409b3bd-088d-404b-b5ee-c9a2c34999a2/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile%20300927.jpg?VersionId=A74FF8BtCnRKyy2zh3mdALXo16oSMhKy&itok=LAlLFeLb",
+    "https://media.production.jlrms.com/2026-09-29/image/6c514688-996f-4209-b056-d8e2eb7c23b4/Range%20Rover%20Sport%20Electric%2027MY%20wheel%20300927.jpg?VersionId=Huk6hDPb8NqnYJQ1cfmCPrmzNM.8V9Qg",
+    "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/6c514688-996f-4209-b056-d8e2eb7c23b4/Range%20Rover%20Sport%20Electric%2027MY%20wheel%20300927.jpg?VersionId=VwZwUXMtnWRL7tiobaU9ebdalZYbcvfJ&itok=gsCwBrV6",
+    "https://media.jlr.com/#facebook",
+    "https://media.jlr.com/#x",
+    "https://media.jlr.com/#linkedin",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F8adfe543-95db-49f7-bdde-115f5a1b4843%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520Carrera%2520marble%2520300927.jpg%3FVersionId%3DRXNN6A7P9IljC98CY.dFI4fZZM1Xqstf&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F92594a4a-c822-41d4-8012-d2aed020a643%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520Side%2520profile2%2520300927.jpg%3FVersionId%3DHJjlcTfqThzP51LgcmLXZT1UBq9plouE&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F4cd81d23-c4ac-4950-af87-aaf24db17a00%2FRange%2520Rover%2520Sport%2520Electric%2520300926.jpg%3FVersionId%3DfgMtsGGni_gMAQFXsD5N2j2OqlYV9PI6&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F91fd0a28-753b-4ed9-b0d7-b3781b0bce1d%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520300927.jpg%3FVersionId%3Dh4z6VqeZboEaOu3yWUazVqoywKXKicez&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2Fa763dc96-e265-4f9c-a388-6ce68cc75b7e%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520detail%2520300927.jpg%3FVersionId%3D3YlLaG7OBL0QtKWVoKg_mTZRbQ1ySy32&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F4803eba6-0a87-42e7-a942-daf530c9466b%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520dynamic%25202%2520300927.jpg%3FVersionId%3DC4ubUG3xAdCC8PEj8XRGyTu3kA43.cdo&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2Fd248a942-93ea-4b42-ab86-8d2e22ca1284%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520dynamic%2520300927.jpg%3FVersionId%3D8dR2eUhg0Yf8mdkwGP.qNxTd5.Trzjgw&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F92a076a5-d513-4e41-a256-89e7fdeb87c9%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520Front%252034%2520300927.jpg%3FVersionId%3DSD8HAPsHU65nZ3SorWu5G6eipi4ZQnTH&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F3983360d-9bce-4b85-81a7-38774df3391f%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520Front%2520300927.jpg%3FVersionId%3Dl7S9VY7CmDsSsI1FfEtJeqd7PA2ZpDMI&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F2409b3bd-088d-404b-b5ee-c9a2c34999a2%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520Side%2520profile%2520300927.jpg%3FVersionId%3DWbgbW.vzusVvOo9TIphxoUcqNk1yo7Dm&title=Range%20Rover%20Sport%20Electric",
+    "https://www.addtoany.com/share#url=https%3A%2F%2Fmedia.production.jlrms.com%2F2026-09-29%2Fimage%2F6c514688-996f-4209-b056-d8e2eb7c23b4%2FRange%2520Rover%2520Sport%2520Electric%252027MY%2520wheel%2520300927.jpg%3FVersionId%3DHuk6hDPb8NqnYJQ1cfmCPrmzNM.8V9Qg&title=Range%20Rover%20Sport%20Electric",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/rangerover/",
+    "https://www.tiktok.com/@rangerover",
+    "https://www.youtube.com/@rangerover",
+    "https://www.facebook.com/RangeRover",
+    "https://x.com/RangeRover",
+    "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-sport-electric-petrolix-blue#",
+    "https://www.addtoany.com/",
+    "https://media.jlr.com/range-rover/en-gb/image-packs/range-rover-sport-electric-petrolix-blue#addtoany"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/range-rover-logo-dark.svg",
+        "alt": "rangerover.com logo",
+        "w": 282,
+        "h": 15
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-07-21/image/955f4f23-2a92-489e-a704-e58b02460e58/RR_GT_SIDE-PROFILE.jpg?VersionId=OxtLBRYFqNzgFea8CDuf2Q_MpzbDchQC&h=73b948f7&itok=gO4yszST",
+        "alt": "Range Rover GT",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-10/New_Range-Rover-Thumb.jpg?VersionId=inxFW5X8jN9ZoK8ROpLTfLE5l32B4cfI&h=05abcc49&itok=3Y42K7YN",
+        "alt": "Range Rover",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-09-09/image/ab23c903-5ad6-4476-aa3f-a89878f1adcb/RANGE%20ROVER%20ELECTRIC%20FRONT%203-4%2002_09_26.jpg?VersionId=4VBMR9djupCAxmgObc1BhIErIxS_WwdL&h=5784c3b3&itok=nvc9WXhR",
+        "alt": "Range Rover Electric",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2022-05/New-Range-Rover-Sport-Thumb.jpg?VersionId=N26RdkiHNC8xU90dw1eZE4esCCuBqQtx&h=05abcc49&itok=1wx3Ojzt",
+        "alt": "Range Rover Sport",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-09-30/image/d1353e4a-9d51-4e43-a696-cc682970a5e0/RRS_Electric_27MY_Exterior_02_300926.jpg?VersionId=.BEXL42TQHMz57nJiOJZJ0CBxH0CQgQk&h=f33571a9&itok=kYESJDLC",
+        "alt": "Range Rover Sport Electric",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-02/New-Range-Rover-Velar.jpg?VersionId=4d.ZVAGxbJHzklUxvb_D80gbr1mLObXf&h=05abcc49&itok=HU7uZL8i",
+        "alt": "Range Rover Velar",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-06/RR_EVQ_24MY_Thumb.jpg?VersionId=RSRlvgoK6PY7uVXaxqNxk2F3c4YlaoE4&h=05abcc49&itok=lfP4eQvm",
+        "alt": "Range Rover Evoque",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-10/New-Range-Rover-SV-Thumb.jpg?VersionId=hzCo5NxoKwyoystB13IOTjVXBVAS990K&h=05abcc49&itok=z6RyR9AM",
+        "alt": "Range Rover SV",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-05/RRS_24MY_SV_Thumb.jpg?VersionId=Tk0s7bjDeUL7dhNZU7OYSH8S5ijBoYLS&h=05abcc49&itok=OX8agsPS",
+        "alt": "Range Rover Sport SV",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20LRX.jpg?VersionId=wOH.KyIYV88QN4WdEh8BThNKruViCmCY&h=05abcc49&itok=-hX9c8De",
+        "alt": "Range Rover LRX",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range_e.jpg?VersionId=wO0j0iuHcqVO5M9jFf5YX1e7aVQeM8Q_&h=05abcc49&itok=qx4rMCzU",
+        "alt": "Range_e",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Stormer.jpg?VersionId=BpBsgukXQaGzOMzrjC4uFzJOFkS40hfs&h=05abcc49&itok=O13QvliE",
+        "alt": "Range Stormer",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover.jpg?VersionId=ICZiiXDtTXcNYiWUiB2OX1mOMTvUmVoL&h=05abcc49&itok=3u0_52Mj",
+        "alt": "Range Rover (2012-2021)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Sport.jpg?VersionId=VR2mVTYPFyQW3Atp_Ip9QtOZnI_vn5Tf&h=05abcc49&itok=a-pCM92U",
+        "alt": "Range Rover Sport (2013-2022)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Evoque.jpg?VersionId=MuhaxD2agXT94jngZ_jykwT0Mj4NHoFj&h=05abcc49&itok=Tk8LYnJ-",
+        "alt": "Range Rover Evoque (2010-2018)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/SVAD_Thumb.jpg?VersionId=LQynAAi48Y9QUu_6p4UQSZPm5JfKCB9l&h=05abcc49&itok=cnNj6mAw",
+        "alt": "Range Rover SVAutobiography Dynamic",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/RANGE%20ROVER%20VELAR%20SVAUTOBIOGRAPHY%20DYNAMIC%20EDITION.jpg?VersionId=78jeyVsd8XAfEdByTEVZWT6wDob3pGGm&h=05abcc49&itok=VmLIJGmy",
+        "alt": "Range Rover Velar SVAutobiography Dynamic Edition",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Sentinel.jpg?VersionId=dVPCeZXYzw6BLteAzQX_iZKMpc2No9rA&h=05abcc49&itok=-1dGzv8c",
+        "alt": "Range Rover Sentinel",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/RRSVA_Thumb.jpg?VersionId=MXE87z7BhotNbr1Mb8PQQP2_.P4XJLO7&h=05abcc49&itok=Q_dZjIUn",
+        "alt": "Range Rover SVAutobiography",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/SVR_Thumb_0.jpg?VersionId=X2UTly7Ygqkm4FKhnoQxdoOHP2dXPoK5&h=05abcc49&itok=sUoAabXm",
+        "alt": "Range Rover Sport SVR",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/8adfe543-95db-49f7-bdde-115f5a1b4843/Range%20Rover%20Sport%20Electric%2027MY%20Carrera%20marble%20300927.jpg?VersionId=x0onrVSOtNnCs8np.y.NPl0uMANumA79&h=dc43a8ee&itok=N_DcV3mt",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/92594a4a-c822-41d4-8012-d2aed020a643/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile2%20300927.jpg?VersionId=wf04u2hFyiTWH2P1O.1sZpwWtvp_P7yQ&h=af4285a5&itok=zo74xUfJ",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/4cd81d23-c4ac-4950-af87-aaf24db17a00/Range%20Rover%20Sport%20Electric%20300926.jpg?VersionId=ObmU0KZ56aKpDy0sTVwnDT1diHjOMtyZ&h=b34c7db8&itok=VXwB2-st",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/91fd0a28-753b-4ed9-b0d7-b3781b0bce1d/Range%20Rover%20Sport%20Electric%2027MY%20300927.jpg?VersionId=dJfHWj8IE5SkS.EW.lJlwHynzOu7GQRo&h=ff359adf&itok=gl4fIHZn",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/a763dc96-e265-4f9c-a388-6ce68cc75b7e/Range%20Rover%20Sport%20Electric%2027MY%20detail%20300927.jpg?VersionId=4RKv5bOj.K5ALGt19B_YefM8l_CTGe6P&h=0b9456a7&itok=nj3L1Ih2",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/4803eba6-0a87-42e7-a942-daf530c9466b/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%202%20300927.jpg?VersionId=dnserw03VmcZxvzbSL_pxbgabixPOszN&h=250a5c91&itok=naIJ-aPg",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/d248a942-93ea-4b42-ab86-8d2e22ca1284/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%20300927.jpg?VersionId=upeRJAe6raSf0i9KJiy.3EQvYFh34T10&h=ecafe5ef&itok=2t6gypTY",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/92a076a5-d513-4e41-a256-89e7fdeb87c9/Range%20Rover%20Sport%20Electric%2027MY%20Front%2034%20300927.jpg?VersionId=03PVeKcwrPUVr5Va7O7S93OuLyTq9DSB&h=0fdf3113&itok=38UWzM0u",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/3983360d-9bce-4b85-81a7-38774df3391f/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg?VersionId=MBFLWE3kjyDLedzOcbRAgSJjCeZXgBry&h=775814c7&itok=iY5_Qg9Z",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/2409b3bd-088d-404b-b5ee-c9a2c34999a2/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile%20300927.jpg?VersionId=MuTU_1kVJ0pHKRWaYkM.E9JSoA00LtbJ&h=479f8621&itok=rmwYJbA8",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/6c514688-996f-4209-b056-d8e2eb7c23b4/Range%20Rover%20Sport%20Electric%2027MY%20wheel%20300927.jpg?VersionId=25zpLeTc5JZxgUY41ClPYI9UpM.QRhny&h=8a64ebf1&itok=moWd-r7f",
+        "alt": "",
+        "w": 500,
+        "h": 357
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 42,
+    "cssBackgrounds": [
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/8adfe543-95db-49f7-bdde-115f5a1b4843/Range%20Rover%20Sport%20Electric%2027MY%20Carrera%20marble%20300927.jpg?VersionId=x0onrVSOtNnCs8np.y.NPl0uMANumA79&h=dc43a8ee&itok=N_DcV3mt",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/92594a4a-c822-41d4-8012-d2aed020a643/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile2%20300927.jpg?VersionId=wf04u2hFyiTWH2P1O.1sZpwWtvp_P7yQ&h=af4285a5&itok=zo74xUfJ",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/4cd81d23-c4ac-4950-af87-aaf24db17a00/Range%20Rover%20Sport%20Electric%20300926.jpg?VersionId=ObmU0KZ56aKpDy0sTVwnDT1diHjOMtyZ&h=b34c7db8&itok=VXwB2-st",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/91fd0a28-753b-4ed9-b0d7-b3781b0bce1d/Range%20Rover%20Sport%20Electric%2027MY%20300927.jpg?VersionId=dJfHWj8IE5SkS.EW.lJlwHynzOu7GQRo&h=ff359adf&itok=gl4fIHZn",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/a763dc96-e265-4f9c-a388-6ce68cc75b7e/Range%20Rover%20Sport%20Electric%2027MY%20detail%20300927.jpg?VersionId=4RKv5bOj.K5ALGt19B_YefM8l_CTGe6P&h=0b9456a7&itok=nj3L1Ih2",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/4803eba6-0a87-42e7-a942-daf530c9466b/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%202%20300927.jpg?VersionId=dnserw03VmcZxvzbSL_pxbgabixPOszN&h=250a5c91&itok=naIJ-aPg",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/d248a942-93ea-4b42-ab86-8d2e22ca1284/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%20300927.jpg?VersionId=upeRJAe6raSf0i9KJiy.3EQvYFh34T10&h=ecafe5ef&itok=2t6gypTY",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/92a076a5-d513-4e41-a256-89e7fdeb87c9/Range%20Rover%20Sport%20Electric%2027MY%20Front%2034%20300927.jpg?VersionId=03PVeKcwrPUVr5Va7O7S93OuLyTq9DSB&h=0fdf3113&itok=38UWzM0u",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/3983360d-9bce-4b85-81a7-38774df3391f/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg?VersionId=MBFLWE3kjyDLedzOcbRAgSJjCeZXgBry&h=775814c7&itok=iY5_Qg9Z",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/2409b3bd-088d-404b-b5ee-c9a2c34999a2/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile%20300927.jpg?VersionId=MuTU_1kVJ0pHKRWaYkM.E9JSoA00LtbJ&h=479f8621&itok=rmwYJbA8",
+      "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/6c514688-996f-4209-b056-d8e2eb7c23b4/Range%20Rover%20Sport%20Electric%2027MY%20wheel%20300927.jpg?VersionId=25zpLeTc5JZxgUY41ClPYI9UpM.QRhny&h=8a64ebf1&itok=moWd-r7f"
+    ],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share Image: Range Rover Sport Electric Download options High resolutions Low resolutions Share",
+      "× SUBSCRIBE TO OUR NEWSLETTER Name * Email * Contact me by fax only I agree to be emailed * Subscribe"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "222px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 5,
+    "mainTextLen": 5009,
+    "realImageCount": 42,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/range-rover/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/range-rover/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c7af39b91dc5f",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/playlist/av/457cff63/avf/{n}/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 488,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/playlist/av/457cff63/avf/89966758/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 15943893,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MC04MDQ/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 74176,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/Fo50Xv1Y",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/Fo50Xv1Y",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891828~acl=%2F{uuid}%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/{uuid}/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 6473509,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891828~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Db40170267d80da73872ae0732d5a7710e727aa1b1793888228%2F%2A~hmac=0e6d2bbe5ef6d04481a041755123230a8a73135cf61026d08c9b0a9c85889a2f/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=b40170267d80da73872ae0732d5a7710e727aa1b1793888228/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 4
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1931,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 16,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/range-rover-en-gb-image-packs-range-rover-sport-electric-petrolix-blue.png",
+  "renderedHtml": "pages/range-rover-en-gb-image-packs-range-rover-sport-electric-petrolix-blue.html",
+  "type": "media-pack-detail",
+  "typeFamily": "listing",
+  "typeBasis": "body.page-node-type-image-packs",
+  "typeVariant": "image-pack",
+  "site": "range-rover",
+  "slots": {
+    "pack-title": "RANGE ROVER SPORT ELECTRIC: PETROLIX BLUE",
+    "count": "11",
+    "count-label": "Images",
+    "items": [
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/8adfe543-95db-49f7-bdde-115f5a1b4843/Range%20Rover%20Sport%20Electric%2027MY%20Carrera%20marble%20300927.jpg?VersionId=x0onrVSOtNnCs8np.y.NPl0uMANumA79&h=dc43a8ee&itok=N_DcV3mt",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/8adfe543-95db-49f7-bdde-115f5a1b4843/Range%20Rover%20Sport%20Electric%2027MY%20Carrera%20marble%20300927.jpg?VersionId=RXNN6A7P9IljC98CY.dFI4fZZM1Xqstf"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/8adfe543-95db-49f7-bdde-115f5a1b4843/Range%20Rover%20Sport%20Electric%2027MY%20Carrera%20marble%20300927.jpg?VersionId=5lW0scrqINENz.jNl2oEeBOiWMmpIli3&itok=pgKuv4vI"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/92594a4a-c822-41d4-8012-d2aed020a643/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile2%20300927.jpg?VersionId=wf04u2hFyiTWH2P1O.1sZpwWtvp_P7yQ&h=af4285a5&itok=zo74xUfJ",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/92594a4a-c822-41d4-8012-d2aed020a643/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile2%20300927.jpg?VersionId=HJjlcTfqThzP51LgcmLXZT1UBq9plouE"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/92594a4a-c822-41d4-8012-d2aed020a643/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile2%20300927.jpg?VersionId=muUobCeQmvTMBJBrOH0nuUlf_isOR.5Z&itok=y6tXYNkE"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/4cd81d23-c4ac-4950-af87-aaf24db17a00/Range%20Rover%20Sport%20Electric%20300926.jpg?VersionId=ObmU0KZ56aKpDy0sTVwnDT1diHjOMtyZ&h=b34c7db8&itok=VXwB2-st",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/4cd81d23-c4ac-4950-af87-aaf24db17a00/Range%20Rover%20Sport%20Electric%20300926.jpg?VersionId=fgMtsGGni_gMAQFXsD5N2j2OqlYV9PI6"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/4cd81d23-c4ac-4950-af87-aaf24db17a00/Range%20Rover%20Sport%20Electric%20300926.jpg?VersionId=YsaGb4cnTGLW1Cnnw7RZl6vNzXR4eIwA&itok=KzUgSQWR"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/91fd0a28-753b-4ed9-b0d7-b3781b0bce1d/Range%20Rover%20Sport%20Electric%2027MY%20300927.jpg?VersionId=dJfHWj8IE5SkS.EW.lJlwHynzOu7GQRo&h=ff359adf&itok=gl4fIHZn",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/91fd0a28-753b-4ed9-b0d7-b3781b0bce1d/Range%20Rover%20Sport%20Electric%2027MY%20300927.jpg?VersionId=h4z6VqeZboEaOu3yWUazVqoywKXKicez"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/91fd0a28-753b-4ed9-b0d7-b3781b0bce1d/Range%20Rover%20Sport%20Electric%2027MY%20300927.jpg?VersionId=QjDAx48L38XpCf5o2jGrIvYZiWpkP7SI&itok=fi6VdBHF"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/a763dc96-e265-4f9c-a388-6ce68cc75b7e/Range%20Rover%20Sport%20Electric%2027MY%20detail%20300927.jpg?VersionId=4RKv5bOj.K5ALGt19B_YefM8l_CTGe6P&h=0b9456a7&itok=nj3L1Ih2",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/a763dc96-e265-4f9c-a388-6ce68cc75b7e/Range%20Rover%20Sport%20Electric%2027MY%20detail%20300927.jpg?VersionId=3YlLaG7OBL0QtKWVoKg_mTZRbQ1ySy32"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/a763dc96-e265-4f9c-a388-6ce68cc75b7e/Range%20Rover%20Sport%20Electric%2027MY%20detail%20300927.jpg?VersionId=viWGqfOF3N84bjOzijvZT3fPvhqbJkZc&itok=VlndqUzO"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/4803eba6-0a87-42e7-a942-daf530c9466b/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%202%20300927.jpg?VersionId=dnserw03VmcZxvzbSL_pxbgabixPOszN&h=250a5c91&itok=naIJ-aPg",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/4803eba6-0a87-42e7-a942-daf530c9466b/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%202%20300927.jpg?VersionId=C4ubUG3xAdCC8PEj8XRGyTu3kA43.cdo"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/4803eba6-0a87-42e7-a942-daf530c9466b/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%202%20300927.jpg?VersionId=7OYxyyZMBiXy0vAaxcLJXDPjTsLCv08k&itok=4QfuKzEc"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/d248a942-93ea-4b42-ab86-8d2e22ca1284/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%20300927.jpg?VersionId=upeRJAe6raSf0i9KJiy.3EQvYFh34T10&h=ecafe5ef&itok=2t6gypTY",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/d248a942-93ea-4b42-ab86-8d2e22ca1284/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%20300927.jpg?VersionId=8dR2eUhg0Yf8mdkwGP.qNxTd5.Trzjgw"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/d248a942-93ea-4b42-ab86-8d2e22ca1284/Range%20Rover%20Sport%20Electric%2027MY%20dynamic%20300927.jpg?VersionId=Q2ZKVrSY0IxmlGTn30HWlot0BdEEPgGQ&itok=7VZzAjIp"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/92a076a5-d513-4e41-a256-89e7fdeb87c9/Range%20Rover%20Sport%20Electric%2027MY%20Front%2034%20300927.jpg?VersionId=03PVeKcwrPUVr5Va7O7S93OuLyTq9DSB&h=0fdf3113&itok=38UWzM0u",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/92a076a5-d513-4e41-a256-89e7fdeb87c9/Range%20Rover%20Sport%20Electric%2027MY%20Front%2034%20300927.jpg?VersionId=SD8HAPsHU65nZ3SorWu5G6eipi4ZQnTH"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/92a076a5-d513-4e41-a256-89e7fdeb87c9/Range%20Rover%20Sport%20Electric%2027MY%20Front%2034%20300927.jpg?VersionId=uDYUBQSCoUao57p0Z0AZlNYCzwbiQUMp&itok=nIRV_U1V"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/3983360d-9bce-4b85-81a7-38774df3391f/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg?VersionId=MBFLWE3kjyDLedzOcbRAgSJjCeZXgBry&h=775814c7&itok=iY5_Qg9Z",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/3983360d-9bce-4b85-81a7-38774df3391f/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg?VersionId=l7S9VY7CmDsSsI1FfEtJeqd7PA2ZpDMI"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/3983360d-9bce-4b85-81a7-38774df3391f/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg?VersionId=7FAZPFKHskXGcDP7rAC5vmHN8HpkWWSM&itok=DH2n3Wec"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/2409b3bd-088d-404b-b5ee-c9a2c34999a2/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile%20300927.jpg?VersionId=MuTU_1kVJ0pHKRWaYkM.E9JSoA00LtbJ&h=479f8621&itok=rmwYJbA8",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/2409b3bd-088d-404b-b5ee-c9a2c34999a2/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile%20300927.jpg?VersionId=WbgbW.vzusVvOo9TIphxoUcqNk1yo7Dm"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/2409b3bd-088d-404b-b5ee-c9a2c34999a2/Range%20Rover%20Sport%20Electric%2027MY%20Side%20profile%20300927.jpg?VersionId=A74FF8BtCnRKyy2zh3mdALXo16oSMhKy&itok=LAlLFeLb"
+          }
+        ]
+      },
+      {
+        "image": "https://media.production.jlrms.com/styles/thumbnail_crop/s3/2026-09-29/image/6c514688-996f-4209-b056-d8e2eb7c23b4/Range%20Rover%20Sport%20Electric%2027MY%20wheel%20300927.jpg?VersionId=25zpLeTc5JZxgUY41ClPYI9UpM.QRhny&h=8a64ebf1&itok=moWd-r7f",
+        "title": "Image: Range Rover Sport Electric",
+        "downloads": [
+          {
+            "label": "Hi Res",
+            "href": "https://media.production.jlrms.com/2026-09-29/image/6c514688-996f-4209-b056-d8e2eb7c23b4/Range%20Rover%20Sport%20Electric%2027MY%20wheel%20300927.jpg?VersionId=Huk6hDPb8NqnYJQ1cfmCPrmzNM.8V9Qg"
+          },
+          {
+            "label": "Low Res",
+            "href": "https://media.production.jlrms.com/styles/low_res/s3/2026-09-29/image/6c514688-996f-4209-b056-d8e2eb7c23b4/Range%20Rover%20Sport%20Electric%2027MY%20wheel%20300927.jpg?VersionId=VwZwUXMtnWRL7tiobaU9ebdalZYbcvfJ&itok=gsCwBrV6"
+          }
+        ]
+      }
+    ],
+    "videoIds": [],
+    "pack-downloads": [
+      "https://media.production.jlrms.com/download_archives/ff83be3d-21ab-49ea-b7cb-069d8e82e96b/en/range-rover-sport-el.zip?VersionId=fXkbZT1pMksTTOl70q6L7oChD1ejXmRb"
+    ]
+  }
+}

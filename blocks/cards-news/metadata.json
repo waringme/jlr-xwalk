@@ -1,0 +1,77 @@
+{
+  "variantName": "cards-news",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "link + image + heading + text + button"
+  },
+  "contentPattern": {
+    "rows": "One row per news card.",
+    "cells": [
+      "Image (picture) — the article thumbnail",
+      "Optional count badge text, e.g. \"8 Images\" (shown over the image; used by the video / video-2 options)",
+      "Text: date paragraph, heading (title, optionally linked to the article), teaser paragraph, optional \"Download\" link (press-kit zip) and optional \"Read more\" link"
+    ],
+    "notes": "The card URL is taken from the Read more link, else the title link. Download / favourite / share actions are rendered from the Download link and card URL."
+  },
+  "options": [
+    {
+      "class": "alt",
+      "label": "Alt"
+    },
+    {
+      "class": "video",
+      "label": "Video"
+    },
+    {
+      "class": "video-2",
+      "label": "Video 2"
+    },
+    {
+      "class": "image-left",
+      "label": "Image Left"
+    },
+    {
+      "class": "image-left-alt",
+      "label": "Image Left Alt"
+    },
+    {
+      "class": "boxed",
+      "label": "Boxed"
+    },
+    {
+      "class": "boxed-alt",
+      "label": "Boxed Alt"
+    },
+    {
+      "class": "image-left-2",
+      "label": "Image Left 2"
+    }
+  ],
+  "memberVariantIds": [
+    "v_903868bbf035",
+    "v_903868bbf035-1",
+    "v_cfbbfa04b9b9",
+    "v_843e175c9389",
+    "v_b57dfc11b1de",
+    "v_b57dfc11b1de-1",
+    "v_19173c5471ef",
+    "v_19173c5471ef-1",
+    "v_b57dfc11b1de-2"
+  ],
+  "usage": {
+    "description": "News listings and \"Latest News\" strips: grids of look-alike article cards linking to article detail pages.",
+    "pagesUsing": [
+      "/defender/en-gb",
+      "/defender/en-gb/vehicle/defender-110"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-11-06T16:40:15Z"
+  },
+  "reuseGuidance": "Use for any list of article/news cards. Pick an option for the layout: default (image on top, 3-up), alt (uppercase titles), video / video-2 (count badge on the image), image-left / image-left-alt / image-left-2 (thumbnail beside text, 2-up, with Read more), boxed / boxed-alt (white boxes with a labelled Download button). Use cards-gallery for image/video pack tiles.",
+  "designReference": "Values lifted from stardust/prototypes (canon/modules.css and per-page css) where a counterpart exists."
+}

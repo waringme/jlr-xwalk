@@ -1,0 +1,624 @@
+{
+  "url": "https://media.jlr.com/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+  "width": 360,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".drp-slider__btn--next",
+      "frames": [
+        {
+          "t": 53691.799999952316,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 53988.09999996424,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 54193.59999996424,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 54485.39999997616,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".jlr-tabs__item",
+      "frames": [
+        {
+          "t": 55590.09999996424,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 55883.59999996424,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 56183.89999997616,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 56386.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".new-share__trigger",
+      "frames": [
+        {
+          "t": 57584.59999996424,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 57787.89999997616,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 58085.89999997616,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 58289.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.hidden-md.hidden-lg.no-corporate > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.hidden-md.hidden-lg.no-corporate > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.active > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.active > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 400,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 800,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.hidden-md.hidden-lg.no-corporate > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.hidden-md.hidden-lg.no-corporate > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.active > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.active > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20921,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.hidden-md.hidden-lg.no-corporate > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.hidden-md.hidden-lg.no-corporate > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.active > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.active > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20999,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 20999,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "left",
+        "el": "div.panel.panel-white > div.image-top > div > ul.drp-slider > div.drp-slider__wrapper.drp-slider__wrapper--trans",
+        "y": 20999,
+        "dur": "0.6s"
+      },
+      {
+        "prop": "top",
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.hidden-md.hidden-lg.no-corporate > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.hidden-md.hidden-lg.no-corporate > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.active > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li.active > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-bottom",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "margin-top",
+        "el": "div.main-nav.main-nav--overflow.main-nav--at-start > div.nav-wrapper > ul.scroll.main-nav__list > li > a.bt-nav-link",
+        "y": 20757,
+        "dur": "0.3s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 400
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 400
+      },
+      {
+        "added": [
+          "shrink",
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 20999
+      },
+      {
+        "added": [
+          "bottom-shadow"
+        ],
+        "el": "html.js > body.defender.en-gb.culture-en-gb > div.dialog-off-canvas-main-canvas > div > nav.navbar.navbar-default.navbar-fixed-top",
+        "y": 20999
+      },
+      {
+        "added": [
+          "jlr-tabs__item--active"
+        ],
+        "el": "div.wrapper-background.black.related-content-packs > div.container > div.jlr-tabs > ul.jlr-tabs__list > li.jlr-tabs__item.jlr-tabs__item--active",
+        "y": 20757
+      },
+      {
+        "added": [
+          "jlr-tabs__block--active"
+        ],
+        "el": "div.wrapper-background.black.related-content-packs > div.container > div.jlr-tabs > section.jlr-tabs__block-wrapper > div.jlr-tabs__block.jlr-tabs__block--active",
+        "y": 20757
+      }
+    ]
+  }
+}

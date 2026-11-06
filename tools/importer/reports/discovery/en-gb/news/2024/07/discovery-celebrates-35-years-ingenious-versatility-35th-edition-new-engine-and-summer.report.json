@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://media.jlr.com/discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+  "path": "discovery/en-gb/news/2024/07/discovery-celebrates-35-years-ingenious-versatility-35th-edition-new-engine-and-summer",
+  "timestamp": "2026-11-06T10:45:17.929Z",
+  "title": "DISCOVERY CELEBRATES 35 YEARS OF INGENIOUS VERSATILITY WITH ‘35TH EDITION’, A NEW ENGINE AND A SUMMER PROGRAMME OF UK EVENTS | Discovery Media Newsroom",
+  "template": "content-detail",
+  "blocks": [
+    "media-actions",
+    "quote-centered",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-press-image",
+    "columns-text",
+    "cards-gallery",
+    "pagination"
+  ]
+}

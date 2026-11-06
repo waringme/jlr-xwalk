@@ -1,0 +1,46 @@
+/* defender-en-gb-contact-china-3 — contact-detail archetype (contact-detail-panel: #f6f6f6 band,
+   component heading + #b1b1b1 rule + customer-support text; contacts grid empty on this page).
+   Page-specific module only; tokens / chrome / shared modules come from canon/.
+   Values lifted from main.css (@offsets) and the live computed boxes
+   (measure.mjs @1440/@360, .work/defender-en-gb-contact-china-3/live-measure.txt). */
+
+.contact-detail {                                                 /* @268156 */
+  padding: 40px 0 60px;
+  background-color: #f6f6f6;
+  color: #0c121c;
+}
+@media (max-width: 768px) { .contact-detail { padding: 24px 0 40px; } }   /* @268255 */
+
+/* body .bt-component-heading @10616/@10703 + body.defender @26992 (NeusaNeu-Regular 400);
+   computed line-height 1.2 (33.6 @28, 19.2 @16) */
+.contact-detail__heading {                                        /* @268292 */
+  margin: 0 0 16px;
+  font-family: var(--f-neusa); font-weight: 400;
+  font-size: 28px; line-height: 1.2; letter-spacing: .58px;
+}
+@media (max-width: 991px) { .contact-detail__heading { font-size: 16px; letter-spacing: .33px; } }
+
+.contact-detail__divider {                                        /* @268333 */
+  height: 0; margin: 0 0 40px;
+  border: 0; border-top: 1px solid #b1b1b1;
+}
+@media (max-width: 768px) { .contact-detail__divider { margin: 0 0 24px; } }   /* @268436 */
+
+/* body .bt-contact-page-description @12859/@12932 (18 / 14 <992) + body.defender @27846 (NeusaNeu-Regular) */
+.contact-detail__support {                                        /* @268478 */
+  margin-bottom: 40px;
+  font-family: var(--f-neusa); font-weight: 400;
+  font-size: 18px; line-height: 1.6;
+}
+@media (max-width: 991px) { .contact-detail__support { font-size: 14px; } }
+@media (max-width: 768px) { .contact-detail__support { margin-bottom: 24px; } }  /* @268607 */
+/* h2: base heading (NeusaNeu-Medium 500), computed 30/36 ≥992, 22/26.4 below, margin 20/10 */
+.contact-detail__support h2 { margin: 20px 0 10px; font-size: 30px; line-height: 1.2; color: #0c121c; }
+@media (max-width: 991px) { .contact-detail__support h2 { font-size: 22px; } }
+.contact-detail__support p { margin: 0 0 4px; color: #333; }     /* @268538 margin; computed colour #333 */
+/* link colour + a:hover rgba(12,18,28,.8) come from canon base a/a:hover (main.css @60470) — no page override (motion-compare hover) */
+
+/* bootstrap .container clearfix (libraries.css .container::before/::after display:table) — keeps the
+   support margin-bottom inside the container as live (measure: live container h 205 @1440 / 218 @360) */
+.contact-detail > .container::before, .contact-detail > .container::after { content: " "; display: table; }
+.contact-detail > .container::after { clear: both; }

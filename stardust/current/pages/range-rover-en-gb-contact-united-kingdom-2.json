@@ -1,0 +1,929 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-05T14:16:48.666Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "range-rover-en-gb-contact-united-kingdom-2",
+  "url": "https://media.jlr.com/range-rover/en-gb/contact/united-kingdom-2",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-05T14:16:48.666Z",
+  "finalUrl": "https://media.jlr.com/range-rover/en-gb/contact/united-kingdom-2",
+  "title": "United Kingdom | Range Rover Media Newsroom",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "United Kingdom contacts"
+    },
+    {
+      "tag": "h2",
+      "text": "FOR CUSTOMER SERVICES CALL: 0370 500 0500"
+    },
+    {
+      "tag": "h2",
+      "text": "Press office"
+    },
+    {
+      "tag": "h3",
+      "text": "For all the enquiries please contact us as follows"
+    },
+    {
+      "tag": "h4",
+      "text": "SUBSCRIBE TO OUR NEWSLETTER"
+    },
+    {
+      "tag": "h4",
+      "text": "Useful Links"
+    },
+    {
+      "tag": "h4",
+      "text": "Support"
+    },
+    {
+      "tag": "h4",
+      "text": "FOLLOW:"
+    }
+  ],
+  "body": [
+    "Vehicles",
+    "Brand",
+    "News",
+    "Images",
+    "Video",
+    "People",
+    "Press Kits",
+    "Tech Specs",
+    "For Customer help or general enquiries please click here.",
+    "Land Rover: https://www.landrover.co.uk/contact‑us.html",
+    "Our office hours are Monday to Friday, 08:30 – 17:30 (UK time). We aim to respond to all media enquiries as quickly as possible; however, please allow up to two working days for a reply.",
+    "Email: uk.press@jaguarlandrover.com",
+    "landrover.com",
+    "jaguar.com",
+    "jlr.com",
+    "Terms and Conditions",
+    "User Licence",
+    "Cookie Policy",
+    "Privacy Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Skip to main content",
+      "href": "#main-content"
+    },
+    {
+      "label": "JLR MEDIA",
+      "href": null
+    },
+    {
+      "label": "EN-GB United Kingdom (English)",
+      "href": null
+    },
+    {
+      "label": "China (简体中文)",
+      "href": "/range-rover/zh-cn"
+    },
+    {
+      "label": "France (Français)",
+      "href": "/range-rover/fr-fr"
+    },
+    {
+      "label": "Germany (Deutsch)",
+      "href": "/range-rover/de-de"
+    },
+    {
+      "label": "International (English)",
+      "href": "/range-rover/"
+    },
+    {
+      "label": "Italy (Italiano)",
+      "href": "/range-rover/it-it"
+    },
+    {
+      "label": "North America (English)",
+      "href": "/range-rover/en-us"
+    },
+    {
+      "label": "Spain (Español)",
+      "href": "/range-rover/es-es"
+    },
+    {
+      "label": "United Kingdom (English)",
+      "href": "/range-rover/en-gb"
+    },
+    {
+      "label": "View 0",
+      "href": "/range-rover/en-gb/cart"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/range-rover/en-gb/contact"
+    },
+    {
+      "label": "rangerover.com",
+      "href": "https://www.rangerover.com"
+    },
+    {
+      "label": "Vehicles",
+      "href": "javascript: void(0);"
+    },
+    {
+      "label": "Brand",
+      "href": "/range-rover/en-gb/node/29462"
+    },
+    {
+      "label": "News",
+      "href": "/range-rover/en-gb/news"
+    },
+    {
+      "label": "Images",
+      "href": "/range-rover/en-gb/image-packs"
+    },
+    {
+      "label": "Video",
+      "href": "/range-rover/en-gb/videos"
+    },
+    {
+      "label": "People",
+      "href": "/range-rover/en-gb/directors"
+    },
+    {
+      "label": "Press Kits",
+      "href": "/range-rover/en-gb/press-kit"
+    },
+    {
+      "label": "Tech Specs",
+      "href": "/range-rover/en-gb/tech-specs"
+    },
+    {
+      "label": "Search Range Rover",
+      "href": null
+    },
+    {
+      "label": "here.",
+      "href": "https://jlrdxforms.jaguarlandrover.com/jlr-xi-en/servlet/SmartForm.html?formCode=jlr-kmi-xi-en"
+    },
+    {
+      "label": "https://www.landrover.co.uk/contact‑us.html",
+      "href": "https://www.landrover.co.uk/contact-us.html"
+    },
+    {
+      "label": "Email: uk.press@jaguarlandrover.com",
+      "href": "mailto:uk.press@jaguarlandrover.com"
+    },
+    {
+      "label": "Subscribe",
+      "href": null
+    },
+    {
+      "label": "landrover.com",
+      "href": "https://landrover.com/"
+    },
+    {
+      "label": "jaguar.com",
+      "href": "https://jaguar.com/"
+    },
+    {
+      "label": "jlr.com",
+      "href": "https://jlr.com"
+    },
+    {
+      "label": "Terms and Conditions",
+      "href": "/range-rover/en-gb/terms-and-conditions"
+    },
+    {
+      "label": "User Licence",
+      "href": "/range-rover/en-gb/user-licence"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/range-rover/en-gb/cookies"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/range-rover/en-gb/jlr-privacy-policy"
+    }
+  ],
+  "links": [
+    "https://media.jlr.com/range-rover/en-gb/contact/united-kingdom-2#main-content",
+    "https://media.jlr.com/range-rover/zh-cn",
+    "https://media.jlr.com/range-rover/fr-fr",
+    "https://media.jlr.com/range-rover/de-de",
+    "https://media.jlr.com/range-rover/",
+    "https://media.jlr.com/range-rover/it-it",
+    "https://media.jlr.com/range-rover/en-us",
+    "https://media.jlr.com/range-rover/es-es",
+    "https://media.jlr.com/range-rover/en-gb",
+    "https://media.jlr.com/range-rover/en-gb/cart",
+    "https://media.jlr.com/range-rover/en-gb/contact",
+    "https://media.jlr.com/range-rover/en-gb/",
+    "https://www.rangerover.com/",
+    "https://media.jlr.com/en-gb",
+    "https://media.jlr.com/defender/en-gb",
+    "https://media.jlr.com/discovery/en-gb",
+    "https://media.jlr.com/jaguar/en-gb",
+    "https://media.jlr.com/classic/en-gb",
+    "https://media.jlr.com/corporate",
+    "https://media.jlr.com/range-rover/en-gb/terms-and-conditions",
+    "https://media.jlr.com/range-rover/en-gb/user-licence",
+    "https://media.jlr.com/range-rover/en-gb/cookies",
+    "https://media.jlr.com/range-rover/en-gb/jlr-privacy-policy",
+    "https://media.jlr.com/range-rover/en-gb/mobile-vehicle-menu",
+    "javascript: void(0);",
+    "https://media.jlr.com/range-rover/en-gb/node/29462",
+    "https://media.jlr.com/range-rover/en-gb/news",
+    "https://media.jlr.com/range-rover/en-gb/image-packs",
+    "https://media.jlr.com/range-rover/en-gb/videos",
+    "https://media.jlr.com/range-rover/en-gb/directors",
+    "https://media.jlr.com/range-rover/en-gb/press-kit",
+    "https://media.jlr.com/range-rover/en-gb/tech-specs",
+    "javascript:void(0)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-gt",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-electric",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-electric",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sv",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-sv",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-lrx",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range_e",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-stormer",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-(2012-2021)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-(2013-2022)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-evoque-(2010-2018)",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography-dynamic",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-velar-svautobiography-dynamic-edition",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sentinel",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-svautobiography",
+    "https://media.jlr.com/range-rover/en-gb/vehicle/range-rover-sport-svr",
+    "https://media.jlr.com/mobile-more-menu",
+    "https://jlrdxforms.jaguarlandrover.com/jlr-xi-en/servlet/SmartForm.html?formCode=jlr-kmi-xi-en",
+    "https://www.landrover.co.uk/contact-us.html",
+    "mailto:uk.press@jaguarlandrover.com",
+    "https://landrover.com/",
+    "https://jaguar.com/",
+    "https://jlr.com/",
+    "https://www.instagram.com/rangerover/",
+    "https://www.tiktok.com/@rangerover",
+    "https://www.youtube.com/@rangerover",
+    "https://www.facebook.com/RangeRover",
+    "https://x.com/RangeRover",
+    "https://media.jlr.com/range-rover/en-gb/contact/united-kingdom-2#"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/hamburger.svg",
+        "alt": "",
+        "w": 18,
+        "h": 14
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/brands/range-rover-logo-dark.svg",
+        "alt": "rangerover.com logo",
+        "w": 282,
+        "h": 15
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/arrow-diagonal-right.svg",
+        "alt": "",
+        "w": 10,
+        "h": 10
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/icons/close.svg",
+        "alt": "",
+        "w": 17,
+        "h": 17
+      },
+      {
+        "src": "https://vumbnail.com/1220552135_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/eed1d303-0a53-4dd7-bca4-24d92a5e4a30/L663_DX_PM_DEFENDER_OCTA_BLACK_GRIT_HERO_24_EDIT_CLEAN_H264_16_9.jpg?VersionId=hr3TaEERK4cGYJN0JzYaLgWSlBa.0JtQ",
+        "alt": "",
+        "w": 3840,
+        "h": 2160
+      },
+      {
+        "src": "https://vumbnail.com/1220549798_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1221081570_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://vumbnail.com/1220559892_large.jpg",
+        "alt": "",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://media.production.jlrms.com/broadcast-videos/thumbnails/f15cec17-8ef7-40ea-b770-5dee8ab12903/Reimagine_Edit_V21_JLR_END_090223_NEWLOGO.jpg?VersionId=3XZB_4xJFM84mAKQfod89kyz_rRD98iN",
+        "alt": "",
+        "w": 1920,
+        "h": 1080
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-07-21/image/955f4f23-2a92-489e-a704-e58b02460e58/RR_GT_SIDE-PROFILE.jpg?VersionId=OxtLBRYFqNzgFea8CDuf2Q_MpzbDchQC&h=73b948f7&itok=gO4yszST",
+        "alt": "Range Rover GT",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-10/New_Range-Rover-Thumb.jpg?VersionId=inxFW5X8jN9ZoK8ROpLTfLE5l32B4cfI&h=05abcc49&itok=3Y42K7YN",
+        "alt": "Range Rover",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-09-09/image/ab23c903-5ad6-4476-aa3f-a89878f1adcb/RANGE%20ROVER%20ELECTRIC%20FRONT%203-4%2002_09_26.jpg?VersionId=4VBMR9djupCAxmgObc1BhIErIxS_WwdL&h=5784c3b3&itok=nvc9WXhR",
+        "alt": "Range Rover Electric",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2022-05/New-Range-Rover-Sport-Thumb.jpg?VersionId=N26RdkiHNC8xU90dw1eZE4esCCuBqQtx&h=05abcc49&itok=1wx3Ojzt",
+        "alt": "Range Rover Sport",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2026-09-30/image/d1353e4a-9d51-4e43-a696-cc682970a5e0/RRS_Electric_27MY_Exterior_02_300926.jpg?VersionId=.BEXL42TQHMz57nJiOJZJ0CBxH0CQgQk&h=f33571a9&itok=kYESJDLC",
+        "alt": "Range Rover Sport Electric",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-02/New-Range-Rover-Velar.jpg?VersionId=4d.ZVAGxbJHzklUxvb_D80gbr1mLObXf&h=05abcc49&itok=HU7uZL8i",
+        "alt": "Range Rover Velar",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-06/RR_EVQ_24MY_Thumb.jpg?VersionId=RSRlvgoK6PY7uVXaxqNxk2F3c4YlaoE4&h=05abcc49&itok=lfP4eQvm",
+        "alt": "Range Rover Evoque",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-10/New-Range-Rover-SV-Thumb.jpg?VersionId=hzCo5NxoKwyoystB13IOTjVXBVAS990K&h=05abcc49&itok=z6RyR9AM",
+        "alt": "Range Rover SV",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2023-05/RRS_24MY_SV_Thumb.jpg?VersionId=Tk0s7bjDeUL7dhNZU7OYSH8S5ijBoYLS&h=05abcc49&itok=OX8agsPS",
+        "alt": "Range Rover Sport SV",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20LRX.jpg?VersionId=wOH.KyIYV88QN4WdEh8BThNKruViCmCY&h=05abcc49&itok=-hX9c8De",
+        "alt": "Range Rover LRX",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range_e.jpg?VersionId=wO0j0iuHcqVO5M9jFf5YX1e7aVQeM8Q_&h=05abcc49&itok=qx4rMCzU",
+        "alt": "Range_e",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Stormer.jpg?VersionId=BpBsgukXQaGzOMzrjC4uFzJOFkS40hfs&h=05abcc49&itok=O13QvliE",
+        "alt": "Range Stormer",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover.jpg?VersionId=ICZiiXDtTXcNYiWUiB2OX1mOMTvUmVoL&h=05abcc49&itok=3u0_52Mj",
+        "alt": "Range Rover (2012-2021)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Sport.jpg?VersionId=VR2mVTYPFyQW3Atp_Ip9QtOZnI_vn5Tf&h=05abcc49&itok=a-pCM92U",
+        "alt": "Range Rover Sport (2013-2022)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Evoque.jpg?VersionId=MuhaxD2agXT94jngZ_jykwT0Mj4NHoFj&h=05abcc49&itok=Tk8LYnJ-",
+        "alt": "Range Rover Evoque (2010-2018)",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/SVAD_Thumb.jpg?VersionId=LQynAAi48Y9QUu_6p4UQSZPm5JfKCB9l&h=05abcc49&itok=cnNj6mAw",
+        "alt": "Range Rover SVAutobiography Dynamic",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/RANGE%20ROVER%20VELAR%20SVAUTOBIOGRAPHY%20DYNAMIC%20EDITION.jpg?VersionId=78jeyVsd8XAfEdByTEVZWT6wDob3pGGm&h=05abcc49&itok=VmLIJGmy",
+        "alt": "Range Rover Velar SVAutobiography Dynamic Edition",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2019-04/Range%20Rover%20Sentinel.jpg?VersionId=dVPCeZXYzw6BLteAzQX_iZKMpc2No9rA&h=05abcc49&itok=-1dGzv8c",
+        "alt": "Range Rover Sentinel",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/RRSVA_Thumb.jpg?VersionId=MXE87z7BhotNbr1Mb8PQQP2_.P4XJLO7&h=05abcc49&itok=Q_dZjIUn",
+        "alt": "Range Rover SVAutobiography",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.production.jlrms.com/styles/vehicle_menu_card/s3/2021-11/SVR_Thumb_0.jpg?VersionId=X2UTly7Ygqkm4FKhnoQxdoOHP2dXPoK5&h=05abcc49&itok=sUoAabXm",
+        "alt": "Range Rover Sport SVR",
+        "w": 288,
+        "h": 216
+      },
+      {
+        "src": "https://media.jlr.com/themes/custom/jlr_media/images/landrover-logo.png",
+        "alt": "",
+        "w": 1000,
+        "h": 524
+      }
+    ],
+    "allImgCount": 31,
+    "cssBackgrounds": [],
+    "modals": [
+      "JLR MEDIA Range Rover Defender Discovery Jaguar Classic Corporate Legal Terms and Conditions User Licence COOKIE POLICY Privacy Policy",
+      "× SUBSCRIBE TO OUR NEWSLETTER Name * Email * Contact me by fax only I agree to be emailed * Subscribe"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--gin-bg-layer": "#fff",
+    "--gin-bg-layer2": "#edeff5",
+    "--gin-bg-app": "#f8fafe",
+    "--gin-border-m": ".5rem",
+    "--gin-border-color": "#d4d4d8",
+    "--gin-border-color-layer": "rgba(0,0,0,.08)",
+    "--gin-font": "Ginter,Inter,\"Helvetica Neue\",BlinkMacSystemFont,-apple-system,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
+    "--gin-font-size-s": ".875rem",
+    "--gin-font-size-l": "1.125rem",
+    "--gin-font-weight-normal": "400",
+    "--gin-font-weight-semibold": "525",
+    "--gin-spacing-s": ".75rem",
+    "--gin-spacing-m": "1rem",
+    "--gin-spacing-l": "1.5rem",
+    "--gin-spacing-xl": "2rem",
+    "--gin-spacing-xxxl": "4rem",
+    "--gin-color-text": "#222330",
+    "--gin-color-danger": "#cc3d3d",
+    "--gin-shadow-l1": "0 1px 2px rgb(20 45 82/2%),0 3px 4px rgb(20 45 82/3%),0 5px 8px rgb(20 45 82/4%)",
+    "--gin-icon-size-close": "20px",
+    "--nav-height": "222px",
+    "--nav-height-top-bar": "62px",
+    "--shrink-offset": "149px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 8,
+    "mainTextLen": 3932,
+    "realImageCount": 31,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "media.jlr.com",
+        "path": "/range-rover/en-gb/recommend-market",
+        "query": [
+          "_wrapper_format"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://media.jlr.com/range-rover/en-gb/recommend-market",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "player.vimeo.com",
+        "path": "/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 18,
+        "hits": 1,
+        "example": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.43568107379451537:1793884315:z1OFOz7Usjpe1HEV55aLIqVz7Ec3M5RaXIUyDloelV0/a55c7a51ba704f46",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "query": [
+          "locale",
+          "omit",
+          "pathsig",
+          "qsr",
+          "r",
+          "rh",
+          "sf"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 852,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/playlist/av/primary/prot/cXNyPTE/playlist.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 472,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/playlist/av/457cff63/avf/7b53348e/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 483,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/playlist/av/457cff63/avf/bcfb8ef2/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MC04MDI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 803,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MC04MDI/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 2193714,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9ODcxLTIxOTQ1ODQ/avf/bcfb8ef2-dd5c-44f4-b0ee-cf105c65f57a.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MC02Nzc/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 678,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MC02Nzc/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145699,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9NzQ2LTE0NjQ0NA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "vimeo.com",
+        "path": "/flarepoint/wdF7gKKE",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://vimeo.com/flarepoint/wdF7gKKE",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 145416,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MTQ2NDQ1LTI5MTg2MA/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/playlist/av/457cff63/avf/{n}/media.m3u8",
+        "query": [
+          "pathsig",
+          "qsr",
+          "r",
+          "st"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-mpegurl",
+        "status": 200,
+        "bytes": 488,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/playlist/av/457cff63/avf/89966758/media.m3u8",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MC04MDQ/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 805,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MC04MDQ/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 15943893,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MTU1NTAyNjEtMzE0OTQxNTM/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 74176,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MjkxODYxLTM2NjAzNg/avf/7b53348e-ef55-4dc1-a102-f2b5e5d368d8.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "vod-adaptive-ak.vimeocdn.com",
+        "path": "/exp=1793891802~acl=%2F{uuid}%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/{uuid}/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/{uuid}.mp4",
+        "query": [
+          "pathsig",
+          "r",
+          "range"
+        ],
+        "resourceType": "xhr",
+        "contentType": "video/mp4",
+        "status": 200,
+        "bytes": 6473509,
+        "hits": 1,
+        "example": "https://vod-adaptive-ak.vimeocdn.com/exp=1793891802~acl=%2F5aa61320-4f19-4365-bfa7-0cdba49d10ec%2Fpsid%3Dd3107b39ae1b80dc668fadaecd11d651bf55c5901793888202%2F%2A~hmac=674cb43dc03fe57cd66508e0d737b1bdfc26b45ab34114d277b39f7d6196a947/5aa61320-4f19-4365-bfa7-0cdba49d10ec/psid=d3107b39ae1b80dc668fadaecd11d651bf55c5901793888202/v2/range/prot/cmFuZ2U9MzE0OTQxNTQtMzc5Njc2NjI/avf/89966758-ec57-48da-9914-8259d3185698.mp4",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "are",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.content_group",
+          "ep.press_release",
+          "frm",
+          "gcd",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "f.vimeocdn.com",
+        "count": 6
+      },
+      {
+        "host": "player.vimeo.com",
+        "count": 3
+      },
+      {
+        "host": "static.addtoany.com",
+        "count": 2
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 2
+      },
+      {
+        "host": "js.createsend1.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1931,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "comsBannerCookie",
+          "bootstrap",
+          "jlrMedia",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 4,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "javascript: void(0);"
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [
+      "https://player.vimeo.com/video/1220552135?badge=0&autopause=0&player_id=0&app_id=138872&autoplay=1&loop=1&muted=1&background=1"
+    ],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 16,
+      "thirdPartyScriptHosts": 5,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/range-rover-en-gb-contact-united-kingdom-2.png",
+  "renderedHtml": "pages/range-rover-en-gb-contact-united-kingdom-2.html",
+  "type": "contact-detail",
+  "typeFamily": "static",
+  "typeBasis": "body.page-node-type-contacts",
+  "site": "range-rover",
+  "slots": {
+    "heading": "United Kingdom contacts",
+    "support": "FOR CUSTOMER SERVICES CALL: 0370 500 0500For Customer help or general enquiries please click here.",
+    "support-small": "Land Rover: https://www.landrover.co.uk/contact‑us.html",
+    "section-heading": "Press office",
+    "contacts": [
+      {
+        "name": "For all the enquiries please contact us as follows",
+        "title": "Our office hours are Monday to Friday, 08:30 – 17:30 (UK time). We aim to respond to all media enquiries as quickly as possible; however, please allow up to two working days for a reply.",
+        "details": [
+          "Email: uk.press@jaguarlandrover.com"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+/* media-subnav — listing-type toggle. Values lifted from
+   stardust/prototypes/css/defender-en-gb-image-packs.css (.new-grid__toggle .btn-outline). */
+
+.media-subnav .media-subnav-toggle {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.media-subnav .media-subnav-link {
+  display: block;
+  padding: 6px 12px;
+  border: 1px solid var(--c-ink, #0c121c);
+  background: var(--c-white, #fff);
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-body, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.media-subnav .media-subnav-link + .media-subnav-link {
+  margin-left: -1px;
+}
+
+.media-subnav .media-subnav-link:hover,
+.media-subnav .media-subnav-link:focus-visible {
+  background: var(--c-hover, #e9ecec);
+  color: var(--c-ink, #0c121c);
+}
+
+.media-subnav .media-subnav-link.active {
+  background: var(--c-ink, #0c121c);
+  color: var(--c-white, #fff);
+}

@@ -1,0 +1,27 @@
+{
+  "variantName": "quote-centered",
+  "baseBlock": "quote",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "Centred quotation between large navy quotation-mark glyphs; grey centred two-line attribution (name, role) below."
+  },
+  "contentPattern": {
+    "default": "row 1 = quotation (one paragraph, richtext); row 2 = attribution (paragraph 1 = name, paragraph 2 = role)"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "context": "Pull quote inside news article bodies.",
+    "prototype": "stardust/prototypes/css/defender-en-gb-news-2026-07-tough-luxury-new-defender-vertex-leads-design-and-accessory-update.css (.article-quote, .article-quote__text, .article-quote__cite)",
+    "pagesUsing": [
+      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-06T09:25:00Z"
+  },
+  "reuseGuidance": "Use for a spokesperson pull quote in article copy: quotation in the first row, name and role as two paragraphs in the second row. Omit the second row for an unattributed quote."
+}
