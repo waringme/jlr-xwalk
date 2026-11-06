@@ -23,10 +23,11 @@
     "context": "Top of media listing pages (Images / Image Packs, Video / Video Packs / Broadcast Video)",
     "prototype": "stardust/prototypes/defender-en-gb-image-packs-proposed.html (.new-grid__toggle)",
     "pagesUsing": [
-      "/defender/en-gb/vehicle/defender-110"
+      "/defender/en-gb/vehicle/defender-110",
+      "/defender/en-gb/image-packs"
     ],
-    "reuseCount": 1,
-    "lastUsed": "2026-11-06T16:40:15Z"
+    "reuseCount": 2,
+    "lastUsed": "2026-11-06T19:36:14Z"
   },
   "reuseGuidance": "Use for switching between sibling listing pages; the link matching the current URL is shown active. Not for in-page content tabs."
 }

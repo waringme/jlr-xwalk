@@ -222,10 +222,15 @@ function parseListingGrid(element, document, cleanHref) {
 export default function parse(element, { document }) {
   const cleanHref = (a) => (a && a.getAttribute('href') ? a.getAttribute('href').trim() : '');
 
-  // vehicle-detail: media archive grid (tab other than News)
+  // vehicle-detail: media archive grid (tab other than News) -> default option
+  // media-listing (/<brand>/<locale>/images | image-packs | video-packs): same .gallery-item
+  // tiles; single-photo grids (no count badge) -> default, pack grids (count badge) -> alt-2.
   if (element.matches('.card-grid') && element.querySelector(':scope > .gallery-item')) {
+    const isVehicleTab = !!element.closest('#my-tab-content');
+    const isPackGrid = !!element.querySelector(':scope > .gallery-item .bt-image-count');
     const gridBlock = WebImporter.Blocks.createBlock(document, {
       name: 'cards-gallery',
+      ...(!isVehicleTab && isPackGrid ? { variants: ['alt-2'] } : {}),
       cells: parseListingGrid(element, document, cleanHref),
     });
     element.replaceWith(gridBlock);

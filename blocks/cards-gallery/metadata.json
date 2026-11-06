@@ -37,10 +37,11 @@
     "description": "Image-pack and video-pack rails and listings: album tiles with an image-count badge linking to the full gallery.",
     "pagesUsing": [
       "/defender/en-gb",
-      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update"
+      "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
+      "/defender/en-gb/image-packs"
     ],
-    "reuseCount": 2,
-    "lastUsed": "2026-11-06T09:20:59Z"
+    "reuseCount": 3,
+    "lastUsed": "2026-11-06T19:36:14Z"
   },
   "reuseGuidance": "Use for pack/album tiles that need a count badge. Default has a dark badge; alt is for tiles on a dark section (light text); alt-2 uses the light translucent badge of the home-page Images/Videos rails. For plain article cards use cards-news.",
   "designReference": "Values lifted from stardust/prototypes (canon/modules.css and per-page css) where a counterpart exists."

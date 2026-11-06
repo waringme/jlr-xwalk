@@ -590,7 +590,107 @@
         "https://media.jlr.com/range-rover/en-gb/video-packs",
         "https://media.jlr.com/range-rover/en-gb/videos"
       ],
-      "blocks": []
+      "blocks": [
+        {
+          "name": "hero",
+          "instances": [
+            ".region-content > .news-page .hero-component",
+            ".news-page > .container > .hero-component"
+          ]
+        },
+        {
+          "name": "media-subnav",
+          "instances": [
+            ".image-listing .new-grid__header nav > div[role=\"group\"]",
+            ".new-grid__header nav > div.tw-flex:not(.new-grid__pager)"
+          ]
+        },
+        {
+          "name": "pagination",
+          "instances": [
+            ".new-grid__header nav > .new-grid__pager",
+            ".bottom-pager > .new-grid__pager"
+          ]
+        },
+        {
+          "name": "cards-gallery",
+          "instances": [
+            ".image-listing #colMain .card-grid:has(> .gallery-item:not(.new-card--video))",
+            "#colMain .card-grid:has(> .gallery-item .bt-image-count)"
+          ]
+        },
+        {
+          "name": "cards-video",
+          "instances": [
+            ".image-listing #colMain .card-grid:has(> .new-card--video)"
+          ]
+        },
+        {
+          "name": "cards-news",
+          "instances": [
+            ".wrapper-news #colMain .card-grid:has(> .news-box)",
+            "#colMain .card-grid:has(> .modern-news__panel)"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Listing toolbar: title, content-type toggle, pager (news: featured hero above)",
+          "selector": [
+            ".image-listing > .container > .new-grid__header",
+            ".region-content > .news-page",
+            ".new-grid__header"
+          ],
+          "style": null,
+          "blocks": [
+            "hero",
+            "media-subnav",
+            "pagination"
+          ],
+          "defaultContent": [
+            ".new-grid__header > h1"
+          ]
+        },
+        {
+          "id": "section-2",
+          "name": "Listing grid",
+          "selector": [
+            ".image-listing > .container > .new-grid__row",
+            ".wrapper-news > .container > #colMain",
+            "#colMain"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-gallery",
+            "cards-video",
+            "cards-news"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-3",
+          "name": "Bottom pager",
+          "selector": [
+            ".image-listing > .container > .row:has(.bottom-pager)",
+            ".wrapper-news > .container > .row:has(.bottom-pager)",
+            ".row:has(> .col-md-12 > .bottom-pager)"
+          ],
+          "style": null,
+          "blocks": [
+            "pagination"
+          ],
+          "defaultContent": []
+        }
+      ],
+      "notes": [
+        "Grid block per listing type: image-packs and video-packs -> cards-gallery option alt-2 (pack tiles with count badge, date, title, Download zip); images -> cards-gallery default (single-photo tiles: no count badge, High/Low-Res download links); videos -> cards-video (.new-card--video tiles: thumbnail, title, video/download link); news -> cards-news (.news-box.modern-news__panel cards).",
+        "News listings (/<brand>/en-gb/news) differ: a featured-article .hero-component (image, title, teaser, date, Find out more) sits in .region-content > .news-page above .page > .wrapper-news and maps to hero; section-1 starts at that hero there. News has no Images/Packs toggle, so media-subnav does not match.",
+        "media-subnav: the toggle is div[role=group] inside .new-grid__header nav (Images / Image Packs, Video / Video Packs / Broadcast Video); the prototype class .new-grid__toggle does not exist in the source DOM.",
+        "pagination matches the header pager and the .bottom-pager copy; single-page listings (e.g. jaguar/news, jaguar-tcs-racing/news, defenderrally image/video listings, all broadcast-videos) have no pager and emit none.",
+        "en/broadcast-videos (7 pages) and defenderrally/videos are client-rendered with no results ('Sorry! There were no results' h4.noresults in #colMain): no grid block is emitted; the noresults message is not content.",
+        "Not content: header, footer, section.newsletter-band, Refine By button (.new-grid__refine-btn) and facet sidebar (#colPush, #refineNav), hidden pack/gallery expander dialogs (.gallery-expander, .image-pack-slide, .img-pack-expand), per-card cart/share buttons and #addtoany overlays, geo/market dialog (.ui-dialog, #drupal-modal, .ui-widget-overlay)."
+      ]
     },
     {
       "name": "media-pack-detail",

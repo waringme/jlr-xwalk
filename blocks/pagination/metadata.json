@@ -24,10 +24,11 @@
     "prototype": "stardust/prototypes/defender-en-gb-image-packs-proposed.html (.new-grid__pager, .bottom-pager)",
     "pagesUsing": [
       "/defender/en-gb/news/2026/07/tough-luxury-new-defender-vertex-leads-design-and-accessory-update",
-      "/defender/en-gb/vehicle/defender-110"
+      "/defender/en-gb/vehicle/defender-110",
+      "/defender/en-gb/image-packs"
     ],
-    "reuseCount": 2,
-    "lastUsed": "2026-11-06T16:40:15Z"
+    "reuseCount": 3,
+    "lastUsed": "2026-11-06T19:36:14Z"
   },
   "reuseGuidance": "Use under a paged listing. Renders \"[n] of N\" with prev/next arrows and navigates via ?page=. Without a page count it renders only the authored Previous / Next links."
 }

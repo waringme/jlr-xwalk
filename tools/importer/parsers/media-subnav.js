@@ -64,8 +64,35 @@ export default function parse(element, { document }) {
     return vehicleHref;
   };
 
-  const tabs = Array.from(element.querySelectorAll(':scope > li'));
   const cells = [];
+
+  // media-listing: .new-grid__header nav > div[role=group] > a.btn-outline (Images / Image Packs,
+  // Video / Video Packs / Broadcast Video). Real sibling-listing URLs; labels verbatim. The block
+  // marks the link matching the current URL active, so the source .active class is not carried.
+  const listingLinks = Array.from(element.querySelectorAll(':scope > a[href]'));
+  if (!element.querySelector(':scope > li') && listingLinks.length) {
+    listingLinks.forEach((src) => {
+      const label = src.textContent.replace(/\s+/g, ' ').trim();
+      const href = (src.getAttribute('href') || '').trim();
+      if (!label || !href || href === '#' || href.startsWith('javascript:')) return;
+      const frag = document.createDocumentFragment();
+      frag.appendChild(document.createComment(' field:link '));
+      const a = document.createElement('a');
+      a.setAttribute('href', href);
+      a.textContent = label;
+      frag.appendChild(a);
+      cells.push([frag]);
+    });
+    if (!cells.length) {
+      element.remove();
+      return;
+    }
+    const listingBlock = WebImporter.Blocks.createBlock(document, { name: 'media-subnav', cells });
+    element.replaceWith(listingBlock);
+    return;
+  }
+
+  const tabs = Array.from(element.querySelectorAll(':scope > li'));
 
   tabs.forEach((li) => {
     const src = li.querySelector('a') || li;
