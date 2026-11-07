@@ -20,6 +20,43 @@
         "name": "keywords",
         "multi": true,
         "label": "Keywords"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image (social + card image)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "card-title",
+        "label": "Card title"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "card-summary",
+        "label": "Card summary"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "card-link-text",
+        "label": "Card link text"
+      },
+      {
+        "component": "number",
+        "valueType": "number",
+        "name": "card-order",
+        "label": "Card order"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "category",
+        "label": "Category"
       }
     ]
   },
@@ -176,6 +213,77 @@
         "value": "",
         "label": "Press kits",
         "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-folder",
+    "fields": [
+      {
+        "component": "aem-content",
+        "valueType": "string",
+        "name": "folder",
+        "label": "Folder",
+        "description": "Pick a folder: one card per page directly inside it (this page excluded). Each card uses the page's Card title, Card summary, Card link text and Image properties, falling back to its title, description and first image."
+      },
+      {
+        "component": "number",
+        "valueType": "number",
+        "name": "count",
+        "label": "Number of cards",
+        "value": 6
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "category",
+        "label": "Category filter",
+        "value": "",
+        "description": "Optional: only pages with this Category page property, from anywhere under the folder"
+      },
+      {
+        "component": "multiselect",
+        "name": "classes",
+        "label": "Style",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Sort by Card order (default: latest first)",
+            "value": "card-order"
+          },
+          {
+            "name": "Include sub-folders (their pages, not the folder pages)",
+            "value": "include-subfolders"
+          },
+          {
+            "name": "Three per row",
+            "value": "three-up"
+          },
+          {
+            "name": "Four per row",
+            "value": "four-up"
+          },
+          {
+            "name": "Smaller titles",
+            "value": "small-titles"
+          },
+          {
+            "name": "Centred, no box (title, text, underlined link)",
+            "value": "centered"
+          },
+          {
+            "name": "Sort by article date, newest first (shows the date)",
+            "value": "date-order"
+          },
+          {
+            "name": "JLR news cards (image left, two per row)",
+            "value": "jlr-news"
+          },
+          {
+            "name": "JLR pack tiles (image top, three per row)",
+            "value": "jlr-tiles"
+          }
+        ]
       }
     ]
   },

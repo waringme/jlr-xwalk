@@ -1,6 +1,6 @@
 # AEM content package — media.jlr.com en-gb (xwalk)
 
-`dist/jlr-xwalk-content-1.0.0.zip` (≈ 260 MB) is a FileVault content package for AEM as a Cloud
+`dist/jlr-xwalk-content-1.0.1.zip` (≈ 260 MB) is a FileVault content package for AEM as a Cloud
 Service (Universal Editor / xwalk), built from the imported pages in `content/**/*.plain.html`.
 
 ## What it contains
@@ -22,7 +22,7 @@ Service (Universal Editor / xwalk), built from the imported pages in `content/**
 ## Install (when ready — nothing has been uploaded)
 
 1. Deploy the code branch first (blocks, `component-*.json`, `paths.json`), so the components exist.
-2. AEM author → Tools → Deployment → Packages → Upload `jlr-xwalk-content-1.0.0.zip` → Install.
+2. AEM author → Tools → Deployment → Packages → Upload `jlr-xwalk-content-1.0.1.zip` → Install.
    DAM Update Asset processes the images after install (renditions, metadata).
 3. Open a page in Universal Editor, e.g. `/content/jlr-xwalk/defender/en-gb`, then preview / publish.
 

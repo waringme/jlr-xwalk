@@ -190,6 +190,34 @@ if (ASSETS) {
   }
 }
 
+// ---------- block option repair ----------
+// html2md turns a class like `jlr-news` into the header token "Jlr News"; md2jcr then only
+// matches tokens against option VALUES, so hyphenated values fall through as "jlr news".
+// Map each token back to its model option value; multiselect fields become multi-value.
+const optionFields = new Map(); // model id → { values: [...], multi }
+for (const m of models.models) {
+  const f = (m.fields || []).find((x) => x.name === 'classes' && x.options);
+  if (f) {
+    optionFields.set(m.id, {
+      values: f.options.map((o) => o.value).filter(Boolean),
+      multi: f.component === 'multiselect' || f.multi === true,
+    });
+  }
+}
+const norm = (s) => s.toLowerCase().replace(/[-_\s]+/g, ' ').trim();
+function repairClasses(xml) {
+  return xml.replace(/<[a-z_0-9]+ [^>]*>/g, (tag) => {
+    const model = (tag.match(/\smodel="([^"]+)"/) || [])[1];
+    const cls = tag.match(/\sclasses="([^"]*)"/);
+    const field = model && optionFields.get(model);
+    if (!cls || !field) return tag;
+    const tokens = cls[1].replace(/^\[|\]$/g, '').split(',').map((t) => t.trim()).filter(Boolean);
+    const values = tokens.map((t) => field.values.find((v) => norm(v) === norm(t)) || t);
+    const value = field.multi ? `[${values.join(',')}]` : values.join(', ');
+    return tag.replace(cls[0], ` classes="${value}"`);
+  });
+}
+
 // ---------- write vault tree ----------
 rmSync(BUILD, { recursive: true, force: true });
 mkdirSync(join(BUILD, 'META-INF', 'vault'), { recursive: true });
@@ -209,7 +237,7 @@ for (const p of pages) {
     // eslint-disable-next-line no-await-in-loop
     const md = await html2md(html, { log: SILENT });
     // eslint-disable-next-line no-await-in-loop
-    const xml = await md2jcr(md, { ...models, log: SILENT });
+    const xml = repairClasses(await md2jcr(md, { ...models, log: SILENT }));
     writeXml(`${SITE}/${p.path}`, xml);
     converted.push(p.path);
   } catch (e) {

@@ -85,7 +85,8 @@
         "pagination",
         "quote-centered",
         "social-links",
-        "table-pricing"
+        "table-pricing",
+        "cards-folder"
       ]
     }
   ]

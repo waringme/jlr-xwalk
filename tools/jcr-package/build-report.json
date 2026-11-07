@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-11-06T18:10:07.370Z",
-  "package": "tools/jcr-package/dist/jlr-xwalk-content-1.0.0.zip",
+  "builtAt": "2026-11-06T23:00:36.632Z",
+  "package": "tools/jcr-package/dist/jlr-xwalk-content-1.0.1.zip",
   "pages": {
     "imported": 115,
     "converted": 115,
@@ -76,8 +76,8 @@
     "/content/jlr-xwalk/range-rover/en-gb/vehicle"
   ],
   "assets": {
-    "referenced": 720,
-    "packaged": 720,
+    "referenced": 711,
+    "packaged": 711,
     "failed": [],
     "blobImages": [
       {

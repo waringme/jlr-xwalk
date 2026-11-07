@@ -1,0 +1,265 @@
+.cards-folder {
+  --cf-gap: var(--cards-folder-gap, 24px);
+
+  color: var(--cards-folder-text, var(--text-color, #222));
+}
+
+.cards-folder,
+.cards-folder * { box-sizing: border-box; }
+
+.cards-folder.cards .cards-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--cf-gap);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-folder.cards .card {
+  display: flex;
+  flex: 0 0 100%;
+  flex-direction: column;
+  min-width: 0;
+  padding: var(--cards-folder-padding, 16px);
+  border-radius: var(--cards-folder-radius, 8px);
+  background: var(--cards-folder-background, #fff);
+  overflow-wrap: anywhere;
+}
+
+.cards-folder.cards .card-media {
+  margin-bottom: 12px;
+  line-height: 0;
+}
+
+.cards-folder.cards .card-media img {
+  display: inline-block;
+  width: auto;
+  max-width: 100%;
+  height: 96px;
+  object-fit: contain;
+}
+
+.cards-folder.cards .card-body h3 {
+  margin: 0 0 16px;
+  color: var(--cards-folder-heading, var(--heading-color, #222));
+  font-size: var(--cards-folder-title-size, 20px);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.cards-folder.cards .card-body p,
+.cards-folder.cards .card-foot p {
+  margin: 0 0 16px;
+  font-size: var(--cards-folder-font-size, 16px);
+  line-height: 1.5;
+}
+
+.cards-folder.cards .card-foot {
+  margin-top: auto;
+  padding-top: 16px;
+}
+.cards-folder.cards .card-foot p { margin: 0; }
+
+.cards-folder.cards .card-foot a:any-link {
+  color: var(--cards-folder-link, var(--link-color, #2456a6));
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cards-folder.cards .card-foot a:any-link::after {
+  display: inline-block;
+  margin-left: 8px;
+  content: '\203A';
+}
+
+.cards-folder.cards .card-foot a:hover { text-decoration: underline; }
+
+.cards-folder.cards .card-foot a:focus-visible {
+  outline: 2px solid currentcolor;
+  outline-offset: 4px;
+}
+.cards-folder.cards.small-titles .card-body h3 { font-size: 18px; }
+
+.cards-folder.cards.centered .card {
+  padding: 0;
+  background: transparent;
+  text-align: center;
+}
+
+.cards-folder.cards.centered .card-body h3 {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.cards-folder.cards.centered .card-foot {
+  margin-top: 0;
+  padding-top: 0;
+}
+.cards-folder.cards.centered .card-foot a:any-link { text-decoration: underline; }
+.cards-folder.cards.centered .card-foot a:any-link::after { content: none; }
+
+.cards-folder .cards-folder-placeholder {
+  flex: 1 1 100%;
+  padding: 20px;
+  border: 1px dashed var(--cards-folder-border, #ccc);
+  text-align: center;
+}
+
+@media (width >= 640px) {
+  .cards-folder.cards .card { flex-basis: calc((100% - var(--cf-gap)) / 2); }
+}
+
+@media (width >= 960px) {
+  .cards-folder.cards .card-body h3 { font-size: var(--cards-folder-title-size, 24px); }
+
+  .cards-folder.cards.small-titles .card-body h3,
+  .cards-folder.cards.centered .card-body h3 { font-size: 20px; }
+  .cards-folder.cards .card-media { margin-bottom: 24px; }
+  .cards-folder.cards.three-up .card { flex-basis: calc((100% - 2 * var(--cf-gap)) / 3); }
+  .cards-folder.cards.four-up .card { flex-basis: calc((100% - 3 * var(--cf-gap)) / 4); }
+}
+
+/* ---- media.jlr.com themes (project extension) --------------------------------------
+   Values lifted from blocks/cards-news (image-left) and blocks/cards-gallery (pack tiles),
+   which came from the live-gated prototypes. */
+.cards-folder.jlr-news,
+.cards-folder.jlr-tiles {
+  --cf-gap: 24px;
+
+  color: var(--c-ink, #0c121c);
+}
+
+.cards-folder.cards.jlr-news .card,
+.cards-folder.cards.jlr-tiles .card {
+  position: relative;
+  padding: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.cards-folder.cards.jlr-news .card-media,
+.cards-folder.cards.jlr-tiles .card-media {
+  margin: 0;
+  overflow: hidden;
+}
+
+.cards-folder.cards.jlr-news .card-media { aspect-ratio: 16 / 9; }
+.cards-folder.cards.jlr-tiles .card-media { aspect-ratio: 100 / 58.25; }
+
+.cards-folder.cards.jlr-news .card-media img,
+.cards-folder.cards.jlr-tiles .card-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cards-folder.cards.jlr-news .card-body,
+.cards-folder.cards.jlr-tiles .card-body { padding-top: 12px; }
+
+.cards-folder.cards.jlr-news .card-date,
+.cards-folder.cards.jlr-tiles .card-date {
+  display: flex;
+  width: max-content;
+  max-width: 100%;
+  margin: 0 0 8px;
+  padding-bottom: 8px;
+  border-bottom: 0.5px solid var(--c-date-rule, #c4c4c4);
+  color: var(--c-black, #000);
+  font-family: var(--ff-card-text, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+.cards-folder.cards.jlr-news .card-body h3,
+.cards-folder.cards.jlr-tiles .card-body h3 {
+  margin: 0 0 5px;
+  color: var(--c-ink, #0c121c);
+  font-family: var(--ff-card-heading, NeusaNeu-Regular, "NeusaNeu-Regular Sub", sans-serif);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.1px;
+}
+
+.cards-folder.cards.jlr-news .card-body h3 {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cards-folder.cards.jlr-news .card-body p:not(.card-date),
+.cards-folder.cards.jlr-tiles .card-body p:not(.card-date) {
+  display: -webkit-box;
+  margin: 0 0 5px;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.cards-folder.cards.jlr-news .card-foot,
+.cards-folder.cards.jlr-tiles .card-foot { padding-top: 8px; }
+
+.cards-folder.cards.jlr-news .card-foot a:any-link,
+.cards-folder.cards.jlr-tiles .card-foot a:any-link {
+  color: var(--c-ink, #0c121c);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.cards-folder.cards.jlr-news .card-foot a:any-link::after,
+.cards-folder.cards.jlr-tiles .card-foot a:any-link::after { content: none; }
+
+.cards-folder.cards.jlr-news .card-foot a:any-link::before,
+.cards-folder.cards.jlr-tiles .card-foot a:any-link::before {
+  display: inline-block;
+  margin-right: 6px;
+  content: '\203A';
+}
+
+@media (width >= 500px) {
+  .cards-folder.cards.jlr-news .card { flex-direction: row; }
+
+  .cards-folder.cards.jlr-news .card-media {
+    flex: 1 1 0%;
+    align-self: flex-start;
+    aspect-ratio: 100 / 71.5;
+  }
+
+  .cards-folder.cards.jlr-news .card-body {
+    flex: 0 0 55%;
+    width: 55%;
+    padding: 0 0 28px 15px;
+  }
+
+  .cards-folder.cards.jlr-news .card-foot {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding-top: 0;
+  }
+}
+
+@media (width >= 640px) {
+  .cards-folder.cards.jlr-news .card { flex-basis: 100%; }
+}
+
+@media (width >= 960px) {
+  .cards-folder.cards.jlr-news .card-body h3,
+  .cards-folder.cards.jlr-tiles .card-body h3 { font-size: 16px; }
+
+  .cards-folder.cards.jlr-tiles .card { flex-basis: calc((100% - 2 * var(--cf-gap)) / 3); }
+}
+
+@media (width >= 991px) {
+  .cards-folder.jlr-news { --cf-gap: 24px 50px; }
+
+  .cards-folder.cards.jlr-news .card { flex-basis: calc((100% - 50px) / 2); }
+}
