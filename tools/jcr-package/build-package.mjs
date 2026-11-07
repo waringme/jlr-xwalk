@@ -25,7 +25,7 @@ if (args.includes('--help')) {
   console.log('usage: node tools/jcr-package/build-package.mjs [--version 1.0.0] [--no-assets] [--concurrency 8]\n'
     + '       [--pages <path,path,...>] [--name <package-name>]\n'
     + '  --pages  only these pages (content paths, e.g. defender/en-gb) and the images they use;\n'
-    + '           no structural parent pages (they exist from the full package)');
+    + '           missing parent pages are added in merge mode (never overwrite existing pages)');
   process.exit(0);
 }
 const opt = (name, def) => {
@@ -120,14 +120,31 @@ function damPathFor(url) {
   damTaken.set(damPath, url);
   return damPath;
 }
-function registerAsset(src) {
+const LOCAL_MIME = {
+  '.svg': 'image/svg+xml', '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.webp': 'image/webp', '.gif': 'image/gif',
+};
+function registerAsset(src, pagePath) {
   const url = src.replace(/&amp;/g, '&');
-  if (!/^https?:\/\//.test(url)) return null;
-  if (!assets.has(url)) {
-    const key = createHash('sha1').update(url).digest('hex');
-    assets.set(url, { damPath: damPathFor(url), cacheFile: join(CACHE, key), ok: false });
+  if (/^https?:\/\//.test(url)) {
+    if (!assets.has(url)) {
+      const key = createHash('sha1').update(url).digest('hex');
+      assets.set(url, { damPath: damPathFor(url), cacheFile: join(CACHE, key), ok: false });
+    }
+    return assets.get(url);
   }
-  return assets.get(url);
+  // local image relative to the page document (e.g. images/x.svg, ../../images/x.svg)
+  if (/^(data|blob|about):/.test(url) || url.startsWith('/')) return null;
+  const file = join('content', dirname(pagePath), url.split(/[?#]/)[0]);
+  if (!existsSync(file)) return null;
+  const key = `local:${file}`;
+  if (!assets.has(key)) {
+    const name = NAME_SAFE(file.split('/').pop());
+    const mime = LOCAL_MIME[extname(name)] || 'application/octet-stream';
+    assets.set(key, {
+      damPath: `${DAM}/media/site/${name}`, cacheFile: file, local: true, ok: true, mimeType: mime,
+    });
+  }
+  return assets.get(key);
 }
 
 // rewrite page HTML: images → DAM, links → site paths
@@ -135,9 +152,15 @@ const pages = [];
 const blobImages = [];
 for (let i = 0; i < pageFiles.length; i += 1) {
   let html = readFileSync(pageFiles[i], 'utf8');
-  html = html.replace(/(<img\b[^>]*?\ssrc=")([^"]+)(")/g, (m, a, src, b) => {
+  // remote images inside list items end up in rich text, where a DAM path is not delivered:
+  // keep their public URL there; every other image becomes a DAM reference
+  let listDepth = 0;
+  html = html.replace(/<li\b[^>]*>|<\/li>|(<img\b[^>]*?\ssrc=")([^"]+)(")/g, (m, a, src, b) => {
+    if (m.startsWith('<li')) { listDepth += 1; return m; }
+    if (m === '</li>') { listDepth = Math.max(0, listDepth - 1); return m; }
     if (src.startsWith('blob:')) { blobImages.push({ page: pagePaths[i], src }); return m; }
-    const asset = ASSETS ? registerAsset(src) : null;
+    if (listDepth > 0 && /^https?:\/\//.test(src)) return m;
+    const asset = ASSETS ? registerAsset(src, pagePaths[i]) : null;
     return asset ? `${a}${asset.damPath}${b}` : m;
   });
   html = html.replace(/(<source\b[^>]*?\ssrcset=")[^"]*(")/g, '$1$2');
@@ -152,6 +175,7 @@ const CT_EXT = {
 mkdirSync(CACHE, { recursive: true });
 const failed = [];
 async function fetchOne(url, entry) {
+  if (entry.local) return;
   const meta = `${entry.cacheFile}.json`;
   if (existsSync(entry.cacheFile) && existsSync(meta)) {
     Object.assign(entry, JSON.parse(readFileSync(meta, 'utf8')), { ok: true });
@@ -265,7 +289,6 @@ for (const p of converted) {
     if (!pageSet.has(anc)) structural.add(anc);
   }
 }
-if (ONLY) structural.clear();
 for (const anc of structural) {
   const title = anc.split('/').pop();
   writeXml(anc, `<?xml version="1.0" encoding="UTF-8"?>\n<jcr:root ${NS} jcr:primaryType="cq:Page">\n  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent" jcr:title="${esc(title)}"/>\n</jcr:root>\n`);

@@ -1,15 +1,31 @@
 {
-  "builtAt": "2026-11-07T09:19:24.646Z",
-  "package": "tools/jcr-package/dist/jlr-xwalk-cards-news-update-1.0.0.zip",
+  "builtAt": "2026-11-07T15:33:10.142Z",
+  "package": "tools/jcr-package/dist/jlr-xwalk-header-footer-1.0.0.zip",
   "pages": {
-    "imported": 6,
-    "converted": 6,
+    "imported": 18,
+    "converted": 18,
     "errors": []
   },
-  "structuralParents": [],
+  "structuralParents": [
+    "/content/jlr-xwalk/classic",
+    "/content/jlr-xwalk/classic/en-gb",
+    "/content/jlr-xwalk/defender",
+    "/content/jlr-xwalk/defender/en-gb",
+    "/content/jlr-xwalk/defenderrally",
+    "/content/jlr-xwalk/defenderrally/en-gb",
+    "/content/jlr-xwalk/discovery",
+    "/content/jlr-xwalk/discovery/en-gb",
+    "/content/jlr-xwalk/en-gb",
+    "/content/jlr-xwalk/jaguar",
+    "/content/jlr-xwalk/jaguar-tcs-racing",
+    "/content/jlr-xwalk/jaguar-tcs-racing/en-gb",
+    "/content/jlr-xwalk/jaguar/en-gb",
+    "/content/jlr-xwalk/range-rover",
+    "/content/jlr-xwalk/range-rover/en-gb"
+  ],
   "assets": {
-    "referenced": 40,
-    "packaged": 40,
+    "referenced": 17,
+    "packaged": 17,
     "failed": [],
     "blobImages": []
   }
