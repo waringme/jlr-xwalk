@@ -218,8 +218,30 @@ var CustomImportScript = (() => {
       if (/^tech(nical)? spec/.test(key)) return BRANDS_WITH["tech-specs"].includes(brand) ? listing("tech-specs") : vehicleHref;
       return vehicleHref;
     };
-    const tabs = Array.from(element.querySelectorAll(":scope > li"));
     const cells = [];
+    const listingLinks = Array.from(element.querySelectorAll(":scope > a[href]"));
+    if (!element.querySelector(":scope > li") && listingLinks.length) {
+      listingLinks.forEach((src) => {
+        const label = src.textContent.replace(/\s+/g, " ").trim();
+        const href = (src.getAttribute("href") || "").trim();
+        if (!label || !href || href === "#" || href.startsWith("javascript:")) return;
+        const frag = document.createDocumentFragment();
+        frag.appendChild(document.createComment(" field:link "));
+        const a = document.createElement("a");
+        a.setAttribute("href", href);
+        a.textContent = label;
+        frag.appendChild(a);
+        cells.push([frag]);
+      });
+      if (!cells.length) {
+        element.remove();
+        return;
+      }
+      const listingBlock = WebImporter.Blocks.createBlock(document, { name: "media-subnav", cells });
+      element.replaceWith(listingBlock);
+      return;
+    }
+    const tabs = Array.from(element.querySelectorAll(":scope > li"));
     tabs.forEach((li) => {
       const src = li.querySelector("a") || li;
       const countEl = src.querySelector(".count");
@@ -245,9 +267,46 @@ var CustomImportScript = (() => {
   }
 
   // tools/importer/parsers/cards-news.js
-  function parse4(element, { document }) {
+  function newsFolder(originalURL) {
+    try {
+      const segs = new URL(originalURL).pathname.split("/").filter(Boolean);
+      const locale = segs.findIndex((s) => /^[a-z]{2}-[a-z]{2}$/.test(s));
+      return locale >= 0 ? `/${segs.slice(0, locale + 1).join("/")}/news` : "";
+    } catch (e) {
+      return "";
+    }
+  }
+  function fieldRow(document, name, content) {
+    const frag = document.createDocumentFragment();
+    frag.appendChild(document.createComment(` field:${name} `));
+    if (content) frag.appendChild(content);
+    return [frag];
+  }
+  function parse4(element, { document, params }) {
+    var _a, _b;
     const cleanHref = (a) => a && a.getAttribute("href") ? a.getAttribute("href").trim() : "";
     const items = Array.from(element.querySelectorAll(".modern-news__panel"));
+    const pageUrl = params && params.originalURL || ((_a = document.querySelector('link[rel="canonical"]')) == null ? void 0 : _a.getAttribute("href")) || ((_b = document.querySelector('meta[property="og:url"]')) == null ? void 0 : _b.getAttribute("content")) || document.location && document.location.href || "";
+    const folder = element.matches(".view-display-id-latest_news") ? newsFolder(pageUrl) : "";
+    if (folder) {
+      const link = document.createElement("a");
+      link.setAttribute("href", folder);
+      link.textContent = folder;
+      const folderP = document.createElement("p");
+      folderP.appendChild(link);
+      const countP = document.createElement("p");
+      countP.textContent = String(items.length || 4);
+      const block2 = WebImporter.Blocks.createBlock(document, {
+        name: "cards-news",
+        cells: [
+          fieldRow(document, "folder", folderP),
+          fieldRow(document, "count", countP),
+          fieldRow(document, "category")
+        ]
+      });
+      element.replaceWith(block2);
+      return;
+    }
     const cells = [];
     items.forEach((item) => {
       const titleEl = item.querySelector(".new-card__title, .bt-card-heading, h3");
@@ -480,10 +539,13 @@ var CustomImportScript = (() => {
   function parse5(element, { document }) {
     const cleanHref = (a) => a && a.getAttribute("href") ? a.getAttribute("href").trim() : "";
     if (element.matches(".card-grid") && element.querySelector(":scope > .gallery-item")) {
-      const gridBlock = WebImporter.Blocks.createBlock(document, {
-        name: "cards-gallery",
+      const isVehicleTab = !!element.closest("#my-tab-content");
+      const isPackGrid = !!element.querySelector(":scope > .gallery-item .bt-image-count");
+      const gridBlock = WebImporter.Blocks.createBlock(document, __spreadProps(__spreadValues({
+        name: "cards-gallery"
+      }, !isVehicleTab && isPackGrid ? { variants: ["alt-2"] } : {}), {
         cells: parseListingGrid(element, document, cleanHref)
-      });
+      }));
       element.replaceWith(gridBlock);
       return;
     }

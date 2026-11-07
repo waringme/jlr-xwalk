@@ -177,9 +177,46 @@ var CustomImportScript = (() => {
   }
 
   // tools/importer/parsers/cards-news.js
-  function parse3(element, { document }) {
+  function newsFolder(originalURL) {
+    try {
+      const segs = new URL(originalURL).pathname.split("/").filter(Boolean);
+      const locale = segs.findIndex((s) => /^[a-z]{2}-[a-z]{2}$/.test(s));
+      return locale >= 0 ? `/${segs.slice(0, locale + 1).join("/")}/news` : "";
+    } catch (e) {
+      return "";
+    }
+  }
+  function fieldRow(document, name, content) {
+    const frag = document.createDocumentFragment();
+    frag.appendChild(document.createComment(` field:${name} `));
+    if (content) frag.appendChild(content);
+    return [frag];
+  }
+  function parse3(element, { document, params }) {
+    var _a, _b;
     const cleanHref = (a) => a && a.getAttribute("href") ? a.getAttribute("href").trim() : "";
     const items = Array.from(element.querySelectorAll(".modern-news__panel"));
+    const pageUrl = params && params.originalURL || ((_a = document.querySelector('link[rel="canonical"]')) == null ? void 0 : _a.getAttribute("href")) || ((_b = document.querySelector('meta[property="og:url"]')) == null ? void 0 : _b.getAttribute("content")) || document.location && document.location.href || "";
+    const folder = element.matches(".view-display-id-latest_news") ? newsFolder(pageUrl) : "";
+    if (folder) {
+      const link = document.createElement("a");
+      link.setAttribute("href", folder);
+      link.textContent = folder;
+      const folderP = document.createElement("p");
+      folderP.appendChild(link);
+      const countP = document.createElement("p");
+      countP.textContent = String(items.length || 4);
+      const block2 = WebImporter.Blocks.createBlock(document, {
+        name: "cards-news",
+        cells: [
+          fieldRow(document, "folder", folderP),
+          fieldRow(document, "count", countP),
+          fieldRow(document, "category")
+        ]
+      });
+      element.replaceWith(block2);
+      return;
+    }
     const cells = [];
     items.forEach((item) => {
       const titleEl = item.querySelector(".new-card__title, .bt-card-heading, h3");
@@ -188,7 +225,7 @@ var CustomImportScript = (() => {
       const titleLink = titleEl ? titleEl.closest("a") || titleEl.querySelector("a") : null;
       const href = cleanHref(titleLink) || cleanHref(readMoreLink) || cleanHref(imageLink);
       const imageFrag = document.createDocumentFragment();
-      const img = item.querySelector(".modern-news__image img, .image img");
+      const img = item.querySelector(".modern-news__image img, .image img, a.modern-news__image-wrap img");
       if (img) {
         imageFrag.appendChild(document.createComment(" field:image "));
         imageFrag.appendChild(img);
@@ -254,8 +291,184 @@ var CustomImportScript = (() => {
   }
 
   // tools/importer/parsers/cards-gallery.js
+  function parseRelatedPacks(element, document, cleanHref) {
+    const norm = (s) => (s || "").replace(/&nbsp;/g, " ").replace(/\u00a0/g, " ").replace(/\s+/g, " ").trim();
+    const labelOf = (a, fallback) => {
+      const text = norm(a.textContent);
+      const cls = (a.getAttribute("class") || "").trim();
+      if (!text || text === cls || text === "link" || /jlr-download-btn|new-share__/.test(text)) return fallback;
+      return text;
+    };
+    const mobileLinks = [];
+    element.querySelectorAll(".gallery-item:not(.gallery-box) li").forEach((li) => {
+      const a = Array.from(li.querySelectorAll("a[href]")).find((l) => /image-packs|video-packs|\/packs?\//.test(cleanHref(l))) || li.querySelector("a[href]");
+      if (!a) return;
+      const titleEl = li.querySelector(".title, h3");
+      mobileLinks.push({ href: cleanHref(a), title: norm(titleEl ? titleEl.textContent : "") });
+    });
+    const tiles = Array.from(element.querySelectorAll(".gallery-item.gallery-box"));
+    const cells = [];
+    tiles.forEach((tile, index) => {
+      const titleEl = tile.querySelector(".content-head .bt-gallery-title, .content-head .title");
+      const title = norm(titleEl ? titleEl.textContent : "");
+      const match = mobileLinks.find((m) => m.title && m.title === title) || mobileLinks[index];
+      const href = match ? match.href : "";
+      const imageFrag = document.createDocumentFragment();
+      const img = tile.querySelector(".gallery-contents .thumb2-ratio-stretch img, .gallery-contents img");
+      if (img) {
+        if (!img.getAttribute("alt") && title) img.setAttribute("alt", title);
+        imageFrag.appendChild(document.createComment(" field:image "));
+        imageFrag.appendChild(img);
+      }
+      const countFrag = document.createDocumentFragment();
+      const countNum = tile.querySelector(".gallery-contents .bt-image-count");
+      const countText = tile.querySelector(".gallery-contents .bt-image-count-text");
+      if (countNum && countNum.textContent.trim()) {
+        countFrag.appendChild(document.createComment(" field:count "));
+        countFrag.appendChild(document.createTextNode(
+          `${countNum.textContent.trim()} ${countText ? countText.textContent.trim() : ""}`.trim()
+        ));
+      }
+      const textFrag = document.createDocumentFragment();
+      textFrag.appendChild(document.createComment(" field:text "));
+      const dateEl = tile.querySelector(".content-head .bt-gallery-date, .content-head .date");
+      if (dateEl && norm(dateEl.textContent)) {
+        const p = document.createElement("p");
+        p.textContent = norm(dateEl.textContent);
+        textFrag.appendChild(p);
+      }
+      if (title) {
+        const h = document.createElement("h3");
+        if (href) {
+          const a = document.createElement("a");
+          a.setAttribute("href", href);
+          a.textContent = title;
+          h.appendChild(a);
+        } else {
+          h.textContent = title;
+        }
+        textFrag.appendChild(h);
+      }
+      const teaser = tile.querySelector(".content-head .bt-gallery-overlay-desc, .content-head p");
+      if (teaser && norm(teaser.textContent)) {
+        const p = document.createElement("p");
+        p.textContent = norm(teaser.textContent);
+        textFrag.appendChild(p);
+      }
+      const downloadLink = Array.from(tile.querySelectorAll(".content-foot a.jlr-download-btn, .content-foot .download-group a[href]")).find((a) => cleanHref(a) && cleanHref(a) !== "#");
+      if (downloadLink) {
+        const p = document.createElement("p");
+        const a = document.createElement("a");
+        a.setAttribute("href", cleanHref(downloadLink));
+        a.textContent = labelOf(downloadLink, "Download");
+        p.appendChild(a);
+        textFrag.appendChild(p);
+      }
+      cells.push([imageFrag, countFrag, textFrag]);
+    });
+    return cells;
+  }
+  function parseListingGrid(element, document, cleanHref) {
+    const norm = (s) => (s || "").replace(/&nbsp;/g, " ").replace(/\u00a0/g, " ").replace(/\s+/g, " ").trim();
+    const isRealHref = (href) => href && href !== "#" && !href.startsWith("/#") && !href.startsWith("javascript:");
+    const cells = [];
+    Array.from(element.querySelectorAll(":scope > .gallery-item")).forEach((tile) => {
+      const contents = tile.querySelector(".gallery-contents") || tile;
+      const titleEl = contents.querySelector(".content-head .bt-gallery-title, .content-head .title, h3");
+      const title = norm(titleEl ? titleEl.textContent : "");
+      const descEl = tile.querySelector(".image-description, .bt-modal-desc, .content-head .bt-gallery-overlay-desc, .content-head p");
+      const desc = norm(descEl ? descEl.textContent : "");
+      const linkEl = Array.from(contents.querySelectorAll("a[href]")).find((a) => isRealHref(cleanHref(a)) && !a.matches(".jlr-download-btn, .download") && !a.closest(".content-foot, .download-group, .new-share, .dropdown-menu"));
+      const href = linkEl ? cleanHref(linkEl) : "";
+      const imageFrag = document.createDocumentFragment();
+      let img = contents.querySelector("img");
+      const realSrc = (el) => {
+        if (!el) return "";
+        const src = (el.getAttribute("src") || "").trim();
+        return src && !src.startsWith("data:") ? src : (el.getAttribute("data-original") || "").trim();
+      };
+      if (!realSrc(img)) img = tile.querySelector(".image-top img");
+      if (img && realSrc(img)) {
+        img.setAttribute("src", realSrc(img));
+        if (!norm(img.getAttribute("alt"))) img.setAttribute("alt", title || desc);
+        imageFrag.appendChild(document.createComment(" field:image "));
+        imageFrag.appendChild(img);
+      }
+      const countFrag = document.createDocumentFragment();
+      const countNum = contents.querySelector(".bt-image-count");
+      const countText = contents.querySelector(".bt-image-count-text");
+      if (countNum && countNum.textContent.trim()) {
+        countFrag.appendChild(document.createComment(" field:count "));
+        countFrag.appendChild(document.createTextNode(
+          `${countNum.textContent.trim()} ${countText ? countText.textContent.trim() : ""}`.trim()
+        ));
+      }
+      const textFrag = document.createDocumentFragment();
+      textFrag.appendChild(document.createComment(" field:text "));
+      const dateEl = contents.querySelector(".content-head .bt-gallery-date, .content-head .date, .new-card__date");
+      if (dateEl && norm(dateEl.textContent)) {
+        const p = document.createElement("p");
+        p.textContent = norm(dateEl.textContent);
+        textFrag.appendChild(p);
+      }
+      const heading = title || desc;
+      if (heading) {
+        const h = document.createElement("h3");
+        if (href) {
+          const a = document.createElement("a");
+          a.setAttribute("href", href);
+          a.textContent = heading;
+          h.appendChild(a);
+        } else {
+          h.textContent = heading;
+        }
+        textFrag.appendChild(h);
+      }
+      if (title && desc && desc !== title) {
+        const p = document.createElement("p");
+        p.textContent = desc;
+        textFrag.appendChild(p);
+      }
+      const seen = /* @__PURE__ */ new Set();
+      Array.from(contents.querySelectorAll(".content-foot .dropdown-menu a[href], .content-foot a.jlr-download-btn[href], .content-foot a.download[href]")).forEach((a) => {
+        const dl = cleanHref(a);
+        if (!isRealHref(dl) || seen.has(dl)) return;
+        seen.add(dl);
+        const text = norm(a.textContent);
+        const p = document.createElement("p");
+        const link = document.createElement("a");
+        link.setAttribute("href", dl);
+        link.textContent = text && !/jlr-download-btn|new-share__|^link$/.test(text) ? text : "Download";
+        p.appendChild(link);
+        textFrag.appendChild(p);
+      });
+      cells.push([imageFrag, countFrag, textFrag]);
+    });
+    return cells;
+  }
   function parse4(element, { document }) {
     const cleanHref = (a) => a && a.getAttribute("href") ? a.getAttribute("href").trim() : "";
+    if (element.matches(".card-grid") && element.querySelector(":scope > .gallery-item")) {
+      const isVehicleTab = !!element.closest("#my-tab-content");
+      const isPackGrid = !!element.querySelector(":scope > .gallery-item .bt-image-count");
+      const gridBlock = WebImporter.Blocks.createBlock(document, __spreadProps(__spreadValues({
+        name: "cards-gallery"
+      }, !isVehicleTab && isPackGrid ? { variants: ["alt-2"] } : {}), {
+        cells: parseListingGrid(element, document, cleanHref)
+      }));
+      element.replaceWith(gridBlock);
+      return;
+    }
+    if (!element.querySelector(".modern-packs__panel") && element.querySelector(".gallery-item.gallery-box")) {
+      const relatedCells = parseRelatedPacks(element, document, cleanHref);
+      const relatedBlock = WebImporter.Blocks.createBlock(document, {
+        name: "cards-gallery",
+        variants: ["alt"],
+        cells: relatedCells
+      });
+      element.replaceWith(relatedBlock);
+      return;
+    }
     const items = Array.from(element.querySelectorAll(".modern-packs__panel"));
     const cells = [];
     items.forEach((item) => {
@@ -364,6 +577,18 @@ var CustomImportScript = (() => {
         ".a2a_kit",
         ".new-share__hero-cart"
       ]);
+      WebImporter.DOMUtils.remove(element, [
+        ".new-grid__refine-btn",
+        "#taxonomies",
+        "#colPush",
+        ".new-grid__sidebar-panel",
+        "div.container.footer__racing"
+      ]);
+      element.querySelectorAll(".vehicle-page .container.search-page h1").forEach((h1) => {
+        const h2 = element.ownerDocument.createElement("h2");
+        h2.innerHTML = h1.innerHTML;
+        h1.replaceWith(h2);
+      });
       WebImporter.DOMUtils.remove(element, [
         "a.skip-link",
         "a#main-content:empty"

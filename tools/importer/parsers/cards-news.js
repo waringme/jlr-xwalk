@@ -8,15 +8,66 @@
  * Also: https://media.jlr.com/defender/en-gb/vehicle/defender-110 (vehicle-detail News tab)
  * Selector: #my-tab-content .card-grid:has(> .news-box) — same .modern-news__panel items,
  * image nested in a.modern-news__image-wrap, no Read more link.
- * Model (xwalk): container of cards-news-item rows -> [image | count | text]
+ * Model (xwalk): block fields folder / count / category, then a container of cards-news-item
+ * rows -> [image | count | text]
  *   image  (reference, imageAlt collapsed)
  *   count  (text, "8 Images" badge — not present on news cards, left empty)
  *   text   (richtext: date, linked title, teaser, Read more link)
+ *
+ * Brand-landing Latest News (.view-display-id-latest_news) imports in FOLDER MODE: the block
+ * lists the brand's news folder (/<brand>/en-gb/news) at runtime, so only the block fields are
+ * authored — folder, count (the number of cards the source shows), empty category. Every other
+ * instance (vehicle-detail News tab) keeps authored cards.
  */
-export default function parse(element, { document }) {
+
+/** the brand's news folder for a source page URL: /<brand>/<locale>/news */
+function newsFolder(originalURL) {
+  try {
+    const segs = new URL(originalURL).pathname.split('/').filter(Boolean);
+    const locale = segs.findIndex((s) => /^[a-z]{2}-[a-z]{2}$/.test(s));
+    return locale >= 0 ? `/${segs.slice(0, locale + 1).join('/')}/news` : '';
+  } catch (e) {
+    return '';
+  }
+}
+
+/** a single-cell block-field row: <!-- field:name --> + content */
+function fieldRow(document, name, content) {
+  const frag = document.createDocumentFragment();
+  frag.appendChild(document.createComment(` field:${name} `));
+  if (content) frag.appendChild(content);
+  return [frag];
+}
+
+export default function parse(element, { document, params }) {
   const cleanHref = (a) => (a && a.getAttribute('href') ? a.getAttribute('href').trim() : '');
 
   const items = Array.from(element.querySelectorAll('.modern-news__panel'));
+
+  const pageUrl = (params && params.originalURL)
+    || document.querySelector('link[rel="canonical"]')?.getAttribute('href')
+    || document.querySelector('meta[property="og:url"]')?.getAttribute('content')
+    || (document.location && document.location.href) || '';
+  const folder = element.matches('.view-display-id-latest_news') ? newsFolder(pageUrl) : '';
+  if (folder) {
+    const link = document.createElement('a');
+    link.setAttribute('href', folder);
+    link.textContent = folder;
+    const folderP = document.createElement('p');
+    folderP.appendChild(link);
+    const countP = document.createElement('p');
+    countP.textContent = String(items.length || 4);
+    const block = WebImporter.Blocks.createBlock(document, {
+      name: 'cards-news',
+      cells: [
+        fieldRow(document, 'folder', folderP),
+        fieldRow(document, 'count', countP),
+        fieldRow(document, 'category'),
+      ],
+    });
+    element.replaceWith(block);
+    return;
+  }
   const cells = [];
 
   items.forEach((item) => {
