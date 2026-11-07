@@ -261,6 +261,24 @@ async function fromAuthor(folder, {
   return ordered(pages, { order, limit });
 }
 
+/**
+ * The folder's pages as card entries — the same listing the block renders, for other blocks
+ * (e.g. cards-news) that draw their own card markup.
+ * @param {string} folder site path or authored link (`/content/<site>` and `.html` are dropped)
+ * @param {{limit?: number, order?: string, category?: string, deep?: boolean}} [opts]
+ */
+export async function listFolder(folder, {
+  limit = 6, order = 'latest', category = '', deep = false,
+} = {}) {
+  const path = sitePath(folder);
+  const opts = {
+    limit, order, category: category.toLowerCase(), deep,
+  };
+  return authorRoot() ? fromAuthor(path, opts) : fromIndex(path, opts);
+}
+
+export { authorRoot };
+
 export default async function decorate(block) {
   block.classList.add('cards');
   block.parentElement?.classList.add('cards-wrapper');

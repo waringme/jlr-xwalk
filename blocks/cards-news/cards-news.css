@@ -390,3 +390,12 @@
   overflow: visible;
   clip-path: none;
 }
+
+/* folder mode (cards built from a folder's pages): page descriptions are full length,
+   so clamp them to the teaser length the authored cards carry */
+.cards-news[data-folder] .cards-news-teaser {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}

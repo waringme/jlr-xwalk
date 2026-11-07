@@ -184,7 +184,87 @@ function decorateCard(li) {
   }
 }
 
-export default function decorate(block) {
+/** a leading block-field row: one cell, no image, no heading */
+const isFieldRow = (row) => row.children.length === 1
+  && !row.querySelector('picture, img, h1, h2, h3, h4, h5, h6');
+
+/**
+ * Folder mode, like cards-folder: block fields folder / count / category come first (one
+ * single-cell row each, in model order). With a folder set, the cards are the folder's pages
+ * (sub-folders included, newest article date first) instead of authored items.
+ * Returns null when no folder is set (authored cards); the field rows are removed either way.
+ */
+function readFolderConfig(block) {
+  const fields = [];
+  [...block.children].slice(0, 3).every((row) => {
+    if (!isFieldRow(row)) return false;
+    fields.push(row);
+    return true;
+  });
+  const [folderRow, countRow, categoryRow] = fields;
+  const a = folderRow?.querySelector('a');
+  const folder = (a ? a.getAttribute('href') : folderRow?.textContent.trim()) || '';
+  fields.forEach((row) => row.remove());
+  if (!folder.startsWith('/')) return null;
+  const count = Number(countRow?.textContent.trim());
+  return {
+    folder,
+    limit: Number.isSafeInteger(count) && count > 0 ? count : 4,
+    category: categoryRow?.textContent.trim() || '',
+  };
+}
+
+/** one listing entry as a row in the authored card shape: image cell + body cell */
+function entryRow(entry) {
+  const row = document.createElement('div');
+  const href = entry.href || entry.path;
+  if (entry.image) {
+    const media = document.createElement('div');
+    const picture = document.createElement('picture');
+    const img = document.createElement('img');
+    img.src = entry.image;
+    img.alt = '';
+    img.loading = 'lazy';
+    picture.append(img);
+    media.append(picture);
+    row.append(media);
+  }
+  const body = document.createElement('div');
+  const add = (tag, text, link) => {
+    const node = document.createElement(tag);
+    if (link) {
+      const a = document.createElement('a');
+      a.href = href;
+      a.textContent = text;
+      node.append(a);
+    } else node.textContent = text;
+    body.append(node);
+  };
+  if (entry.cardDate) add('p', entry.cardDate);
+  add('h3', entry.cardTitle || (entry.title || '').replace(/\s[|–-]\s[^|–-]+$/, '').trim(), true);
+  const summary = entry.cardSummary || entry.description;
+  if (summary) add('p', summary);
+  add('p', entry.cardLinkText || 'Read more', true);
+  row.append(body);
+  return row;
+}
+
+export default async function decorate(block) {
+  const config = readFolderConfig(block);
+  if (config) {
+    block.dataset.folder = config.folder;
+    try {
+      const { listFolder } = await import('../cards-folder/cards-folder.js');
+      const entries = await listFolder(config.folder, {
+        limit: config.limit, order: 'date-order', category: config.category, deep: true,
+      });
+      block.replaceChildren(...entries.map(entryRow));
+    } catch (error) {
+      // eslint-disable-next-line no-console
+      console.error('cards-news: could not load the folder listing', error);
+      block.replaceChildren();
+    }
+  }
   const ul = document.createElement('ul');
   [...block.children].forEach((row) => {
     const li = document.createElement('li');

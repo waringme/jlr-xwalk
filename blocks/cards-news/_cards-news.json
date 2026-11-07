@@ -37,6 +37,28 @@
       "id": "cards-news",
       "fields": [
         {
+          "component": "aem-content",
+          "valueType": "string",
+          "name": "folder",
+          "label": "Folder (optional)",
+          "description": "Pick a folder to list its pages as news cards (sub-folders included, newest article date first). Each card uses the page's Card title, Card summary, Card link text and Image properties, falling back to its title, description and first image. Leave empty to author the cards by hand."
+        },
+        {
+          "component": "number",
+          "valueType": "number",
+          "name": "count",
+          "label": "Number of cards",
+          "value": 4
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "category",
+          "label": "Category filter",
+          "value": "",
+          "description": "Optional: only pages with this Category page property"
+        },
+        {
           "component": "select",
           "name": "classes",
           "value": "",

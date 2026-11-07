@@ -22,7 +22,10 @@ import { execFileSync } from 'node:child_process';
 
 const args = process.argv.slice(2);
 if (args.includes('--help')) {
-  console.log('usage: node tools/jcr-package/build-package.mjs [--version 1.0.0] [--no-assets] [--concurrency 8]');
+  console.log('usage: node tools/jcr-package/build-package.mjs [--version 1.0.0] [--no-assets] [--concurrency 8]\n'
+    + '       [--pages <path,path,...>] [--name <package-name>]\n'
+    + '  --pages  only these pages (content paths, e.g. defender/en-gb) and the images they use;\n'
+    + '           no structural parent pages (they exist from the full package)');
   process.exit(0);
 }
 const opt = (name, def) => {
@@ -31,6 +34,8 @@ const opt = (name, def) => {
 };
 const VERSION = opt('--version', '1.0.0');
 const ASSETS = !args.includes('--no-assets');
+const ONLY = opt('--pages', '') ? new Set(opt('--pages', '').split(',').map((x) => x.trim().replace(/^\/|\.plain\.html$/g, ''))) : null;
+const PKG_NAME = opt('--name', 'jlr-xwalk-content');
 const CONCURRENCY = Number(opt('--concurrency', 8));
 
 const SITE = '/content/jlr-xwalk';
@@ -62,7 +67,12 @@ function walk(dir, out = []) {
   }
   return out;
 }
-const pageFiles = walk('content').sort();
+const pageFiles = walk('content').sort()
+  .filter((f) => !ONLY || ONLY.has(f.slice('content/'.length, -'.plain.html'.length)));
+if (ONLY && pageFiles.length !== ONLY.size) {
+  console.error(`--pages: found ${pageFiles.length} of ${ONLY.size} pages`);
+  process.exit(2);
+}
 const pagePaths = pageFiles.map((f) => f.slice('content/'.length, -'.plain.html'.length));
 
 const isInScope = (path) => /^\/[^/]+\/en-gb(\/|$)/.test(path) || /^\/en-gb(\/|$)/.test(path);
@@ -255,6 +265,7 @@ for (const p of converted) {
     if (!pageSet.has(anc)) structural.add(anc);
   }
 }
+if (ONLY) structural.clear();
 for (const anc of structural) {
   const title = anc.split('/').pop();
   writeXml(anc, `<?xml version="1.0" encoding="UTF-8"?>\n<jcr:root ${NS} jcr:primaryType="cq:Page">\n  <jcr:content cq:template="/libs/core/franklin/templates/page" sling:resourceType="core/franklin/components/page/v1/page" jcr:primaryType="cq:PageContent" jcr:title="${esc(title)}"/>\n</jcr:root>\n`);
@@ -289,7 +300,7 @@ const filter = [
   '',
 ].join('\n');
 writeFileSync(join(BUILD, 'META-INF', 'vault', 'filter.xml'), filter);
-const name = 'jlr-xwalk-content';
+const name = PKG_NAME;
 writeFileSync(join(BUILD, 'META-INF', 'vault', 'properties.xml'), `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
